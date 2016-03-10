@@ -23,7 +23,7 @@ class PlayerStats():
         self.team_schedule_df = pd.DataFrame(columns=('team_id','game_num','game_id','game_location','opp_id'))
         #self.populateData(self)
         
-    def loadSavedDate(self):
+    def loadSavedData(self):
         #self.loadParsedGames()
         self.loadPlayerStats()
     

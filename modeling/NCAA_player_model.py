@@ -1,9 +1,22 @@
-#import pandas as pd
-#import numpy as np
+import pandas as pd
+import numpy as np
 import class_PlayerStats
 
 player = class_PlayerStats.PlayerStats()
 player.populateData()
+
+player.bracket.info()
+player.team_schedule_df.info()
+player.player_stats_df.info()
+
+
+
+tourney_team_games = player.team_schedule_df.merge(player.player_stats_df, on=('team_id','game_id'), how='left')
+
+opp_tourney_teams = pd.merge(left=player.team_schedule_df, right=player.bracket, left_on='opp_id', right_on ='team_id', how='inner')
+opp_team_games = opp_tourney_teams.merge(player.player_stats_df, left_on=('opp_id','game_id'), right_on=('team_id','game_id'), how='left')
+
+games_to_parse = pd.merge(left=tourney_team_games[['team_id','game_id']], right=opp_team_games[['opp_id_x','game_id']], on='game_id', how='outer')
 
 #
 #df_game_data = pd.read_csv("game_data.txt")
