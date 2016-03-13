@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 
 import urllib2
 import pandas as pd
+import numpy as np
 import csv
 import time
 
@@ -64,18 +65,23 @@ class PlayerStats():
         
     def populateData(self):
         begin_time = time.time()
+        print 'Loading saved data...'
         #load data from previous runs to save time
-        self.loadSavedDate()
+        self.loadSavedData()
         
+        print 'Loading bracket...'
         # Create the bracket
         self.populateBracket()
         
+        print 'Loading team schedules...'
         # Create the team schedules
         self.populateAllTeamSchedules()
 
+        print 'Loading parsing box scores...'
         # Load box scores
-        self.pareseAllBoxScores()
+        self.parseAllBoxScores()
         
+        print 'Saving data...'
         #save data
         self.saveData()
         
@@ -115,123 +121,152 @@ class PlayerStats():
             self.bracket_df_row += 1
             #self.bracket.append([team_name, seed, team_id])
             
-        self.bracket = self.bracket.convert_objects(convert_numeric=True)
+        #self.bracket = self.bracket.convert_objects(convert_numeric=True)
     
     def populateAllTeamSchedules(self):
         # if the bracket is empty, find teams first
-        if len(self.bracket) == 0:
+        if self.bracket.empty:
             self.createBracket()
         # only populate if team_schedules are empty
-        if len(self.team_schedule_df) == 0:
-            self.bracket.team_id.apply(lambda x: self.findTeamSchedule(x))
+        if self.team_schedule_df.empty:
+            self.bracket.team_id.apply(lambda x: self.findTeamSchedule(int(x)))
         
     def findTeamSchedule(self, team_id):
         url_sch = 'http://espn.go.com/mens-college-basketball/team/schedule/_/id/' + str(team_id)
         page_sch = urllib2.urlopen(url_sch)
         soup_sch = BeautifulSoup(page_sch.read())
-        
-        box = soup_sch.find("table", {"class":"tablehead"}).findAll("tr")
-        game_num = 1
-        for row in box:
-            game_location = '-1'
-            opp_id = '-1'
-            game_id = '-1'
-            
-            try:
-                # find home or away
-                game_status = row.find("li", {"class":"game-status"})
-                if game_status.string == 'vs':
-                    game_location = 'home'
-                else:
-                    game_location = 'away'
-            except:
-                continue
-                
-            try:
-                # find team id, if exists
-                opp_id = row.find("li", {"class":"team-name"}).a['href'].replace('http://espn.go.com/mens-college-basketball/team/_/id/','')
-                opp_id = opp_id[0:opp_id.find('/')]
-            except:
-                # opp not tracked by ESPN
-                opp_id = '-1'
-                
-            try:
-                # find game id
-                game_id = row.find("li", {"class":"score"}).a['href']
-                game_id = game_id[game_id.rfind('=',0)+1:]
-            except:
-                # couldn't parse box score
-                print "Could not find box score"
-                continue
-            
-            #print team_id + ' ' + game_location + ' ' + opp_id + ' ' + game_id
-            self.team_schedule_df.loc[self.team_schedule_df_row] = (int(team_id), int(game_num), int(game_id), str(game_location), int(opp_id))
-            self.team_schedule_df_row += 1
-            game_num += 1
-        
-        self.team_schedule_df = self.team_schedule_df.convert_objects(convert_numeric=True)
-    def parseAllBoxScores(self):
-        #do something
-        home_team_id = 218
-        home_team_name = ''
-        away_team_id = -1
-        away_team_name = ''
-        game_id = 400809426
-        self.parseBoxScore(game_id, home_team_id, home_team_name, away_team_id, away_team_name)
-        
-    def parseBoxScore(self, game_id, home_team_id, home_team_name, away_team_id, away_team_name):
-        # Check to see if this game has been parsed for this team.
-        #l = self.team_schedule_df[self.team_schedule_df['team_id'] == team_id][self.team_schedule_df['game_id'] == game_id]
-        #r = self.player_stats_df[self.player_stats_df['team_id'] == team_id][self.player_stats_df['game_id'] == game_id]
-
-#        if game_id in self.parsed_games:
-#            print "skipping :" + str(game_id)
-#            return
-            
-        url_box = 'http://espn.go.com/mens-college-basketball/boxscore?gameId=' + str(game_id)
-#        away_team = ''
-#        away_id = '-1'
-#        home_team = ''
-#        home_id = '-1'
-#        # print url_box
         try:
+            box = soup_sch.find("table", {"class":"tablehead"}).findAll("tr")
+            game_num = 1
+            for row in box:
+                
+                try:
+                    # find home or away
+                    game_status = row.find("li", {"class":"game-status"})
+                    if game_status.string == 'vs':
+                        game_location = 'home'
+                    else:
+                        game_location = 'away'
+        
+                    # Make the game has a result and is completed
+                    # Don't want to parse games that are in progress or didn't play
+                    game_win = row.find("li", {"class":"game-status win"})
+                    game_loss = row.find("li", {"class":"game-status loss"})
+                    
+                    if game_win == None and game_loss == None:
+                        continue
+                except:
+                    continue
+                    
+                try:
+                    # find team id, if exists
+                    opp_id = row.find("li", {"class":"team-name"}).a['href'].replace('http://espn.go.com/mens-college-basketball/team/_/id/','')
+                    opp_id = opp_id[0:opp_id.find('/')]
+                except:
+                    # opp not tracked by ESPN
+                    opp_id = '-1'
+                    
+                try:
+                    # find game id
+                    game_id = row.find("li", {"class":"score"}).a['href']
+                    game_id = game_id[game_id.rfind('=',0)+1:]
+                except:
+                    # couldn't parse box score
+                    print "Could not find box score"
+                    continue
+                
+                #print team_id + ' ' + game_location + ' ' + opp_id + ' ' + game_id
+                self.team_schedule_df.loc[self.team_schedule_df_row] = (int(team_id), int(game_num), int(game_id), str(game_location), int(opp_id))
+                self.team_schedule_df_row += 1
+                game_num += 1
+            
+            self.team_schedule_df = self.team_schedule_df.convert_objects(convert_numeric=True)
+        except:
+            print "Schedule error for: " + url_sch
+            
+    def parseAllBoxScores(self):
+        ##########
+        # step 1: Find all the games that have been parsed
+        ##########
+        parsed = self.player_stats_df.groupby(['game_id','team_id']).size()
+        parsed = parsed.reset_index()
+        parsed.columns = ['game_id','team_id','total']
+        
+        ##########
+        # step 2: Left join the schedule of tourney teams to the player stats collected
+        # only keep games with no stats
+        ##########
+        tourney_team_games = self.team_schedule_df.merge(parsed,how='left', on=['game_id','team_id'])
+        tourney_team_games_not_parsed = tourney_team_games[tourney_team_games.total.isnull()]
+        ##########
+        # step 3: remove duplicate games (when both teams in a game are tourney teams) 
+        ##########
+        tourney_team_games_not_parsed = tourney_team_games_not_parsed.groupby('game_id').agg({'team_id': np.min, 'opp_id':np.max, 'total':np.max})
+        tourney_team_games_not_parsed.reset_index(inplace=True)
+        ##########
+        # step 4: find games where the "opp" is a tourney team that has already been parsed
+        ##########
+        away = pd.merge(tourney_team_games_not_parsed, parsed, how='left', left_on=['game_id','opp_id'], right_on=('game_id','team_id'))
+        away_not_parsed = away[away.total_y.isnull()][['game_id','team_id_x','opp_id']]
+        away_not_parsed.columns = ('game_id','team_id','opp_id')
+        # adding another opp_id column because it keeps getting lost in the next merge
+        away_not_parsed = pd.concat([away_not_parsed, away_not_parsed.opp_id], axis=1)
+        away_not_parsed.columns = ('game_id','team_id','opp_id','id')
+        
+        ##########
+        # step 5: combine the gamees to parse,
+        #         indicating where the "opp" should not be parsed
+        ##########
+        to_parse = pd.merge(tourney_team_games_not_parsed, away_not_parsed[['game_id','opp_id','id']], how='left', on=['game_id', 'opp_id'], suffixes=['_left','_right'])
+        
+        for i in range(len(to_parse)):
+            if i%25 == 0:
+                print 'Parsing box : ' + str(i)
+            self.parseBoxScore(to_parse.loc[i].game_id.astype(int),to_parse.loc[i].team_id.astype(int),to_parse.loc[i].id.astype(int))
+        
+        
+    def parseBoxScore(self, game_id, team_id1, team_id2):
+        away_team = ''
+        home_team = ''
+        
+        try:            
+            url_box = 'http://espn.go.com/mens-college-basketball/boxscore?gameId=' + str(game_id)
             page_box = urllib2.urlopen(url_box)
             soup_box = BeautifulSoup(page_box.read())
         except:
             print "Could not parse: " + url_box
         
-#        try:
-#            away_team = str(soup_box.findAll("div", {"class":"team away"})[0].findAll("span", {"class":"long-name"})[0].string)
-#            away_href_str = str(soup_box.findAll("div", {"class":"team away"})[0].a['href'])
-#            away_id = away_href_str[away_href_str.rfind('/',0)+1:]
-#        except:
-#            print "Error: " + away_team
-#            print "GameID: " + str(game_id)
-#            if away_team == '':
-#                away_team = 'error'
-#    
-#        try:
-#            home_team = str(soup_box.findAll("div", {"class":"team home"})[0].findAll("span", {"class":"long-name"})[0].string)
-#            home_href_str = str(soup_box.findAll("div", {"class":"team home"})[0].a['href'])
-#            home_id = home_href_str[home_href_str.rfind('/',0)+1:]
-#        except:
-#            print "Error: " + home_team
-#            print "GameID: " + str(game_id)
-#            if home_team == '':
-#                home_team = 'error'
+        try:
+            away_team = str(soup_box.findAll("div", {"class":"team away"})[0].findAll("span", {"class":"long-name"})[0].string)
+            away_href_str = str(soup_box.findAll("div", {"class":"team away"})[0].a['href'])
+            away_id = away_href_str[away_href_str.rfind('/',0)+1:]
+        except:
+            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " id: " + str(team_id2)
+            if away_team == '':
+                away_team = 'error'
+            away_id = -1
     
+        try:
+            home_team = str(soup_box.findAll("div", {"class":"team home"})[0].findAll("span", {"class":"long-name"})[0].string)
+            home_href_str = str(soup_box.findAll("div", {"class":"team home"})[0].a['href'])
+            home_id = home_href_str[home_href_str.rfind('/',0)+1:]
+        except:
+            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " id: " + str(team_id2)
+            if home_team == '':
+                home_team = 'error'
+            home_id = -1
         # If the away temm is a tournament team, parse their data
         #if away_id in [team[2] for team in self.bracket]:
-        if away_team_id > 0:
+        if int(away_id) in [team_id1,team_id2]:
             # Check to make sure this team/game hasn't been parsed yet.
-            self.parseTeamBoxScore(soup_box, game_id, away_team_id, away_team, 'away', home_id, home_team)
+            self.parseTeamBoxScore(soup_box, game_id, away_id, away_team, 'away', home_id, home_team)
         
         # If the home temm is a tournament team, parse their data    
 #        if home_id in [team[2] for team in self.bracket]:
-        if home_team_id > 0:
-            self.parseTeamBoxScore(soup_box, game_id, home_team_id, home_team, 'home', away_id, away_team)
+        if int(home_id) in [team_id1,team_id2]:
+            self.parseTeamBoxScore(soup_box, game_id, home_id, home_team, 'home', away_id, away_team)
             
-        self.parsed_games.append(game_id)
+        #self.parsed_games.append(game_id)
         
     def parseTeamBoxScore(self, soup_box, game_id, team_id, team_name, home_away_indictor, opp_id, opp_name):
         
