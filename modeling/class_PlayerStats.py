@@ -22,6 +22,11 @@ class PlayerStats():
         self.header = 'game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
         self.player_stats_df = pd.DataFrame(columns=self.header.split(','))
         self.team_schedule_df = pd.DataFrame(columns=('team_id','game_num','game_id','game_location','opp_id'))
+        pre_header = 'team_id,game_num,game_id,game_location,opp_id'
+        pre_team_sch = pd.read_csv("../output/pre_tournament_schedule.csv",
+                                                header=0,
+                                                usecols=pre_header.split(',')
+                                                )
         #self.populateData(self)
         
     def loadSavedData(self):
@@ -71,7 +76,8 @@ class PlayerStats():
         
         print 'Loading bracket...'
         # Create the bracket
-        self.populateBracket()
+        #self.populateBracket()
+        self.populateRealBracket()
         
         print 'Loading team schedules...'
         # Create the team schedules
@@ -103,8 +109,40 @@ class PlayerStats():
 #                
 #            print time.time() - start_time
 #            i += 1
+
+    def populateRealBracket(self):
+        url_bracket = 'http://espn.go.com/mens-college-basketball/tournament/bracket'
+        page_bracket = urllib2.urlopen(url_bracket)
+        soup_bracket = BeautifulSoup(page_bracket.read())
         
-    def populateBracket(self):
+        div_bracket = soup_bracket.find("div", {"id": "bracket"})
+        
+        #bracket=[]
+        
+        dt = div_bracket.findAll("dt")
+        for game in dt:
+            try:
+                seeds = []
+                seed = int(game.text[0:2].strip())
+                if seed in [11,16]:
+                    seeds.append(seed)
+                    seeds.append(seed)
+                else:
+                    seeds.append(17-seed)
+                    seeds.append(seed)
+                
+                for a in game.findAll("a"):
+                    team_name = a['title']
+                    team_id = a['href'].replace("http://espn.go.com/mens-college-basketball/team/_/id/","")
+                    team_id = int(team_id[0:team_id.find('/',0)])
+                    seed = seeds.pop()
+                    #bracket.append([team_name, team_id,seed])
+                    self.bracket.loc[self.bracket_df_row] = (str(team_name), int(seed), int(team_id))
+                    self.bracket_df_row += 1
+            except:
+                continue
+
+    def populateBracketology(self):
         
         url_bracket = 'http://espn.go.com/ncb/bracketology'
         page_bracket = urllib2.urlopen(url_bracket)
@@ -241,7 +279,7 @@ class PlayerStats():
             away_href_str = str(soup_box.findAll("div", {"class":"team away"})[0].a['href'])
             away_id = away_href_str[away_href_str.rfind('/',0)+1:]
         except:
-            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " id: " + str(team_id2)
+            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " opp_id: " + str(team_id2)
             if away_team == '':
                 away_team = 'error'
             away_id = -1
@@ -251,7 +289,7 @@ class PlayerStats():
             home_href_str = str(soup_box.findAll("div", {"class":"team home"})[0].a['href'])
             home_id = home_href_str[home_href_str.rfind('/',0)+1:]
         except:
-            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " id: " + str(team_id2)
+            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " opp_id: " + str(team_id2)
             if home_team == '':
                 home_team = 'error'
             home_id = -1

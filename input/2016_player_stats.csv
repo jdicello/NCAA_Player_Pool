@@ -27874,3 +27874,1747 @@
 27872,400871141,2483,Oregon,home,254,Utah,P. Richmond,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 27873,400871141,2483,Oregon,home,254,Utah,M. Heller,3,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0
 27874,400871141,2483,Oregon,home,254,Utah,C. Noebel,3,1,2,1,2,0,0,0,0,0,0,0,0,0,1,3
+27875,400809338,195,Ohio,away,202,Tulsa,T. Setty,21,1,3,0,0,5,7,1,2,3,0,3,0,5,4,7
+27876,400809338,195,Ohio,away,202,Tulsa,K. Kaminski,33,5,11,5,9,6,6,2,4,6,1,0,1,2,3,21
+27877,400809338,195,Ohio,away,202,Tulsa,A. Campbell,17,3,3,1,1,0,3,0,7,7,0,0,2,1,4,7
+27878,400809338,195,Ohio,away,202,Tulsa,J. Simmons,38,8,16,2,4,12,16,0,5,5,8,0,0,7,2,30
+27879,400809338,195,Ohio,away,202,Tulsa,K. Harley,25,0,1,0,1,2,2,0,2,2,1,2,0,0,4,2
+27880,400809338,195,Ohio,away,202,Tulsa,D. Taylor,8,2,2,0,0,1,1,2,1,3,0,0,0,0,4,5
+27881,400809338,195,Ohio,away,202,Tulsa,W. Mompremier,14,0,1,0,0,0,0,0,1,1,0,0,1,2,4,0
+27882,400809338,195,Ohio,away,202,Tulsa,J. Gollon,3,0,1,0,0,0,0,1,0,1,1,0,0,1,1,0
+27883,400809338,195,Ohio,away,202,Tulsa,G. Block,4,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0
+27884,400809338,195,Ohio,away,202,Tulsa,M. Laster,7,1,1,0,0,0,0,1,0,1,0,0,0,3,3,2
+27885,400809338,195,Ohio,away,202,Tulsa,J. Dartis,30,4,7,2,5,4,5,0,1,1,0,0,0,1,3,14
+27886,400809338,202,Tulsa,home,195,Ohio,R. Smith,12,2,3,0,0,0,1,1,2,3,2,0,0,0,1,4
+27887,400809338,202,Tulsa,home,195,Ohio,D. Wright,14,1,2,0,0,1,1,0,0,0,0,0,0,0,4,3
+27888,400809338,202,Tulsa,home,195,Ohio,S. Harrison,37,9,20,0,0,13,17,3,6,9,5,5,0,4,2,31
+27889,400809338,202,Tulsa,home,195,Ohio,R. Ray,18,0,1,0,0,0,0,0,2,2,1,0,0,1,3,0
+27890,400809338,202,Tulsa,home,195,Ohio,J. Woodard,28,3,10,1,6,8,9,0,3,3,2,0,0,3,3,15
+27891,400809338,202,Tulsa,home,195,Ohio,B. Swannegan,26,6,7,0,0,4,6,3,2,5,1,0,1,0,2,16
+27892,400809338,202,Tulsa,home,195,Ohio,M. Curtis,27,2,6,1,2,5,8,1,2,3,0,0,0,1,4,10
+27893,400809338,202,Tulsa,home,195,Ohio,P. Birt,28,3,7,2,4,3,4,0,2,2,0,0,0,1,4,11
+27894,400809338,202,Tulsa,home,195,Ohio,S. Taplin,8,0,1,0,1,0,0,0,0,0,2,0,0,0,3,0
+27895,400809338,202,Tulsa,home,195,Ohio,K. Brown,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+27896,400809399,130,Michigan,home,2752,Xavier,M. Donnal,6,0,0,0,0,0,0,0,1,1,0,0,0,1,4,0
+27897,400809399,130,Michigan,home,2752,Xavier,C. LeVert,36,8,16,5,8,8,10,1,6,7,3,2,0,3,2,29
+27898,400809399,130,Michigan,home,2752,Xavier,D. Walton Jr.,31,1,5,0,3,2,2,0,5,5,2,4,1,2,1,4
+27899,400809399,130,Michigan,home,2752,Xavier,Z. Irvin,22,3,6,1,4,0,1,0,1,1,0,0,0,2,3,7
+27900,400809399,130,Michigan,home,2752,Xavier,A. Dawkins,26,1,6,1,5,2,2,0,6,6,1,1,0,0,2,5
+27901,400809399,130,Michigan,home,2752,Xavier,R. Doyle,22,2,3,0,0,0,3,1,0,1,0,0,0,1,3,4
+27902,400809399,130,Michigan,home,2752,Xavier,M. Wagner,5,1,3,0,0,0,1,1,1,2,0,0,0,0,2,2
+27903,400809399,130,Michigan,home,2752,Xavier,D.J. Wilson,7,1,2,0,0,1,2,0,0,0,0,0,1,1,2,3
+27904,400809399,130,Michigan,home,2752,Xavier,K. Chatman,8,1,3,0,1,0,0,1,0,1,0,0,0,0,0,2
+27905,400809399,130,Michigan,home,2752,Xavier,D. Robinson,19,2,5,2,4,3,3,1,0,1,0,0,0,0,2,9
+27906,400809399,130,Michigan,home,2752,Xavier,S. Albrecht,8,1,1,1,1,2,2,0,1,1,1,0,0,0,0,5
+27907,400809404,130,Michigan,away,152,NC State,R. Doyle,16,3,4,0,0,0,0,0,4,4,0,0,1,3,2,6
+27908,400809404,130,Michigan,away,152,NC State,A. Dawkins,15,1,3,0,0,0,0,0,0,0,0,0,0,1,3,2
+27909,400809404,130,Michigan,away,152,NC State,D. Walton Jr.,13,1,1,0,0,2,2,0,2,2,2,1,0,2,0,4
+27910,400809404,130,Michigan,away,152,NC State,Z. Irvin,37,3,11,1,6,0,0,1,4,5,4,0,0,1,2,7
+27911,400809404,130,Michigan,away,152,NC State,C. LeVert,37,4,10,1,4,9,10,0,9,9,7,0,1,2,2,18
+27912,400809404,130,Michigan,away,152,NC State,D.J. Wilson,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27913,400809404,130,Michigan,away,152,NC State,M. Wagner,23,4,7,0,1,0,1,1,1,2,0,0,0,2,4,8
+27914,400809404,130,Michigan,away,152,NC State,S. Albrecht,5,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+27915,400809404,130,Michigan,away,152,NC State,D. Robinson,23,6,8,5,7,0,0,0,3,3,0,1,0,0,3,17
+27916,400809404,130,Michigan,away,152,NC State,K. Chatman,5,0,0,0,0,0,0,0,1,1,1,0,0,0,2,0
+27917,400809404,152,NC State,home,130,Michigan,L. Freeman,20,0,3,0,0,0,0,4,2,6,1,1,0,0,1,0
+27918,400809404,152,NC State,home,130,Michigan,A. Abu,13,0,6,0,0,2,2,0,1,1,0,0,0,0,1,2
+27919,400809404,152,NC State,home,130,Michigan,A. Barber,36,6,13,0,1,4,4,1,2,3,4,0,0,1,5,16
+27920,400809404,152,NC State,home,130,Michigan,C. Martin,38,5,12,3,9,6,6,3,4,7,1,1,0,1,2,19
+27921,400809404,152,NC State,home,130,Michigan,M. Rowan,35,1,11,1,6,2,2,1,6,7,1,2,0,2,3,5
+27922,400809404,152,NC State,home,130,Michigan,B. Anya,28,4,5,0,0,1,6,2,5,7,0,0,3,2,2,9
+27923,400809404,152,NC State,home,130,Michigan,C. Martin,28,3,7,0,0,2,4,0,2,2,1,1,0,0,1,8
+27924,400809404,152,NC State,home,130,Michigan,S. Kirk,2,0,1,0,1,0,0,0,0,0,0,1,0,1,2,0
+27925,400813756,130,Michigan,away,213,Penn State,M. Donnal,25,2,4,0,0,6,8,4,2,6,1,0,1,1,3,10
+27926,400813756,130,Michigan,away,213,Penn State,Z. Irvin,34,7,12,2,4,4,7,0,2,2,1,0,0,1,1,20
+27927,400813756,130,Michigan,away,213,Penn State,D. Robinson,27,2,6,1,5,4,4,1,1,2,2,1,0,0,3,9
+27928,400813756,130,Michigan,away,213,Penn State,D. Walton Jr.,39,3,9,1,4,6,6,1,9,10,7,3,0,0,2,13
+27929,400813756,130,Michigan,away,213,Penn State,D.J. Wilson,4,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0
+27930,400813756,130,Michigan,away,213,Penn State,R. Doyle,16,2,4,0,0,1,2,1,2,3,0,0,1,0,1,5
+27931,400813756,130,Michigan,away,213,Penn State,A. Dawkins,19,2,5,2,4,1,2,1,1,2,1,2,0,1,2,7
+27932,400813756,130,Michigan,away,213,Penn State,A. Dakich,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+27933,400813756,213,Penn State,home,130,Michigan,B. Taylor,37,11,19,0,4,2,2,5,5,10,3,0,1,2,1,24
+27934,400813756,213,Penn State,home,130,Michigan,P. Banks,34,4,10,3,7,0,0,0,0,0,2,0,0,1,4,11
+27935,400813756,213,Penn State,home,130,Michigan,J. Moore,24,1,4,0,0,2,4,1,3,4,0,0,2,0,3,4
+27936,400813756,213,Penn State,home,130,Michigan,D. Foster,20,1,2,0,0,1,1,1,1,2,2,1,0,1,4,3
+27937,400813756,213,Penn State,home,130,Michigan,S. Garner,37,7,18,5,12,3,5,0,6,6,4,1,0,0,4,22
+27938,400813756,213,Penn State,home,130,Michigan,D. Zemgulis,14,1,3,1,3,0,0,1,0,1,2,0,0,1,1,3
+27939,400813756,213,Penn State,home,130,Michigan,D. Jack,10,0,1,0,0,0,0,2,1,3,0,0,1,1,2,0
+27940,400813756,213,Penn State,home,130,Michigan,J. Dickerson,9,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0
+27941,400813756,213,Penn State,home,130,Michigan,I. Washington,15,1,4,0,3,3,3,0,3,3,0,0,0,1,3,5
+27942,400816814,2582,Southern,away,235,Memphis,J. Sam,33,9,11,0,0,8,10,6,6,12,2,2,2,2,4,26
+27943,400816814,2582,Southern,away,235,Memphis,D. Allen,10,0,7,0,0,0,0,4,2,6,0,0,0,1,5,0
+27944,400816814,2582,Southern,away,235,Memphis,A. Rodgers,32,6,18,3,9,3,3,0,5,5,1,2,0,2,1,18
+27945,400816814,2582,Southern,away,235,Memphis,C. Hyder,37,2,4,0,0,1,1,0,2,2,4,1,0,3,3,5
+27946,400816814,2582,Southern,away,235,Memphis,T. Banks,30,5,16,2,7,0,0,0,1,1,1,1,0,2,4,12
+27947,400816814,2582,Southern,away,235,Memphis,S. Prudhomme,27,1,5,0,2,0,0,2,3,5,1,2,1,3,5,2
+27948,400816814,2582,Southern,away,235,Memphis,T. Nunn,7,1,2,0,0,0,0,1,2,3,0,1,1,4,5,2
+27949,400816814,2582,Southern,away,235,Memphis,L. Collins,12,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0
+27950,400816814,2582,Southern,away,235,Memphis,C. Thomas,12,1,4,0,0,0,2,0,1,1,0,1,0,0,4,2
+27951,400816814,235,Memphis,home,2582,Southern,D. Lawson,34,2,9,0,0,7,9,4,6,10,2,0,4,5,3,11
+27952,400816814,235,Memphis,home,2582,Southern,S. Goodwin,14,2,4,0,0,1,2,1,2,3,1,1,1,2,5,5
+27953,400816814,235,Memphis,home,2582,Southern,A. Woodson,23,2,5,1,2,1,2,0,2,2,1,1,1,2,2,6
+27954,400816814,235,Memphis,home,2582,Southern,M. Crawford,24,2,4,0,0,3,5,0,3,3,1,2,0,1,3,7
+27955,400816814,235,Memphis,home,2582,Southern,R. Tarrant Jr.,38,3,10,0,2,5,6,2,4,6,4,4,0,2,1,11
+27956,400816814,235,Memphis,home,2582,Southern,T. Burrell,25,5,9,1,1,4,6,2,6,8,1,0,2,2,0,15
+27957,400816814,235,Memphis,home,2582,Southern,K.J. Lawson,25,5,9,0,1,6,10,2,4,6,3,0,1,5,1,16
+27958,400816814,235,Memphis,home,2582,Southern,N. Marshall,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27959,400816814,235,Memphis,home,2582,Southern,K. Johnson,15,0,4,0,2,1,2,2,2,4,0,1,0,0,2,1
+27960,400816979,202,Tulsa,away,197,Oklahoma State,R. Smith,20,0,3,0,0,2,2,3,4,7,0,0,0,1,2,2
+27961,400816979,202,Tulsa,away,197,Oklahoma State,D. Wright,16,1,3,0,0,3,4,1,2,3,0,2,0,1,4,5
+27962,400816979,202,Tulsa,away,197,Oklahoma State,S. Harrison,31,4,11,1,2,5,5,0,3,3,3,1,0,2,3,14
+27963,400816979,202,Tulsa,away,197,Oklahoma State,R. Ray,19,1,4,0,1,2,2,0,0,0,3,1,0,1,3,4
+27964,400816979,202,Tulsa,away,197,Oklahoma State,J. Woodard,34,5,12,3,10,2,3,0,6,6,1,0,1,1,2,15
+27965,400816979,202,Tulsa,away,197,Oklahoma State,B. Swannegan,21,2,4,0,0,2,2,0,2,2,0,0,1,1,4,6
+27966,400816979,202,Tulsa,away,197,Oklahoma State,M. Curtis,30,4,6,0,2,2,3,2,5,7,1,2,0,1,1,10
+27967,400816979,202,Tulsa,away,197,Oklahoma State,P. Birt,22,2,5,1,3,2,2,2,1,3,0,2,0,2,4,7
+27968,400816979,202,Tulsa,away,197,Oklahoma State,S. Taplin,7,1,2,1,2,0,0,0,1,1,0,0,0,0,0,3
+27969,400816979,197,Oklahoma State,home,202,Tulsa,A. Allen Jr.,9,2,3,0,0,3,5,1,1,2,0,0,0,2,3,7
+27970,400816979,197,Oklahoma State,home,202,Tulsa,M. Solomon,26,1,4,0,0,7,8,5,4,9,0,0,0,0,2,9
+27971,400816979,197,Oklahoma State,home,202,Tulsa,J. Evans,31,5,9,1,3,0,0,0,2,2,1,1,0,5,5,11
+27972,400816979,197,Oklahoma State,home,202,Tulsa,T. Griffin,25,1,6,1,5,2,2,0,1,1,2,1,0,1,2,5
+27973,400816979,197,Oklahoma State,home,202,Tulsa,J. Newberry,33,3,9,0,4,2,2,1,2,3,2,1,0,1,2,8
+27974,400816979,197,Oklahoma State,home,202,Tulsa,C. Olivier,17,2,8,0,0,4,4,1,3,4,1,0,2,1,0,8
+27975,400816979,197,Oklahoma State,home,202,Tulsa,L. Hammonds,26,2,10,0,3,4,4,2,4,6,1,0,0,1,3,8
+27976,400816979,197,Oklahoma State,home,202,Tulsa,D. Dillard,6,0,2,0,1,0,0,2,0,2,0,1,0,0,3,0
+27977,400816979,197,Oklahoma State,home,202,Tulsa,J. Carroll,25,0,3,0,2,0,0,0,3,3,1,1,1,1,2,0
+27978,400816979,197,Oklahoma State,home,202,Tulsa,J. Burton,2,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+27979,400817074,2582,Southern,away,2751,Wyoming,J. Sam,29,3,6,0,0,1,2,2,5,7,1,1,3,0,3,7
+27980,400817074,2582,Southern,away,2751,Wyoming,D. Allen,16,3,5,0,0,0,0,3,3,6,0,0,0,1,2,6
+27981,400817074,2582,Southern,away,2751,Wyoming,A. Rodgers,39,6,17,1,1,1,2,1,7,8,1,1,0,1,1,14
+27982,400817074,2582,Southern,away,2751,Wyoming,C. Hyder,40,2,6,0,3,1,2,0,8,8,6,6,0,2,2,5
+27983,400817074,2582,Southern,away,2751,Wyoming,T. Banks,34,7,14,3,4,4,4,2,3,5,1,2,0,2,0,21
+27984,400817074,2582,Southern,away,2751,Wyoming,S. Prudhomme,20,1,3,1,1,2,2,0,1,1,0,0,0,0,4,5
+27985,400817074,2582,Southern,away,2751,Wyoming,T. Nunn,13,5,6,0,0,0,0,4,1,5,0,0,1,3,3,10
+27986,400817074,2582,Southern,away,2751,Wyoming,L. Collins,6,0,3,0,1,0,0,0,0,0,1,0,0,0,1,0
+27987,400817074,2582,Southern,away,2751,Wyoming,C. Thomas,3,0,2,0,1,0,0,1,1,2,0,0,0,0,2,0
+27988,400817074,2751,Wyoming,home,2582,Southern,A. Herndon,31,0,2,0,1,0,0,0,7,7,1,1,1,1,0,0
+27989,400817074,2751,Wyoming,home,2582,Southern,J. Barnes,9,0,2,0,0,0,0,0,1,1,0,0,1,1,1,0
+27990,400817074,2751,Wyoming,home,2582,Southern,A. Aka Gorski,14,1,4,1,3,0,1,0,1,1,0,0,0,1,4,3
+27991,400817074,2751,Wyoming,home,2582,Southern,J. Adams,36,7,12,5,8,6,6,0,4,4,5,0,0,3,3,25
+27992,400817074,2751,Wyoming,home,2582,Southern,J. McManamen,36,2,10,1,7,4,4,1,1,2,0,1,0,1,5,9
+27993,400817074,2751,Wyoming,home,2582,Southern,H. Dalton,11,1,2,0,1,1,2,0,3,3,0,0,0,4,0,3
+27994,400817074,2751,Wyoming,home,2582,Southern,J. Naughton,10,1,1,0,0,0,0,1,1,2,0,0,0,0,0,2
+27995,400817074,2751,Wyoming,home,2582,Southern,J. James,28,2,6,1,3,2,2,0,2,2,3,1,1,0,2,7
+27996,400817074,2751,Wyoming,home,2582,Southern,M. Marshall,7,1,3,0,1,1,1,0,0,0,0,0,0,1,1,3
+27997,400817074,2751,Wyoming,home,2582,Southern,T. Washington III,7,2,5,2,5,0,2,0,0,0,0,0,0,0,1,6
+27998,400817074,2751,Wyoming,home,2582,Southern,J. Lieberman,11,0,1,0,0,0,0,1,1,2,1,2,0,0,0,0
+27999,400818866,202,Tulsa,away,2623,Missouri State,D. Wright,14,2,4,0,1,1,1,1,3,4,0,0,0,3,4,5
+28000,400818866,202,Tulsa,away,2623,Missouri State,R. Smith,23,6,9,0,0,0,0,0,7,7,2,2,0,1,2,12
+28001,400818866,202,Tulsa,away,2623,Missouri State,S. Harrison,35,4,8,0,2,3,5,0,3,3,6,2,0,1,2,11
+28002,400818866,202,Tulsa,away,2623,Missouri State,J. Woodard,33,6,15,4,11,4,4,0,6,6,1,0,0,3,1,20
+28003,400818866,202,Tulsa,away,2623,Missouri State,S. Taplin,15,1,3,0,2,0,1,0,3,3,0,0,0,2,0,2
+28004,400818866,202,Tulsa,away,2623,Missouri State,B. Swannegan,21,4,10,0,0,0,0,2,3,5,1,0,0,0,2,8
+28005,400818866,202,Tulsa,away,2623,Missouri State,M. Curtis,26,2,5,0,1,0,0,1,3,4,1,1,1,0,3,4
+28006,400818866,202,Tulsa,away,2623,Missouri State,R. Ray,10,0,2,0,0,0,0,0,1,1,4,0,0,0,2,0
+28007,400818866,202,Tulsa,away,2623,Missouri State,P. Birt,23,3,9,2,7,0,0,0,2,2,0,0,0,1,2,8
+28008,400818866,2623,Missouri State,home,202,Tulsa,C. Boone,20,3,8,0,0,0,0,1,7,8,0,0,0,3,4,6
+28009,400818866,2623,Missouri State,home,202,Tulsa,O. Church,25,2,3,0,0,2,2,3,5,8,1,0,1,1,1,6
+28010,400818866,2623,Missouri State,home,202,Tulsa,C. Kendrix,36,4,10,1,4,8,9,1,4,5,1,2,3,2,1,17
+28011,400818866,2623,Missouri State,home,202,Tulsa,D. Miller,36,3,13,1,5,4,6,1,3,4,3,0,0,3,2,11
+28012,400818866,2623,Missouri State,home,202,Tulsa,D. Williams,35,1,9,0,3,0,0,0,5,5,4,0,0,0,2,2
+28013,400818866,2623,Missouri State,home,202,Tulsa,L. Gerring,5,1,3,0,0,0,0,3,0,3,0,0,0,1,1,2
+28014,400818866,2623,Missouri State,home,202,Tulsa,J. Martin,6,0,2,0,0,0,1,0,0,0,0,0,2,0,2,0
+28015,400818866,2623,Missouri State,home,202,Tulsa,T. McCullough,5,1,3,0,0,0,0,2,0,2,0,0,0,0,1,2
+28016,400818866,2623,Missouri State,home,202,Tulsa,J. Dixon,9,1,3,0,0,2,2,1,1,2,0,1,0,1,1,4
+28017,400818866,2623,Missouri State,home,202,Tulsa,R. Kreklow,23,4,9,1,5,2,2,0,2,2,0,2,0,0,2,11
+28018,400818871,202,Tulsa,home,2724,Wichita St,R. Smith,15,2,5,1,2,0,0,0,3,3,2,0,2,1,3,5
+28019,400818871,202,Tulsa,home,2724,Wichita St,D. Wright,26,2,6,0,1,1,2,0,4,4,0,0,1,0,5,5
+28020,400818871,202,Tulsa,home,2724,Wichita St,S. Harrison,32,6,10,2,3,6,8,1,4,5,1,0,0,3,2,20
+28021,400818871,202,Tulsa,home,2724,Wichita St,R. Ray,29,1,5,1,4,1,2,0,2,2,5,0,0,0,2,4
+28022,400818871,202,Tulsa,home,2724,Wichita St,J. Woodard,31,4,8,1,2,4,4,0,4,4,1,1,0,6,3,13
+28023,400818871,202,Tulsa,home,2724,Wichita St,B. Swannegan,12,0,0,0,0,0,0,0,2,2,0,1,2,0,1,0
+28024,400818871,202,Tulsa,home,2724,Wichita St,E. Ezechinonso,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28025,400818871,202,Tulsa,home,2724,Wichita St,M. Curtis,24,4,6,2,2,6,8,1,3,4,4,2,0,3,3,16
+28026,400818871,202,Tulsa,home,2724,Wichita St,P. Birt,25,4,10,3,8,3,4,1,5,6,1,1,0,0,1,14
+28027,400818871,202,Tulsa,home,2724,Wichita St,S. Taplin,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+28028,400818871,202,Tulsa,home,2724,Wichita St,K. Brown,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+28029,400820615,2110,Central Arkansas,away,202,Tulsa,J. Foreman,33,5,8,2,3,2,3,1,5,6,1,1,0,2,4,14
+28030,400820615,2110,Central Arkansas,away,202,Tulsa,J. Zuilhof,31,3,6,0,0,2,3,1,3,4,2,1,1,4,5,8
+28031,400820615,2110,Central Arkansas,away,202,Tulsa,J. Howard,33,5,12,3,7,3,5,1,6,7,3,1,0,1,1,16
+28032,400820615,2110,Central Arkansas,away,202,Tulsa,J. Lowery,27,3,4,0,0,2,2,0,1,1,2,0,0,3,3,8
+28033,400820615,2110,Central Arkansas,away,202,Tulsa,D. Brooks,38,10,16,5,9,0,0,0,4,4,3,1,1,1,1,25
+28034,400820615,2110,Central Arkansas,away,202,Tulsa,A. Christensson,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28035,400820615,2110,Central Arkansas,away,202,Tulsa,B. Milligan,5,0,1,0,0,0,0,1,0,1,2,0,0,0,1,0
+28036,400820615,2110,Central Arkansas,away,202,Tulsa,T. Schmit,7,2,4,0,0,0,0,0,1,1,0,0,0,0,2,4
+28037,400820615,2110,Central Arkansas,away,202,Tulsa,M. Martin,12,1,5,1,4,0,0,0,1,1,1,1,0,1,0,3
+28038,400820615,2110,Central Arkansas,away,202,Tulsa,M. Kamba,12,0,1,0,0,3,4,3,1,4,0,0,0,5,3,3
+28039,400820615,202,Tulsa,home,2110,Central Arkansas,R. Smith,21,2,2,1,1,0,0,0,2,2,5,0,0,2,1,5
+28040,400820615,202,Tulsa,home,2110,Central Arkansas,D. Wright,18,5,5,0,0,1,1,0,1,1,0,0,0,2,4,11
+28041,400820615,202,Tulsa,home,2110,Central Arkansas,S. Harrison,27,10,17,0,0,2,6,2,5,7,1,4,0,2,3,22
+28042,400820615,202,Tulsa,home,2110,Central Arkansas,R. Ray,20,0,1,0,1,0,0,2,0,2,5,1,0,1,1,0
+28043,400820615,202,Tulsa,home,2110,Central Arkansas,J. Woodard,33,8,13,5,7,2,2,0,4,4,4,4,0,1,1,23
+28044,400820615,202,Tulsa,home,2110,Central Arkansas,B. Swannegan,19,4,6,0,0,4,5,3,1,4,0,0,2,2,2,12
+28045,400820615,202,Tulsa,home,2110,Central Arkansas,E. Ezechinonso,3,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+28046,400820615,202,Tulsa,home,2110,Central Arkansas,N. Wood,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28047,400820615,202,Tulsa,home,2110,Central Arkansas,M. Curtis,27,4,6,0,1,2,2,1,2,3,4,0,0,1,2,10
+28048,400820615,202,Tulsa,home,2110,Central Arkansas,P. Birt,19,4,12,3,9,1,1,0,2,2,1,0,0,0,1,12
+28049,400820615,202,Tulsa,home,2110,Central Arkansas,S. Taplin,9,1,3,1,2,0,0,0,0,0,0,0,0,0,0,3
+28050,400820615,202,Tulsa,home,2110,Central Arkansas,K. Brown,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28051,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,R. Smith,12,0,2,0,2,0,0,1,0,1,0,0,1,2,3,0
+28052,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,D. Wright,27,5,7,0,0,4,5,3,3,6,0,0,0,0,1,14
+28053,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,S. Harrison,26,0,4,0,2,4,10,0,2,2,2,4,0,2,1,4
+28054,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,R. Ray,23,4,13,3,9,0,0,1,0,1,1,1,0,0,2,11
+28055,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,J. Woodard,38,5,9,4,7,2,2,3,3,6,2,0,0,2,2,16
+28056,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,B. Swannegan,12,0,0,0,0,0,0,0,2,2,1,1,2,0,1,0
+28057,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,M. Curtis,28,4,6,1,3,1,1,2,4,6,2,0,0,2,1,10
+28058,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,P. Birt,27,0,6,0,5,0,0,1,2,3,1,3,0,2,2,0
+28059,400820616,202,Tulsa,home,2031,Arkansas-Little Rock,S. Taplin,7,2,4,1,3,0,0,0,0,0,1,0,0,0,1,5
+28060,400820617,198,Oral Roberts,away,202,Tulsa,B. Conley,27,3,5,0,0,0,0,1,7,8,0,1,0,5,4,6
+28061,400820617,198,Oral Roberts,away,202,Tulsa,A. Owens,29,4,11,1,1,0,0,2,5,7,1,0,3,1,3,9
+28062,400820617,198,Oral Roberts,away,202,Tulsa,J. Bradley,28,5,10,3,5,0,0,1,1,2,1,0,0,2,0,13
+28063,400820617,198,Oral Roberts,away,202,Tulsa,O. Emegano,39,9,23,3,9,5,6,1,2,3,2,0,0,1,4,26
+28064,400820617,198,Oral Roberts,away,202,Tulsa,A. Anderson,28,2,3,1,1,2,2,0,4,4,1,1,0,1,4,7
+28065,400820617,198,Oral Roberts,away,202,Tulsa,J. White,5,0,0,0,0,2,2,0,4,4,0,0,0,2,1,2
+28066,400820617,198,Oral Roberts,away,202,Tulsa,D. Jeffries,18,2,4,0,1,1,1,1,2,3,0,1,0,0,0,5
+28067,400820617,198,Oral Roberts,away,202,Tulsa,K. Martin,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28068,400820617,198,Oral Roberts,away,202,Tulsa,D. Harris,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28069,400820617,198,Oral Roberts,away,202,Tulsa,A. Young,16,1,1,0,0,0,0,0,0,0,1,0,0,1,1,2
+28070,400820617,202,Tulsa,home,198,Oral Roberts,R. Smith,19,4,5,1,2,0,0,2,0,2,1,1,1,3,2,9
+28071,400820617,202,Tulsa,home,198,Oral Roberts,D. Wright,18,1,5,0,0,0,0,1,5,6,1,0,0,2,3,2
+28072,400820617,202,Tulsa,home,198,Oral Roberts,S. Harrison,36,5,15,0,5,8,11,2,6,8,1,2,0,1,1,18
+28073,400820617,202,Tulsa,home,198,Oral Roberts,R. Ray,17,0,2,0,1,3,4,0,0,0,2,1,0,0,2,3
+28074,400820617,202,Tulsa,home,198,Oral Roberts,J. Woodard,33,4,9,2,5,2,2,0,3,3,1,1,1,0,0,12
+28075,400820617,202,Tulsa,home,198,Oral Roberts,B. Swannegan,20,2,7,0,0,2,2,2,4,6,0,0,0,2,3,6
+28076,400820617,202,Tulsa,home,198,Oral Roberts,E. Ezechinonso,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28077,400820617,202,Tulsa,home,198,Oral Roberts,M. Curtis,27,2,4,0,1,2,2,2,2,4,3,0,0,0,0,6
+28078,400820617,202,Tulsa,home,198,Oral Roberts,P. Birt,21,4,10,4,9,0,0,0,4,4,0,1,0,1,2,12
+28079,400820617,202,Tulsa,home,198,Oral Roberts,S. Taplin,7,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0
+28080,400820617,202,Tulsa,home,198,Oral Roberts,K. Brown,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+28081,400820618,202,Tulsa,home,314,Iona,D. Wright,16,2,7,0,0,0,0,2,2,4,1,0,1,1,5,4
+28082,400820618,202,Tulsa,home,314,Iona,R. Smith,16,3,6,0,0,1,2,1,4,5,0,0,0,3,3,7
+28083,400820618,202,Tulsa,home,314,Iona,S. Harrison,27,8,13,1,1,7,13,2,4,6,3,2,0,2,3,24
+28084,400820618,202,Tulsa,home,314,Iona,J. Woodard,34,6,11,4,9,5,7,0,6,6,2,1,1,1,2,21
+28085,400820618,202,Tulsa,home,314,Iona,S. Taplin,15,2,4,1,3,0,0,0,2,2,2,0,0,1,0,5
+28086,400820618,202,Tulsa,home,314,Iona,B. Swannegan,19,1,1,0,0,4,10,1,3,4,0,3,1,1,5,6
+28087,400820618,202,Tulsa,home,314,Iona,M. Curtis,28,1,4,0,1,1,2,0,3,3,3,2,1,2,0,3
+28088,400820618,202,Tulsa,home,314,Iona,R. Ray,16,4,7,2,3,0,0,0,1,1,2,1,0,0,1,10
+28089,400820618,202,Tulsa,home,314,Iona,P. Birt,29,4,7,2,3,0,0,1,2,3,2,0,0,1,1,10
+28090,400820619,2464,Northern Arizona,away,202,Tulsa,A. Kaluna,30,8,14,3,4,4,5,3,3,6,0,0,0,2,4,23
+28091,400820619,2464,Northern Arizona,away,202,Tulsa,C. Brown,6,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+28092,400820619,2464,Northern Arizona,away,202,Tulsa,M. DeBerry,29,1,8,0,5,0,0,1,2,3,0,1,1,2,0,2
+28093,400820619,2464,Northern Arizona,away,202,Tulsa,T. Johnson,29,2,3,0,0,2,2,0,2,2,2,0,0,3,2,6
+28094,400820619,2464,Northern Arizona,away,202,Tulsa,K. Yanku,32,2,12,0,2,7,7,1,8,9,4,3,0,7,4,11
+28095,400820619,2464,Northern Arizona,away,202,Tulsa,I. Thomas,12,0,2,0,0,0,0,1,1,2,0,0,0,1,4,0
+28096,400820619,2464,Northern Arizona,away,202,Tulsa,K. de Laveaga,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28097,400820619,2464,Northern Arizona,away,202,Tulsa,M. Green,32,1,7,1,5,3,4,1,1,2,6,1,0,6,0,6
+28098,400820619,202,Tulsa,home,2464,Northern Arizona,D. Wright,21,4,8,0,0,5,6,3,5,8,0,0,2,2,4,13
+28099,400820619,202,Tulsa,home,2464,Northern Arizona,R. Smith,21,5,8,0,0,1,1,2,2,4,4,6,0,0,2,11
+28100,400820619,202,Tulsa,home,2464,Northern Arizona,S. Harrison,21,7,9,0,0,1,3,0,1,1,2,3,0,2,1,15
+28101,400820619,202,Tulsa,home,2464,Northern Arizona,J. Woodard,25,5,10,2,6,0,0,0,3,3,2,0,0,0,2,12
+28102,400820619,202,Tulsa,home,2464,Northern Arizona,S. Taplin,22,5,8,1,4,2,2,0,2,2,2,3,0,0,2,13
+28103,400820619,202,Tulsa,home,2464,Northern Arizona,B. Swannegan,17,1,2,0,0,2,2,0,1,1,0,0,3,1,1,4
+28104,400820619,202,Tulsa,home,2464,Northern Arizona,E. Ezechinonso,2,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0
+28105,400820619,202,Tulsa,home,2464,Northern Arizona,M. Curtis,22,2,6,0,1,1,2,2,3,5,2,0,0,2,1,5
+28106,400820619,202,Tulsa,home,2464,Northern Arizona,R. Ray,30,4,5,3,4,0,0,0,2,2,7,2,0,1,1,11
+28107,400820619,202,Tulsa,home,2464,Northern Arizona,N. Wood,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+28108,400820619,202,Tulsa,home,2464,Northern Arizona,P. Birt,16,1,4,1,2,1,3,0,2,2,1,0,0,0,4,4
+28109,400823412,2582,Southern,away,2545,Southeastern Louisiana,J. Sam,29,1,3,0,0,0,2,0,5,5,0,1,0,2,4,2
+28110,400823412,2582,Southern,away,2545,Southeastern Louisiana,D. Allen,18,3,3,0,0,1,2,2,3,5,0,1,0,0,5,7
+28111,400823412,2582,Southern,away,2545,Southeastern Louisiana,A. Rodgers,35,7,17,2,4,2,4,1,2,3,0,0,0,4,3,18
+28112,400823412,2582,Southern,away,2545,Southeastern Louisiana,C. Hyder,40,2,5,1,2,0,0,0,0,0,7,2,1,2,3,5
+28113,400823412,2582,Southern,away,2545,Southeastern Louisiana,T. Banks,29,4,9,2,4,3,5,1,0,1,2,1,0,1,4,13
+28114,400823412,2582,Southern,away,2545,Southeastern Louisiana,S. Prudhomme,23,8,10,5,6,2,4,0,1,1,0,2,0,1,4,23
+28115,400823412,2582,Southern,away,2545,Southeastern Louisiana,T. Nunn,7,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0
+28116,400823412,2582,Southern,away,2545,Southeastern Louisiana,C. Thomas,19,1,5,0,1,3,7,2,5,7,1,0,2,0,1,5
+28117,400823412,2545,Southeastern Louisiana,home,2582,Southern,J. Currington,17,0,1,0,0,1,2,0,2,2,0,0,0,2,3,1
+28118,400823412,2545,Southeastern Louisiana,home,2582,Southern,K. Charleston,32,4,6,0,0,2,3,1,5,6,0,0,0,3,1,10
+28119,400823412,2545,Southeastern Louisiana,home,2582,Southern,J. Filmore,23,1,6,1,6,0,2,0,0,0,1,1,0,1,4,3
+28120,400823412,2545,Southeastern Louisiana,home,2582,Southern,Z. Jackson,35,7,15,2,8,7,8,1,3,4,7,1,0,4,2,23
+28121,400823412,2545,Southeastern Louisiana,home,2582,Southern,D. Cook,23,2,4,2,4,5,6,0,8,8,1,0,0,3,3,11
+28122,400823412,2545,Southeastern Louisiana,home,2582,Southern,M. Greenwood,4,2,2,0,0,0,0,1,0,1,0,0,0,0,1,4
+28123,400823412,2545,Southeastern Louisiana,home,2582,Southern,D. Grieves,11,0,3,0,3,1,2,2,1,3,2,0,0,0,1,1
+28124,400823412,2545,Southeastern Louisiana,home,2582,Southern,J. Capps,17,2,3,1,2,4,8,3,4,7,0,1,0,0,2,9
+28125,400823412,2545,Southeastern Louisiana,home,2582,Southern,D. Nelson,12,1,2,0,0,3,4,2,3,5,0,0,0,1,3,5
+28126,400823412,2545,Southeastern Louisiana,home,2582,Southern,M. Veal,13,1,5,0,2,0,0,0,1,1,2,1,0,2,0,2
+28127,400823412,2545,Southeastern Louisiana,home,2582,Southern,J. Hawkins,13,0,1,0,1,0,0,0,0,0,0,1,0,2,1,0
+28128,400825723,2655,Tulane,away,2582,Southern,J. Jarreau,21,2,6,0,1,1,2,1,3,4,3,0,1,3,0,5
+28129,400825723,2655,Tulane,away,2582,Southern,D. Osetkowski,34,4,5,0,0,8,13,3,7,10,3,2,0,1,1,16
+28130,400825723,2655,Tulane,away,2582,Southern,M. Frazier,26,3,5,1,3,2,4,0,0,0,0,0,0,4,1,9
+28131,400825723,2655,Tulane,away,2582,Southern,L. Dabney,23,4,11,3,9,5,5,3,2,5,4,1,0,1,4,16
+28132,400825723,2655,Tulane,away,2582,Southern,M. Morgan,27,6,10,4,8,2,2,0,2,2,3,1,0,4,4,18
+28133,400825723,2655,Tulane,away,2582,Southern,B. Paul,15,3,3,0,0,3,4,1,3,4,0,0,0,0,4,9
+28134,400825723,2655,Tulane,away,2582,Southern,K. Harris,22,3,7,1,4,0,1,2,1,3,0,0,0,0,5,7
+28135,400825723,2655,Tulane,away,2582,Southern,V. Julien,22,0,2,0,1,0,0,0,1,1,4,1,0,2,3,0
+28136,400825723,2655,Tulane,away,2582,Southern,R. Smith,10,1,1,0,0,0,0,1,2,3,0,0,0,0,3,2
+28137,400825723,2582,Southern,home,2655,Tulane,J. Sam,29,6,9,0,0,5,6,4,3,7,3,2,0,0,2,17
+28138,400825723,2582,Southern,home,2655,Tulane,D. Allen,11,2,5,0,0,0,0,1,1,2,0,0,0,0,2,4
+28139,400825723,2582,Southern,home,2655,Tulane,A. Rodgers,23,5,11,2,6,8,8,0,2,2,0,2,0,2,2,20
+28140,400825723,2582,Southern,home,2655,Tulane,C. Hyder,34,4,7,1,2,6,7,0,0,0,2,2,0,1,3,15
+28141,400825723,2582,Southern,home,2655,Tulane,T. Banks,38,4,11,2,5,2,4,3,4,7,3,1,0,4,2,12
+28142,400825723,2582,Southern,home,2655,Tulane,S. Prudhomme,25,5,10,1,2,2,2,1,0,1,1,3,0,1,3,13
+28143,400825723,2582,Southern,home,2655,Tulane,T. Nunn,22,2,3,0,0,0,1,0,0,0,0,0,1,0,3,4
+28144,400825723,2582,Southern,home,2655,Tulane,C. Thomas,18,2,5,0,1,1,2,0,5,5,0,0,0,2,4,5
+28145,400827676,130,Michigan,home,41,Connecticut,R. Doyle,26,1,1,0,0,3,4,2,2,4,1,0,0,2,2,5
+28146,400827676,130,Michigan,home,41,Connecticut,Z. Irvin,28,1,10,0,6,0,0,2,5,7,2,0,0,2,0,2
+28147,400827676,130,Michigan,home,41,Connecticut,A. Dawkins,23,3,10,2,6,0,0,4,2,6,1,1,1,1,2,8
+28148,400827676,130,Michigan,home,41,Connecticut,C. LeVert,27,7,12,2,4,5,5,2,3,5,2,0,0,1,2,21
+28149,400827676,130,Michigan,home,41,Connecticut,D. Walton Jr.,31,3,6,3,3,1,2,0,4,4,2,1,0,1,4,10
+28150,400827676,130,Michigan,home,41,Connecticut,M. Wagner,4,0,2,0,1,0,0,0,0,0,0,0,0,1,2,0
+28151,400827676,130,Michigan,home,41,Connecticut,D.J. Wilson,8,1,3,0,2,3,4,0,1,1,0,0,1,0,0,5
+28152,400827676,130,Michigan,home,41,Connecticut,D. Robinson,26,1,8,1,6,2,2,0,2,2,0,1,1,1,4,5
+28153,400827676,130,Michigan,home,41,Connecticut,K. Chatman,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28154,400827676,130,Michigan,home,41,Connecticut,S. Albrecht,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28155,400830619,-1,Northern Michigan,away,130,Michigan,A. Mustert,12,1,6,0,0,1,2,1,1,2,0,1,0,3,2,3
+28156,400830619,-1,Northern Michigan,away,130,Michigan,T. Nash,21,0,1,0,1,0,0,0,1,1,1,0,0,3,4,0
+28157,400830619,-1,Northern Michigan,away,130,Michigan,N. Echols,34,4,8,2,4,3,4,0,5,5,2,1,0,3,0,13
+28158,400830619,-1,Northern Michigan,away,130,Michigan,M. Hall,34,2,9,1,3,0,0,0,5,5,2,0,0,1,2,5
+28159,400830619,-1,Northern Michigan,away,130,Michigan,J. Perez,30,6,14,1,6,0,0,1,1,2,0,0,0,3,3,13
+28160,400830619,-1,Northern Michigan,away,130,Michigan,B. Branstrom,7,1,2,0,1,1,1,2,0,2,0,0,0,1,0,3
+28161,400830619,-1,Northern Michigan,away,130,Michigan,K. Williams,16,0,3,0,0,0,2,0,0,0,0,0,0,2,5,0
+28162,400830619,-1,Northern Michigan,away,130,Michigan,V. Grazulis,12,0,1,0,0,0,0,0,2,2,0,0,0,1,1,0
+28163,400830619,-1,Northern Michigan,away,130,Michigan,W. Schetter,8,1,2,1,2,0,0,1,2,3,0,0,0,0,1,3
+28164,400830619,-1,Northern Michigan,away,130,Michigan,L. Burnette III,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+28165,400830619,-1,Northern Michigan,away,130,Michigan,I. Johnson,22,2,5,0,0,0,0,2,2,4,1,0,0,2,2,4
+28166,400830619,-1,Northern Michigan,away,130,Michigan,K. Mack,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28167,400830619,130,Michigan,home,-1,Northern Michigan,M. Donnal,10,2,2,0,0,2,2,0,1,1,0,0,2,0,3,6
+28168,400830619,130,Michigan,home,-1,Northern Michigan,K. Chatman,22,3,7,0,0,0,1,2,2,4,1,1,1,0,1,6
+28169,400830619,130,Michigan,home,-1,Northern Michigan,C. LeVert,29,7,12,2,5,2,2,0,4,4,5,2,0,3,0,18
+28170,400830619,130,Michigan,home,-1,Northern Michigan,D. Walton Jr.,22,1,4,0,2,2,3,0,2,2,1,1,0,2,2,4
+28171,400830619,130,Michigan,home,-1,Northern Michigan,A. Dawkins,27,6,7,2,3,1,2,1,5,6,2,1,0,0,1,15
+28172,400830619,130,Michigan,home,-1,Northern Michigan,R. Doyle,15,1,3,0,0,0,0,1,1,2,0,0,2,0,4,2
+28173,400830619,130,Michigan,home,-1,Northern Michigan,M. Wagner,6,1,2,0,1,0,0,1,1,2,0,0,0,1,1,2
+28174,400830619,130,Michigan,home,-1,Northern Michigan,D.J. Wilson,23,2,4,1,1,0,0,0,1,1,3,1,0,1,0,5
+28175,400830619,130,Michigan,home,-1,Northern Michigan,D. Robinson,15,0,1,0,1,0,0,1,3,4,0,1,0,2,1,0
+28176,400830619,130,Michigan,home,-1,Northern Michigan,S. Albrecht,17,2,5,0,1,3,4,0,3,3,3,2,0,1,0,7
+28177,400830621,2210,Elon,away,130,Michigan,B. Dawkins,22,4,8,1,2,2,3,2,1,3,2,1,0,3,2,11
+28178,400830621,2210,Elon,away,130,Michigan,T. Seibring,27,1,4,0,3,0,0,0,4,4,1,1,0,0,0,2
+28179,400830621,2210,Elon,away,130,Michigan,D. Thompson,25,4,7,1,2,3,4,1,1,2,2,1,0,2,3,12
+28180,400830621,2210,Elon,away,130,Michigan,L. Eddy,24,0,3,0,0,1,2,1,2,3,4,0,0,4,2,1
+28181,400830621,2210,Elon,away,130,Michigan,T. Samson,21,3,6,2,4,2,2,1,1,2,2,0,0,0,2,10
+28182,400830621,2210,Elon,away,130,Michigan,J. Anton,8,0,0,0,0,0,0,1,0,1,0,0,0,2,1,0
+28183,400830621,2210,Elon,away,130,Michigan,J. George,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28184,400830621,2210,Elon,away,130,Michigan,K. Kundrotas,3,0,1,0,0,1,2,0,2,2,0,0,0,0,0,1
+28185,400830621,2210,Elon,away,130,Michigan,T. Sabato,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28186,400830621,2210,Elon,away,130,Michigan,D. Swoope,22,4,9,3,6,4,4,0,1,1,1,0,0,3,4,15
+28187,400830621,2210,Elon,away,130,Michigan,S. Santa Ana,17,3,6,2,5,0,0,0,0,0,1,1,1,3,2,8
+28188,400830621,2210,Elon,away,130,Michigan,C. Luther,10,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+28189,400830621,2210,Elon,away,130,Michigan,S. Hershberger,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28190,400830621,2210,Elon,away,130,Michigan,C. Hairston,18,4,5,0,0,0,1,3,3,6,0,0,0,0,1,8
+28191,400830621,130,Michigan,home,2210,Elon,M. Donnal,15,2,4,0,0,2,2,1,1,2,0,0,0,0,1,6
+28192,400830621,130,Michigan,home,2210,Elon,K. Chatman,17,3,8,0,3,0,0,0,1,1,1,0,0,0,2,6
+28193,400830621,130,Michigan,home,2210,Elon,C. LeVert,32,3,8,0,1,5,6,1,3,4,7,4,0,3,3,11
+28194,400830621,130,Michigan,home,2210,Elon,D. Walton Jr.,30,8,10,6,7,2,2,0,6,6,7,1,0,2,3,24
+28195,400830621,130,Michigan,home,2210,Elon,A. Dawkins,22,3,5,1,1,0,0,1,2,3,0,0,0,1,2,7
+28196,400830621,130,Michigan,home,2210,Elon,R. Doyle,13,3,4,0,0,2,3,0,3,3,0,0,0,1,3,8
+28197,400830621,130,Michigan,home,2210,Elon,M. Wagner,7,0,1,0,1,0,0,1,1,2,0,1,0,0,0,0
+28198,400830621,130,Michigan,home,2210,Elon,D.J. Wilson,13,2,6,1,2,0,0,0,0,0,0,0,1,1,4,5
+28199,400830621,130,Michigan,home,2210,Elon,Z. Irvin,15,0,5,0,3,0,0,0,1,1,3,0,0,1,1,0
+28200,400830621,130,Michigan,home,2210,Elon,D. Robinson,18,6,6,5,5,2,2,2,1,3,0,1,0,2,1,19
+28201,400830621,130,Michigan,home,2210,Elon,S. Albrecht,10,0,1,0,1,0,0,1,0,1,1,1,0,0,1,0
+28202,400830627,2277,Houston Baptist,away,130,Michigan,C. Lasher,31,1,10,0,2,0,0,2,4,6,0,0,1,4,2,2
+28203,400830627,2277,Houston Baptist,away,130,Michigan,J. Ibarra,24,4,9,0,0,2,3,0,1,1,0,0,1,1,3,10
+28204,400830627,2277,Houston Baptist,away,130,Michigan,A. Odunsi,32,6,10,0,0,3,3,0,4,4,4,0,0,6,3,15
+28205,400830627,2277,Houston Baptist,away,130,Michigan,J. Stickler,27,4,9,1,2,0,0,0,2,2,0,0,0,0,1,9
+28206,400830627,2277,Houston Baptist,away,130,Michigan,R. Chukwujekwu,30,1,4,0,0,3,4,1,9,10,2,0,0,2,2,5
+28207,400830627,2277,Houston Baptist,away,130,Michigan,A. Fountain,14,1,2,1,1,0,0,1,0,1,0,0,0,1,1,3
+28208,400830627,2277,Houston Baptist,away,130,Michigan,I. Robinson,11,1,1,0,0,0,0,0,3,3,0,0,0,1,1,2
+28209,400830627,2277,Houston Baptist,away,130,Michigan,T. Patterson,10,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0
+28210,400830627,2277,Houston Baptist,away,130,Michigan,C. Crayton,10,1,3,0,0,0,1,0,0,0,0,0,0,0,3,2
+28211,400830627,2277,Houston Baptist,away,130,Michigan,A. Cantwell,11,3,3,3,3,0,0,0,0,0,1,0,0,0,1,9
+28212,400830627,130,Michigan,home,2277,Houston Baptist,R. Doyle,20,1,3,0,0,0,0,3,4,7,0,0,0,1,2,2
+28213,400830627,130,Michigan,home,2277,Houston Baptist,A. Dawkins,20,5,6,3,4,3,4,0,2,2,0,1,2,2,2,16
+28214,400830627,130,Michigan,home,2277,Houston Baptist,Z. Irvin,31,3,8,1,2,0,0,1,2,3,5,1,0,1,1,7
+28215,400830627,130,Michigan,home,2277,Houston Baptist,C. LeVert,32,7,13,2,6,9,10,1,7,8,1,2,1,0,2,25
+28216,400830627,130,Michigan,home,2277,Houston Baptist,D.J. Wilson,6,2,3,0,0,0,0,0,1,1,1,0,1,0,1,4
+28217,400830627,130,Michigan,home,2277,Houston Baptist,M. Donnal,7,0,2,0,0,2,4,0,0,0,0,0,0,0,0,2
+28218,400830627,130,Michigan,home,2277,Houston Baptist,M. Wagner,10,0,1,0,0,1,2,0,1,1,0,0,0,1,2,1
+28219,400830627,130,Michigan,home,2277,Houston Baptist,D. Robinson,25,7,12,5,9,0,0,0,1,1,1,1,1,0,1,19
+28220,400830627,130,Michigan,home,2277,Houston Baptist,K. Chatman,4,0,1,0,0,0,0,0,1,1,1,0,0,1,3,0
+28221,400830627,130,Michigan,home,2277,Houston Baptist,S. Albrecht,12,0,1,0,1,0,0,0,0,0,4,0,0,0,0,0
+28222,400830629,130,Michigan,away,2567,SMU,R. Doyle,17,2,4,0,0,0,0,2,2,4,0,1,0,1,2,4
+28223,400830629,130,Michigan,away,2567,SMU,Z. Irvin,33,4,10,1,5,0,0,1,1,2,9,1,1,1,2,9
+28224,400830629,130,Michigan,away,2567,SMU,A. Dawkins,18,1,4,1,4,2,2,1,3,4,0,1,0,0,1,5
+28225,400830629,130,Michigan,away,2567,SMU,C. LeVert,37,1,13,0,6,3,6,0,1,1,3,0,1,1,1,5
+28226,400830629,130,Michigan,away,2567,SMU,D.J. Wilson,6,0,1,0,1,0,0,0,0,0,0,2,0,0,0,0
+28227,400830629,130,Michigan,away,2567,SMU,M. Donnal,10,0,1,0,1,0,0,1,1,2,0,0,0,0,1,0
+28228,400830629,130,Michigan,away,2567,SMU,M. Wagner,8,0,1,0,0,0,0,2,0,2,0,1,0,3,0,0
+28229,400830629,130,Michigan,away,2567,SMU,D. Robinson,22,5,10,5,9,0,0,0,2,2,0,1,0,0,4,15
+28230,400830629,130,Michigan,away,2567,SMU,K. Chatman,9,1,4,0,2,0,0,1,1,2,0,1,0,0,0,2
+28231,400830629,130,Michigan,away,2567,SMU,S. Albrecht,3,1,2,1,2,0,0,0,0,0,0,0,0,0,0,3
+28232,400830629,2567,SMU,home,130,Michigan,M. Kennedy,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28233,400830629,2567,SMU,home,130,Michigan,B. Moore,33,2,4,0,0,4,4,2,8,10,5,1,3,2,1,8
+28234,400830629,2567,SMU,home,130,Michigan,N. Moore,34,5,11,3,4,2,2,0,1,1,7,0,0,2,2,15
+28235,400830629,2567,SMU,home,130,Michigan,S. Brown,27,4,6,1,1,0,0,5,5,10,3,0,0,3,3,9
+28236,400830629,2567,SMU,home,130,Michigan,K. Frazier,33,5,12,2,6,3,4,0,6,6,2,0,1,4,3,15
+28237,400830629,2567,SMU,home,130,Michigan,J. Tolbert,30,11,12,0,0,1,2,4,5,9,0,0,0,5,0,23
+28238,400830629,2567,SMU,home,130,Michigan,J. Foster,13,3,4,1,2,2,4,2,1,3,2,1,1,1,1,9
+28239,400830629,2567,SMU,home,130,Michigan,S. Milton,29,1,4,1,2,0,0,0,3,3,2,1,0,0,0,3
+28240,400830630,2169,Delaware State,away,130,Michigan,K. Waller,34,2,7,1,3,1,3,1,3,4,0,0,0,1,1,6
+28241,400830630,2169,Delaware State,away,130,Michigan,D. Mallory,7,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+28242,400830630,2169,Delaware State,away,130,Michigan,D. Onifade,27,0,1,0,0,0,1,3,6,9,0,1,3,1,3,0
+28243,400830630,2169,Delaware State,away,130,Michigan,T. Hughes,11,1,3,0,1,0,0,0,2,2,1,1,0,1,0,2
+28244,400830630,2169,Delaware State,away,130,Michigan,C. Thomas,15,0,4,0,3,0,0,0,1,1,1,0,0,2,3,0
+28245,400830630,2169,Delaware State,away,130,Michigan,S. Sill,10,1,5,1,4,0,0,1,2,3,0,0,0,1,0,3
+28246,400830630,2169,Delaware State,away,130,Michigan,A. Tavakalyan,13,2,3,1,1,0,0,0,1,1,0,0,0,2,2,5
+28247,400830630,2169,Delaware State,away,130,Michigan,M. Gasevic,7,2,3,0,0,0,0,0,0,0,1,0,0,0,0,4
+28248,400830630,2169,Delaware State,away,130,Michigan,J. Owens,10,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0
+28249,400830630,2169,Delaware State,away,130,Michigan,J. Lewis,6,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0
+28250,400830630,2169,Delaware State,away,130,Michigan,M. Johnson,2,0,3,0,1,0,0,1,0,1,0,0,0,1,0,0
+28251,400830630,2169,Delaware State,away,130,Michigan,D. Raysor,6,0,2,0,1,0,0,0,1,1,0,0,0,1,0,0
+28252,400830630,2169,Delaware State,away,130,Michigan,M. Carter,10,0,2,0,1,2,2,0,1,1,0,0,0,2,1,2
+28253,400830630,2169,Delaware State,away,130,Michigan,D. Morgan Jr,15,2,5,1,3,0,0,0,0,0,1,0,0,2,0,5
+28254,400830630,2169,Delaware State,away,130,Michigan,D. Haywood,27,2,7,0,1,2,4,1,1,2,3,0,0,2,1,6
+28255,400830630,130,Michigan,home,2169,Delaware State,R. Doyle,18,4,4,0,0,2,3,2,1,3,0,0,0,1,1,10
+28256,400830630,130,Michigan,home,2169,Delaware State,D. Robinson,25,4,6,3,5,0,0,0,3,3,4,1,0,0,1,11
+28257,400830630,130,Michigan,home,2169,Delaware State,Z. Irvin,27,6,11,0,3,0,2,0,8,8,2,2,0,0,1,12
+28258,400830630,130,Michigan,home,2169,Delaware State,C. LeVert,29,5,9,3,5,2,3,0,4,4,5,1,0,1,0,15
+28259,400830630,130,Michigan,home,2169,Delaware State,M. Donnal,8,0,2,0,1,0,0,1,2,3,0,0,0,0,0,0
+28260,400830630,130,Michigan,home,2169,Delaware State,M. Wagner,19,1,5,0,1,0,0,1,1,2,1,0,0,0,2,2
+28261,400830630,130,Michigan,home,2169,Delaware State,A. Dawkins,19,2,8,1,4,0,0,1,5,6,3,1,0,2,2,5
+28262,400830630,130,Michigan,home,2169,Delaware State,K. Chatman,14,4,6,1,3,1,2,0,3,3,3,0,1,0,0,10
+28263,400830630,130,Michigan,home,2169,Delaware State,A. Dakich,20,2,3,0,1,0,0,1,1,2,3,0,0,2,1,4
+28264,400830631,94,Northern Kentucky,away,130,Michigan,J. Garnett,10,0,2,0,1,0,0,0,0,0,0,0,0,0,4,0
+28265,400830631,94,Northern Kentucky,away,130,Michigan,J. Billups,17,7,11,0,0,2,2,2,4,6,0,0,0,3,4,16
+28266,400830631,94,Northern Kentucky,away,130,Michigan,L. Holland II,30,5,8,2,4,0,0,0,1,1,1,0,0,2,3,12
+28267,400830631,94,Northern Kentucky,away,130,Michigan,T. White,30,2,7,0,3,0,0,0,3,3,7,0,0,2,2,4
+28268,400830631,94,Northern Kentucky,away,130,Michigan,C. Murray,31,6,9,3,6,0,0,2,2,4,0,0,0,1,0,15
+28269,400830631,94,Northern Kentucky,away,130,Michigan,B. Gillis,9,1,4,0,1,0,0,1,0,1,0,0,0,0,0,2
+28270,400830631,94,Northern Kentucky,away,130,Michigan,J. Giesler,6,0,1,0,0,0,0,0,1,1,0,2,0,2,1,0
+28271,400830631,94,Northern Kentucky,away,130,Michigan,D. Cole,21,1,2,1,2,0,0,1,1,2,1,0,1,0,0,3
+28272,400830631,94,Northern Kentucky,away,130,Michigan,D. McDonald,16,1,7,0,1,0,0,0,3,3,2,1,0,0,2,2
+28273,400830631,94,Northern Kentucky,away,130,Michigan,D. Danos,12,3,5,2,3,0,0,0,1,1,0,0,0,3,1,8
+28274,400830631,94,Northern Kentucky,away,130,Michigan,M. Rosenwinkel,18,0,1,0,1,0,0,0,2,2,1,0,0,1,1,0
+28275,400830631,130,Michigan,home,94,Northern Kentucky,R. Doyle,23,3,7,0,0,3,4,3,2,5,0,0,0,1,3,9
+28276,400830631,130,Michigan,home,94,Northern Kentucky,D. Robinson,38,6,8,6,8,0,0,0,4,4,2,0,0,2,0,18
+28277,400830631,130,Michigan,home,94,Northern Kentucky,D. Walton Jr.,34,5,10,2,5,4,5,0,3,3,0,1,0,1,2,16
+28278,400830631,130,Michigan,home,94,Northern Kentucky,Z. Irvin,34,5,8,0,0,0,0,0,1,1,1,1,0,2,2,10
+28279,400830631,130,Michigan,home,94,Northern Kentucky,C. LeVert,37,4,9,0,2,5,8,1,9,10,10,2,0,3,0,13
+28280,400830631,130,Michigan,home,94,Northern Kentucky,M. Donnal,14,5,6,0,0,1,1,2,0,2,1,0,1,1,3,11
+28281,400830631,130,Michigan,home,94,Northern Kentucky,M. Wagner,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+28282,400830631,130,Michigan,home,94,Northern Kentucky,K. Chatman,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+28283,400830631,130,Michigan,home,94,Northern Kentucky,A. Dawkins,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+28284,400830631,130,Michigan,home,94,Northern Kentucky,A. Dakich,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28285,400830632,2754,Youngstown State,away,130,Michigan,B. Hain,24,3,10,0,1,1,2,0,1,1,3,1,0,2,2,7
+28286,400830632,2754,Youngstown State,away,130,Michigan,M. Donlan,28,2,7,2,3,0,0,1,3,4,0,0,0,4,1,6
+28287,400830632,2754,Youngstown State,away,130,Michigan,B. Nickels,12,2,3,0,1,0,0,1,1,2,0,1,0,1,1,4
+28288,400830632,2754,Youngstown State,away,130,Michigan,F. Santiago,28,1,6,1,3,0,0,0,4,4,4,0,0,0,2,3
+28289,400830632,2754,Youngstown State,away,130,Michigan,B. Frantz,26,3,6,3,6,0,0,0,2,2,0,1,0,0,2,9
+28290,400830632,2754,Youngstown State,away,130,Michigan,S. Umude,33,2,9,0,0,3,6,2,3,5,2,0,0,3,3,7
+28291,400830632,2754,Youngstown State,away,130,Michigan,L. Davis,12,0,2,0,2,0,2,0,1,1,0,0,0,0,0,0
+28292,400830632,2754,Youngstown State,away,130,Michigan,R. Strollo,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28293,400830632,2754,Youngstown State,away,130,Michigan,C. Morse,24,4,9,1,4,1,3,0,1,1,0,0,1,0,2,10
+28294,400830632,2754,Youngstown State,away,130,Michigan,J. Andrews,11,0,5,0,3,0,0,1,0,1,0,0,0,1,2,0
+28295,400830632,130,Michigan,home,2754,Youngstown State,R. Doyle,13,3,3,0,0,2,3,1,0,1,0,0,0,1,2,8
+28296,400830632,130,Michigan,home,2754,Youngstown State,D. Robinson,28,5,10,4,7,0,0,2,4,6,3,1,1,1,0,14
+28297,400830632,130,Michigan,home,2754,Youngstown State,D. Walton Jr.,29,4,10,1,4,1,2,0,11,11,13,4,1,2,0,10
+28298,400830632,130,Michigan,home,2754,Youngstown State,Z. Irvin,26,4,7,0,3,0,0,0,5,5,1,1,0,1,0,8
+28299,400830632,130,Michigan,home,2754,Youngstown State,C. LeVert,26,7,8,3,4,2,2,1,5,6,5,1,0,0,2,19
+28300,400830632,130,Michigan,home,2754,Youngstown State,D.J. Wilson,6,5,6,2,3,0,0,0,2,2,1,0,0,0,0,12
+28301,400830632,130,Michigan,home,2754,Youngstown State,M. Donnal,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28302,400830632,130,Michigan,home,2754,Youngstown State,M. Wagner,16,2,3,0,1,3,6,3,2,5,1,0,0,0,3,7
+28303,400830632,130,Michigan,home,2754,Youngstown State,K. Chatman,10,2,6,0,3,4,4,1,0,1,2,0,0,0,2,8
+28304,400830632,130,Michigan,home,2754,Youngstown State,A. Dawkins,16,8,11,2,5,1,1,0,2,2,0,0,1,0,1,19
+28305,400830632,130,Michigan,home,2754,Youngstown State,A. Dakich,8,0,0,0,0,0,0,0,2,2,2,0,0,1,1,0
+28306,400830779,2582,Southern,away,8,Arkansas,J. Sam,29,0,2,0,0,2,2,0,5,5,2,0,0,0,3,2
+28307,400830779,2582,Southern,away,8,Arkansas,D. Allen,14,1,2,0,0,0,2,1,1,2,0,0,0,2,2,2
+28308,400830779,2582,Southern,away,8,Arkansas,A. Rodgers,34,4,11,2,4,2,2,1,1,2,0,1,0,5,4,12
+28309,400830779,2582,Southern,away,8,Arkansas,C. Hyder,34,8,12,0,0,6,8,1,4,5,4,5,0,3,0,22
+28310,400830779,2582,Southern,away,8,Arkansas,T. Banks,34,1,10,1,3,5,6,0,0,0,2,1,0,5,2,8
+28311,400830779,2582,Southern,away,8,Arkansas,S. Prudhomme,20,4,8,1,4,0,0,0,2,2,1,1,1,0,2,9
+28312,400830779,2582,Southern,away,8,Arkansas,T. Nunn,16,1,3,0,0,0,1,0,4,4,0,0,4,1,5,2
+28313,400830779,2582,Southern,away,8,Arkansas,C. Thomas,19,3,5,0,1,5,7,1,1,2,0,0,0,1,4,11
+28314,400830779,8,Arkansas,home,2582,Southern,K. Miles,15,2,5,0,0,0,1,2,2,4,2,0,1,1,4,4
+28315,400830779,8,Arkansas,home,2582,Southern,M. Kingsley,24,8,8,0,0,6,11,6,6,12,1,3,5,2,5,22
+28316,400830779,8,Arkansas,home,2582,Southern,D. Hannahs,31,6,13,5,7,4,4,0,2,2,2,0,0,1,3,21
+28317,400830779,8,Arkansas,home,2582,Southern,J. Durham,34,3,6,1,2,0,0,0,4,4,10,5,0,6,2,7
+28318,400830779,8,Arkansas,home,2582,Southern,J. Whitt,26,5,12,0,0,2,2,0,1,1,2,2,0,1,3,12
+28319,400830779,8,Arkansas,home,2582,Southern,T. Thompson,17,1,4,0,0,0,2,0,4,4,1,0,0,0,2,2
+28320,400830779,8,Arkansas,home,2582,Southern,W. Kouassi,8,0,0,0,0,1,2,1,2,3,0,0,0,0,0,1
+28321,400830779,8,Arkansas,home,2582,Southern,M. Watkins,18,1,6,0,0,1,4,4,1,5,2,0,0,0,3,3
+28322,400830779,8,Arkansas,home,2582,Southern,A. Bell,27,6,12,2,6,0,0,0,3,3,1,0,0,3,2,14
+28323,400835229,202,Tulsa,home,41,Connecticut,D. Wright,15,0,1,0,0,0,0,0,3,3,1,0,0,1,1,0
+28324,400835229,202,Tulsa,home,41,Connecticut,R. Smith,22,1,7,0,2,2,3,0,0,0,1,1,0,0,0,4
+28325,400835229,202,Tulsa,home,41,Connecticut,S. Harrison,31,5,10,0,2,3,4,0,8,8,3,1,1,1,2,13
+28326,400835229,202,Tulsa,home,41,Connecticut,J. Woodard,31,6,12,4,9,4,4,2,7,9,0,0,1,2,3,20
+28327,400835229,202,Tulsa,home,41,Connecticut,P. Birt,34,2,10,1,7,1,3,0,7,7,1,2,0,0,1,6
+28328,400835229,202,Tulsa,home,41,Connecticut,B. Swannegan,25,2,3,0,0,5,8,2,2,4,0,0,0,0,1,9
+28329,400835229,202,Tulsa,home,41,Connecticut,M. Curtis,11,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+28330,400835229,202,Tulsa,home,41,Connecticut,R. Ray,20,2,6,1,3,3,4,0,1,1,2,2,0,1,2,8
+28331,400835229,202,Tulsa,home,41,Connecticut,S. Taplin,11,0,2,0,2,0,0,0,2,2,2,0,0,1,0,0
+28332,400835237,202,Tulsa,away,41,Connecticut,R. Smith,18,2,5,0,1,0,0,2,1,3,0,1,0,5,0,4
+28333,400835237,202,Tulsa,away,41,Connecticut,B. Swannegan,26,1,2,0,0,0,1,0,1,1,0,2,0,1,2,2
+28334,400835237,202,Tulsa,away,41,Connecticut,J. Woodard,36,1,10,0,6,2,4,1,5,6,2,1,0,3,3,4
+28335,400835237,202,Tulsa,away,41,Connecticut,S. Harrison,29,4,8,0,1,4,6,4,3,7,4,3,0,2,4,12
+28336,400835237,202,Tulsa,away,41,Connecticut,P. Birt,27,8,13,6,9,2,3,0,2,2,2,0,0,2,3,24
+28337,400835237,202,Tulsa,away,41,Connecticut,D. Wright,13,2,3,0,0,2,5,0,0,0,0,0,0,0,1,6
+28338,400835237,202,Tulsa,away,41,Connecticut,R. Ray,16,3,6,1,3,0,0,2,1,3,2,1,0,0,1,7
+28339,400835237,202,Tulsa,away,41,Connecticut,M. Curtis,35,4,5,2,2,4,6,4,2,6,2,0,0,2,2,14
+28340,400835246,2567,SMU,away,202,Tulsa,J. Tolbert,20,1,5,0,0,0,0,1,6,7,0,0,1,1,4,2
+28341,400835246,2567,SMU,away,202,Tulsa,B. Moore,30,5,9,0,0,1,1,5,5,10,2,1,2,1,3,11
+28342,400835246,2567,SMU,away,202,Tulsa,S. Milton,34,8,10,7,8,1,2,0,0,0,1,0,0,0,2,24
+28343,400835246,2567,SMU,away,202,Tulsa,S. Brown,31,3,4,0,1,2,4,2,1,3,6,1,0,4,3,8
+28344,400835246,2567,SMU,away,202,Tulsa,N. Moore,35,8,15,3,5,4,4,0,2,2,2,1,0,2,3,23
+28345,400835246,2567,SMU,away,202,Tulsa,M. Kennedy,26,4,6,0,0,1,2,2,2,4,2,0,2,1,2,9
+28346,400835246,2567,SMU,away,202,Tulsa,J. Foster,4,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0
+28347,400835246,2567,SMU,away,202,Tulsa,K. Frazier,20,2,6,0,1,0,0,0,2,2,1,1,0,1,1,4
+28348,400835246,202,Tulsa,home,2567,SMU,D. Wright,25,6,9,0,2,2,3,3,3,6,0,0,1,3,2,14
+28349,400835246,202,Tulsa,home,2567,SMU,R. Smith,31,4,9,0,1,0,2,3,0,3,1,1,0,1,2,8
+28350,400835246,202,Tulsa,home,2567,SMU,J. Woodard,36,8,14,5,11,1,3,1,3,4,0,0,0,0,0,22
+28351,400835246,202,Tulsa,home,2567,SMU,S. Harrison,34,5,10,0,1,5,6,3,5,8,5,1,0,1,3,15
+28352,400835246,202,Tulsa,home,2567,SMU,M. Curtis,20,1,7,0,1,0,0,2,1,3,2,1,0,1,0,2
+28353,400835246,202,Tulsa,home,2567,SMU,B. Swannegan,19,1,2,0,0,3,6,1,1,2,1,2,0,0,3,5
+28354,400835246,202,Tulsa,home,2567,SMU,R. Ray,22,1,4,1,2,0,2,1,0,1,3,1,0,1,2,3
+28355,400835246,202,Tulsa,home,2567,SMU,P. Birt,13,0,4,0,2,0,0,0,0,0,1,0,0,0,2,0
+28356,400835249,202,Tulsa,away,2132,Cincinnati,D. Wright,12,0,2,0,0,0,0,2,0,2,1,0,0,2,5,0
+28357,400835249,202,Tulsa,away,2132,Cincinnati,R. Smith,23,3,5,0,0,1,2,3,1,4,0,1,2,1,2,7
+28358,400835249,202,Tulsa,away,2132,Cincinnati,S. Harrison,34,6,15,1,3,8,9,0,2,2,6,2,0,2,1,21
+28359,400835249,202,Tulsa,away,2132,Cincinnati,J. Woodard,29,3,11,1,7,2,4,1,1,2,1,2,0,3,1,9
+28360,400835249,202,Tulsa,away,2132,Cincinnati,P. Birt,36,3,8,2,4,5,6,1,5,6,3,0,0,2,1,13
+28361,400835249,202,Tulsa,away,2132,Cincinnati,B. Swannegan,15,0,1,0,0,1,4,0,1,1,0,0,0,0,3,1
+28362,400835249,202,Tulsa,away,2132,Cincinnati,E. Ezechinonso,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28363,400835249,202,Tulsa,away,2132,Cincinnati,M. Curtis,19,1,4,0,2,0,0,1,3,4,3,0,0,1,1,2
+28364,400835249,202,Tulsa,away,2132,Cincinnati,R. Ray,17,1,4,0,3,0,0,0,2,2,0,1,0,2,0,2
+28365,400835249,202,Tulsa,away,2132,Cincinnati,S. Taplin,10,1,4,0,2,0,0,0,2,2,0,0,0,1,0,2
+28366,400835252,151,East Carolina,away,202,Tulsa,K. Aja,26,4,11,0,0,1,2,5,6,11,0,0,0,0,1,9
+28367,400835252,151,East Carolina,away,202,Tulsa,C. Williams,23,2,3,0,1,0,0,2,4,6,1,2,1,4,3,4
+28368,400835252,151,East Carolina,away,202,Tulsa,C. White,29,3,12,1,6,0,0,2,4,6,0,1,0,6,1,7
+28369,400835252,151,East Carolina,away,202,Tulsa,P. Williams,23,1,5,0,2,0,0,0,4,4,1,0,0,1,0,2
+28370,400835252,151,East Carolina,away,202,Tulsa,B.J. Tyson,38,4,13,0,5,0,0,2,1,3,0,1,0,4,1,8
+28371,400835252,151,East Carolina,away,202,Tulsa,M. Nzege,11,0,4,0,0,0,0,1,1,2,0,0,0,2,4,0
+28372,400835252,151,East Carolina,away,202,Tulsa,L. Tejada,16,0,4,0,1,3,3,0,3,3,1,2,0,2,2,3
+28373,400835252,151,East Carolina,away,202,Tulsa,C. Foster,5,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+28374,400835252,151,East Carolina,away,202,Tulsa,K. Barkley,29,3,5,1,1,3,4,1,3,4,2,2,0,1,1,10
+28375,400835252,202,Tulsa,home,151,East Carolina,R. Smith,35,10,13,0,1,0,1,4,5,9,2,1,1,4,2,20
+28376,400835252,202,Tulsa,home,151,East Carolina,D. Wright,19,2,4,0,0,0,0,3,1,4,1,1,1,0,2,4
+28377,400835252,202,Tulsa,home,151,East Carolina,S. Harrison,32,2,10,0,2,0,0,3,4,7,5,2,1,2,1,4
+28378,400835252,202,Tulsa,home,151,East Carolina,M. Curtis,31,2,8,1,4,0,0,2,3,5,3,2,0,4,1,5
+28379,400835252,202,Tulsa,home,151,East Carolina,P. Birt,13,0,6,0,5,0,0,1,1,2,1,1,0,1,2,0
+28380,400835252,202,Tulsa,home,151,East Carolina,B. Swannegan,19,2,6,0,0,1,2,2,4,6,0,0,2,3,2,5
+28381,400835252,202,Tulsa,home,151,East Carolina,R. Ray,32,4,12,3,10,0,0,1,2,3,2,1,0,1,2,11
+28382,400835252,202,Tulsa,home,151,East Carolina,S. Taplin,19,2,8,2,6,0,0,0,4,4,2,1,0,1,2,6
+28383,400835258,202,Tulsa,away,2655,Tulane,D. Wright,22,3,6,0,1,0,0,0,2,2,0,1,0,0,5,6
+28384,400835258,202,Tulsa,away,2655,Tulane,R. Smith,20,0,0,0,0,0,0,0,1,1,0,0,0,2,2,0
+28385,400835258,202,Tulsa,away,2655,Tulane,S. Harrison,35,5,12,1,3,0,1,0,1,1,7,2,1,0,2,11
+28386,400835258,202,Tulsa,away,2655,Tulane,J. Woodard,34,6,10,5,6,4,5,0,4,4,1,1,2,1,0,21
+28387,400835258,202,Tulsa,away,2655,Tulane,P. Birt,31,9,16,7,10,2,5,1,3,4,0,0,0,1,2,27
+28388,400835258,202,Tulsa,away,2655,Tulane,B. Swannegan,19,3,4,0,0,0,2,1,3,4,0,0,1,0,0,6
+28389,400835258,202,Tulsa,away,2655,Tulane,M. Curtis,18,3,3,0,0,0,1,0,2,2,3,1,0,2,1,6
+28390,400835258,202,Tulsa,away,2655,Tulane,R. Ray,14,2,2,0,0,0,0,0,0,0,1,2,0,2,2,4
+28391,400835258,202,Tulsa,away,2655,Tulane,S. Taplin,7,0,0,0,0,0,0,0,2,2,1,0,0,0,2,0
+28392,400835258,2655,Tulane,home,202,Tulsa,D. Osetkowski,35,7,13,1,1,3,5,8,6,14,2,0,0,3,1,18
+28393,400835258,2655,Tulane,home,202,Tulsa,L. Dabney,34,3,14,0,7,5,6,0,2,2,2,0,0,0,3,11
+28394,400835258,2655,Tulane,home,202,Tulsa,M. Morgan,28,4,10,2,6,0,4,2,1,3,1,0,0,1,5,10
+28395,400835258,2655,Tulane,home,202,Tulsa,C. Reynolds,21,0,6,0,4,0,0,2,3,5,0,1,0,1,0,0
+28396,400835258,2655,Tulane,home,202,Tulsa,R. Smith,10,2,2,0,0,0,0,1,0,1,0,1,0,0,1,4
+28397,400835258,2655,Tulane,home,202,Tulsa,J. Jarreau,20,2,5,0,2,0,0,1,3,4,3,0,1,0,2,4
+28398,400835258,2655,Tulane,home,202,Tulsa,B. Paul,10,1,1,0,0,0,0,1,2,3,0,0,1,0,0,2
+28399,400835258,2655,Tulane,home,202,Tulsa,M. Frazier,13,1,4,0,2,3,4,4,3,7,0,1,0,1,0,5
+28400,400835258,2655,Tulane,home,202,Tulsa,K. Harris,19,4,9,1,5,2,2,0,1,1,0,0,0,1,0,11
+28401,400835258,2655,Tulane,home,202,Tulsa,V. Julien,10,1,1,0,0,0,0,0,1,1,0,0,0,1,0,2
+28402,400835268,202,Tulsa,away,151,East Carolina,D. Wright,7,0,1,0,0,0,0,0,0,0,0,1,0,0,3,0
+28403,400835268,202,Tulsa,away,151,East Carolina,R. Smith,25,5,8,0,0,2,4,1,2,3,2,1,0,3,1,12
+28404,400835268,202,Tulsa,away,151,East Carolina,S. Harrison,35,5,9,0,0,0,1,1,7,8,10,4,2,2,2,10
+28405,400835268,202,Tulsa,away,151,East Carolina,J. Woodard,31,6,9,4,6,6,7,1,4,5,3,3,0,1,2,22
+28406,400835268,202,Tulsa,away,151,East Carolina,P. Birt,31,7,12,6,11,0,0,0,3,3,0,1,1,1,3,20
+28407,400835268,202,Tulsa,away,151,East Carolina,B. Swannegan,25,2,3,0,0,2,2,2,2,4,1,0,0,1,1,6
+28408,400835268,202,Tulsa,away,151,East Carolina,M. Curtis,23,1,7,1,4,0,0,0,2,2,3,2,0,0,2,3
+28409,400835268,202,Tulsa,away,151,East Carolina,R. Ray,19,4,8,3,5,0,0,0,1,1,3,0,0,1,4,11
+28410,400835268,202,Tulsa,away,151,East Carolina,S. Taplin,4,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+28411,400835268,151,East Carolina,home,202,Tulsa,K. Aja,11,1,1,0,0,0,3,0,2,2,0,0,0,1,2,2
+28412,400835268,151,East Carolina,home,202,Tulsa,C. Williams,17,1,3,0,1,0,0,1,2,3,0,0,1,2,2,2
+28413,400835268,151,East Carolina,home,202,Tulsa,B.J. Tyson,29,6,12,2,5,2,2,0,4,4,4,1,0,3,3,16
+28414,400835268,151,East Carolina,home,202,Tulsa,C. White,34,5,9,3,6,0,1,0,2,2,4,0,0,3,2,13
+28415,400835268,151,East Carolina,home,202,Tulsa,P. Williams,26,4,7,3,4,2,2,0,2,2,2,1,1,3,1,13
+28416,400835268,151,East Carolina,home,202,Tulsa,M. Zangari,4,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+28417,400835268,151,East Carolina,home,202,Tulsa,M. Nzege,25,3,5,0,0,0,0,2,5,7,0,0,2,0,2,6
+28418,400835268,151,East Carolina,home,202,Tulsa,L. Tejada,21,1,4,1,4,4,5,0,0,0,0,0,0,2,1,7
+28419,400835268,151,East Carolina,home,202,Tulsa,K. Barkley,33,1,4,0,2,8,10,3,6,9,4,0,0,4,2,10
+28420,400835276,2116,UCF,away,202,Tulsa,A.J. Davis,33,3,8,2,4,0,0,0,3,3,2,1,0,4,3,8
+28421,400835276,2116,UCF,away,202,Tulsa,T. Fall,15,2,2,0,0,0,0,1,9,10,0,0,2,3,3,4
+28422,400835276,2116,UCF,away,202,Tulsa,D. Walker,27,2,6,0,2,0,0,1,2,3,0,0,0,2,3,4
+28423,400835276,2116,UCF,away,202,Tulsa,M. Williams,26,3,9,1,3,2,3,0,4,4,0,0,0,0,1,9
+28424,400835276,2116,UCF,away,202,Tulsa,A. Henriquez,29,1,6,1,4,0,0,0,2,2,4,0,0,1,3,3
+28425,400835276,2116,UCF,away,202,Tulsa,S. Davis,20,2,4,1,2,1,1,0,3,3,0,0,0,3,4,6
+28426,400835276,2116,UCF,away,202,Tulsa,S. Blair,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28427,400835276,2116,UCF,away,202,Tulsa,T. Efianayi,16,1,3,0,1,2,2,0,2,2,0,2,0,0,4,4
+28428,400835276,2116,UCF,away,202,Tulsa,J. McBride,18,6,10,0,0,3,6,4,3,7,0,0,0,5,3,15
+28429,400835276,2116,UCF,away,202,Tulsa,C. McSpadden,13,3,3,1,1,0,0,0,0,0,0,0,0,0,1,7
+28430,400835276,202,Tulsa,home,2116,UCF,D. Wright,10,1,3,0,0,0,0,1,3,4,0,0,0,0,4,2
+28431,400835276,202,Tulsa,home,2116,UCF,R. Smith,16,2,8,0,1,0,1,5,2,7,0,0,1,0,3,4
+28432,400835276,202,Tulsa,home,2116,UCF,S. Harrison,35,3,10,1,3,1,2,1,3,4,5,3,0,2,1,8
+28433,400835276,202,Tulsa,home,2116,UCF,J. Woodard,36,3,14,2,12,10,11,1,9,10,6,0,1,1,0,18
+28434,400835276,202,Tulsa,home,2116,UCF,P. Birt,31,4,14,3,10,1,2,2,2,4,1,0,0,0,1,12
+28435,400835276,202,Tulsa,home,2116,UCF,B. Swannegan,26,6,8,0,0,5,7,7,1,8,0,1,0,1,3,17
+28436,400835276,202,Tulsa,home,2116,UCF,M. Curtis,16,0,4,0,1,2,2,0,2,2,1,0,1,1,1,2
+28437,400835276,202,Tulsa,home,2116,UCF,R. Ray,28,5,8,2,5,0,2,0,3,3,2,1,0,0,2,12
+28438,400835276,202,Tulsa,home,2116,UCF,S. Taplin,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28439,400835279,202,Tulsa,away,248,Houston,D. Wright,12,1,1,0,0,0,0,1,0,1,0,0,0,2,2,2
+28440,400835279,202,Tulsa,away,248,Houston,R. Smith,30,3,12,0,1,1,3,4,4,8,0,0,1,0,0,7
+28441,400835279,202,Tulsa,away,248,Houston,S. Harrison,29,7,13,0,0,1,3,1,5,6,3,1,0,1,3,15
+28442,400835279,202,Tulsa,away,248,Houston,J. Woodard,34,2,8,0,4,6,8,1,3,4,1,0,0,0,2,10
+28443,400835279,202,Tulsa,away,248,Houston,P. Birt,30,4,16,3,13,5,5,2,3,5,0,1,0,0,3,16
+28444,400835279,202,Tulsa,away,248,Houston,B. Swannegan,14,2,5,0,0,0,0,3,0,3,0,0,1,0,3,4
+28445,400835279,202,Tulsa,away,248,Houston,M. Curtis,24,1,4,0,2,4,6,2,3,5,1,0,0,1,0,6
+28446,400835279,202,Tulsa,away,248,Houston,R. Ray,21,1,5,0,4,2,2,0,1,1,1,2,0,1,4,4
+28447,400835279,202,Tulsa,away,248,Houston,S. Taplin,6,1,3,0,2,0,1,0,2,2,1,0,0,0,1,2
+28448,400835279,248,Houston,home,202,Tulsa,D. Knowles,29,5,9,0,0,1,2,1,5,6,0,0,0,1,3,11
+28449,400835279,248,Houston,home,202,Tulsa,K. Meyer,14,0,2,0,0,0,0,2,2,4,0,0,1,0,2,0
+28450,400835279,248,Houston,home,202,Tulsa,D. Dotson,30,2,6,0,1,5,5,4,5,9,1,1,0,2,3,9
+28451,400835279,248,Houston,home,202,Tulsa,R. Gray Jr.,26,5,15,2,8,4,5,0,2,2,3,0,0,1,3,16
+28452,400835279,248,Houston,home,202,Tulsa,G. Robinson Jr.,29,8,11,3,5,0,0,0,3,3,4,0,0,3,4,19
+28453,400835279,248,Houston,home,202,Tulsa,X. Dupree,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+28454,400835279,248,Houston,home,202,Tulsa,D. Pollard,21,5,8,0,0,2,3,3,7,10,1,0,2,0,5,12
+28455,400835279,248,Houston,home,202,Tulsa,W. VanBeck,11,0,1,0,1,4,4,0,2,2,0,0,0,1,0,4
+28456,400835279,248,Houston,home,202,Tulsa,L. Barnes,21,2,4,1,3,0,0,2,4,6,0,0,2,1,1,5
+28457,400835279,248,Houston,home,202,Tulsa,E. Weary Jr.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28458,400835279,248,Houston,home,202,Tulsa,R. Johnson,17,0,2,0,0,5,6,0,1,1,3,0,0,2,1,5
+28459,400835282,2655,Tulane,away,202,Tulsa,D. Osetkowski,30,2,10,0,1,4,4,2,6,8,1,2,1,8,3,8
+28460,400835282,2655,Tulane,away,202,Tulsa,M. Morgan,24,2,7,1,5,0,0,1,3,4,3,0,0,1,4,5
+28461,400835282,2655,Tulane,away,202,Tulsa,C. Reynolds,28,4,12,1,3,0,0,1,6,7,1,1,0,3,3,9
+28462,400835282,2655,Tulane,away,202,Tulsa,V. Julien,24,0,2,0,1,0,0,0,2,2,0,0,0,3,1,0
+28463,400835282,2655,Tulane,away,202,Tulsa,R. Smith,18,2,3,0,0,0,0,2,2,4,1,0,0,0,0,4
+28464,400835282,2655,Tulane,away,202,Tulsa,B. Paul,9,1,2,0,0,1,2,2,0,2,0,0,1,0,1,3
+28465,400835282,2655,Tulane,away,202,Tulsa,L. Dabney,32,5,14,2,7,5,5,0,4,4,2,5,0,2,2,17
+28466,400835282,2655,Tulane,away,202,Tulsa,M. Frazier,19,0,2,0,0,0,0,1,1,2,0,3,0,3,2,0
+28467,400835282,2655,Tulane,away,202,Tulsa,K. Harris,16,1,7,0,3,0,0,1,0,1,1,0,0,1,2,2
+28468,400835282,202,Tulsa,home,2655,Tulane,R. Smith,15,0,4,0,1,1,2,0,2,2,1,1,0,2,4,1
+28469,400835282,202,Tulsa,home,2655,Tulane,B. Swannegan,29,8,10,0,0,3,5,3,8,11,0,0,1,1,2,19
+28470,400835282,202,Tulsa,home,2655,Tulane,J. Woodard,35,2,9,1,5,5,8,0,6,6,2,3,1,3,2,10
+28471,400835282,202,Tulsa,home,2655,Tulane,S. Harrison,36,1,4,0,0,3,4,1,2,3,5,2,0,6,0,5
+28472,400835282,202,Tulsa,home,2655,Tulane,P. Birt,29,3,8,2,5,1,1,0,1,1,0,0,1,2,2,9
+28473,400835282,202,Tulsa,home,2655,Tulane,D. Wright,13,2,5,0,1,0,0,1,3,4,0,0,1,4,4,4
+28474,400835282,202,Tulsa,home,2655,Tulane,R. Ray,22,1,3,0,0,0,0,0,3,3,3,4,0,1,2,2
+28475,400835282,202,Tulsa,home,2655,Tulane,S. Taplin,21,4,4,1,1,3,4,0,3,3,1,0,0,3,0,12
+28476,400835286,202,Tulsa,away,218,Temple,R. Smith,12,2,4,0,0,2,3,1,2,3,1,0,0,2,4,6
+28477,400835286,202,Tulsa,away,218,Temple,B. Swannegan,33,0,4,0,0,0,0,1,2,3,0,0,2,1,2,0
+28478,400835286,202,Tulsa,away,218,Temple,J. Woodard,42,7,15,2,8,2,2,2,8,10,6,2,0,3,2,18
+28479,400835286,202,Tulsa,away,218,Temple,S. Harrison,41,10,20,0,2,0,1,0,11,11,6,0,0,3,1,20
+28480,400835286,202,Tulsa,away,218,Temple,P. Birt,40,6,14,5,12,5,5,0,6,6,1,2,0,1,1,22
+28481,400835286,202,Tulsa,away,218,Temple,D. Wright,11,1,2,0,0,0,0,1,1,2,0,0,0,0,2,2
+28482,400835286,202,Tulsa,away,218,Temple,R. Ray,17,2,5,1,3,2,2,0,2,2,0,0,0,0,3,7
+28483,400835286,202,Tulsa,away,218,Temple,M. Curtis,20,2,5,0,0,0,1,3,1,4,2,0,0,1,3,4
+28484,400835286,202,Tulsa,away,218,Temple,S. Taplin,9,0,1,0,1,0,0,0,1,1,0,0,0,1,1,0
+28485,400835290,248,Houston,away,202,Tulsa,D. Knowles,14,0,2,0,0,0,0,0,1,1,0,0,1,1,1,0
+28486,400835290,248,Houston,away,202,Tulsa,K. Meyer,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28487,400835290,248,Houston,away,202,Tulsa,D. Dotson,37,9,17,4,10,1,1,1,1,2,0,0,0,2,1,23
+28488,400835290,248,Houston,away,202,Tulsa,R. Johnson,32,4,8,3,4,2,2,0,2,2,2,2,0,3,2,13
+28489,400835290,248,Houston,away,202,Tulsa,G. Robinson Jr.,17,2,7,1,2,0,0,0,0,0,2,1,0,0,1,5
+28490,400835290,248,Houston,away,202,Tulsa,B. Nkali,11,0,0,0,0,0,0,1,1,2,1,0,0,0,5,0
+28491,400835290,248,Houston,away,202,Tulsa,X. Dupree,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28492,400835290,248,Houston,away,202,Tulsa,D. Pollard,27,4,5,0,0,5,6,2,1,3,3,0,0,0,3,13
+28493,400835290,248,Houston,away,202,Tulsa,W. VanBeck,9,0,2,0,2,0,0,0,4,4,0,0,0,1,0,0
+28494,400835290,248,Houston,away,202,Tulsa,L. Barnes,36,2,6,2,4,0,0,0,2,2,2,0,1,2,2,6
+28495,400835290,248,Houston,away,202,Tulsa,E. Weary Jr.,8,1,2,1,2,0,0,0,0,0,2,0,0,0,1,3
+28496,400835290,202,Tulsa,home,248,Houston,R. Smith,28,4,6,0,0,4,6,4,0,4,2,1,0,1,2,12
+28497,400835290,202,Tulsa,home,248,Houston,B. Swannegan,28,4,6,0,0,0,0,4,4,8,0,0,3,1,3,8
+28498,400835290,202,Tulsa,home,248,Houston,J. Woodard,34,5,13,2,6,3,4,0,1,1,2,3,0,1,0,15
+28499,400835290,202,Tulsa,home,248,Houston,S. Harrison,34,3,6,0,1,4,4,1,3,4,5,1,0,2,3,10
+28500,400835290,202,Tulsa,home,248,Houston,P. Birt,35,10,18,5,10,2,3,1,5,6,1,0,0,0,0,27
+28501,400835290,202,Tulsa,home,248,Houston,D. Wright,10,0,1,0,0,0,0,1,0,1,0,0,0,1,2,0
+28502,400835290,202,Tulsa,home,248,Houston,R. Ray,9,1,1,1,1,0,2,0,1,1,1,0,0,0,1,3
+28503,400835290,202,Tulsa,home,248,Houston,M. Curtis,15,1,2,0,0,0,0,1,2,3,3,0,1,0,0,2
+28504,400835290,202,Tulsa,home,248,Houston,S. Taplin,7,0,1,0,1,0,0,0,1,1,0,0,0,1,2,0
+28505,400835294,202,Tulsa,away,2567,SMU,R. Smith,17,3,4,0,0,0,0,2,3,5,3,1,0,0,4,6
+28506,400835294,202,Tulsa,away,2567,SMU,B. Swannegan,15,4,5,0,0,0,0,2,1,3,1,1,1,1,4,8
+28507,400835294,202,Tulsa,away,2567,SMU,J. Woodard,38,5,13,2,6,8,9,1,1,2,3,2,1,1,1,20
+28508,400835294,202,Tulsa,away,2567,SMU,S. Harrison,37,9,13,0,1,3,4,0,5,5,8,2,0,2,3,21
+28509,400835294,202,Tulsa,away,2567,SMU,P. Birt,37,6,9,4,6,1,2,1,4,5,0,2,0,2,2,17
+28510,400835294,202,Tulsa,away,2567,SMU,D. Wright,20,4,6,0,0,0,0,0,2,2,2,0,0,1,2,8
+28511,400835294,202,Tulsa,away,2567,SMU,R. Ray,14,0,2,0,1,0,0,0,0,0,2,0,0,2,0,0
+28512,400835294,202,Tulsa,away,2567,SMU,M. Curtis,19,0,1,0,1,2,2,0,2,2,0,0,0,2,1,2
+28513,400835294,202,Tulsa,away,2567,SMU,S. Taplin,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28514,400835294,2567,SMU,home,202,Tulsa,J. Tolbert,19,4,8,0,0,1,6,2,1,3,1,1,0,0,1,9
+28515,400835294,2567,SMU,home,202,Tulsa,B. Moore,37,2,7,0,0,0,0,5,6,11,3,0,3,2,1,4
+28516,400835294,2567,SMU,home,202,Tulsa,S. Brown,39,2,8,2,6,3,4,1,2,3,2,1,0,1,3,9
+28517,400835294,2567,SMU,home,202,Tulsa,N. Moore,33,10,17,6,10,1,2,0,3,3,3,1,0,5,4,27
+28518,400835294,2567,SMU,home,202,Tulsa,S. Milton,33,3,9,2,5,2,2,0,0,0,5,1,1,3,2,10
+28519,400835294,2567,SMU,home,202,Tulsa,M. Kennedy,22,5,8,0,1,3,4,4,2,6,4,1,1,2,2,13
+28520,400835294,2567,SMU,home,202,Tulsa,J. Wilfong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28521,400835294,2567,SMU,home,202,Tulsa,J. Foster,17,2,6,1,1,0,0,5,2,7,2,0,0,0,3,5
+28522,400835302,202,Tulsa,home,2132,Cincinnati,R. Smith,30,6,10,0,0,0,2,2,5,7,0,2,0,0,3,12
+28523,400835302,202,Tulsa,home,2132,Cincinnati,B. Swannegan,18,1,4,0,0,1,2,2,3,5,0,0,1,1,4,3
+28524,400835302,202,Tulsa,home,2132,Cincinnati,J. Woodard,40,8,15,3,7,0,0,0,9,9,1,0,0,2,0,19
+28525,400835302,202,Tulsa,home,2132,Cincinnati,S. Harrison,39,4,13,0,1,3,3,1,7,8,3,2,0,1,2,11
+28526,400835302,202,Tulsa,home,2132,Cincinnati,P. Birt,37,3,11,1,3,6,7,0,0,0,0,1,0,1,2,13
+28527,400835302,202,Tulsa,home,2132,Cincinnati,D. Wright,27,1,4,0,0,3,4,1,5,6,1,0,0,0,3,5
+28528,400835302,202,Tulsa,home,2132,Cincinnati,R. Ray,13,0,0,0,0,0,0,0,1,1,1,2,0,3,0,0
+28529,400835302,202,Tulsa,home,2132,Cincinnati,M. Curtis,21,2,5,1,2,2,2,1,0,1,2,0,0,3,2,7
+28530,400835304,202,Tulsa,away,2116,UCF,R. Smith,20,4,6,0,0,1,2,1,3,4,0,0,1,0,2,9
+28531,400835304,202,Tulsa,away,2116,UCF,B. Swannegan,9,0,0,0,0,1,2,0,0,0,0,0,1,1,4,1
+28532,400835304,202,Tulsa,away,2116,UCF,J. Woodard,35,2,9,2,6,4,4,0,3,3,1,0,1,1,0,10
+28533,400835304,202,Tulsa,away,2116,UCF,S. Harrison,32,6,9,0,0,2,7,0,4,4,3,1,1,4,2,14
+28534,400835304,202,Tulsa,away,2116,UCF,P. Birt,32,8,16,4,8,6,9,1,3,4,0,0,1,0,0,26
+28535,400835304,202,Tulsa,away,2116,UCF,D. Wright,26,1,4,0,0,3,4,1,1,2,2,1,0,0,2,5
+28536,400835304,202,Tulsa,away,2116,UCF,R. Ray,10,0,2,0,2,0,0,0,1,1,1,1,0,0,0,0
+28537,400835304,202,Tulsa,away,2116,UCF,M. Curtis,33,5,9,0,1,0,0,4,7,11,4,2,0,1,1,10
+28538,400835304,202,Tulsa,away,2116,UCF,S. Taplin,3,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+28539,400835304,2116,UCF,home,202,Tulsa,A.J. Davis,32,3,10,1,3,2,2,2,6,8,4,2,0,2,1,9
+28540,400835304,2116,UCF,home,202,Tulsa,T. Fall,6,2,2,0,0,2,2,1,1,2,1,0,1,1,4,6
+28541,400835304,2116,UCF,home,202,Tulsa,A. Henriquez,29,3,9,3,6,0,0,1,1,2,1,2,0,1,2,9
+28542,400835304,2116,UCF,home,202,Tulsa,M. Williams,35,7,15,2,9,0,0,1,0,1,1,0,0,0,1,16
+28543,400835304,2116,UCF,home,202,Tulsa,C. McSpadden,26,5,11,1,2,1,1,1,4,5,0,0,1,5,2,12
+28544,400835304,2116,UCF,home,202,Tulsa,S. Blair,17,2,4,0,0,2,2,1,3,4,0,0,3,1,3,6
+28545,400835304,2116,UCF,home,202,Tulsa,S. Davis,8,0,2,0,2,0,0,0,4,4,0,0,0,1,1,0
+28546,400835304,2116,UCF,home,202,Tulsa,C. Brown,8,0,4,0,0,0,0,2,0,2,0,0,0,0,1,0
+28547,400835304,2116,UCF,home,202,Tulsa,J. McBride,13,3,4,0,0,3,4,2,3,5,1,1,1,1,1,9
+28548,400835304,2116,UCF,home,202,Tulsa,D. Walker,26,0,4,0,2,0,0,0,3,3,6,2,0,0,5,0
+28549,400835307,202,Tulsa,home,218,Temple,B. Swannegan,22,3,6,0,0,1,1,2,2,4,1,1,1,0,0,7
+28550,400835307,202,Tulsa,home,218,Temple,J. Woodard,34,5,11,3,9,2,2,1,5,6,8,1,0,2,1,15
+28551,400835307,202,Tulsa,home,218,Temple,S. Harrison,31,1,9,0,2,3,5,2,7,9,2,1,0,1,3,5
+28552,400835307,202,Tulsa,home,218,Temple,M. Curtis,34,6,10,1,2,0,1,1,6,7,1,1,0,0,2,13
+28553,400835307,202,Tulsa,home,218,Temple,P. Birt,37,7,15,3,9,6,6,0,2,2,3,0,1,0,2,23
+28554,400835307,202,Tulsa,home,218,Temple,D. Wright,18,3,4,0,0,0,0,0,4,4,0,0,1,3,1,6
+28555,400835307,202,Tulsa,home,218,Temple,R. Ray,18,2,5,1,1,0,0,0,2,2,0,1,0,0,2,5
+28556,400835307,202,Tulsa,home,218,Temple,N. Wood,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28557,400835307,202,Tulsa,home,218,Temple,S. Taplin,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+28558,400835314,202,Tulsa,away,235,Memphis,B. Swannegan,14,2,4,0,0,0,0,0,0,0,1,0,0,0,4,4
+28559,400835314,202,Tulsa,away,235,Memphis,J. Woodard,39,6,13,2,8,0,0,0,4,4,4,0,0,2,1,14
+28560,400835314,202,Tulsa,away,235,Memphis,S. Harrison,33,7,13,0,0,6,7,0,5,5,5,2,0,0,2,20
+28561,400835314,202,Tulsa,away,235,Memphis,M. Curtis,37,6,14,1,3,3,4,2,4,6,0,3,0,1,4,16
+28562,400835314,202,Tulsa,away,235,Memphis,P. Birt,27,2,12,0,8,4,5,0,3,3,1,2,0,4,4,8
+28563,400835314,202,Tulsa,away,235,Memphis,D. Wright,14,0,1,0,0,0,0,1,1,2,0,0,0,0,5,0
+28564,400835314,202,Tulsa,away,235,Memphis,R. Ray,12,1,2,1,2,2,2,0,1,1,2,0,0,0,1,5
+28565,400835314,202,Tulsa,away,235,Memphis,S. Taplin,24,4,5,3,4,4,4,0,1,1,2,1,0,1,3,15
+28566,400835314,235,Memphis,home,202,Tulsa,T. Burrell,36,3,7,2,3,3,4,2,7,9,4,2,2,3,2,11
+28567,400835314,235,Memphis,home,202,Tulsa,S. Goodwin,35,8,12,0,0,12,14,4,7,11,2,0,3,4,2,28
+28568,400835314,235,Memphis,home,202,Tulsa,D. Lawson,39,9,17,1,3,8,11,3,9,12,6,1,1,1,2,27
+28569,400835314,235,Memphis,home,202,Tulsa,R. Tarrant Jr.,19,0,2,0,1,5,6,0,1,1,4,0,0,0,4,5
+28570,400835314,235,Memphis,home,202,Tulsa,K. Johnson,17,5,7,0,1,0,0,0,1,1,1,0,0,5,3,10
+28571,400835314,235,Memphis,home,202,Tulsa,N. Marshall,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28572,400835314,235,Memphis,home,202,Tulsa,J. Martin,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28573,400835314,235,Memphis,home,202,Tulsa,C. Randall II,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+28574,400835314,235,Memphis,home,202,Tulsa,C. Wallingford,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28575,400835314,235,Memphis,home,202,Tulsa,S. Craft,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+28576,400835314,235,Memphis,home,202,Tulsa,A. Woodson,30,1,2,1,1,3,4,0,3,3,1,1,0,0,4,6
+28577,400835314,235,Memphis,home,202,Tulsa,M. Crawford,13,2,3,1,1,0,0,0,1,1,0,0,0,0,1,5
+28578,400835319,58,South Florida,away,202,Tulsa,A. Nunez,36,4,12,0,2,1,2,2,7,9,2,1,1,0,3,9
+28579,400835319,58,South Florida,away,202,Tulsa,B. Zeigler,34,3,6,0,2,2,2,2,3,5,1,1,0,3,3,8
+28580,400835319,58,South Florida,away,202,Tulsa,R. Guerrero,17,2,3,0,0,2,2,2,3,5,0,1,1,1,4,6
+28581,400835319,58,South Florida,away,202,Tulsa,N. Morillo,34,5,10,5,8,2,2,0,2,2,1,1,0,3,3,17
+28582,400835319,58,South Florida,away,202,Tulsa,J. McMurray,22,7,15,5,8,1,2,1,4,5,1,1,0,1,1,20
+28583,400835319,58,South Florida,away,202,Tulsa,C. Perry,13,2,7,0,0,2,3,2,0,2,1,0,0,2,5,6
+28584,400835319,58,South Florida,away,202,Tulsa,J. Cousins,26,1,9,0,0,2,2,4,5,9,0,0,1,2,2,4
+28585,400835319,58,South Florida,away,202,Tulsa,T. Bryant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28586,400835319,58,South Florida,away,202,Tulsa,J. David,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28587,400835319,58,South Florida,away,202,Tulsa,J. Bodway,18,2,2,0,0,0,1,0,0,0,2,0,0,1,4,4
+28588,400835319,202,Tulsa,home,58,South Florida,B. Swannegan,21,6,6,0,0,9,12,2,5,7,0,0,0,0,3,21
+28589,400835319,202,Tulsa,home,58,South Florida,J. Woodard,37,5,12,5,10,3,4,1,5,6,2,1,0,2,3,18
+28590,400835319,202,Tulsa,home,58,South Florida,S. Harrison,26,6,14,0,1,3,5,1,2,3,8,2,0,3,2,15
+28591,400835319,202,Tulsa,home,58,South Florida,N. Wood,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+28592,400835319,202,Tulsa,home,58,South Florida,M. Curtis,30,1,4,0,2,2,4,5,3,8,4,1,2,1,3,4
+28593,400835319,202,Tulsa,home,58,South Florida,R. Smith,7,1,1,0,0,2,2,0,2,2,0,0,1,0,0,4
+28594,400835319,202,Tulsa,home,58,South Florida,D. Wright,19,2,4,0,0,2,2,4,1,5,0,0,0,1,2,6
+28595,400835319,202,Tulsa,home,58,South Florida,R. Ray,17,0,4,0,3,0,1,1,3,4,2,1,0,1,1,0
+28596,400835319,202,Tulsa,home,58,South Florida,P. Birt,31,4,11,3,8,1,2,1,2,3,1,0,0,1,3,12
+28597,400835319,202,Tulsa,home,58,South Florida,S. Taplin,11,1,4,0,3,0,0,0,0,0,1,1,0,0,0,2
+28598,400839257,130,Michigan,away,356,Illinois,R. Doyle,8,0,2,0,0,2,2,0,1,1,0,1,0,0,1,2
+28599,400839257,130,Michigan,away,356,Illinois,D. Robinson,27,3,7,2,5,0,0,1,2,3,2,1,0,2,4,8
+28600,400839257,130,Michigan,away,356,Illinois,D. Walton Jr.,37,3,10,1,3,2,2,1,8,9,1,1,0,3,1,9
+28601,400839257,130,Michigan,away,356,Illinois,Z. Irvin,37,3,8,2,5,0,0,0,4,4,2,0,0,2,2,8
+28602,400839257,130,Michigan,away,356,Illinois,C. LeVert,37,9,16,3,6,1,2,0,5,5,10,0,0,3,2,22
+28603,400839257,130,Michigan,away,356,Illinois,M. Donnal,28,11,15,1,2,3,4,6,3,9,0,2,3,2,3,26
+28604,400839257,130,Michigan,away,356,Illinois,M. Wagner,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28605,400839257,130,Michigan,away,356,Illinois,A. Dawkins,14,1,2,1,2,0,0,0,2,2,1,2,0,2,1,3
+28606,400839257,356,Illinois,home,130,Michigan,M. Finke,26,2,6,1,5,2,2,1,7,8,1,0,1,1,2,7
+28607,400839257,356,Illinois,home,130,Michigan,J. Tate,34,2,5,0,0,2,2,0,2,2,4,1,1,1,4,6
+28608,400839257,356,Illinois,home,130,Michigan,M. Hill,36,3,11,1,3,4,5,1,2,3,3,1,0,3,3,11
+28609,400839257,356,Illinois,home,130,Michigan,K. Nunn,35,9,16,4,7,1,2,2,4,6,1,0,1,3,3,23
+28610,400839257,356,Illinois,home,130,Michigan,M. Morgan,12,3,4,0,0,0,0,0,0,0,1,0,0,2,2,6
+28611,400839257,356,Illinois,home,130,Michigan,A. Jordan,10,0,2,0,2,2,2,0,1,1,1,1,0,0,1,2
+28612,400839257,356,Illinois,home,130,Michigan,D.J. Williams,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+28613,400839257,356,Illinois,home,130,Michigan,A. Austin,15,0,0,0,0,0,0,0,1,1,2,2,0,0,1,0
+28614,400839292,130,Michigan,home,84,Indiana,M. Donnal,30,1,1,0,0,0,1,1,2,3,1,0,1,1,3,2
+28615,400839292,130,Michigan,home,84,Indiana,D. Walton Jr.,28,3,10,1,3,0,0,0,3,3,3,2,0,2,1,7
+28616,400839292,130,Michigan,home,84,Indiana,Z. Irvin,37,6,16,3,6,1,3,1,3,4,4,0,0,3,1,16
+28617,400839292,130,Michigan,home,84,Indiana,D. Robinson,31,6,11,1,5,1,1,0,4,4,0,0,0,3,3,14
+28618,400839292,130,Michigan,home,84,Indiana,M. Wagner,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28619,400839292,130,Michigan,home,84,Indiana,D.J. Wilson,5,3,4,0,0,0,0,2,1,3,0,0,0,0,0,6
+28620,400839292,130,Michigan,home,84,Indiana,R. Doyle,8,2,3,0,0,2,2,2,0,2,0,0,1,0,1,6
+28621,400839292,130,Michigan,home,84,Indiana,K. Chatman,2,1,2,0,1,0,0,0,1,1,0,0,0,0,0,2
+28622,400839292,130,Michigan,home,84,Indiana,A. Dawkins,19,2,7,1,5,0,0,0,3,3,0,0,0,0,1,5
+28623,400839292,130,Michigan,home,84,Indiana,A. Dakich,4,0,0,0,0,2,2,0,1,1,2,0,0,1,1,2
+28624,400839304,130,Michigan,away,2294,Iowa,M. Donnal,28,4,7,0,0,0,0,4,3,7,0,0,0,3,2,8
+28625,400839304,130,Michigan,away,2294,Iowa,D. Walton Jr.,36,5,14,3,11,3,4,1,4,5,6,0,0,1,2,16
+28626,400839304,130,Michigan,away,2294,Iowa,Z. Irvin,30,3,8,1,2,4,5,1,7,8,5,0,0,3,1,11
+28627,400839304,130,Michigan,away,2294,Iowa,D. Robinson,34,3,9,2,8,3,3,0,2,2,2,0,0,2,4,11
+28628,400839304,130,Michigan,away,2294,Iowa,M. Wagner,10,2,2,0,0,0,0,0,1,1,0,0,0,0,2,4
+28629,400839304,130,Michigan,away,2294,Iowa,D.J. Wilson,6,1,3,0,1,0,0,1,0,1,0,0,0,0,0,2
+28630,400839304,130,Michigan,away,2294,Iowa,R. Doyle,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28631,400839304,130,Michigan,away,2294,Iowa,A. Dawkins,18,4,6,3,5,1,2,0,2,2,1,1,1,1,1,12
+28632,400839304,130,Michigan,away,2294,Iowa,A. Dakich,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28633,400839314,130,Michigan,home,2294,Iowa,M. Donnal,28,4,10,1,3,0,0,4,6,10,0,1,0,0,0,9
+28634,400839314,130,Michigan,home,2294,Iowa,D. Walton Jr.,38,5,11,4,9,0,0,1,4,5,6,0,0,1,3,14
+28635,400839314,130,Michigan,home,2294,Iowa,Z. Irvin,35,4,13,1,6,2,4,1,7,8,3,1,0,4,0,11
+28636,400839314,130,Michigan,home,2294,Iowa,D. Robinson,28,2,9,1,6,3,4,3,5,8,2,1,0,3,4,8
+28637,400839314,130,Michigan,home,2294,Iowa,D.J. Wilson,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+28638,400839314,130,Michigan,home,2294,Iowa,R. Doyle,11,1,1,0,0,0,1,1,1,2,0,0,0,0,2,2
+28639,400839314,130,Michigan,home,2294,Iowa,K. Chatman,8,2,3,1,2,0,0,0,1,1,0,0,0,1,0,5
+28640,400839314,130,Michigan,home,2294,Iowa,A. Dawkins,13,1,3,0,1,0,0,0,0,0,0,0,0,1,1,2
+28641,400839314,130,Michigan,home,2294,Iowa,A. Dakich,2,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+28642,400839328,130,Michigan,home,127,Michigan State,M. Donnal,17,2,5,0,2,0,0,1,2,3,0,1,0,1,3,4
+28643,400839328,130,Michigan,home,127,Michigan State,D. Walton Jr.,35,3,10,3,7,2,2,0,2,2,2,3,0,1,4,11
+28644,400839328,130,Michigan,home,127,Michigan State,Z. Irvin,32,8,16,2,6,1,1,0,3,3,1,0,0,2,1,19
+28645,400839328,130,Michigan,home,127,Michigan State,D. Robinson,25,1,5,0,3,0,0,0,0,0,0,0,0,1,1,2
+28646,400839328,130,Michigan,home,127,Michigan State,M. Wagner,4,0,2,0,1,0,1,0,1,1,0,1,0,0,1,0
+28647,400839328,130,Michigan,home,127,Michigan State,D.J. Wilson,14,2,3,0,1,1,1,0,2,2,0,1,0,1,3,5
+28648,400839328,130,Michigan,home,127,Michigan State,R. Doyle,14,2,3,0,0,0,0,3,0,3,0,0,0,0,1,4
+28649,400839328,130,Michigan,home,127,Michigan State,K. Chatman,5,2,3,1,1,0,0,0,1,1,0,1,0,0,0,5
+28650,400839328,130,Michigan,home,127,Michigan State,A. Dawkins,17,3,5,2,4,6,8,0,1,1,3,1,0,1,0,14
+28651,400839328,130,Michigan,home,127,Michigan State,A. Dakich,5,1,1,0,0,1,1,0,0,0,0,2,0,0,2,3
+28652,400839354,135,Minnesota,away,130,Michigan,C. Buggs,27,0,4,0,3,2,2,0,3,3,0,0,1,0,0,2
+28653,400839354,135,Minnesota,away,130,Michigan,J. Murphy,27,6,11,1,2,0,1,2,6,8,0,0,3,1,4,13
+28654,400839354,135,Minnesota,away,130,Michigan,B. Konat,15,1,2,0,0,0,0,1,3,4,1,0,0,1,3,2
+28655,400839354,135,Minnesota,away,130,Michigan,D. McBrayer,26,3,6,1,3,2,4,1,3,4,2,0,0,0,3,9
+28656,400839354,135,Minnesota,away,130,Michigan,N. Mason,31,9,16,1,4,6,6,0,3,3,5,1,0,3,4,25
+28657,400839354,135,Minnesota,away,130,Michigan,G. Diedhiou,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1
+28658,400839354,135,Minnesota,away,130,Michigan,J. King,36,1,4,1,3,0,0,0,4,4,0,0,0,1,4,3
+28659,400839354,135,Minnesota,away,130,Michigan,S. Sharp,3,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+28660,400839354,135,Minnesota,away,130,Michigan,C. Morris,26,5,12,2,4,2,2,1,8,9,1,0,0,4,2,14
+28661,400839354,135,Minnesota,away,130,Michigan,K. Dorsey,9,0,3,0,2,0,0,0,1,1,1,0,0,1,1,0
+28662,400839354,130,Michigan,home,135,Minnesota,M. Donnal,23,2,4,1,2,0,1,2,1,3,2,0,1,3,4,5
+28663,400839354,130,Michigan,home,135,Minnesota,D. Walton Jr.,39,5,13,1,6,11,12,0,6,6,1,1,0,1,2,22
+28664,400839354,130,Michigan,home,135,Minnesota,Z. Irvin,37,8,17,3,5,0,0,1,10,11,3,1,0,1,2,19
+28665,400839354,130,Michigan,home,135,Minnesota,D. Robinson,36,3,12,3,10,0,0,0,5,5,0,1,0,0,1,9
+28666,400839354,130,Michigan,home,135,Minnesota,M. Wagner,8,2,3,0,1,0,0,1,0,1,0,0,0,0,2,4
+28667,400839354,130,Michigan,home,135,Minnesota,D.J. Wilson,3,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0
+28668,400839354,130,Michigan,home,135,Minnesota,R. Doyle,5,0,1,0,0,2,2,1,0,1,0,0,0,1,1,2
+28669,400839354,130,Michigan,home,135,Minnesota,A. Dawkins,15,3,7,1,4,0,0,1,2,3,0,0,0,0,2,7
+28670,400839354,130,Michigan,home,135,Minnesota,A. Dakich,5,0,1,0,1,0,0,0,1,1,1,1,0,0,0,0
+28671,400839357,130,Michigan,away,135,Minnesota,M. Donnal,19,4,8,0,1,0,0,1,0,1,1,0,1,0,4,8
+28672,400839357,130,Michigan,away,135,Minnesota,D. Walton Jr.,37,9,15,5,8,3,5,1,7,8,7,2,0,3,1,26
+28673,400839357,130,Michigan,away,135,Minnesota,Z. Irvin,36,1,8,0,1,2,4,0,2,2,3,2,0,4,2,4
+28674,400839357,130,Michigan,away,135,Minnesota,D. Robinson,30,5,9,4,7,0,0,0,9,9,1,0,1,1,3,14
+28675,400839357,130,Michigan,away,135,Minnesota,M. Wagner,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28676,400839357,130,Michigan,away,135,Minnesota,R. Doyle,20,1,1,0,0,4,8,0,1,1,0,0,0,0,4,6
+28677,400839357,130,Michigan,away,135,Minnesota,A. Dawkins,19,3,5,2,4,0,0,0,3,3,1,0,0,0,2,8
+28678,400839357,130,Michigan,away,135,Minnesota,A. Dakich,3,0,1,0,1,0,0,0,2,2,2,0,0,0,0,0
+28679,400839357,135,Minnesota,home,130,Michigan,C. Buggs,25,2,7,0,5,0,0,2,1,3,2,0,1,0,1,4
+28680,400839357,135,Minnesota,home,130,Michigan,J. Murphy,35,5,11,0,1,4,4,2,6,8,1,2,1,1,5,14
+28681,400839357,135,Minnesota,home,130,Michigan,B. Konat,21,2,2,0,0,0,0,1,4,5,0,0,1,1,4,4
+28682,400839357,135,Minnesota,home,130,Michigan,D. McBrayer,26,3,5,0,1,5,7,0,5,5,1,0,0,2,0,11
+28683,400839357,135,Minnesota,home,130,Michigan,N. Mason,33,6,14,2,5,5,6,1,3,4,5,2,0,0,2,19
+28684,400839357,135,Minnesota,home,130,Michigan,J. King,19,4,7,2,5,0,0,1,1,2,2,0,0,1,1,10
+28685,400839357,135,Minnesota,home,130,Michigan,C. Morris,27,4,9,0,2,2,2,0,1,1,3,2,0,2,1,10
+28686,400839357,135,Minnesota,home,130,Michigan,K. Dorsey,10,1,3,0,0,0,0,0,0,0,0,0,0,0,0,2
+28687,400839357,135,Minnesota,home,130,Michigan,A. Gilbert,4,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+28688,400839366,130,Michigan,home,120,Maryland,M. Donnal,33,3,7,0,3,2,3,3,6,9,0,2,2,0,4,8
+28689,400839366,130,Michigan,home,120,Maryland,D. Walton Jr.,38,4,13,3,7,1,2,1,9,10,4,1,0,2,1,12
+28690,400839366,130,Michigan,home,120,Maryland,Z. Irvin,37,8,14,3,7,3,6,0,2,2,3,2,0,1,1,22
+28691,400839366,130,Michigan,home,120,Maryland,D. Robinson,35,6,10,5,9,0,0,0,1,1,1,1,0,1,3,17
+28692,400839366,130,Michigan,home,120,Maryland,D.J. Wilson,5,0,2,0,2,2,2,0,0,0,0,0,2,1,0,2
+28693,400839366,130,Michigan,home,120,Maryland,R. Doyle,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+28694,400839366,130,Michigan,home,120,Maryland,K. Chatman,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28695,400839366,130,Michigan,home,120,Maryland,A. Dawkins,12,2,4,0,0,0,0,2,0,2,0,1,0,0,0,4
+28696,400839366,130,Michigan,home,120,Maryland,A. Dakich,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28697,400839373,130,Michigan,away,120,Maryland,M. Donnal,29,10,13,3,4,2,2,2,3,5,0,0,5,1,3,25
+28698,400839373,130,Michigan,away,120,Maryland,Z. Irvin,33,5,12,1,5,0,0,0,2,2,4,1,0,4,3,11
+28699,400839373,130,Michigan,away,120,Maryland,D. Robinson,37,4,10,2,4,0,0,3,6,9,2,1,0,3,2,10
+28700,400839373,130,Michigan,away,120,Maryland,D. Walton Jr.,37,5,12,3,7,1,3,3,3,6,5,3,0,5,5,14
+28701,400839373,130,Michigan,away,120,Maryland,D.J. Wilson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28702,400839373,130,Michigan,away,120,Maryland,M. Wagner,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28703,400839373,130,Michigan,away,120,Maryland,R. Doyle,10,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0
+28704,400839373,130,Michigan,away,120,Maryland,A. Dawkins,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28705,400839373,130,Michigan,away,120,Maryland,K. Chatman,8,2,5,2,2,0,0,1,0,1,2,1,0,0,0,6
+28706,400839373,130,Michigan,away,120,Maryland,A. Dakich,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28707,400839375,2803,Bryant,away,130,Michigan,M. Pettway,37,6,7,0,0,3,5,2,2,4,1,1,1,1,3,15
+28708,400839375,2803,Bryant,away,130,Michigan,D. Garvin,31,4,7,0,0,0,1,2,3,5,0,0,0,1,2,8
+28709,400839375,2803,Bryant,away,130,Michigan,H. Ware,39,9,19,6,15,2,2,0,3,3,1,1,0,4,2,26
+28710,400839375,2803,Bryant,away,130,Michigan,N. Zouzoua,30,3,9,2,5,0,2,0,4,4,0,0,0,3,1,8
+28711,400839375,2803,Bryant,away,130,Michigan,S. McLaughlin,38,0,1,0,0,1,2,0,1,1,8,0,0,4,1,1
+28712,400839375,2803,Bryant,away,130,Michigan,A. Scocca,9,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+28713,400839375,2803,Bryant,away,130,Michigan,D. Levene,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28714,400839375,2803,Bryant,away,130,Michigan,Z. Chionuma,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28715,400839375,2803,Bryant,away,130,Michigan,B. Kostur,10,0,2,0,2,0,0,0,1,1,0,0,0,0,2,0
+28716,400839375,2803,Bryant,away,130,Michigan,T. Toe,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28717,400839375,2803,Bryant,away,130,Michigan,J. Brickman,2,1,1,0,0,0,0,0,0,0,1,0,0,0,0,2
+28718,400839375,130,Michigan,home,2803,Bryant,R. Doyle,15,3,4,0,0,0,0,0,3,3,0,0,0,0,1,6
+28719,400839375,130,Michigan,home,2803,Bryant,D. Robinson,29,4,8,4,8,0,0,2,1,3,6,2,0,1,1,12
+28720,400839375,130,Michigan,home,2803,Bryant,D. Walton Jr.,25,3,8,2,5,3,4,0,1,1,5,0,0,0,2,11
+28721,400839375,130,Michigan,home,2803,Bryant,Z. Irvin,28,7,10,2,4,0,0,2,4,6,2,1,0,1,2,16
+28722,400839375,130,Michigan,home,2803,Bryant,C. LeVert,33,8,14,3,7,0,0,0,5,5,8,0,0,2,1,19
+28723,400839375,130,Michigan,home,2803,Bryant,D.J. Wilson,4,1,1,1,1,0,0,0,1,1,0,0,0,0,0,3
+28724,400839375,130,Michigan,home,2803,Bryant,M. Donnal,12,3,4,0,0,1,1,3,3,6,0,0,0,0,0,7
+28725,400839375,130,Michigan,home,2803,Bryant,M. Wagner,11,0,2,0,2,0,0,1,2,3,0,1,0,1,3,0
+28726,400839375,130,Michigan,home,2803,Bryant,K. Chatman,6,1,2,1,1,1,2,1,2,3,0,0,0,2,2,4
+28727,400839375,130,Michigan,home,2803,Bryant,A. Dawkins,15,4,6,2,4,0,0,0,0,0,1,1,0,0,1,10
+28728,400839375,130,Michigan,home,2803,Bryant,A. Dakich,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+28729,400839376,213,Penn State,away,130,Michigan,P. Banks,21,0,5,0,1,0,0,1,2,3,0,1,0,0,0,0
+28730,400839376,213,Penn State,away,130,Michigan,B. Taylor,33,6,16,0,2,6,6,1,5,6,2,0,1,2,3,18
+28731,400839376,213,Penn State,away,130,Michigan,J. Dickerson,16,2,4,0,0,0,0,1,2,3,0,1,2,0,1,4
+28732,400839376,213,Penn State,away,130,Michigan,S. Garner,35,2,10,1,6,1,2,1,2,3,4,0,0,1,1,6
+28733,400839376,213,Penn State,away,130,Michigan,J. Reaves,23,3,7,0,2,0,0,2,3,5,1,2,2,2,3,6
+28734,400839376,213,Penn State,away,130,Michigan,D. Zemgulis,19,2,4,1,3,0,0,0,0,0,1,0,0,1,0,5
+28735,400839376,213,Penn State,away,130,Michigan,D. Jack,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+28736,400839376,213,Penn State,away,130,Michigan,J. Moore,14,0,1,0,0,2,2,1,1,2,0,0,0,1,0,2
+28737,400839376,213,Penn State,away,130,Michigan,D. Foster,20,1,3,0,1,2,2,1,4,5,0,0,0,4,2,4
+28738,400839376,213,Penn State,away,130,Michigan,I. Washington,10,2,3,2,3,3,4,0,0,0,0,0,0,0,0,9
+28739,400839376,130,Michigan,home,213,Penn State,M. Donnal,23,7,10,0,1,2,4,2,6,8,1,0,1,1,2,16
+28740,400839376,130,Michigan,home,213,Penn State,D. Walton Jr.,32,2,6,2,4,0,0,0,5,5,3,2,0,6,2,6
+28741,400839376,130,Michigan,home,213,Penn State,Z. Irvin,34,5,11,4,6,2,2,0,3,3,7,1,0,3,1,16
+28742,400839376,130,Michigan,home,213,Penn State,D. Robinson,34,3,8,3,8,0,0,0,2,2,6,0,1,0,1,9
+28743,400839376,130,Michigan,home,213,Penn State,M. Wagner,7,2,2,0,0,0,0,0,1,1,0,0,0,0,1,4
+28744,400839376,130,Michigan,home,213,Penn State,D.J. Wilson,3,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1
+28745,400839376,130,Michigan,home,213,Penn State,R. Doyle,7,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+28746,400839376,130,Michigan,home,213,Penn State,K. Chatman,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28747,400839376,130,Michigan,home,213,Penn State,A. Dawkins,14,5,5,3,3,0,0,0,2,2,0,0,0,0,3,13
+28748,400839376,130,Michigan,home,213,Penn State,A. Dakich,13,0,0,0,0,0,0,0,2,2,1,1,0,1,0,0
+28749,400839377,130,Michigan,away,2509,Purdue,M. Donnal,13,2,6,2,2,1,2,3,2,5,0,1,0,1,3,7
+28750,400839377,130,Michigan,away,2509,Purdue,D. Walton Jr.,33,3,9,2,3,4,6,1,5,6,1,0,0,1,3,12
+28751,400839377,130,Michigan,away,2509,Purdue,Z. Irvin,38,2,10,0,3,3,3,1,1,2,3,1,0,4,1,7
+28752,400839377,130,Michigan,away,2509,Purdue,D. Robinson,30,3,8,2,5,2,2,0,5,5,1,1,0,0,3,10
+28753,400839377,130,Michigan,away,2509,Purdue,M. Wagner,4,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+28754,400839377,130,Michigan,away,2509,Purdue,D.J. Wilson,15,1,5,1,5,0,0,0,0,0,2,1,1,0,3,3
+28755,400839377,130,Michigan,away,2509,Purdue,R. Doyle,8,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+28756,400839377,130,Michigan,away,2509,Purdue,A. Dawkins,12,2,5,2,4,0,0,1,0,1,0,1,0,0,0,6
+28757,400839377,130,Michigan,away,2509,Purdue,A. Dakich,8,0,1,0,0,0,0,1,1,2,1,0,0,0,2,0
+28758,400839378,130,Michigan,away,158,Nebraska,M. Donnal,26,4,8,0,0,6,8,4,0,4,0,0,2,0,1,14
+28759,400839378,130,Michigan,away,158,Nebraska,D. Robinson,39,6,12,3,7,6,6,0,2,2,3,2,0,1,2,21
+28760,400839378,130,Michigan,away,158,Nebraska,D. Walton Jr.,37,5,8,4,6,5,6,2,10,12,6,2,0,4,3,19
+28761,400839378,130,Michigan,away,158,Nebraska,Z. Irvin,37,3,7,2,4,0,0,0,4,4,5,1,0,0,1,8
+28762,400839378,130,Michigan,away,158,Nebraska,M. Wagner,8,2,2,0,0,0,0,1,1,2,0,0,0,2,2,4
+28763,400839378,130,Michigan,away,158,Nebraska,R. Doyle,6,1,1,0,0,0,0,0,2,2,0,0,0,1,1,2
+28764,400839378,130,Michigan,away,158,Nebraska,K. Chatman,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+28765,400839378,130,Michigan,away,158,Nebraska,A. Dawkins,19,2,4,1,3,0,0,1,1,2,1,0,0,0,1,5
+28766,400839378,130,Michigan,away,158,Nebraska,A. Dakich,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28767,400839378,158,Nebraska,home,130,Michigan,S. Shields,33,4,11,1,3,2,5,1,2,3,3,1,2,5,2,11
+28768,400839378,158,Nebraska,home,130,Michigan,M. Jacobson,16,1,1,0,0,0,0,2,1,3,1,0,0,0,4,2
+28769,400839378,158,Nebraska,home,130,Michigan,G. Watson Jr.,31,6,12,1,5,2,2,0,0,0,2,1,0,0,3,15
+28770,400839378,158,Nebraska,home,130,Michigan,A. White,34,6,14,2,8,1,1,1,3,4,1,1,0,1,3,15
+28771,400839378,158,Nebraska,home,130,Michigan,B. Parker,24,2,4,1,3,0,0,0,2,2,2,1,0,1,3,5
+28772,400839378,158,Nebraska,home,130,Michigan,J. McVeigh,10,1,2,0,1,0,0,0,1,1,2,0,0,0,0,2
+28773,400839378,158,Nebraska,home,130,Michigan,E. Morrow,23,3,6,0,0,0,0,3,3,6,0,0,1,1,1,6
+28774,400839378,158,Nebraska,home,130,Michigan,T. Webster,29,5,8,1,2,1,1,1,4,5,0,5,0,2,2,12
+28775,400839378,158,Nebraska,home,130,Michigan,B. Evelyn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28776,400839379,164,Rutgers,away,130,Michigan,G. Lewis,28,3,5,0,0,1,3,0,5,5,1,0,0,1,2,7
+28777,400839379,164,Rutgers,away,130,Michigan,D.J. Foreman,29,1,1,0,0,0,0,0,4,4,0,1,0,3,2,2
+28778,400839379,164,Rutgers,away,130,Michigan,M. Williams,32,6,13,1,5,4,5,2,2,4,1,1,0,1,5,17
+28779,400839379,164,Rutgers,away,130,Michigan,B. Daniels,37,4,9,0,2,0,0,0,5,5,3,0,0,2,1,8
+28780,400839379,164,Rutgers,away,130,Michigan,C. Sanders,40,5,12,1,6,4,5,0,7,7,5,4,0,3,4,15
+28781,400839379,164,Rutgers,away,130,Michigan,J. Laurent,18,1,4,0,1,0,0,0,1,1,1,0,0,2,2,2
+28782,400839379,164,Rutgers,away,130,Michigan,O. Grier,16,2,6,1,4,1,1,0,0,0,0,0,0,1,2,6
+28783,400839379,130,Michigan,home,164,Rutgers,M. Donnal,31,4,6,0,0,2,2,0,4,4,1,1,1,2,2,10
+28784,400839379,130,Michigan,home,164,Rutgers,D. Walton Jr.,38,3,10,3,6,5,5,2,1,3,4,1,0,2,1,14
+28785,400839379,130,Michigan,home,164,Rutgers,Z. Irvin,38,2,8,1,6,3,5,0,12,12,8,0,0,2,2,8
+28786,400839379,130,Michigan,home,164,Rutgers,D. Robinson,34,5,14,4,9,4,4,1,3,4,2,0,0,2,3,18
+28787,400839379,130,Michigan,home,164,Rutgers,M. Wagner,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28788,400839379,130,Michigan,home,164,Rutgers,R. Doyle,7,2,2,0,0,0,0,0,2,2,0,0,0,0,1,4
+28789,400839379,130,Michigan,home,164,Rutgers,K. Chatman,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28790,400839379,130,Michigan,home,164,Rutgers,A. Dawkins,19,4,6,3,4,0,0,1,0,1,1,0,0,0,2,11
+28791,400839380,130,Michigan,home,2509,Purdue,M. Donnal,20,2,6,0,1,4,4,1,0,1,0,0,0,1,4,8
+28792,400839380,130,Michigan,home,2509,Purdue,D. Walton Jr.,36,1,10,0,6,4,5,0,7,7,1,2,0,2,1,6
+28793,400839380,130,Michigan,home,2509,Purdue,Z. Irvin,35,8,19,4,8,2,3,1,4,5,1,0,0,0,1,22
+28794,400839380,130,Michigan,home,2509,Purdue,D. Robinson,21,2,4,0,1,0,0,1,2,3,2,0,0,0,3,4
+28795,400839380,130,Michigan,home,2509,Purdue,M. Wagner,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28796,400839380,130,Michigan,home,2509,Purdue,D.J. Wilson,2,1,1,0,0,0,0,0,1,1,0,0,1,0,1,2
+28797,400839380,130,Michigan,home,2509,Purdue,R. Doyle,14,2,2,0,0,0,2,1,2,3,0,0,0,0,3,4
+28798,400839380,130,Michigan,home,2509,Purdue,K. Chatman,4,0,2,0,2,2,2,1,0,1,0,0,0,0,0,2
+28799,400839380,130,Michigan,home,2509,Purdue,A. Dawkins,17,1,4,0,1,2,2,1,3,4,0,0,0,1,1,4
+28800,400839380,130,Michigan,home,2509,Purdue,C. LeVert,11,0,1,0,0,0,1,0,5,5,1,0,0,1,0,0
+28801,400839381,130,Michigan,away,194,Ohio State,M. Donnal,32,6,10,0,1,5,6,3,4,7,1,0,0,1,2,17
+28802,400839381,130,Michigan,away,194,Ohio State,D. Walton Jr.,37,5,14,1,7,2,2,1,4,5,5,1,0,1,2,13
+28803,400839381,130,Michigan,away,194,Ohio State,Z. Irvin,38,5,14,2,6,3,4,3,6,9,3,2,0,4,0,15
+28804,400839381,130,Michigan,away,194,Ohio State,D. Robinson,28,1,6,1,5,0,0,0,6,6,1,0,1,1,4,3
+28805,400839381,130,Michigan,away,194,Ohio State,D.J. Wilson,5,1,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+28806,400839381,130,Michigan,away,194,Ohio State,R. Doyle,7,1,1,0,0,2,2,0,0,0,0,0,0,1,2,4
+28807,400839381,130,Michigan,away,194,Ohio State,A. Dawkins,19,1,5,1,3,0,0,3,2,5,0,0,0,1,4,3
+28808,400839381,130,Michigan,away,194,Ohio State,A. Dakich,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28809,400839381,194,Ohio State,home,130,Michigan,M. Loving,33,3,8,2,4,5,9,1,9,10,5,0,0,1,1,13
+28810,400839381,194,Ohio State,home,130,Michigan,J. Tate,25,6,10,0,2,1,1,1,3,4,1,0,0,0,5,13
+28811,400839381,194,Ohio State,home,130,Michigan,T. Thompson,23,6,7,0,0,0,0,0,1,1,0,0,0,0,3,12
+28812,400839381,194,Ohio State,home,130,Michigan,J. Lyle,29,2,8,1,3,7,9,0,1,1,2,0,2,3,2,12
+28813,400839381,194,Ohio State,home,130,Michigan,M. Mitchell,9,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0
+28814,400839381,194,Ohio State,home,130,Michigan,D. Bell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28815,400839381,194,Ohio State,home,130,Michigan,D. Giddens,15,2,2,0,0,0,0,0,4,4,1,0,0,1,2,4
+28816,400839381,194,Ohio State,home,130,Michigan,K. Williams,21,4,7,0,2,2,2,0,0,0,0,0,1,0,0,10
+28817,400839381,194,Ohio State,home,130,Michigan,A.J. Harris,12,2,2,2,2,0,0,0,0,0,1,0,0,0,0,6
+28818,400839382,77,Northwestern,away,130,Michigan,A. Falzon,29,5,10,4,8,0,0,1,1,2,1,0,0,2,3,14
+28819,400839382,77,Northwestern,away,130,Michigan,A. Olah,31,8,17,1,6,2,3,0,5,5,2,1,0,1,3,19
+28820,400839382,77,Northwestern,away,130,Michigan,S. Lumpkin,20,0,0,0,0,0,0,1,2,3,3,0,0,2,5,0
+28821,400839382,77,Northwestern,away,130,Michigan,T. Demps,39,5,12,2,7,2,2,0,3,3,3,0,0,1,2,14
+28822,400839382,77,Northwestern,away,130,Michigan,B. McIntosh,36,2,7,0,3,0,1,0,4,4,7,1,0,0,3,4
+28823,400839382,77,Northwestern,away,130,Michigan,G. Skelly,19,3,3,1,1,1,3,0,1,1,0,0,0,2,1,8
+28824,400839382,77,Northwestern,away,130,Michigan,J. van Zegeren,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28825,400839382,77,Northwestern,away,130,Michigan,D. Pardon,8,1,2,0,0,0,0,1,0,1,0,0,0,1,2,2
+28826,400839382,77,Northwestern,away,130,Michigan,S. Lindsey,13,1,3,0,1,0,0,1,1,2,1,0,0,0,1,2
+28827,400839382,77,Northwestern,away,130,Michigan,J. Ash,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28828,400839382,130,Michigan,home,77,Northwestern,M. Donnal,30,2,3,0,1,3,4,2,2,4,0,1,0,1,4,7
+28829,400839382,130,Michigan,home,77,Northwestern,D. Walton Jr.,39,4,9,0,2,8,8,0,6,6,3,0,0,1,0,16
+28830,400839382,130,Michigan,home,77,Northwestern,Z. Irvin,35,2,6,0,3,2,4,0,3,3,2,0,0,3,2,6
+28831,400839382,130,Michigan,home,77,Northwestern,D. Robinson,21,2,7,1,4,0,0,0,1,1,1,0,0,1,1,5
+28832,400839382,130,Michigan,home,77,Northwestern,R. Doyle,10,2,2,0,0,2,2,1,1,2,0,0,0,0,1,6
+28833,400839382,130,Michigan,home,77,Northwestern,K. Chatman,6,0,1,0,0,2,2,2,1,3,0,0,0,0,1,2
+28834,400839382,130,Michigan,home,77,Northwestern,A. Dawkins,19,4,7,3,3,0,2,0,7,7,0,0,0,0,0,11
+28835,400839382,130,Michigan,home,77,Northwestern,A. Dakich,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+28836,400839383,130,Michigan,away,275,Wisconsin,M. Donnal,21,3,4,0,0,0,0,1,0,1,0,0,0,0,4,6
+28837,400839383,130,Michigan,away,275,Wisconsin,D. Walton Jr.,38,3,13,1,4,3,4,0,5,5,8,2,0,2,2,10
+28838,400839383,130,Michigan,away,275,Wisconsin,Z. Irvin,35,6,13,1,2,1,2,0,8,8,1,2,0,5,1,14
+28839,400839383,130,Michigan,away,275,Wisconsin,D. Robinson,29,4,7,2,4,0,0,0,1,1,2,1,0,0,2,10
+28840,400839383,130,Michigan,away,275,Wisconsin,D.J. Wilson,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0
+28841,400839383,130,Michigan,away,275,Wisconsin,R. Doyle,16,5,5,0,0,0,1,0,0,0,0,0,0,1,2,10
+28842,400839383,130,Michigan,away,275,Wisconsin,K. Chatman,8,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0
+28843,400839383,130,Michigan,away,275,Wisconsin,A. Dawkins,10,1,2,1,2,0,0,0,0,0,0,0,0,1,1,3
+28844,400839383,130,Michigan,away,275,Wisconsin,A. Dakich,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+28845,400841614,2582,Southern,away,2348,Louisiana Tech,J. Sam,27,7,7,0,0,4,9,4,6,10,2,2,0,0,4,18
+28846,400841614,2582,Southern,away,2348,Louisiana Tech,D. Allen,20,3,5,0,0,0,2,3,1,4,1,0,2,0,3,6
+28847,400841614,2582,Southern,away,2348,Louisiana Tech,A. Rodgers,37,7,21,4,12,5,6,2,3,5,0,2,0,2,2,23
+28848,400841614,2582,Southern,away,2348,Louisiana Tech,C. Hyder,32,0,1,0,0,0,0,1,3,4,2,0,0,1,4,0
+28849,400841614,2582,Southern,away,2348,Louisiana Tech,T. Banks,38,6,14,2,3,3,5,2,4,6,8,1,0,5,3,17
+28850,400841614,2582,Southern,away,2348,Louisiana Tech,S. Prudhomme,18,3,8,1,4,0,0,1,2,3,0,0,0,0,3,7
+28851,400841614,2582,Southern,away,2348,Louisiana Tech,T. Nunn,12,2,2,0,0,1,2,0,1,1,0,0,0,1,3,5
+28852,400841614,2582,Southern,away,2348,Louisiana Tech,L. Collins,7,0,2,0,1,0,0,0,0,0,0,0,0,2,4,0
+28853,400841614,2582,Southern,away,2348,Louisiana Tech,C. Thomas,9,0,2,0,0,0,0,0,1,1,0,0,0,1,0,0
+28854,400841614,2348,Louisiana Tech,home,2582,Southern,E. McCree,32,6,12,2,5,7,9,4,6,10,1,2,0,1,2,21
+28855,400841614,2348,Louisiana Tech,home,2582,Southern,B. Sheppard,24,5,5,0,0,0,2,1,4,5,0,1,0,1,4,10
+28856,400841614,2348,Louisiana Tech,home,2582,Southern,A. Hamilton,37,5,12,1,3,8,10,0,1,1,7,1,1,3,1,19
+28857,400841614,2348,Louisiana Tech,home,2582,Southern,J. Boykins,15,1,5,1,3,0,0,0,2,2,0,1,0,0,2,3
+28858,400841614,2348,Louisiana Tech,home,2582,Southern,D. Griffin,20,2,3,1,2,1,2,0,1,1,0,2,0,3,2,6
+28859,400841614,2348,Louisiana Tech,home,2582,Southern,M. Holden,16,0,1,0,0,4,4,1,3,4,0,0,2,1,4,4
+28860,400841614,2348,Louisiana Tech,home,2582,Southern,J. Washington,2,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+28861,400841614,2348,Louisiana Tech,home,2582,Southern,L. Luckett,22,0,3,0,1,2,4,1,2,3,1,1,1,2,4,2
+28862,400841614,2348,Louisiana Tech,home,2582,Southern,D. Jean,26,4,10,2,5,5,7,2,5,7,3,0,0,0,0,15
+28863,400841614,2348,Louisiana Tech,home,2582,Southern,D. Robinson,6,1,1,1,1,0,0,1,1,2,0,0,0,3,2,3
+28864,400844031,2010,Alabama A&M,away,2582,Southern,N. West,30,3,5,1,2,3,6,0,4,4,0,1,1,0,3,10
+28865,400844031,2010,Alabama A&M,away,2582,Southern,R. Battle,26,1,6,0,2,0,0,1,0,1,7,0,0,3,1,2
+28866,400844031,2010,Alabama A&M,away,2582,Southern,L. Tabb,20,3,9,0,4,2,4,1,2,3,0,1,0,3,4,8
+28867,400844031,2010,Alabama A&M,away,2582,Southern,C. Thomas,19,0,2,0,0,0,0,0,4,4,0,0,0,2,1,0
+28868,400844031,2010,Alabama A&M,away,2582,Southern,R. Green,7,0,1,0,1,2,4,0,1,1,0,0,0,1,2,2
+28869,400844031,2010,Alabama A&M,away,2582,Southern,A. Edwards,16,1,4,0,0,0,0,2,3,5,0,1,0,1,2,2
+28870,400844031,2010,Alabama A&M,away,2582,Southern,Q. McConico,14,5,7,0,0,2,2,1,3,4,0,0,0,1,3,12
+28871,400844031,2010,Alabama A&M,away,2582,Southern,A. Wade,9,0,1,0,1,0,0,1,1,2,0,0,0,0,4,0
+28872,400844031,2010,Alabama A&M,away,2582,Southern,J. Perry,16,1,6,1,4,4,6,0,4,4,3,0,0,1,1,7
+28873,400844031,2010,Alabama A&M,away,2582,Southern,Z. Jackson,9,1,3,0,2,0,0,0,0,0,0,0,0,0,2,2
+28874,400844031,2010,Alabama A&M,away,2582,Southern,M. Cotton,12,1,3,1,3,1,2,1,1,2,0,0,0,1,1,4
+28875,400844031,2010,Alabama A&M,away,2582,Southern,T. Davis,22,1,3,1,3,0,0,1,2,3,0,1,0,2,1,3
+28876,400844031,2582,Southern,home,2010,Alabama A&M,J. Sam,25,2,4,0,0,1,3,2,5,7,0,3,0,1,4,5
+28877,400844031,2582,Southern,home,2010,Alabama A&M,R. Andrews,10,4,8,1,2,1,2,0,1,1,1,0,0,3,5,10
+28878,400844031,2582,Southern,home,2010,Alabama A&M,A. Rodgers,38,6,11,3,6,5,6,2,4,6,2,0,1,1,1,20
+28879,400844031,2582,Southern,home,2010,Alabama A&M,C. Hyder,38,5,9,0,1,4,5,0,3,3,5,2,0,0,2,14
+28880,400844031,2582,Southern,home,2010,Alabama A&M,T. Banks,34,2,7,1,2,5,9,1,1,2,2,0,0,3,2,10
+28881,400844031,2582,Southern,home,2010,Alabama A&M,S. Prudhomme,13,1,3,0,2,0,0,0,0,0,0,0,0,0,0,2
+28882,400844031,2582,Southern,home,2010,Alabama A&M,D. Allen,12,2,4,0,0,2,3,1,6,7,0,0,1,1,3,6
+28883,400844031,2582,Southern,home,2010,Alabama A&M,T. Nunn,7,0,0,0,0,2,2,0,3,3,0,0,0,0,0,2
+28884,400844031,2582,Southern,home,2010,Alabama A&M,L. Collins,5,0,2,0,0,0,0,1,0,1,0,0,0,2,0,0
+28885,400844031,2582,Southern,home,2010,Alabama A&M,C. Thomas,17,1,4,0,0,2,2,1,3,4,0,2,0,0,3,4
+28886,400846823,2011,Alabama State,away,2582,Southern,T. Armstrong,26,5,10,0,0,2,3,2,5,7,0,1,1,1,5,12
+28887,400846823,2011,Alabama State,away,2582,Southern,G. Hollaway,15,1,2,0,0,0,0,0,1,1,0,0,2,1,5,2
+28888,400846823,2011,Alabama State,away,2582,Southern,T. Thomas,20,3,7,2,5,1,2,0,2,2,1,1,0,3,3,9
+28889,400846823,2011,Alabama State,away,2582,Southern,B. Brown,31,1,11,1,4,1,1,0,7,7,1,0,0,1,1,4
+28890,400846823,2011,Alabama State,away,2582,Southern,J. Waters,35,8,14,3,5,3,5,0,5,5,4,2,0,1,1,22
+28891,400846823,2011,Alabama State,away,2582,Southern,M. Tyson,8,0,1,0,0,0,0,1,1,2,0,0,0,0,3,0
+28892,400846823,2011,Alabama State,away,2582,Southern,C. Butler,23,4,8,0,0,3,4,1,6,7,0,0,0,2,5,11
+28893,400846823,2011,Alabama State,away,2582,Southern,C. Omile,16,0,1,0,0,0,0,0,0,0,1,0,0,1,2,0
+28894,400846823,2011,Alabama State,away,2582,Southern,S. Rogers,7,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0
+28895,400846823,2011,Alabama State,away,2582,Southern,T. LeFlore,19,4,8,1,2,0,1,1,3,4,1,2,0,2,0,9
+28896,400846823,2582,Southern,home,2011,Alabama State,J. Sam,24,3,6,0,0,9,13,1,5,6,1,0,0,2,4,15
+28897,400846823,2582,Southern,home,2011,Alabama State,R. Andrews,20,2,4,1,1,1,3,0,0,0,0,0,1,0,3,6
+28898,400846823,2582,Southern,home,2011,Alabama State,A. Rodgers,24,5,12,1,5,0,0,0,5,5,0,3,0,0,0,11
+28899,400846823,2582,Southern,home,2011,Alabama State,C. Hyder,35,2,5,0,1,1,2,0,4,4,9,4,0,5,3,5
+28900,400846823,2582,Southern,home,2011,Alabama State,T. Banks,38,7,12,4,8,3,6,0,3,3,0,1,0,2,2,21
+28901,400846823,2582,Southern,home,2011,Alabama State,S. Prudhomme,17,1,4,1,3,0,0,1,2,3,1,0,1,1,2,3
+28902,400846823,2582,Southern,home,2011,Alabama State,D. Allen,12,1,1,0,0,1,2,2,0,2,0,1,1,1,2,3
+28903,400846823,2582,Southern,home,2011,Alabama State,T. Nunn,9,2,2,0,0,0,1,0,1,1,0,0,0,2,0,4
+28904,400846823,2582,Southern,home,2011,Alabama State,L. Collins,5,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+28905,400846823,2582,Southern,home,2011,Alabama State,C. Thomas,16,2,5,0,1,1,2,1,3,4,1,1,0,1,2,5
+28906,400846850,2582,Southern,away,2011,Alabama State,J. Sam,26,4,10,0,0,1,3,3,9,12,1,0,0,2,1,9
+28907,400846850,2582,Southern,away,2011,Alabama State,R. Andrews,8,1,1,1,1,0,0,0,0,0,0,0,0,1,2,3
+28908,400846850,2582,Southern,away,2011,Alabama State,A. Rodgers,29,9,20,2,6,2,2,2,5,7,0,0,1,3,1,22
+28909,400846850,2582,Southern,away,2011,Alabama State,C. Hyder,38,3,8,0,1,7,9,0,0,0,4,1,0,0,3,13
+28910,400846850,2582,Southern,away,2011,Alabama State,T. Banks,34,5,11,1,5,1,5,2,2,4,2,3,0,2,2,12
+28911,400846850,2582,Southern,away,2011,Alabama State,S. Prudhomme,17,0,4,0,2,2,2,0,2,2,0,0,2,0,3,2
+28912,400846850,2582,Southern,away,2011,Alabama State,D. Allen,18,1,1,0,0,0,0,1,1,2,0,1,0,2,0,2
+28913,400846850,2582,Southern,away,2011,Alabama State,T. Nunn,10,1,2,0,0,1,2,1,2,3,0,0,1,0,5,3
+28914,400846850,2582,Southern,away,2011,Alabama State,C. Thomas,20,0,3,0,1,2,2,1,3,4,0,1,0,1,0,2
+28915,400846850,2011,Alabama State,home,2582,Southern,T. Armstrong,25,4,7,0,0,4,6,1,10,11,1,0,0,0,0,12
+28916,400846850,2011,Alabama State,home,2582,Southern,C. Butler,23,7,10,0,0,5,7,6,3,9,0,0,0,0,3,19
+28917,400846850,2011,Alabama State,home,2582,Southern,T. Thomas,20,4,11,0,3,0,0,1,0,1,5,0,0,2,2,8
+28918,400846850,2011,Alabama State,home,2582,Southern,T. LeFlore,29,3,6,1,2,0,0,0,2,2,0,1,0,2,1,7
+28919,400846850,2011,Alabama State,home,2582,Southern,J. Waters,34,4,14,0,4,4,5,0,4,4,6,0,0,3,3,12
+28920,400846850,2011,Alabama State,home,2582,Southern,G. Hollaway,17,2,3,0,0,0,0,2,2,4,0,0,0,0,5,4
+28921,400846850,2011,Alabama State,home,2582,Southern,N. Barnes,7,0,2,0,2,0,0,0,0,0,0,0,0,0,1,0
+28922,400846850,2011,Alabama State,home,2582,Southern,B. Brown,26,3,7,1,2,2,4,1,4,5,0,1,1,2,3,9
+28923,400846850,2011,Alabama State,home,2582,Southern,S. Rogers,19,2,5,0,1,2,3,0,1,1,2,1,1,0,4,6
+28924,400847029,2582,Southern,away,2640,Texas Southern,J. Sam,33,5,11,0,0,2,3,4,3,7,0,1,0,1,2,12
+28925,400847029,2582,Southern,away,2640,Texas Southern,T. Nunn,17,5,8,0,0,0,0,4,2,6,0,0,4,0,4,10
+28926,400847029,2582,Southern,away,2640,Texas Southern,A. Rodgers,33,5,15,1,4,3,3,0,4,4,2,3,0,1,1,14
+28927,400847029,2582,Southern,away,2640,Texas Southern,C. Hyder,40,3,9,1,3,2,2,0,3,3,3,1,0,1,2,9
+28928,400847029,2582,Southern,away,2640,Texas Southern,T. Banks,35,2,15,1,5,6,6,1,1,2,2,0,0,1,2,11
+28929,400847029,2582,Southern,away,2640,Texas Southern,S. Prudhomme,20,0,1,0,1,0,0,1,1,2,1,0,1,1,0,0
+28930,400847029,2582,Southern,away,2640,Texas Southern,C. Thomas,16,4,7,0,1,2,2,1,2,3,0,0,0,0,2,10
+28931,400847029,2582,Southern,away,2640,Texas Southern,R. Andrews,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28932,400847042,2582,Southern,home,2640,Texas Southern,J. Sam,25,2,4,0,0,2,4,0,2,2,0,1,0,0,3,6
+28933,400847042,2582,Southern,home,2640,Texas Southern,D. Allen,2,0,1,0,0,2,2,1,1,2,0,0,1,2,1,2
+28934,400847042,2582,Southern,home,2640,Texas Southern,A. Rodgers,34,9,18,1,7,6,8,2,7,9,1,2,0,1,2,25
+28935,400847042,2582,Southern,home,2640,Texas Southern,C. Hyder,31,3,4,0,1,0,2,0,7,7,9,2,0,2,3,6
+28936,400847042,2582,Southern,home,2640,Texas Southern,T. Banks,38,5,11,0,2,1,2,0,2,2,3,0,0,1,4,11
+28937,400847042,2582,Southern,home,2640,Texas Southern,S. Prudhomme,23,12,17,3,7,1,1,1,2,3,2,1,1,2,4,28
+28938,400847042,2582,Southern,home,2640,Texas Southern,T. Nunn,14,1,1,0,0,0,0,0,0,0,0,0,1,0,1,2
+28939,400847042,2582,Southern,home,2640,Texas Southern,C. Thomas,21,2,4,0,0,0,0,1,4,5,1,2,1,1,4,4
+28940,400847042,2582,Southern,home,2640,Texas Southern,R. Andrews,12,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+28941,400847303,2582,Southern,away,2010,Alabama A&M,J. Sam,15,3,4,0,0,1,1,2,0,2,0,0,0,0,2,7
+28942,400847303,2582,Southern,away,2010,Alabama A&M,R. Andrews,20,0,3,0,3,2,6,0,2,2,0,1,0,1,3,2
+28943,400847303,2582,Southern,away,2010,Alabama A&M,A. Rodgers,37,6,17,3,11,3,4,0,5,5,3,1,0,2,3,18
+28944,400847303,2582,Southern,away,2010,Alabama A&M,C. Hyder,33,5,9,0,0,5,6,0,0,0,1,1,0,0,4,15
+28945,400847303,2582,Southern,away,2010,Alabama A&M,T. Banks,32,2,9,0,3,3,10,2,3,5,2,1,0,1,2,7
+28946,400847303,2582,Southern,away,2010,Alabama A&M,S. Prudhomme,13,3,5,1,2,2,2,0,4,4,0,1,1,1,0,9
+28947,400847303,2582,Southern,away,2010,Alabama A&M,D. Allen,13,2,3,0,0,0,0,1,2,3,0,0,0,2,2,4
+28948,400847303,2582,Southern,away,2010,Alabama A&M,T. Nunn,11,2,4,0,0,0,0,3,0,3,0,0,0,1,3,4
+28949,400847303,2582,Southern,away,2010,Alabama A&M,L. Collins,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+28950,400847303,2582,Southern,away,2010,Alabama A&M,C. Thomas,23,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0
+28951,400847303,2010,Alabama A&M,home,2582,Southern,N. West,20,2,4,0,0,3,4,2,2,4,1,0,0,0,4,7
+28952,400847303,2010,Alabama A&M,home,2582,Southern,R. Battle,37,1,4,0,2,2,2,0,4,4,7,1,0,2,3,4
+28953,400847303,2010,Alabama A&M,home,2582,Southern,Z. Jackson,6,1,2,0,0,0,2,0,0,0,0,0,0,0,1,2
+28954,400847303,2010,Alabama A&M,home,2582,Southern,L. Tabb,37,7,18,3,7,3,4,1,6,7,1,1,0,1,2,20
+28955,400847303,2010,Alabama A&M,home,2582,Southern,R. Green,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28956,400847303,2010,Alabama A&M,home,2582,Southern,M. Sherif,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28957,400847303,2010,Alabama A&M,home,2582,Southern,A. Edwards,5,1,1,0,0,0,0,1,0,1,0,0,0,0,1,2
+28958,400847303,2010,Alabama A&M,home,2582,Southern,Q. McConico,24,4,6,0,0,2,2,0,9,9,0,0,1,0,4,10
+28959,400847303,2010,Alabama A&M,home,2582,Southern,C. Thomas,24,0,2,0,1,0,2,1,1,2,2,0,0,1,0,0
+28960,400847303,2010,Alabama A&M,home,2582,Southern,A. Wade,13,2,4,1,2,0,0,0,1,1,0,0,0,0,4,5
+28961,400847303,2010,Alabama A&M,home,2582,Southern,J. Perry,24,10,14,4,7,4,4,0,1,1,5,1,0,3,3,28
+28962,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,J. Sam,27,4,6,0,0,7,7,1,7,8,2,1,0,0,3,15
+28963,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,L. Collins,25,1,3,0,1,2,3,1,3,4,2,2,0,0,1,4
+28964,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,A. Rodgers,36,4,13,3,10,4,4,1,4,5,2,0,0,0,3,15
+28965,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,C. Hyder,38,3,7,0,0,0,2,0,4,4,2,1,1,3,2,6
+28966,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,R. Andrews,33,5,8,2,3,0,0,1,6,7,0,0,0,1,4,12
+28967,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,S. Prudhomme,8,1,4,0,1,0,0,0,0,0,1,0,0,0,3,2
+28968,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,T. Nunn,13,4,5,0,0,1,2,3,0,3,0,0,0,2,2,9
+28969,400847308,2582,Southern,away,2029,Arkansas-Pine Bluff,C. Thomas,20,0,3,0,1,6,7,3,4,7,0,0,0,3,4,6
+28970,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,T. Whiting,30,3,7,1,2,0,0,1,2,3,1,1,0,2,1,7
+28971,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,T. Handley Jr.,20,4,9,1,5,4,6,1,3,4,0,1,0,1,3,13
+28972,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,G. Robinson,37,1,11,1,9,4,5,1,5,6,3,2,0,1,4,7
+28973,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,J. Love,23,1,7,0,4,0,0,0,2,2,1,0,0,0,1,2
+28974,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,C. Jackson,17,0,3,0,3,2,2,0,0,0,1,0,0,0,2,2
+28975,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,D. Berry,13,2,3,0,0,0,1,1,2,3,0,0,0,1,3,4
+28976,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,C. Parker,7,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0
+28977,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,M. Cunningham,16,6,7,0,0,3,6,4,1,5,1,2,0,1,4,15
+28978,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,A. Cox,10,1,2,1,2,1,2,0,0,0,2,0,0,0,0,4
+28979,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,J. Sprinkle,10,0,0,0,0,1,2,0,1,1,0,1,0,1,1,1
+28980,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,M. Wallace,13,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+28981,400847308,2029,Arkansas-Pine Bluff,home,2582,Southern,L. Johnson,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28982,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,D. Tillman,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28983,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,M. Cunningham,17,4,6,0,0,0,0,0,7,7,2,0,3,2,5,8
+28984,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,J. Love,32,1,5,0,3,1,3,0,4,4,1,0,0,5,0,3
+28985,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,M. Wallace,21,5,6,2,3,0,0,0,0,0,1,1,0,1,1,12
+28986,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,G. Robinson,34,6,17,2,10,3,4,0,3,3,1,0,0,2,3,17
+28987,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,D. Berry,14,0,5,0,0,0,0,4,0,4,1,0,1,1,3,0
+28988,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,T. Whiting,14,2,5,0,2,1,2,0,0,0,1,1,0,2,1,5
+28989,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,C. Parker,17,0,0,0,0,2,2,0,0,0,0,0,2,0,2,2
+28990,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,J. Sprinkle,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+28991,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,L. Johnson,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28992,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,A. Cox,18,3,5,0,1,0,0,2,4,6,1,1,0,3,1,6
+28993,400847313,2029,Arkansas-Pine Bluff,away,2582,Southern,C. Jackson,23,2,5,0,3,1,2,0,3,3,2,1,0,0,2,5
+28994,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,J. Sam,36,3,6,0,0,1,2,0,5,5,1,0,2,4,2,7
+28995,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,R. Andrews,21,3,7,0,1,2,2,1,0,1,1,1,0,2,2,8
+28996,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,A. Rodgers,28,5,10,2,6,0,1,0,1,1,0,1,0,0,1,12
+28997,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,C. Hyder,40,2,4,0,2,6,9,0,3,3,5,2,0,1,1,10
+28998,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,T. Banks,37,1,6,1,4,2,2,1,1,2,5,1,0,3,2,5
+28999,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,S. Prudhomme,17,4,6,1,2,0,0,2,2,4,0,1,0,0,2,9
+29000,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,D. Allen,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+29001,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,T. Nunn,5,3,6,0,0,3,5,1,1,2,0,0,0,0,1,9
+29002,400847313,2582,Southern,home,2029,Arkansas-Pine Bluff,C. Thomas,13,3,6,0,1,0,1,1,3,4,1,1,0,1,4,6
+29003,400847332,2582,Southern,away,2504,Prairie View A&M,J. Sam,27,2,4,0,0,5,6,2,0,2,0,0,0,3,4,9
+29004,400847332,2582,Southern,away,2504,Prairie View A&M,T. Nunn,15,0,1,0,0,0,0,3,4,7,0,0,1,3,4,0
+29005,400847332,2582,Southern,away,2504,Prairie View A&M,A. Rodgers,40,6,15,1,5,2,3,1,6,7,0,0,0,2,3,15
+29006,400847332,2582,Southern,away,2504,Prairie View A&M,C. Hyder,40,6,12,0,1,4,5,0,3,3,4,2,0,1,1,16
+29007,400847332,2582,Southern,away,2504,Prairie View A&M,T. Banks,37,7,13,1,6,1,3,0,3,3,2,1,0,2,3,16
+29008,400847332,2582,Southern,away,2504,Prairie View A&M,S. Prudhomme,18,1,6,0,2,4,4,5,1,6,0,1,1,1,2,6
+29009,400847332,2582,Southern,away,2504,Prairie View A&M,C. Thomas,20,0,4,0,1,3,4,2,2,4,1,0,2,3,3,3
+29010,400847332,2582,Southern,away,2504,Prairie View A&M,R. Andrews,3,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+29011,400847332,2504,Prairie View A&M,home,2582,Southern,K. York,21,4,6,0,0,1,2,1,6,7,0,0,1,1,4,9
+29012,400847332,2504,Prairie View A&M,home,2582,Southern,Z. Hamilton,33,4,12,0,4,4,4,0,5,5,1,1,0,1,1,12
+29013,400847332,2504,Prairie View A&M,home,2582,Southern,A. Williams,21,3,6,0,0,4,5,2,4,6,2,0,1,3,3,10
+29014,400847332,2504,Prairie View A&M,home,2582,Southern,J. Blakely,17,0,1,0,0,0,0,0,3,3,2,0,1,3,5,0
+29015,400847332,2504,Prairie View A&M,home,2582,Southern,J. Giddings,25,1,7,0,1,3,4,2,0,2,1,0,0,1,4,5
+29016,400847332,2504,Prairie View A&M,home,2582,Southern,C. Dobbs,24,2,4,0,0,0,0,1,2,3,0,0,1,0,2,4
+29017,400847332,2504,Prairie View A&M,home,2582,Southern,N. Wilson,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+29018,400847332,2504,Prairie View A&M,home,2582,Southern,T. Miller,4,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+29019,400847332,2504,Prairie View A&M,home,2582,Southern,T. Bellinger,9,1,3,0,2,0,0,0,0,0,0,0,0,0,0,2
+29020,400847332,2504,Prairie View A&M,home,2582,Southern,A. Lomax,19,2,5,0,1,4,6,1,2,3,3,1,0,1,1,8
+29021,400847332,2504,Prairie View A&M,home,2582,Southern,J. Johnson,21,7,10,4,6,3,4,0,1,1,0,2,0,1,2,21
+29022,400847332,2504,Prairie View A&M,home,2582,Southern,M. Amos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29023,400847338,2504,Prairie View A&M,away,2582,Southern,K. York,25,5,7,0,0,1,4,2,3,5,1,0,1,1,2,11
+29024,400847338,2504,Prairie View A&M,away,2582,Southern,Z. Hamilton,25,2,4,0,1,0,1,1,3,4,0,1,2,2,2,4
+29025,400847338,2504,Prairie View A&M,away,2582,Southern,A. Williams,10,0,0,0,0,0,0,0,1,1,1,0,0,2,2,0
+29026,400847338,2504,Prairie View A&M,away,2582,Southern,A. Lomax,21,2,3,0,0,4,4,0,4,4,2,2,0,0,2,8
+29027,400847338,2504,Prairie View A&M,away,2582,Southern,J. Johnson,36,6,14,3,4,5,5,1,2,3,3,1,1,3,3,20
+29028,400847338,2504,Prairie View A&M,away,2582,Southern,C. Dobbs,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29029,400847338,2504,Prairie View A&M,away,2582,Southern,N. Wilson,11,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0
+29030,400847338,2504,Prairie View A&M,away,2582,Southern,M. Amos,9,1,2,1,2,0,0,0,0,0,0,0,0,0,1,3
+29031,400847338,2504,Prairie View A&M,away,2582,Southern,J. Blakely,21,7,8,1,1,3,4,2,7,9,1,3,1,0,1,18
+29032,400847338,2504,Prairie View A&M,away,2582,Southern,T. Bellinger,29,5,11,2,4,3,3,0,3,3,2,0,0,1,2,15
+29033,400847338,2504,Prairie View A&M,away,2582,Southern,J. Giddings,8,0,2,0,1,0,0,0,0,0,0,0,0,2,1,0
+29034,400847338,2582,Southern,home,2504,Prairie View A&M,D. Allen,10,1,2,0,0,0,0,0,2,2,0,0,0,0,1,2
+29035,400847338,2582,Southern,home,2504,Prairie View A&M,A. Rodgers,35,3,14,0,6,4,4,2,2,4,3,0,0,1,4,10
+29036,400847338,2582,Southern,home,2504,Prairie View A&M,C. Hyder,36,1,7,0,1,3,4,2,2,4,3,4,0,3,3,5
+29037,400847338,2582,Southern,home,2504,Prairie View A&M,T. Banks,37,6,15,2,5,3,3,2,2,4,1,1,0,2,1,17
+29038,400847338,2582,Southern,home,2504,Prairie View A&M,R. Andrews,13,1,2,1,2,0,0,0,1,1,0,0,0,0,1,3
+29039,400847338,2582,Southern,home,2504,Prairie View A&M,J. Sam,20,3,6,0,0,6,9,4,3,7,1,1,0,1,4,12
+29040,400847338,2582,Southern,home,2504,Prairie View A&M,T. Nunn,7,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+29041,400847338,2582,Southern,home,2504,Prairie View A&M,S. Prudhomme,22,5,10,4,8,1,1,1,2,3,2,1,1,1,0,15
+29042,400847338,2582,Southern,home,2504,Prairie View A&M,C. Thomas,20,2,4,0,0,3,4,1,5,6,1,1,1,3,1,7
+29043,400847339,2582,Southern,away,344,Mississippi State,J. Sam,30,4,6,0,0,2,4,3,5,8,2,1,1,1,3,10
+29044,400847339,2582,Southern,away,344,Mississippi State,D. Allen,9,3,3,0,0,0,0,0,2,2,0,0,0,1,5,6
+29045,400847339,2582,Southern,away,344,Mississippi State,A. Rodgers,35,6,15,4,6,0,2,1,4,5,0,0,0,1,1,16
+29046,400847339,2582,Southern,away,344,Mississippi State,C. Hyder,36,1,7,0,0,1,2,0,4,4,4,2,0,2,1,3
+29047,400847339,2582,Southern,away,344,Mississippi State,T. Banks,35,5,14,1,5,7,10,0,2,2,4,1,0,1,5,18
+29048,400847339,2582,Southern,away,344,Mississippi State,S. Prudhomme,25,3,7,1,3,2,2,2,1,3,0,4,1,2,1,9
+29049,400847339,2582,Southern,away,344,Mississippi State,T. Nunn,15,4,5,0,0,0,0,1,3,4,0,0,5,0,2,8
+29050,400847339,2582,Southern,away,344,Mississippi State,C. Thomas,15,3,5,0,0,0,0,0,2,2,0,2,0,0,2,6
+29051,400847339,344,Mississippi State,home,2582,Southern,G. Ware,29,5,9,0,0,3,4,3,1,4,0,1,0,2,5,13
+29052,400847339,344,Mississippi State,home,2582,Southern,T. Daniels,33,3,3,3,3,0,0,4,6,10,1,0,0,1,2,9
+29053,400847339,344,Mississippi State,home,2582,Southern,C. Sword,24,4,11,2,8,6,6,2,1,3,2,0,1,7,5,16
+29054,400847339,344,Mississippi State,home,2582,Southern,F. Thomas,32,3,6,3,6,0,0,0,7,7,1,1,0,2,1,9
+29055,400847339,344,Mississippi State,home,2582,Southern,I.J. Ready,32,3,13,1,5,2,2,0,3,3,5,1,0,0,0,9
+29056,400847339,344,Mississippi State,home,2582,Southern,F. Ndoye,7,0,0,0,0,0,0,2,0,2,0,0,0,0,3,0
+29057,400847339,344,Mississippi State,home,2582,Southern,J. Zuppardo,9,2,6,1,3,1,2,3,2,5,0,0,1,1,1,6
+29058,400847339,344,Mississippi State,home,2582,Southern,Q. Weatherspoon,17,1,4,0,1,2,3,0,3,3,0,1,0,1,2,4
+29059,400847339,344,Mississippi State,home,2582,Southern,M. Newman,17,2,8,1,5,1,6,0,2,2,3,0,0,4,0,6
+29060,400847340,-1,Dillard,away,2582,Southern,P. Thompson,18,0,0,0,0,0,0,0,1,1,0,0,0,2,3,0
+29061,400847340,-1,Dillard,away,2582,Southern,T. King,24,3,8,0,0,2,2,6,0,6,0,1,0,3,2,8
+29062,400847340,-1,Dillard,away,2582,Southern,J. Ward,22,3,10,2,8,0,0,2,0,2,2,0,0,3,3,8
+29063,400847340,-1,Dillard,away,2582,Southern,H. Chatman,29,1,7,0,2,4,4,1,3,4,1,1,0,0,1,6
+29064,400847340,-1,Dillard,away,2582,Southern,M. Thomas,18,3,9,2,5,4,4,2,2,4,3,2,0,2,3,12
+29065,400847340,-1,Dillard,away,2582,Southern,D. Austin,22,7,12,1,4,5,7,5,9,14,0,0,0,1,2,20
+29066,400847340,-1,Dillard,away,2582,Southern,R. Johnson,16,2,5,0,0,0,3,0,4,4,1,0,0,3,2,4
+29067,400847340,-1,Dillard,away,2582,Southern,D. Porchia,19,0,5,0,2,0,0,0,1,1,3,0,0,0,1,0
+29068,400847340,-1,Dillard,away,2582,Southern,K. Clark,10,1,2,0,0,0,0,1,1,2,1,0,0,0,1,2
+29069,400847340,-1,Dillard,away,2582,Southern,D. Hightower,22,2,7,1,3,0,2,0,2,2,1,1,0,1,2,5
+29070,400847340,2582,Southern,home,-1,Dillard,S. Prudhomme,29,6,14,2,6,4,6,3,3,6,1,0,0,1,2,18
+29071,400847340,2582,Southern,home,-1,Dillard,J. Sam,25,1,3,0,0,1,2,2,4,6,1,2,2,0,4,3
+29072,400847340,2582,Southern,home,-1,Dillard,A. Rodgers,37,5,15,4,11,6,6,3,2,5,1,1,0,0,1,20
+29073,400847340,2582,Southern,home,-1,Dillard,C. Hyder,36,3,5,0,1,1,1,0,2,2,8,1,0,2,4,7
+29074,400847340,2582,Southern,home,-1,Dillard,T. Banks,35,6,11,3,8,4,5,0,3,3,4,0,0,3,2,19
+29075,400847340,2582,Southern,home,-1,Dillard,T. Nunn,8,0,0,0,0,0,2,0,2,2,0,0,2,2,3,0
+29076,400847340,2582,Southern,home,-1,Dillard,L. Collins,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+29077,400847340,2582,Southern,home,-1,Dillard,C. Thomas,18,5,10,1,2,1,2,2,6,8,1,1,0,2,4,12
+29078,400847340,2582,Southern,home,-1,Dillard,R. Andrews,3,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+29079,400847341,-1,Paul Quinn,away,2582,Southern,L. Brown,40,5,19,3,13,1,4,0,7,7,2,0,0,2,0,14
+29080,400847341,-1,Paul Quinn,away,2582,Southern,A. Brooks,22,3,6,0,0,0,0,1,1,2,2,1,0,1,4,6
+29081,400847341,-1,Paul Quinn,away,2582,Southern,B. Ervin,38,11,18,1,4,3,3,2,3,5,6,2,0,5,4,26
+29082,400847341,-1,Paul Quinn,away,2582,Southern,J. Mitchell,39,5,13,2,6,0,0,0,2,2,2,0,0,3,1,12
+29083,400847341,-1,Paul Quinn,away,2582,Southern,D. Collins,19,1,3,1,2,0,0,0,1,1,0,0,0,4,1,3
+29084,400847341,-1,Paul Quinn,away,2582,Southern,D. Walker,24,1,2,0,0,0,0,1,1,2,0,3,0,2,2,2
+29085,400847341,-1,Paul Quinn,away,2582,Southern,C. Avila,18,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+29086,400847341,2582,Southern,home,-1,Paul Quinn,J. Sam,24,6,9,0,0,0,0,3,1,4,1,1,1,0,1,12
+29087,400847341,2582,Southern,home,-1,Paul Quinn,T. Nunn,9,3,5,0,0,1,3,0,2,2,0,0,1,0,0,7
+29088,400847341,2582,Southern,home,-1,Paul Quinn,A. Rodgers,24,6,8,2,3,0,0,0,3,3,2,0,0,2,4,14
+29089,400847341,2582,Southern,home,-1,Paul Quinn,C. Hyder,30,3,6,0,1,0,0,1,5,6,8,2,0,1,1,6
+29090,400847341,2582,Southern,home,-1,Paul Quinn,T. Banks,32,5,11,2,4,2,2,0,2,2,5,1,0,3,0,14
+29091,400847341,2582,Southern,home,-1,Paul Quinn,S. Prudhomme,19,8,15,1,2,0,0,3,3,6,0,3,0,0,0,17
+29092,400847341,2582,Southern,home,-1,Paul Quinn,D. Allen,9,5,5,0,0,1,2,5,3,8,0,0,0,0,1,11
+29093,400847341,2582,Southern,home,-1,Paul Quinn,L. Collins,5,1,2,0,0,1,2,0,1,1,0,2,0,1,1,3
+29094,400847341,2582,Southern,home,-1,Paul Quinn,C. Thomas,22,2,4,0,1,2,3,2,4,6,0,1,0,3,2,6
+29095,400847341,2582,Southern,home,-1,Paul Quinn,R. Andrews,11,1,3,0,1,0,0,0,1,1,0,0,0,0,1,2
+29096,400847342,2582,Southern,away,2253,Grand Canyon,J. Sam,27,5,6,0,0,1,1,2,2,4,0,0,0,1,2,11
+29097,400847342,2582,Southern,away,2253,Grand Canyon,D. Allen,6,0,0,0,0,0,0,1,0,1,0,0,1,1,4,0
+29098,400847342,2582,Southern,away,2253,Grand Canyon,A. Rodgers,28,5,13,2,9,1,3,1,6,7,0,0,0,3,2,13
+29099,400847342,2582,Southern,away,2253,Grand Canyon,C. Hyder,40,4,10,2,4,0,0,2,2,4,5,2,0,1,0,10
+29100,400847342,2582,Southern,away,2253,Grand Canyon,T. Banks,35,2,11,2,5,0,1,0,2,2,0,1,0,3,2,6
+29101,400847342,2582,Southern,away,2253,Grand Canyon,S. Prudhomme,27,5,11,1,5,0,0,2,0,2,2,1,1,2,1,11
+29102,400847342,2582,Southern,away,2253,Grand Canyon,T. Nunn,18,1,3,0,0,0,0,0,0,0,0,0,1,1,1,2
+29103,400847342,2582,Southern,away,2253,Grand Canyon,L. Collins,3,0,1,0,1,2,2,0,0,0,0,0,0,1,0,2
+29104,400847342,2582,Southern,away,2253,Grand Canyon,C. Thomas,16,0,4,0,0,1,2,1,2,3,0,0,0,0,4,1
+29105,400847342,2253,Grand Canyon,home,2582,Southern,G. Glaze,30,9,10,0,1,2,2,0,5,5,2,0,0,3,3,20
+29106,400847342,2253,Grand Canyon,home,2582,Southern,U. Ljeskovic,10,1,4,0,0,0,0,2,0,2,0,3,0,0,1,2
+29107,400847342,2253,Grand Canyon,home,2582,Southern,D. Russell,37,5,9,0,2,0,1,2,5,7,6,2,0,3,3,10
+29108,400847342,2253,Grand Canyon,home,2582,Southern,J. Braun,36,3,9,3,5,9,10,2,2,4,1,3,0,2,1,18
+29109,400847342,2253,Grand Canyon,home,2582,Southern,G. Martin,28,2,5,0,2,0,0,2,4,6,4,1,1,1,4,4
+29110,400847342,2253,Grand Canyon,home,2582,Southern,M. Jackson,14,1,4,0,3,0,0,0,3,3,1,0,0,0,0,2
+29111,400847342,2253,Grand Canyon,home,2582,Southern,K. Vernon,22,4,6,1,1,0,0,0,7,7,1,0,0,6,4,9
+29112,400847342,2253,Grand Canyon,home,2582,Southern,B. Toure,5,0,2,0,0,0,2,3,0,3,0,0,1,1,0,0
+29113,400847342,2253,Grand Canyon,home,2582,Southern,D. Davis,9,0,1,0,0,0,2,1,0,1,1,0,0,0,0,0
+29114,400847342,2253,Grand Canyon,home,2582,Southern,R. Majerle,9,1,2,1,2,2,2,0,0,0,1,0,0,0,0,5
+29115,400847343,-1,Ecclesia,away,2582,Southern,J. Green,20,2,8,0,1,2,5,1,3,4,0,0,0,1,0,6
+29116,400847343,-1,Ecclesia,away,2582,Southern,W. Bradford,31,2,12,0,3,0,0,1,4,5,3,1,0,3,1,4
+29117,400847343,-1,Ecclesia,away,2582,Southern,J. Graves,21,5,12,2,7,0,0,1,0,1,2,1,0,0,1,12
+29118,400847343,-1,Ecclesia,away,2582,Southern,C. White,15,2,3,1,1,0,0,0,0,0,1,1,0,3,5,5
+29119,400847343,-1,Ecclesia,away,2582,Southern,D. Bagsby,11,4,6,2,3,0,0,1,1,2,1,0,0,2,0,10
+29120,400847343,-1,Ecclesia,away,2582,Southern,J. Torrey,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+29121,400847343,-1,Ecclesia,away,2582,Southern,A. Bolt,7,1,1,0,0,0,0,2,2,4,1,0,3,0,1,2
+29122,400847343,-1,Ecclesia,away,2582,Southern,C. Reed,17,0,1,0,0,3,4,1,1,2,1,0,0,2,0,3
+29123,400847343,-1,Ecclesia,away,2582,Southern,E. Poland,2,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0
+29124,400847343,-1,Ecclesia,away,2582,Southern,A. Burroughs,30,1,7,1,5,0,0,3,3,6,1,0,0,0,4,3
+29125,400847343,-1,Ecclesia,away,2582,Southern,M. Taylor,8,1,4,1,3,0,0,2,2,4,0,0,0,1,0,3
+29126,400847343,-1,Ecclesia,away,2582,Southern,S. Bradford,4,2,5,1,4,0,0,0,0,0,0,1,0,0,0,5
+29127,400847343,-1,Ecclesia,away,2582,Southern,D. Gaut Jr.,21,3,5,3,4,3,5,0,3,3,1,1,0,1,0,12
+29128,400847343,-1,Ecclesia,away,2582,Southern,R. Hempstead,10,2,3,0,0,0,0,1,1,2,0,0,0,1,0,4
+29129,400847343,-1,Ecclesia,away,2582,Southern,D. Lockridge,2,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0
+29130,400847343,2582,Southern,home,-1,Ecclesia,J. Sam,16,2,3,0,0,0,0,2,6,8,0,0,1,2,4,4
+29131,400847343,2582,Southern,home,-1,Ecclesia,D. Allen,10,5,6,0,0,0,3,2,1,3,0,0,0,1,1,10
+29132,400847343,2582,Southern,home,-1,Ecclesia,A. Rodgers,24,5,9,4,5,0,0,0,4,4,4,1,0,0,0,14
+29133,400847343,2582,Southern,home,-1,Ecclesia,C. Hyder,30,5,5,0,0,0,0,0,5,5,7,3,0,2,1,10
+29134,400847343,2582,Southern,home,-1,Ecclesia,T. Banks,23,4,8,0,4,0,0,0,1,1,3,2,0,1,2,8
+29135,400847343,2582,Southern,home,-1,Ecclesia,S. Prudhomme,15,6,10,3,5,2,2,1,4,5,0,1,1,1,2,17
+29136,400847343,2582,Southern,home,-1,Ecclesia,T. Nunn,12,2,4,0,0,1,2,2,0,2,0,0,3,0,3,5
+29137,400847343,2582,Southern,home,-1,Ecclesia,L. Collins,18,4,8,3,4,1,2,1,1,2,3,2,2,1,1,12
+29138,400847343,2582,Southern,home,-1,Ecclesia,C. Thomas,22,3,7,0,0,3,4,1,3,4,1,0,0,0,1,9
+29139,400847343,2582,Southern,home,-1,Ecclesia,G. Ellis,7,2,4,1,2,0,0,0,0,0,0,0,0,1,2,5
+29140,400847343,2582,Southern,home,-1,Ecclesia,R. Andrews,11,1,2,0,0,0,1,0,3,3,2,1,0,1,0,2
+29141,400847344,2582,Southern,away,2428,North Carolina Central,J. Sam,32,4,9,0,0,7,8,3,6,9,0,0,1,3,4,15
+29142,400847344,2582,Southern,away,2428,North Carolina Central,D. Allen,17,1,2,0,0,1,1,0,3,3,0,0,0,1,2,3
+29143,400847344,2582,Southern,away,2428,North Carolina Central,A. Rodgers,35,5,13,3,6,5,6,1,8,9,2,0,0,3,1,18
+29144,400847344,2582,Southern,away,2428,North Carolina Central,C. Hyder,33,2,4,0,1,3,4,0,5,5,6,1,0,2,3,7
+29145,400847344,2582,Southern,away,2428,North Carolina Central,T. Banks,38,4,10,1,3,1,3,0,4,4,1,0,0,1,4,10
+29146,400847344,2582,Southern,away,2428,North Carolina Central,S. Prudhomme,19,4,6,2,4,2,2,1,1,2,1,1,0,3,3,12
+29147,400847344,2582,Southern,away,2428,North Carolina Central,T. Nunn,12,0,4,0,0,1,2,2,3,5,0,0,1,1,2,1
+29148,400847344,2582,Southern,away,2428,North Carolina Central,L. Collins,7,1,3,0,1,0,1,0,0,0,1,1,0,2,2,2
+29149,400847344,2582,Southern,away,2428,North Carolina Central,C. Thomas,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29150,400847344,2428,North Carolina Central,home,2582,Southern,J. Copeland,11,0,0,0,0,0,0,0,3,3,0,2,0,0,1,0
+29151,400847344,2428,North Carolina Central,home,2582,Southern,D. Holmes,30,5,12,2,6,0,0,0,5,5,1,0,0,5,4,12
+29152,400847344,2428,North Carolina Central,home,2582,Southern,J. Ingram,28,6,12,4,7,0,1,0,2,2,1,0,1,1,4,16
+29153,400847344,2428,North Carolina Central,home,2582,Southern,D. Graf,27,3,9,0,2,2,3,0,4,4,6,2,0,1,4,8
+29154,400847344,2428,North Carolina Central,home,2582,Southern,J. Ferguson,7,0,1,0,0,0,2,2,2,4,1,0,0,1,2,0
+29155,400847344,2428,North Carolina Central,home,2582,Southern,K. Benton,26,3,7,0,0,3,5,2,3,5,0,0,2,2,2,9
+29156,400847344,2428,North Carolina Central,home,2582,Southern,E. Hood,23,1,1,0,0,0,1,1,0,1,0,1,0,1,4,2
+29157,400847344,2428,North Carolina Central,home,2582,Southern,C.J. Wiggins,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29158,400847344,2428,North Carolina Central,home,2582,Southern,N. Allen,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29159,400847344,2428,North Carolina Central,home,2582,Southern,R. Madison,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29160,400847344,2428,North Carolina Central,home,2582,Southern,P. Cole,39,6,15,2,7,2,2,1,3,4,2,0,0,2,3,16
+29161,400847345,2755,Grambling State,away,2582,Southern,U. Hortum,10,1,3,0,1,1,2,0,1,1,0,0,0,0,1,3
+29162,400847345,2755,Grambling State,away,2582,Southern,D. Hearns,30,7,11,0,0,4,8,2,6,8,0,0,0,1,4,18
+29163,400847345,2755,Grambling State,away,2582,Southern,M. Bethea Jr.,13,0,3,0,2,0,0,1,4,5,1,0,0,0,0,0
+29164,400847345,2755,Grambling State,away,2582,Southern,C. Cormier,29,0,1,0,0,0,0,0,1,1,2,0,0,2,2,0
+29165,400847345,2755,Grambling State,away,2582,Southern,R. Brown,31,3,8,1,4,2,2,1,6,7,1,0,2,3,2,9
+29166,400847345,2755,Grambling State,away,2582,Southern,M. Gray,33,3,5,1,3,6,7,0,4,4,1,1,0,2,3,13
+29167,400847345,2755,Grambling State,away,2582,Southern,K. Williams,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29168,400847345,2755,Grambling State,away,2582,Southern,A. Richmond,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29169,400847345,2755,Grambling State,away,2582,Southern,C. Lowe,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,3
+29170,400847345,2755,Grambling State,away,2582,Southern,E. Mitchell,14,3,8,0,2,0,0,0,2,2,1,1,1,1,1,6
+29171,400847345,2755,Grambling State,away,2582,Southern,V. Altheimer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29172,400847345,2755,Grambling State,away,2582,Southern,N. Ribeiro,31,3,8,1,3,2,2,1,1,2,2,0,0,2,1,9
+29173,400847345,2582,Southern,home,2755,Grambling State,J. Sam,28,5,8,0,0,2,5,4,4,8,1,1,2,1,4,12
+29174,400847345,2582,Southern,home,2755,Grambling State,A. Rodgers,35,8,16,3,7,0,0,2,5,7,2,1,0,1,1,19
+29175,400847345,2582,Southern,home,2755,Grambling State,C. Hyder,40,3,5,0,1,4,5,0,3,3,7,2,0,0,1,10
+29176,400847345,2582,Southern,home,2755,Grambling State,R. Andrews,13,1,3,0,2,0,0,0,2,2,0,0,0,0,1,2
+29177,400847345,2582,Southern,home,2755,Grambling State,S. Prudhomme,19,2,6,1,4,2,2,1,3,4,0,0,2,0,4,7
+29178,400847345,2582,Southern,home,2755,Grambling State,T. Nunn,12,0,1,0,0,0,0,1,3,4,0,0,0,1,2,0
+29179,400847345,2582,Southern,home,2755,Grambling State,C. Thomas,14,2,5,0,1,0,0,0,1,1,1,1,0,1,2,4
+29180,400847345,2582,Southern,home,2755,Grambling State,T. Banks,39,5,14,2,6,0,0,0,2,2,1,2,0,3,2,12
+29181,400847346,2016,Alcorn State,away,2582,Southern,P. Onwenu,27,5,9,0,0,0,1,3,4,7,1,0,1,3,3,10
+29182,400847346,2016,Alcorn State,away,2582,Southern,O. Brown,35,5,11,2,5,1,2,1,5,6,0,1,1,1,3,13
+29183,400847346,2016,Alcorn State,away,2582,Southern,D. Davis,21,2,7,0,0,1,1,3,4,7,1,0,1,0,3,5
+29184,400847346,2016,Alcorn State,away,2582,Southern,T. Wilson,35,5,14,2,7,0,1,0,5,5,3,0,0,2,3,12
+29185,400847346,2016,Alcorn State,away,2582,Southern,D. Hampton,20,3,5,2,3,0,1,0,1,1,0,1,0,1,4,8
+29186,400847346,2016,Alcorn State,away,2582,Southern,T. Hunt,11,0,1,0,0,0,2,1,1,2,0,0,0,0,0,0
+29187,400847346,2016,Alcorn State,away,2582,Southern,M. Vance,18,1,1,0,0,0,0,0,0,0,0,1,1,2,1,2
+29188,400847346,2016,Alcorn State,away,2582,Southern,R. Johnson,17,6,10,1,2,1,3,3,2,5,0,0,0,0,1,14
+29189,400847346,2016,Alcorn State,away,2582,Southern,M. Onwudiegwu,5,0,1,0,0,0,0,0,0,0,0,0,0,2,2,0
+29190,400847346,2016,Alcorn State,away,2582,Southern,S. Willett,5,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+29191,400847346,2016,Alcorn State,away,2582,Southern,R. Katumbusi II,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+29192,400847346,2582,Southern,home,2016,Alcorn State,J. Sam,25,4,8,0,0,0,0,3,2,5,1,1,0,1,1,8
+29193,400847346,2582,Southern,home,2016,Alcorn State,R. Andrews,14,0,2,0,1,3,4,0,4,4,2,0,0,1,2,3
+29194,400847346,2582,Southern,home,2016,Alcorn State,A. Rodgers,31,8,16,4,9,0,0,2,6,8,2,1,0,1,1,20
+29195,400847346,2582,Southern,home,2016,Alcorn State,C. Hyder,39,4,6,1,1,7,8,0,4,4,6,3,0,1,4,16
+29196,400847346,2582,Southern,home,2016,Alcorn State,T. Banks,36,3,11,3,8,3,4,0,1,1,3,1,0,1,2,12
+29197,400847346,2582,Southern,home,2016,Alcorn State,S. Prudhomme,11,2,5,0,1,0,0,1,4,5,0,1,0,0,0,4
+29198,400847346,2582,Southern,home,2016,Alcorn State,D. Allen,12,0,2,0,0,2,4,1,1,2,0,0,0,0,3,2
+29199,400847346,2582,Southern,home,2016,Alcorn State,T. Nunn,14,3,3,0,0,0,1,2,3,5,0,0,1,0,2,6
+29200,400847346,2582,Southern,home,2016,Alcorn State,L. Collins,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29201,400847346,2582,Southern,home,2016,Alcorn State,C. Thomas,16,2,4,0,0,0,2,0,2,2,0,1,0,1,1,4
+29202,400847347,2582,Southern,away,2755,Grambling State,J. Sam,26,2,6,0,0,1,2,1,7,8,1,0,1,4,0,5
+29203,400847347,2582,Southern,away,2755,Grambling State,R. Andrews,15,3,5,1,3,0,0,0,3,3,0,0,0,2,2,7
+29204,400847347,2582,Southern,away,2755,Grambling State,A. Rodgers,39,8,14,4,7,10,12,1,4,5,4,3,0,2,1,30
+29205,400847347,2582,Southern,away,2755,Grambling State,C. Hyder,35,4,8,0,2,2,2,0,2,2,6,6,0,2,2,10
+29206,400847347,2582,Southern,away,2755,Grambling State,T. Banks,35,5,8,5,7,3,4,0,1,1,0,2,0,2,1,18
+29207,400847347,2582,Southern,away,2755,Grambling State,S. Prudhomme,11,0,1,0,1,0,0,1,1,2,0,0,1,0,4,0
+29208,400847347,2582,Southern,away,2755,Grambling State,D. Allen,20,2,2,0,0,1,2,1,1,2,1,2,1,1,2,5
+29209,400847347,2582,Southern,away,2755,Grambling State,T. Nunn,10,1,3,0,0,0,0,1,3,4,0,0,0,0,2,2
+29210,400847347,2582,Southern,away,2755,Grambling State,L. Collins,4,0,2,0,1,0,0,1,0,1,0,0,0,0,0,0
+29211,400847347,2582,Southern,away,2755,Grambling State,C. Thomas,5,1,2,0,0,0,1,0,0,0,0,0,0,2,0,2
+29212,400847347,2755,Grambling State,home,2582,Southern,J. Ocwieja,9,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+29213,400847347,2755,Grambling State,home,2582,Southern,D. Hearns,34,6,12,0,0,3,5,3,3,6,1,4,1,3,4,15
+29214,400847347,2755,Grambling State,home,2582,Southern,E. Mitchell,36,10,18,4,9,2,3,1,3,4,0,0,0,1,2,26
+29215,400847347,2755,Grambling State,home,2582,Southern,M. Bethea Jr.,20,2,5,1,3,2,2,1,2,3,2,2,0,0,1,7
+29216,400847347,2755,Grambling State,home,2582,Southern,C. Cormier,16,1,4,0,0,0,3,0,0,0,2,1,0,2,1,2
+29217,400847347,2755,Grambling State,home,2582,Southern,M. Gray,13,0,1,0,0,2,2,1,0,1,0,0,0,5,1,2
+29218,400847347,2755,Grambling State,home,2582,Southern,K. Williams,10,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0
+29219,400847347,2755,Grambling State,home,2582,Southern,U. Hortum,13,0,1,0,1,0,0,3,2,5,1,0,0,1,2,0
+29220,400847347,2755,Grambling State,home,2582,Southern,A. Richmond,13,1,2,0,0,0,1,0,1,1,1,0,0,0,2,2
+29221,400847347,2755,Grambling State,home,2582,Southern,C. Lowe,7,1,2,0,1,0,0,1,0,1,0,0,0,0,0,2
+29222,400847347,2755,Grambling State,home,2582,Southern,N. Ribeiro,29,4,10,2,7,0,0,1,4,5,2,1,0,5,3,10
+29223,400847348,2582,Southern,away,2016,Alcorn State,J. Sam,22,0,3,0,0,0,0,1,4,5,1,0,0,0,4,0
+29224,400847348,2582,Southern,away,2016,Alcorn State,D. Allen,12,0,1,0,0,0,0,0,1,1,0,0,0,2,3,0
+29225,400847348,2582,Southern,away,2016,Alcorn State,A. Rodgers,35,7,15,3,5,0,0,0,3,3,0,1,1,3,1,17
+29226,400847348,2582,Southern,away,2016,Alcorn State,C. Hyder,27,3,5,0,1,5,6,1,4,5,2,3,0,5,3,11
+29227,400847348,2582,Southern,away,2016,Alcorn State,T. Banks,35,3,11,1,2,0,0,0,1,1,3,1,0,6,4,7
+29228,400847348,2582,Southern,away,2016,Alcorn State,S. Prudhomme,18,5,7,3,5,0,0,0,2,2,0,0,0,0,1,13
+29229,400847348,2582,Southern,away,2016,Alcorn State,T. Nunn,22,1,4,0,0,4,8,1,2,3,0,0,4,0,2,6
+29230,400847348,2582,Southern,away,2016,Alcorn State,C. Thomas,26,1,4,0,0,0,0,1,3,4,0,0,0,0,4,2
+29231,400847348,2582,Southern,away,2016,Alcorn State,R. Andrews,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+29232,400847348,2016,Alcorn State,home,2582,Southern,P. Onwenu,25,0,4,0,0,7,8,3,4,7,2,0,3,2,2,7
+29233,400847348,2016,Alcorn State,home,2582,Southern,O. Brown,23,5,11,1,5,2,2,2,1,3,0,1,2,1,1,13
+29234,400847348,2016,Alcorn State,home,2582,Southern,M. Vance,27,3,7,1,3,2,2,3,4,7,1,1,1,1,1,9
+29235,400847348,2016,Alcorn State,home,2582,Southern,T. Wilson,37,2,15,0,7,2,3,0,1,1,2,1,0,4,1,6
+29236,400847348,2016,Alcorn State,home,2582,Southern,D. Hampton,33,4,12,1,6,2,3,1,1,2,1,2,0,1,2,11
+29237,400847348,2016,Alcorn State,home,2582,Southern,T. Hunt,11,0,0,0,0,0,0,2,1,3,0,0,0,0,2,0
+29238,400847348,2016,Alcorn State,home,2582,Southern,R. Johnson,12,4,4,0,0,0,1,0,3,3,1,0,0,1,0,8
+29239,400847348,2016,Alcorn State,home,2582,Southern,D. Davis,22,4,6,2,2,2,3,4,3,7,2,0,0,0,2,12
+29240,400847348,2016,Alcorn State,home,2582,Southern,T. Smith,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29241,400847348,2016,Alcorn State,home,2582,Southern,R. Katumbusi II,4,1,3,0,2,0,0,0,0,0,0,1,0,2,0,2
+29242,400847348,2016,Alcorn State,home,2582,Southern,M. Onwudiegwu,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29243,400847348,2016,Alcorn State,home,2582,Southern,S. Willett,4,1,2,0,1,0,0,0,1,1,0,0,0,0,1,2
+29244,400847423,2582,Southern,away,2400,Mississippi Valley State,J. Sam,28,2,5,0,0,1,2,1,2,3,2,1,0,1,3,5
+29245,400847423,2582,Southern,away,2400,Mississippi Valley State,L. Collins,20,3,7,0,1,0,0,0,3,3,0,0,0,0,3,6
+29246,400847423,2582,Southern,away,2400,Mississippi Valley State,A. Rodgers,36,9,17,3,9,2,2,4,2,6,1,3,0,1,0,23
+29247,400847423,2582,Southern,away,2400,Mississippi Valley State,C. Hyder,40,6,11,0,1,1,2,1,6,7,4,6,0,0,1,13
+29248,400847423,2582,Southern,away,2400,Mississippi Valley State,R. Andrews,28,3,6,2,4,0,0,0,3,3,0,0,0,1,2,8
+29249,400847423,2582,Southern,away,2400,Mississippi Valley State,S. Prudhomme,17,3,10,2,5,0,0,0,2,2,1,0,1,1,1,8
+29250,400847423,2582,Southern,away,2400,Mississippi Valley State,T. Nunn,11,1,2,0,0,0,2,3,2,5,1,0,3,0,3,2
+29251,400847423,2582,Southern,away,2400,Mississippi Valley State,C. Thomas,20,1,6,0,1,0,0,0,5,5,1,1,0,1,0,2
+29252,400847423,2400,Mississippi Valley State,home,2582,Southern,V. Vaughn,19,1,2,0,0,1,2,2,5,7,1,2,0,2,2,3
+29253,400847423,2400,Mississippi Valley State,home,2582,Southern,D. Young,22,0,4,0,2,0,0,0,0,0,2,1,0,2,0,0
+29254,400847423,2400,Mississippi Valley State,home,2582,Southern,T. Henry,27,2,3,0,0,1,2,1,5,6,0,0,0,2,2,5
+29255,400847423,2400,Mississippi Valley State,home,2582,Southern,K. Phillips,26,5,12,2,5,1,2,1,2,3,1,1,0,2,2,13
+29256,400847423,2400,Mississippi Valley State,home,2582,Southern,M. Romain,28,3,10,1,3,0,0,0,2,2,2,0,1,5,3,7
+29257,400847423,2400,Mississippi Valley State,home,2582,Southern,D. Whitfield,7,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+29258,400847423,2400,Mississippi Valley State,home,2582,Southern,J. Alex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29259,400847423,2400,Mississippi Valley State,home,2582,Southern,L. Love,16,2,4,0,0,5,7,0,3,3,1,0,0,0,0,9
+29260,400847423,2400,Mississippi Valley State,home,2582,Southern,I. Williams,25,4,10,2,6,0,0,0,6,6,0,0,0,0,1,10
+29261,400847423,2400,Mississippi Valley State,home,2582,Southern,R. Surles,25,3,8,1,4,0,1,1,4,5,3,0,0,1,2,7
+29262,400847423,2400,Mississippi Valley State,home,2582,Southern,J. Sanders,5,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0
+29263,400847426,2400,Mississippi Valley State,away,2582,Southern,R. Strother Jr.,19,1,3,0,1,0,0,1,0,1,0,0,0,1,1,2
+29264,400847426,2400,Mississippi Valley State,away,2582,Southern,D. Young,25,1,8,0,4,5,7,1,2,3,0,0,0,2,1,7
+29265,400847426,2400,Mississippi Valley State,away,2582,Southern,L. Love,19,2,9,0,1,3,5,1,1,2,0,1,0,2,2,7
+29266,400847426,2400,Mississippi Valley State,away,2582,Southern,B. Davis,5,1,1,0,0,0,0,1,1,2,0,0,0,0,1,2
+29267,400847426,2400,Mississippi Valley State,away,2582,Southern,K. Phillips,25,1,3,1,1,0,0,1,1,2,0,0,0,3,1,3
+29268,400847426,2400,Mississippi Valley State,away,2582,Southern,T. Henry,7,2,3,0,0,0,0,1,1,2,1,0,0,0,2,4
+29269,400847426,2400,Mississippi Valley State,away,2582,Southern,J. Alex,19,2,3,0,0,0,0,1,3,4,0,0,0,0,1,4
+29270,400847426,2400,Mississippi Valley State,away,2582,Southern,D. Whitfield,7,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1
+29271,400847426,2400,Mississippi Valley State,away,2582,Southern,V. Vaughn,6,0,2,0,1,2,2,2,0,2,0,0,0,1,2,2
+29272,400847426,2400,Mississippi Valley State,away,2582,Southern,R. Surles,10,1,3,0,0,0,0,0,0,0,1,0,0,1,0,2
+29273,400847426,2400,Mississippi Valley State,away,2582,Southern,I. Williams,17,1,5,0,4,4,4,0,5,5,1,0,0,0,0,6
+29274,400847426,2400,Mississippi Valley State,away,2582,Southern,M. Romain,29,10,23,3,6,1,3,2,6,8,0,0,0,2,4,24
+29275,400847426,2400,Mississippi Valley State,away,2582,Southern,J. Sanders,12,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+29276,400847426,2582,Southern,home,2400,Mississippi Valley State,J. Sam,24,4,5,0,0,2,4,0,4,4,1,1,1,1,1,10
+29277,400847426,2582,Southern,home,2400,Mississippi Valley State,R. Andrews,20,3,5,2,3,1,1,2,3,5,0,1,2,2,1,9
+29278,400847426,2582,Southern,home,2400,Mississippi Valley State,A. Rodgers,27,6,17,3,9,2,2,1,6,7,1,0,0,1,0,17
+29279,400847426,2582,Southern,home,2400,Mississippi Valley State,C. Hyder,33,3,8,0,1,0,0,0,5,5,10,3,0,0,3,6
+29280,400847426,2582,Southern,home,2400,Mississippi Valley State,T. Banks,30,4,10,2,4,1,1,2,4,6,3,1,0,1,3,11
+29281,400847426,2582,Southern,home,2400,Mississippi Valley State,S. Prudhomme,15,8,9,3,4,1,1,1,1,2,1,1,0,2,3,20
+29282,400847426,2582,Southern,home,2400,Mississippi Valley State,D. Allen,10,2,2,0,0,2,6,1,2,3,0,0,0,0,2,6
+29283,400847426,2582,Southern,home,2400,Mississippi Valley State,T. Nunn,10,2,4,0,0,0,1,2,3,5,0,2,1,2,3,4
+29284,400847426,2582,Southern,home,2400,Mississippi Valley State,L. Collins,11,2,2,0,0,0,0,0,1,1,1,0,1,1,1,4
+29285,400847426,2582,Southern,home,2400,Mississippi Valley State,C. Thomas,18,3,6,0,0,2,4,0,1,1,0,0,0,0,1,8
+29286,400853334,202,Tulsa,away,282,Indiana State,R. Smith,32,1,2,0,0,0,0,3,7,10,3,1,3,0,3,2
+29287,400853334,202,Tulsa,away,282,Indiana State,D. Wright,14,4,7,0,0,1,4,1,3,4,0,0,1,1,3,9
+29288,400853334,202,Tulsa,away,282,Indiana State,S. Harrison,36,9,16,0,0,6,15,0,4,4,2,1,0,1,3,24
+29289,400853334,202,Tulsa,away,282,Indiana State,R. Ray,11,0,2,0,1,0,0,0,1,1,0,0,0,0,2,0
+29290,400853334,202,Tulsa,away,282,Indiana State,J. Woodard,36,5,17,2,7,4,7,1,9,10,3,2,1,2,1,16
+29291,400853334,202,Tulsa,away,282,Indiana State,B. Swannegan,17,0,1,0,0,0,0,3,1,4,0,1,1,2,3,0
+29292,400853334,202,Tulsa,away,282,Indiana State,E. Ezechinonso,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+29293,400853334,202,Tulsa,away,282,Indiana State,M. Curtis,26,1,3,1,2,1,2,0,5,5,5,2,0,3,2,4
+29294,400853334,202,Tulsa,away,282,Indiana State,P. Birt,16,2,10,1,5,5,6,1,5,6,0,0,0,0,4,10
+29295,400853334,202,Tulsa,away,282,Indiana State,S. Taplin,7,0,1,0,1,2,2,1,0,1,0,0,0,1,1,2
+29296,400853334,202,Tulsa,away,282,Indiana State,K. Brown,3,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+29297,400853334,282,Indiana State,home,202,Tulsa,M. Van Scyoc,22,0,3,0,2,0,0,0,7,7,1,0,0,2,2,0
+29298,400853334,282,Indiana State,home,202,Tulsa,K. Smith,29,5,10,2,4,2,2,1,5,6,3,1,0,1,4,14
+29299,400853334,282,Indiana State,home,202,Tulsa,B. Murphy,11,1,3,0,0,2,4,1,2,3,0,0,0,0,3,4
+29300,400853334,282,Indiana State,home,202,Tulsa,D. Brown,35,4,18,0,6,6,15,0,4,4,0,1,0,3,3,14
+29301,400853334,282,Indiana State,home,202,Tulsa,E. Clemons,18,1,2,0,0,0,0,0,4,4,2,2,0,4,4,2
+29302,400853334,282,Indiana State,home,202,Tulsa,N. Bunschoten,18,1,3,1,3,3,4,0,1,1,0,1,0,1,4,6
+29303,400853334,282,Indiana State,home,202,Tulsa,E. Rickman,9,2,2,0,0,0,1,1,2,3,0,0,1,0,1,4
+29304,400853334,282,Indiana State,home,202,Tulsa,B. Burnett,8,1,2,1,2,0,0,0,3,3,0,0,0,0,3,3
+29305,400853334,282,Indiana State,home,202,Tulsa,B. Scott,29,4,10,0,3,1,1,1,1,2,2,1,0,3,2,9
+29306,400853334,282,Indiana State,home,202,Tulsa,L. Paige,5,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0
+29307,400853334,282,Indiana State,home,202,Tulsa,G. Prusator,12,1,3,1,2,0,0,0,1,1,2,0,0,0,2,3
+29308,400853334,282,Indiana State,home,202,Tulsa,K. Alexander,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29309,400853532,202,Tulsa,away,2579,South Carolina,D. Wright,34,3,8,0,2,2,3,2,5,7,0,0,0,2,2,8
+29310,400853532,202,Tulsa,away,2579,South Carolina,R. Smith,20,3,5,1,1,0,1,2,2,4,1,0,0,3,2,7
+29311,400853532,202,Tulsa,away,2579,South Carolina,S. Harrison,38,4,11,0,1,12,16,0,6,6,3,1,0,3,3,20
+29312,400853532,202,Tulsa,away,2579,South Carolina,J. Woodard,36,5,11,2,5,6,8,2,1,3,2,2,0,2,3,18
+29313,400853532,202,Tulsa,away,2579,South Carolina,K. Brown,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29314,400853532,202,Tulsa,away,2579,South Carolina,B. Swannegan,4,2,2,0,0,0,1,0,2,2,0,0,0,0,5,4
+29315,400853532,202,Tulsa,away,2579,South Carolina,M. Curtis,33,4,8,1,3,2,2,1,2,3,2,0,0,2,5,11
+29316,400853532,202,Tulsa,away,2579,South Carolina,R. Ray,9,0,2,0,1,0,0,0,1,1,0,1,0,0,1,0
+29317,400853532,202,Tulsa,away,2579,South Carolina,P. Birt,17,3,6,1,3,0,0,0,4,4,1,0,0,3,4,7
+29318,400853532,202,Tulsa,away,2579,South Carolina,S. Taplin,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+29319,400853989,2429,Charlotte,away,130,Michigan,B. Sullivan,15,3,6,0,0,0,0,1,0,1,0,0,0,2,3,6
+29320,400853989,2429,Charlotte,away,130,Michigan,J. Uchebo,21,1,5,0,0,4,4,4,5,9,1,0,1,1,0,6
+29321,400853989,2429,Charlotte,away,130,Michigan,B. Ogbueze,30,1,7,1,5,2,2,0,1,1,1,0,0,1,1,5
+29322,400853989,2429,Charlotte,away,130,Michigan,A. White,26,2,7,1,4,4,6,0,3,3,1,1,0,1,3,9
+29323,400853989,2429,Charlotte,away,130,Michigan,J. Davis,24,2,6,1,2,1,2,0,1,1,2,0,0,3,1,6
+29324,400853989,2429,Charlotte,away,130,Michigan,A. Vanhook,16,0,4,0,0,0,0,2,0,2,1,0,0,1,3,0
+29325,400853989,2429,Charlotte,away,130,Michigan,C. Blakley,5,0,2,0,1,0,0,0,1,1,0,1,0,0,1,0
+29326,400853989,2429,Charlotte,away,130,Michigan,R. Aube,9,1,1,0,0,0,0,0,1,1,0,0,0,0,1,2
+29327,400853989,2429,Charlotte,away,130,Michigan,B. Griciunas,13,2,5,0,0,0,1,0,2,2,0,0,1,0,0,4
+29328,400853989,2429,Charlotte,away,130,Michigan,C. Pappas,8,0,1,0,1,0,0,0,1,1,0,0,0,1,1,0
+29329,400853989,2429,Charlotte,away,130,Michigan,R. Camidge,17,1,7,1,5,0,0,0,1,1,0,1,0,0,2,3
+29330,400853989,2429,Charlotte,away,130,Michigan,C. Scott,16,2,7,0,0,2,2,0,1,1,1,1,0,0,0,6
+29331,400853989,130,Michigan,home,2429,Charlotte,R. Doyle,11,3,5,0,0,0,0,2,2,4,0,0,1,3,3,6
+29332,400853989,130,Michigan,home,2429,Charlotte,Z. Irvin,20,4,7,1,4,3,4,0,1,1,4,1,0,0,0,12
+29333,400853989,130,Michigan,home,2429,Charlotte,A. Dawkins,18,4,5,0,1,2,2,0,4,4,0,0,0,0,1,10
+29334,400853989,130,Michigan,home,2429,Charlotte,C. LeVert,25,4,7,2,2,3,3,1,3,4,5,0,0,0,0,13
+29335,400853989,130,Michigan,home,2429,Charlotte,D. Walton Jr.,22,2,4,2,2,2,2,0,8,8,4,2,0,1,2,8
+29336,400853989,130,Michigan,home,2429,Charlotte,M. Donnal,7,3,5,1,2,0,0,0,3,3,0,0,0,0,3,7
+29337,400853989,130,Michigan,home,2429,Charlotte,M. Wagner,16,8,9,1,1,2,2,0,0,0,1,0,2,0,0,19
+29338,400853989,130,Michigan,home,2429,Charlotte,D.J. Wilson,13,3,5,2,3,0,0,0,2,2,1,0,1,3,1,8
+29339,400853989,130,Michigan,home,2429,Charlotte,D. Robinson,19,3,5,3,5,0,0,0,1,1,2,1,0,1,2,9
+29340,400853989,130,Michigan,home,2429,Charlotte,K. Chatman,18,3,6,0,2,0,0,2,6,8,1,0,0,0,2,6
+29341,400853989,130,Michigan,home,2429,Charlotte,S. Albrecht,10,0,1,0,1,0,1,0,1,1,1,0,0,0,0,0
+29342,400854122,130,Michigan,away,251,Texas,R. Doyle,10,0,1,0,0,0,0,2,0,2,0,0,0,1,3,0
+29343,400854122,130,Michigan,away,251,Texas,Z. Irvin,28,5,8,2,5,1,2,0,3,3,2,0,0,1,1,13
+29344,400854122,130,Michigan,away,251,Texas,A. Dawkins,18,2,4,2,3,0,0,0,2,2,0,0,0,2,2,6
+29345,400854122,130,Michigan,away,251,Texas,C. LeVert,36,8,14,3,5,0,0,1,2,3,2,1,0,2,1,19
+29346,400854122,130,Michigan,away,251,Texas,D. Walton Jr.,36,4,8,3,5,2,4,0,5,5,7,3,0,3,3,13
+29347,400854122,130,Michigan,away,251,Texas,M. Donnal,10,1,2,0,1,2,4,0,3,3,0,0,0,0,0,4
+29348,400854122,130,Michigan,away,251,Texas,M. Wagner,18,3,3,0,0,1,1,0,4,4,0,0,0,1,4,7
+29349,400854122,130,Michigan,away,251,Texas,D.J. Wilson,1,1,1,0,0,0,0,0,1,1,0,0,0,0,1,2
+29350,400854122,130,Michigan,away,251,Texas,D. Robinson,31,5,7,4,5,0,1,3,1,4,4,1,0,0,2,14
+29351,400854122,130,Michigan,away,251,Texas,K. Chatman,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+29352,400854122,130,Michigan,away,251,Texas,S. Albrecht,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29353,400857869,2437,Omaha,away,2582,Southern,J. White,21,7,13,0,1,2,4,1,5,6,1,0,0,1,3,16
+29354,400857869,2437,Omaha,away,2582,Southern,T. Thurman,28,2,9,0,1,0,0,2,4,6,2,2,1,1,2,4
+29355,400857869,2437,Omaha,away,2582,Southern,J. Gibson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29356,400857869,2437,Omaha,away,2582,Southern,Z. Jackson,15,1,2,0,0,0,0,0,2,2,3,0,0,0,4,2
+29357,400857869,2437,Omaha,away,2582,Southern,T. Hollins,28,8,11,1,3,4,4,3,2,5,5,5,1,3,2,21
+29358,400857869,2437,Omaha,away,2582,Southern,D. Meyer,12,2,4,0,0,0,0,1,0,1,1,0,0,2,3,4
+29359,400857869,2437,Omaha,away,2582,Southern,Z. Pirog,3,1,1,0,0,0,0,0,1,1,0,0,0,1,0,2
+29360,400857869,2437,Omaha,away,2582,Southern,T. Smallwood,17,2,5,0,2,0,0,0,1,1,0,0,0,0,3,4
+29361,400857869,2437,Omaha,away,2582,Southern,D. Newsome,4,0,1,0,0,0,0,0,2,2,0,0,0,1,0,0
+29362,400857869,2437,Omaha,away,2582,Southern,A. Allbery,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+29363,400857869,2437,Omaha,away,2582,Southern,K. Erickson,25,1,3,1,2,1,2,2,5,7,1,0,1,2,1,4
+29364,400857869,2437,Omaha,away,2582,Southern,R. Reed,16,1,4,0,0,0,0,2,0,2,0,0,0,0,2,2
+29365,400857869,2437,Omaha,away,2582,Southern,D. Patterson,28,4,10,2,5,5,6,0,2,2,1,2,0,4,2,15
+29366,400857869,2582,Southern,home,2437,Omaha,J. Sam,32,8,12,0,0,2,6,1,7,8,0,1,0,3,1,18
+29367,400857869,2582,Southern,home,2437,Omaha,D. Allen,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29368,400857869,2582,Southern,home,2437,Omaha,A. Rodgers,20,2,7,0,0,0,0,0,3,3,0,2,1,5,2,4
+29369,400857869,2582,Southern,home,2437,Omaha,C. Hyder,30,1,2,0,0,2,2,0,2,2,2,0,0,1,3,4
+29370,400857869,2582,Southern,home,2437,Omaha,T. Banks,33,2,11,2,6,6,10,0,1,1,2,1,0,3,0,12
+29371,400857869,2582,Southern,home,2437,Omaha,S. Prudhomme,23,1,7,1,3,0,0,0,3,3,1,0,0,1,1,3
+29372,400857869,2582,Southern,home,2437,Omaha,T. Nunn,13,3,4,0,0,1,3,2,1,3,0,0,0,0,2,7
+29373,400857869,2582,Southern,home,2437,Omaha,L. Collins,5,0,2,0,2,0,0,0,1,1,0,1,0,1,2,0
+29374,400857869,2582,Southern,home,2437,Omaha,C. Thomas,23,1,4,0,1,1,2,0,2,2,0,0,0,3,2,3
+29375,400857869,2582,Southern,home,2437,Omaha,R. Andrews,15,1,2,0,0,0,3,1,1,2,0,0,0,0,0,2
+29376,400870260,2011,Alabama State,away,2582,Southern,C. Butler,16,1,2,0,0,0,0,0,1,1,0,0,1,2,2,2
+29377,400870260,2011,Alabama State,away,2582,Southern,G. Hollaway,18,2,3,0,0,1,2,2,0,2,1,0,1,0,2,5
+29378,400870260,2011,Alabama State,away,2582,Southern,J. Waters,37,5,17,3,8,7,8,0,5,5,9,2,0,5,3,20
+29379,400870260,2011,Alabama State,away,2582,Southern,T. Thomas,28,2,5,1,3,2,2,1,4,5,0,1,0,1,3,7
+29380,400870260,2011,Alabama State,away,2582,Southern,T. LeFlore,30,2,8,2,6,2,3,0,3,3,2,1,0,3,4,8
+29381,400870260,2011,Alabama State,away,2582,Southern,T. Armstrong,27,5,16,0,0,3,3,3,3,6,0,1,0,1,4,13
+29382,400870260,2011,Alabama State,away,2582,Southern,R. Ojeah,3,0,0,0,0,0,0,1,1,2,0,0,0,0,1,0
+29383,400870260,2011,Alabama State,away,2582,Southern,B. Brown,20,3,7,1,2,1,2,1,5,6,0,0,1,1,0,8
+29384,400870260,2011,Alabama State,away,2582,Southern,S. Rogers,20,0,3,0,2,0,0,1,0,1,0,0,0,0,2,0
+29385,400870260,2011,Alabama State,away,2582,Southern,J. Smith,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29386,400870260,2582,Southern,home,2011,Alabama State,J. Sam,30,4,6,0,0,5,8,2,3,5,1,2,1,0,2,13
+29387,400870260,2582,Southern,home,2011,Alabama State,D. Allen,13,2,4,0,0,3,3,1,2,3,0,0,1,2,0,7
+29388,400870260,2582,Southern,home,2011,Alabama State,A. Rodgers,32,8,14,3,6,3,4,0,8,8,3,0,0,1,3,22
+29389,400870260,2582,Southern,home,2011,Alabama State,C. Hyder,35,2,5,1,2,3,4,0,5,5,6,2,0,2,3,8
+29390,400870260,2582,Southern,home,2011,Alabama State,T. Banks,38,5,12,0,3,3,4,1,4,5,2,3,0,4,2,13
+29391,400870260,2582,Southern,home,2011,Alabama State,S. Prudhomme,17,2,8,1,2,0,0,0,5,5,0,0,0,0,3,5
+29392,400870260,2582,Southern,home,2011,Alabama State,T. Nunn,10,2,3,0,0,0,0,2,4,6,1,0,1,0,1,4
+29393,400870260,2582,Southern,home,2011,Alabama State,P. Smith,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29394,400870260,2582,Southern,home,2011,Alabama State,L. Collins,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+29395,400870260,2582,Southern,home,2011,Alabama State,C. Thomas,21,3,6,0,0,3,6,3,3,6,1,0,1,2,2,9
+29396,400870260,2582,Southern,home,2011,Alabama State,R. Andrews,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29397,400870286,235,Memphis,away,202,Tulsa,S. Goodwin,16,1,2,0,0,4,6,0,3,3,0,0,0,1,4,6
+29398,400870286,235,Memphis,away,202,Tulsa,D. Lawson,35,8,17,1,4,5,7,3,9,12,1,0,1,3,1,22
+29399,400870286,235,Memphis,away,202,Tulsa,T. Burrell,26,7,13,1,4,4,5,4,1,5,4,1,1,0,4,19
+29400,400870286,235,Memphis,away,202,Tulsa,A. Woodson,31,4,11,2,7,2,2,5,5,10,2,0,0,0,3,12
+29401,400870286,235,Memphis,away,202,Tulsa,R. Tarrant Jr.,25,6,13,5,8,4,6,1,1,2,2,0,0,0,3,21
+29402,400870286,235,Memphis,away,202,Tulsa,J. McDowell,13,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0
+29403,400870286,235,Memphis,away,202,Tulsa,N. Marshall,7,1,1,0,0,0,0,0,2,2,0,1,0,1,2,2
+29404,400870286,235,Memphis,away,202,Tulsa,J. Martin,26,2,5,0,0,1,1,0,2,2,3,3,1,1,2,5
+29405,400870286,235,Memphis,away,202,Tulsa,D. Scott,2,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0
+29406,400870286,235,Memphis,away,202,Tulsa,C. Randall II,6,0,2,0,1,0,0,0,1,1,0,0,0,1,1,0
+29407,400870286,235,Memphis,away,202,Tulsa,S. Craft,4,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+29408,400870286,235,Memphis,away,202,Tulsa,M. Crawford,9,1,3,0,1,0,0,0,1,1,0,0,0,0,0,2
+29409,400870286,202,Tulsa,home,235,Memphis,R. Smith,25,2,4,0,0,5,6,0,3,3,2,0,2,1,4,9
+29410,400870286,202,Tulsa,home,235,Memphis,B. Swannegan,25,7,10,0,0,0,0,3,4,7,0,1,0,1,1,14
+29411,400870286,202,Tulsa,home,235,Memphis,J. Woodard,24,3,8,1,4,4,7,0,4,4,2,0,0,3,4,11
+29412,400870286,202,Tulsa,home,235,Memphis,S. Harrison,33,4,14,0,1,7,11,0,5,5,3,1,0,3,1,15
+29413,400870286,202,Tulsa,home,235,Memphis,P. Birt,31,2,8,2,7,0,1,1,2,3,2,0,0,2,1,6
+29414,400870286,202,Tulsa,home,235,Memphis,D. Wright,13,1,1,0,0,2,2,2,3,5,0,0,0,0,5,4
+29415,400870286,202,Tulsa,home,235,Memphis,R. Ray,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29416,400870286,202,Tulsa,home,235,Memphis,M. Curtis,18,2,4,0,1,1,2,0,3,3,2,0,0,1,4,5
+29417,400870286,202,Tulsa,home,235,Memphis,N. Wood,2,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+29418,400870286,202,Tulsa,home,235,Memphis,S. Taplin,25,1,1,1,1,0,0,0,3,3,1,0,0,1,3,3
+29419,400870355,77,Northwestern,away,130,Michigan,A. Falzon,20,0,4,0,3,0,0,0,0,0,4,0,1,0,3,0
+29420,400870355,77,Northwestern,away,130,Michigan,A. Olah,37,8,18,1,1,3,4,3,10,13,3,0,0,0,2,20
+29421,400870355,77,Northwestern,away,130,Michigan,S. Lumpkin,37,0,2,0,1,1,2,2,5,7,0,0,1,1,3,1
+29422,400870355,77,Northwestern,away,130,Michigan,T. Demps,45,8,21,5,11,0,0,0,3,3,2,0,0,2,2,21
+29423,400870355,77,Northwestern,away,130,Michigan,B. McIntosh,42,7,13,3,5,2,2,0,4,4,5,1,0,2,2,19
+29424,400870355,77,Northwestern,away,130,Michigan,G. Skelly,8,0,0,0,0,0,0,2,0,2,1,0,0,0,1,0
+29425,400870355,77,Northwestern,away,130,Michigan,N. Taphorn,19,1,5,1,4,3,4,2,3,5,1,1,0,1,1,6
+29426,400870355,77,Northwestern,away,130,Michigan,D. Pardon,7,0,2,0,0,0,0,3,2,5,0,0,0,0,1,0
+29427,400870355,77,Northwestern,away,130,Michigan,S. Lindsey,10,1,3,1,2,0,0,0,1,1,0,0,0,1,3,3
+29428,400870355,77,Northwestern,away,130,Michigan,J. Ash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29429,400870355,130,Michigan,home,77,Northwestern,M. Donnal,18,1,3,0,2,0,0,2,1,3,1,0,1,1,5,2
+29430,400870355,130,Michigan,home,77,Northwestern,D. Walton Jr.,41,0,7,0,3,2,2,0,7,7,5,1,0,3,1,2
+29431,400870355,130,Michigan,home,77,Northwestern,Z. Irvin,42,6,16,2,6,5,6,0,8,8,2,2,0,1,0,19
+29432,400870355,130,Michigan,home,77,Northwestern,D. Robinson,37,6,10,4,6,5,7,0,3,3,1,0,0,1,2,21
+29433,400870355,130,Michigan,home,77,Northwestern,M. Wagner,2,0,0,0,0,0,0,0,1,1,0,0,0,1,2,0
+29434,400870355,130,Michigan,home,77,Northwestern,D.J. Wilson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29435,400870355,130,Michigan,home,77,Northwestern,R. Doyle,24,1,3,0,0,4,4,2,1,3,0,0,0,0,1,6
+29436,400870355,130,Michigan,home,77,Northwestern,K. Chatman,6,1,2,1,2,0,0,0,0,0,0,0,0,0,1,3
+29437,400870355,130,Michigan,home,77,Northwestern,A. Dawkins,8,1,3,0,2,0,0,1,0,1,1,0,0,1,1,2
+29438,400870355,130,Michigan,home,77,Northwestern,A. Dakich,6,1,1,1,1,0,0,1,0,1,1,0,0,0,1,3
+29439,400870741,2633,Tennessee,away,238,Vanderbilt,A. Moore,36,5,12,1,1,3,5,0,5,5,3,0,2,0,3,14
+29440,400870741,2633,Tennessee,away,238,Vanderbilt,D. Reese,35,2,6,1,2,2,2,2,8,10,2,1,0,1,1,7
+29441,400870741,2633,Tennessee,away,238,Vanderbilt,A. Schofield,29,5,12,0,2,2,2,4,3,7,0,0,1,1,3,12
+29442,400870741,2633,Tennessee,away,238,Vanderbilt,D. Baulkman,31,2,5,1,4,1,1,0,4,4,1,5,0,1,1,6
+29443,400870741,2633,Tennessee,away,238,Vanderbilt,S. Phillips,9,0,2,0,1,0,0,0,0,0,1,0,0,1,0,0
+29444,400870741,2633,Tennessee,away,238,Vanderbilt,D. Mostella,31,7,18,2,8,2,4,3,3,6,3,0,1,2,2,18
+29445,400870741,2633,Tennessee,away,238,Vanderbilt,R. Hubbs III,29,4,8,1,1,1,2,3,1,4,0,0,0,0,0,10
+29446,400870741,238,Vanderbilt,home,2633,Tennessee,L. Kornet,36,2,3,2,3,0,0,1,7,8,2,1,5,0,1,6
+29447,400870741,238,Vanderbilt,home,2633,Tennessee,J. Roberson,25,2,8,0,3,0,0,3,5,8,1,0,0,2,4,4
+29448,400870741,238,Vanderbilt,home,2633,Tennessee,D. Jones,29,5,8,0,0,2,5,0,2,2,0,0,0,2,3,12
+29449,400870741,238,Vanderbilt,home,2633,Tennessee,W. Baldwin IV,34,5,13,0,5,3,3,1,5,6,8,1,0,4,4,13
+29450,400870741,238,Vanderbilt,home,2633,Tennessee,J. Henderson,3,2,2,0,0,0,0,1,0,1,0,0,0,0,1,4
+29451,400870741,238,Vanderbilt,home,2633,Tennessee,J. Toye,23,3,5,3,4,1,2,1,3,4,4,0,0,1,3,10
+29452,400870741,238,Vanderbilt,home,2633,Tennessee,C. Justice,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+29453,400870741,238,Vanderbilt,home,2633,Tennessee,N. Cressler,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4
+29454,400870741,238,Vanderbilt,home,2633,Tennessee,R. LaChance,11,0,6,0,2,0,0,0,3,3,1,1,0,1,0,0
+29455,400870833,2582,Southern,away,2640,Texas Southern,J. Sam,32,3,10,0,0,7,7,3,3,6,1,1,3,1,3,13
+29456,400870833,2582,Southern,away,2640,Texas Southern,D. Allen,6,1,1,0,0,0,0,0,0,0,1,0,0,0,5,2
+29457,400870833,2582,Southern,away,2640,Texas Southern,A. Rodgers,37,2,13,1,5,11,13,0,5,5,2,2,0,4,3,16
+29458,400870833,2582,Southern,away,2640,Texas Southern,C. Hyder,36,5,9,2,2,2,2,2,4,6,5,6,0,2,3,14
+29459,400870833,2582,Southern,away,2640,Texas Southern,T. Banks,38,7,14,3,5,2,3,2,2,4,0,1,0,2,1,19
+29460,400870833,2582,Southern,away,2640,Texas Southern,S. Prudhomme,30,5,13,3,9,0,0,0,6,6,0,0,1,0,3,13
+29461,400870833,2582,Southern,away,2640,Texas Southern,T. Nunn,3,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0
+29462,400870833,2582,Southern,away,2640,Texas Southern,L. Collins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29463,400870833,2582,Southern,away,2640,Texas Southern,C. Thomas,9,1,1,0,0,0,0,3,0,3,0,0,0,0,5,2
+29464,400870833,2582,Southern,away,2640,Texas Southern,R. Andrews,9,1,1,0,0,0,3,0,2,2,1,0,0,0,2,2
+29465,400870833,2640,Texas Southern,home,2582,Southern,O. Coleman,14,0,3,0,3,0,0,1,1,2,1,1,0,0,0,0
+29466,400870833,2640,Texas Southern,home,2582,Southern,M. Riley,39,7,16,6,14,4,5,2,5,7,0,0,0,4,3,24
+29467,400870833,2640,Texas Southern,home,2582,Southern,D. Griffin,26,2,5,0,0,5,8,4,5,9,0,1,2,0,5,9
+29468,400870833,2640,Texas Southern,home,2582,Southern,C. Thomas,27,4,6,0,1,7,10,3,4,7,3,1,0,7,4,15
+29469,400870833,2640,Texas Southern,home,2582,Southern,D. Blanks,35,3,8,0,0,3,6,2,3,5,2,1,1,5,5,9
+29470,400870833,2640,Texas Southern,home,2582,Southern,J. Rodriguez,11,2,4,1,2,0,0,0,3,3,1,0,0,1,4,5
+29471,400870833,2640,Texas Southern,home,2582,Southern,B. Carey,33,3,8,1,2,2,2,0,1,1,3,1,0,2,1,9
+29472,400870833,2640,Texas Southern,home,2582,Southern,T. Bynum,15,1,1,0,0,0,0,0,1,1,0,1,0,0,1,2
+29473,400871117,2509,Purdue,away,127,Michigan State,V. Edwards,34,6,18,0,6,7,8,1,1,2,0,0,0,0,2,19
+29474,400871117,2509,Purdue,away,127,Michigan State,C. Swanigan,30,4,11,0,3,3,4,0,5,5,0,2,1,1,2,11
+29475,400871117,2509,Purdue,away,127,Michigan State,A.J. Hammons,32,4,10,0,0,3,4,0,9,9,2,0,1,1,3,11
+29476,400871117,2509,Purdue,away,127,Michigan State,P.J. Thompson,17,1,2,1,1,0,0,2,1,3,1,0,0,0,0,3
+29477,400871117,2509,Purdue,away,127,Michigan State,R. Davis,34,1,5,0,2,2,3,0,1,1,3,0,0,0,2,4
+29478,400871117,2509,Purdue,away,127,Michigan State,I. Haas,8,2,4,0,0,0,0,1,2,3,0,0,0,2,3,4
+29479,400871117,2509,Purdue,away,127,Michigan State,R. Cline,7,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+29480,400871117,2509,Purdue,away,127,Michigan State,D. Mathias,15,1,2,1,2,0,0,0,1,1,2,0,0,0,1,3
+29481,400871117,2509,Purdue,away,127,Michigan State,J. Hill,23,2,3,1,1,2,2,1,1,2,1,2,2,1,1,7
+29482,400871117,127,Michigan State,home,2509,Purdue,M. Costello,24,4,8,0,1,0,1,0,4,4,1,1,4,2,4,8
+29483,400871117,127,Michigan State,home,2509,Purdue,D. Davis,15,3,4,0,0,0,0,2,2,4,0,0,0,0,3,6
+29484,400871117,127,Michigan State,home,2509,Purdue,D. Valentine,35,6,13,3,6,0,0,1,9,10,9,0,1,3,1,15
+29485,400871117,127,Michigan State,home,2509,Purdue,E. Harris,28,2,8,1,3,2,2,1,4,5,0,0,0,0,1,7
+29486,400871117,127,Michigan State,home,2509,Purdue,B. Forbes,30,2,8,1,6,4,4,0,0,0,0,0,0,1,1,9
+29487,400871117,127,Michigan State,home,2509,Purdue,G. Schilling,16,1,5,0,0,2,2,2,0,2,0,0,0,0,0,4
+29488,400871117,127,Michigan State,home,2509,Purdue,J. Bess,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+29489,400871117,127,Michigan State,home,2509,Purdue,M. Clark Jr.,13,1,4,1,3,0,0,2,2,4,1,0,0,2,5,3
+29490,400871117,127,Michigan State,home,2509,Purdue,C. Wollenman,12,2,2,0,0,0,0,2,3,5,1,0,0,1,2,4
+29491,400871117,127,Michigan State,home,2509,Purdue,M. McQuaid,9,1,1,1,1,0,0,1,0,1,0,0,0,0,1,3
+29492,400871117,127,Michigan State,home,2509,Purdue,L. Nairn Jr.,8,1,3,0,0,0,0,0,1,1,2,0,0,0,0,2
+29493,400871117,127,Michigan State,home,2509,Purdue,A. Ellis III,9,2,3,1,1,0,0,0,4,4,1,0,0,0,0,5
+29494,400871118,235,Memphis,away,41,Connecticut,S. Goodwin,37,3,9,0,0,0,1,0,5,5,2,0,0,1,4,6
+29495,400871118,235,Memphis,away,41,Connecticut,D. Lawson,39,7,16,0,2,7,10,1,10,11,1,0,0,1,4,21
+29496,400871118,235,Memphis,away,41,Connecticut,T. Burrell,30,3,14,1,5,0,1,3,1,4,4,1,0,1,4,7
+29497,400871118,235,Memphis,away,41,Connecticut,R. Tarrant Jr.,27,3,7,2,5,3,3,0,3,3,1,1,0,2,5,11
+29498,400871118,235,Memphis,away,41,Connecticut,M. Crawford,37,3,5,2,3,1,2,0,2,2,1,0,0,0,2,9
+29499,400871118,235,Memphis,away,41,Connecticut,J. McDowell,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29500,400871118,235,Memphis,away,41,Connecticut,N. Marshall,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+29501,400871118,235,Memphis,away,41,Connecticut,J. Martin,19,1,2,0,0,0,0,0,0,0,1,0,0,1,0,2
+29502,400871118,235,Memphis,away,41,Connecticut,D. Scott,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29503,400871118,235,Memphis,away,41,Connecticut,C. Randall II,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+29504,400871118,235,Memphis,away,41,Connecticut,C. Wallingford,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+29505,400871118,235,Memphis,away,41,Connecticut,S. Craft,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+29506,400871118,41,Connecticut,home,235,Memphis,S. Miller,22,4,6,1,2,4,4,0,4,4,0,0,0,0,4,13
+29507,400871118,41,Connecticut,home,235,Memphis,P. Nolan,5,0,0,0,0,0,0,0,1,1,0,0,0,0,4,0
+29508,400871118,41,Connecticut,home,235,Memphis,D. Hamilton,37,3,11,0,4,6,8,0,11,11,6,1,0,0,0,12
+29509,400871118,41,Connecticut,home,235,Memphis,S. Gibbs,30,3,10,3,9,4,4,0,3,3,1,1,0,3,1,13
+29510,400871118,41,Connecticut,home,235,Memphis,R. Purvis,32,4,8,2,5,2,2,0,4,4,4,0,0,0,0,12
+29511,400871118,41,Connecticut,home,235,Memphis,K. Facey,16,2,3,0,0,0,0,2,2,4,0,0,1,0,1,4
+29512,400871118,41,Connecticut,home,235,Memphis,N. Amilo,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+29513,400871118,41,Connecticut,home,235,Memphis,C. Foxen,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29514,400871118,41,Connecticut,home,235,Memphis,S. Enoch,10,1,2,0,0,0,0,0,2,2,0,0,0,0,4,2
+29515,400871118,41,Connecticut,home,235,Memphis,A. Brimah,12,1,1,0,0,0,0,0,2,2,0,0,2,1,4,2
+29516,400871118,41,Connecticut,home,235,Memphis,M. Noyes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29517,400871118,41,Connecticut,home,235,Memphis,J. Adams,18,2,4,0,1,0,0,0,1,1,4,0,1,3,2,4
+29518,400871118,41,Connecticut,home,235,Memphis,O. Calhoun,15,2,3,2,3,4,6,0,0,0,1,0,0,0,0,10
+29519,400871142,2582,Southern,away,2296,Jackson State,J. Sam,20,2,5,0,0,0,0,0,6,6,2,0,0,1,4,4
+29520,400871142,2582,Southern,away,2296,Jackson State,D. Allen,10,1,2,1,1,0,0,1,1,2,1,0,0,0,5,3
+29521,400871142,2582,Southern,away,2296,Jackson State,A. Rodgers,35,2,9,0,2,3,4,3,8,11,1,2,0,1,3,7
+29522,400871142,2582,Southern,away,2296,Jackson State,C. Hyder,39,2,8,0,2,2,2,0,5,5,3,2,0,5,1,6
+29523,400871142,2582,Southern,away,2296,Jackson State,T. Banks,37,6,16,2,6,5,6,0,2,2,2,0,0,2,2,19
+29524,400871142,2582,Southern,away,2296,Jackson State,S. Prudhomme,22,3,5,1,2,3,3,0,4,4,0,0,1,3,4,10
+29525,400871142,2582,Southern,away,2296,Jackson State,T. Nunn,16,0,3,0,0,0,0,0,2,2,0,0,1,0,2,0
+29526,400871142,2582,Southern,away,2296,Jackson State,C. Thomas,17,2,7,0,0,1,2,2,1,3,0,1,1,1,1,5
+29527,400871142,2582,Southern,away,2296,Jackson State,R. Andrews,4,0,1,0,1,0,0,0,1,1,0,1,0,0,1,0
+29528,400871142,2296,Jackson State,home,2582,Southern,T. Bolden,22,2,6,0,0,0,2,1,4,5,4,0,1,2,2,4
+29529,400871142,2296,Jackson State,home,2582,Southern,R. Worsham,39,5,11,0,0,7,9,4,8,12,2,2,0,2,1,17
+29530,400871142,2296,Jackson State,home,2582,Southern,C. Franklin,25,2,12,1,8,4,4,0,5,5,0,0,1,1,1,9
+29531,400871142,2296,Jackson State,home,2582,Southern,Y. Specks,38,2,6,2,5,2,2,0,4,4,2,0,0,2,2,8
+29532,400871142,2296,Jackson State,home,2582,Southern,P. Collins,35,3,13,2,6,3,6,4,3,7,0,1,1,0,3,11
+29533,400871142,2296,Jackson State,home,2582,Southern,K. Bernard,6,0,2,0,0,0,0,0,1,1,0,0,0,0,1,0
+29534,400871142,2296,Jackson State,home,2582,Southern,J. Middleton,25,1,6,0,1,0,0,2,4,6,1,0,2,2,0,2
+29535,400871142,2296,Jackson State,home,2582,Southern,J. Brent,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+29536,400871142,2296,Jackson State,home,2582,Southern,D. Robinson,7,0,1,0,0,2,2,0,1,1,0,3,0,1,1,2
+29537,400871142,2296,Jackson State,home,2582,Southern,T. Stancil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29538,400871254,107,Holy Cross,away,2582,Southern,E. Green,26,2,5,0,1,0,0,1,3,4,1,1,0,0,2,4
+29539,400871254,107,Holy Cross,away,2582,Southern,M. Alexander,39,2,5,2,4,1,3,0,8,8,8,1,1,3,1,7
+29540,400871254,107,Holy Cross,away,2582,Southern,K. Charles,22,2,4,1,3,3,4,0,3,3,2,1,0,2,4,8
+29541,400871254,107,Holy Cross,away,2582,Southern,A. Thompson,38,3,7,2,6,4,4,0,2,2,0,0,0,3,0,12
+29542,400871254,107,Holy Cross,away,2582,Southern,C. Hamilton,23,1,4,0,1,2,2,0,3,3,0,0,0,0,2,4
+29543,400871254,107,Holy Cross,away,2582,Southern,J. Floyd,6,1,1,0,0,0,0,0,0,0,1,0,0,0,0,2
+29544,400871254,107,Holy Cross,away,2582,Southern,M. Husek,6,0,3,0,2,0,0,0,1,1,1,0,0,0,1,0
+29545,400871254,107,Holy Cross,away,2582,Southern,R. Champion,32,6,8,3,5,4,6,0,4,4,0,0,0,3,3,19
+29546,400871254,107,Holy Cross,away,2582,Southern,M. Zignorski,8,1,3,1,3,0,0,0,1,1,1,0,0,1,0,3
+29547,400871254,2582,Southern,home,107,Holy Cross,J. Sam,32,3,5,0,0,0,0,1,5,6,0,1,1,0,1,6
+29548,400871254,2582,Southern,home,107,Holy Cross,D. Allen,6,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+29549,400871254,2582,Southern,home,107,Holy Cross,A. Rodgers,29,6,18,1,7,1,1,1,5,6,4,0,0,0,3,14
+29550,400871254,2582,Southern,home,107,Holy Cross,C. Hyder,37,4,5,0,1,0,0,0,2,2,6,2,0,2,3,8
+29551,400871254,2582,Southern,home,107,Holy Cross,T. Banks,31,2,8,1,4,0,0,0,2,2,0,1,0,3,4,5
+29552,400871254,2582,Southern,home,107,Holy Cross,S. Prudhomme,27,3,10,1,6,3,3,2,6,8,0,0,0,1,3,10
+29553,400871254,2582,Southern,home,107,Holy Cross,T. Nunn,5,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+29554,400871254,2582,Southern,home,107,Holy Cross,C. Thomas,20,3,7,0,1,3,5,3,3,6,0,0,0,1,5,9
+29555,400871254,2582,Southern,home,107,Holy Cross,R. Andrews,13,1,2,0,1,1,2,0,0,0,0,0,0,0,0,3
+29556,400871274,2724,Wichita St,away,238,Vanderbilt,S. Morris,9,2,3,0,0,0,0,0,3,3,0,0,1,0,3,4
+29557,400871274,2724,Wichita St,away,238,Vanderbilt,Z. Brown,12,1,2,1,1,0,0,0,3,3,0,0,0,0,1,3
+29558,400871274,2724,Wichita St,away,238,Vanderbilt,F. VanVleet,34,6,15,2,6,0,1,0,3,3,7,2,0,1,0,14
+29559,400871274,2724,Wichita St,away,238,Vanderbilt,E. Wessel,7,0,1,0,0,0,0,0,1,1,0,0,0,0,3,0
+29560,400871274,2724,Wichita St,away,238,Vanderbilt,R. Baker,33,3,11,1,5,7,8,1,8,9,3,1,0,1,1,14
+29561,400871274,2724,Wichita St,away,238,Vanderbilt,R. Kelly,17,1,4,0,1,1,2,2,1,3,0,0,0,1,3,3
+29562,400871274,2724,Wichita St,away,238,Vanderbilt,M. McDuffie,25,2,6,1,1,2,4,3,4,7,0,2,0,2,2,7
+29563,400871274,2724,Wichita St,away,238,Vanderbilt,A. Grady,29,3,9,0,0,5,6,1,6,7,1,0,0,0,3,11
+29564,400871274,2724,Wichita St,away,238,Vanderbilt,R. Nurger,17,2,3,0,1,2,2,1,2,3,0,0,1,0,3,6
+29565,400871274,2724,Wichita St,away,238,Vanderbilt,B. Wamukota,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29566,400871274,2724,Wichita St,away,238,Vanderbilt,C. Frankamp,16,2,5,2,4,2,2,0,2,2,1,0,0,1,3,8
+29567,400871274,238,Vanderbilt,home,2724,Wichita St,L. Kornet,32,3,10,1,5,1,2,1,8,9,0,0,2,0,1,8
+29568,400871274,238,Vanderbilt,home,2724,Wichita St,J. Roberson,28,1,7,0,3,1,2,2,4,6,1,0,0,1,3,3
+29569,400871274,238,Vanderbilt,home,2724,Wichita St,D. Jones,26,2,6,0,0,1,7,2,3,5,0,0,2,0,4,5
+29570,400871274,238,Vanderbilt,home,2724,Wichita St,W. Baldwin IV,33,3,9,0,2,3,3,0,4,4,5,1,0,4,4,9
+29571,400871274,238,Vanderbilt,home,2724,Wichita St,J. Henderson,5,0,1,0,0,3,4,1,1,2,1,0,0,2,2,3
+29572,400871274,238,Vanderbilt,home,2724,Wichita St,J. Toye,26,3,6,1,2,3,4,1,2,3,0,0,0,1,3,10
+29573,400871274,238,Vanderbilt,home,2724,Wichita St,C. Justice,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29574,400871274,238,Vanderbilt,home,2724,Wichita St,N. Cressler,6,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0
+29575,400871274,238,Vanderbilt,home,2724,Wichita St,R. LaChance,23,4,8,1,3,1,1,0,3,3,2,0,0,1,3,10
+29576,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,M. Holloway,23,1,6,0,0,1,3,1,5,6,2,1,0,0,4,3
+29577,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,S. Jiggetts,29,2,9,1,3,0,0,1,0,1,2,3,0,4,2,5
+29578,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,D. Anderson,31,5,14,1,3,0,2,2,6,8,5,2,1,4,5,11
+29579,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,E. Potts Jr.,34,6,17,4,9,0,0,0,8,8,0,0,0,0,3,16
+29580,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,M. Townes,27,3,7,0,2,7,9,0,1,1,3,1,0,1,2,13
+29581,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,D. Rhoden,4,0,0,0,0,2,2,1,1,2,0,1,0,0,1,2
+29582,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,T. O'Garro,6,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+29583,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,M. Miller,10,2,4,0,1,1,2,2,0,2,0,1,0,0,2,5
+29584,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,G. Nehme,9,0,4,0,2,0,0,0,1,1,2,0,0,0,3,0
+29585,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,M. Schroback,5,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0
+29586,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,D. Curry,9,1,2,1,1,0,0,0,0,0,0,0,0,0,0,3
+29587,400871279,161,Fairleigh Dickinson,away,526,Florida Gulf Coast,D. Edge,13,3,6,1,1,0,0,1,1,2,1,0,0,0,1,7
+29588,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,M. Norelia,29,10,11,0,0,0,2,3,7,10,5,1,0,1,4,20
+29589,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,D. Morant,22,5,6,0,0,0,1,1,5,6,1,0,2,1,2,10
+29590,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,J. DeBose,28,5,11,3,7,1,4,0,2,2,3,1,0,1,0,14
+29591,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,Z. Johnson,25,3,4,2,3,0,3,0,5,5,7,3,2,6,2,8
+29592,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,C. Terrell,29,3,10,1,6,7,8,1,8,9,3,0,0,4,1,14
+29593,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,F. Cvjeticanin,11,1,4,1,4,0,0,0,1,1,0,0,0,1,1,3
+29594,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,A. Simmons,13,2,4,0,0,5,5,2,9,11,1,0,0,0,2,9
+29595,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,K. Mickle,4,0,0,0,0,2,2,1,0,1,0,0,0,0,0,2
+29596,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,B. Greene Jr.,2,1,2,0,1,1,2,0,0,0,0,0,0,0,0,3
+29597,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,R. Reid,22,1,2,0,1,3,6,1,1,2,3,1,0,2,2,5
+29598,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,R. Tucker,9,3,3,1,1,1,1,0,2,2,3,0,0,1,3,8
+29599,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,M. Bleecher,4,0,0,0,0,0,0,0,2,2,1,0,0,1,0,0
+29600,400871279,526,Florida Gulf Coast,home,161,Fairleigh Dickinson,D. Mahoney,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29601,400871283,202,Tulsa,away,130,Michigan,R. Smith,24,4,8,1,1,0,1,0,2,2,0,1,1,1,2,9
+29602,400871283,202,Tulsa,away,130,Michigan,B. Swannegan,22,3,4,0,0,3,5,2,3,5,0,0,3,1,3,9
+29603,400871283,202,Tulsa,away,130,Michigan,J. Woodard,35,3,12,1,6,2,2,1,7,8,1,0,0,0,0,9
+29604,400871283,202,Tulsa,away,130,Michigan,S. Harrison,30,10,13,1,1,2,5,2,5,7,5,1,1,2,4,23
+29605,400871283,202,Tulsa,away,130,Michigan,P. Birt,28,0,5,0,2,0,0,0,2,2,0,0,0,0,1,0
+29606,400871283,202,Tulsa,away,130,Michigan,D. Wright,18,3,4,0,0,0,0,0,1,1,0,0,1,3,2,6
+29607,400871283,202,Tulsa,away,130,Michigan,R. Ray,18,0,5,0,4,2,2,0,2,2,2,1,0,0,0,2
+29608,400871283,202,Tulsa,away,130,Michigan,M. Curtis,22,2,5,0,1,0,0,2,3,5,2,2,0,3,3,4
+29609,400871283,202,Tulsa,away,130,Michigan,S. Taplin,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+29610,400871283,130,Michigan,home,202,Tulsa,M. Donnal,13,1,1,0,0,0,0,1,1,2,0,0,0,0,2,2
+29611,400871283,130,Michigan,home,202,Tulsa,D. Walton Jr.,29,4,10,2,7,2,2,0,0,0,1,2,0,3,4,12
+29612,400871283,130,Michigan,home,202,Tulsa,Z. Irvin,36,6,12,2,5,2,2,0,2,2,2,1,0,3,0,16
+29613,400871283,130,Michigan,home,202,Tulsa,D. Robinson,35,5,10,2,5,1,2,1,10,11,4,1,2,1,2,13
+29614,400871283,130,Michigan,home,202,Tulsa,M. Wagner,22,2,2,0,0,0,0,3,5,8,1,1,4,1,2,4
+29615,400871283,130,Michigan,home,202,Tulsa,R. Doyle,5,1,1,0,0,2,2,1,0,1,0,0,0,0,1,4
+29616,400871283,130,Michigan,home,202,Tulsa,K. Chatman,4,0,5,0,3,0,0,1,0,1,0,0,0,0,0,0
+29617,400871283,130,Michigan,home,202,Tulsa,A. Dawkins,13,0,2,0,2,0,0,1,3,4,0,0,0,0,1,0
+29618,400871283,130,Michigan,home,202,Tulsa,A. Dakich,5,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
