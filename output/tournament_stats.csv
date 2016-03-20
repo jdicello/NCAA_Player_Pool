@@ -8,7 +8,7 @@ A. Brown - Green Bay,0,
 A. Brown - Saint Joseph's,13,
 A. Caruso - Texas A&M,3,
 A. Chrabascz - Butler,13,25
-A. Clemmons - Iowa,6,
+A. Clemmons - Iowa,6,9
 A. Collins - Texas A&M,2,
 A. Dakich - Michigan,0,
 A. Dallier - Yale,5,12
@@ -37,10 +37,10 @@ A. Thomas - UNC Asheville,6,
 A. Thompson - Holy Cross,0,
 A. Trier - Arizona,10,
 A. Valdes - Hawaii,8,
-A. Wagner - Iowa,2,
+A. Wagner - Iowa,2,2
 A. Walker - Stony Brook,3,
 A. Wnuk - UNC Asheville,0,
-A. Woodbury - Iowa,10,
+A. Woodbury - Iowa,10,1
 A.J. English - Iona,28,
 A.J. Hammons - Purdue,16,
 B. Alberts - Gonzaga,0,0
@@ -51,7 +51,7 @@ B. Bentil - Providence,19,21
 B. Boatwright - USC,11,
 B. Chapman - Utah,4,4
 B. Chauca - California,0,
-B. Colson - Notre Dame,12,
+B. Colson - Notre Dame,12,5
 B. Darden - Hampton,7,
 B. Forbes - Michigan State,14,
 B. Greene - Kansas,0,0
@@ -108,13 +108,13 @@ C. Russo - Fresno State,3,
 C. Swanigan - Purdue,6,
 C. Terrell - Florida Gulf Coast,15,
 C. Thomas - Wisconsin,2,
-C. Williams - Iowa,2,
+C. Williams - Iowa,2,3
 C. Wollenman - Michigan State,2,
 C. Young - Kansas,0,
 C.J. Bryce - UNC Wilmington,16,
 C.J. Cole - Oklahoma,0,
 C.J. Gettys - UNC Wilmington,1,
-C.J. Williams - Stephen F. Austin,1,
+C.J. Williams - Stephen F. Austin,1,0
 D. Adams - Hampton,0,
 D. Baker - Weber State,2,
 D. Basile - CSU Bakersfield,13,
@@ -127,7 +127,7 @@ D. Budrys - Austin Peay,0,
 D. Buford - Oklahoma,9,
 D. Burton - Iowa State,2,8
 D. Cacok - UNC Wilmington,2,
-D. Cameron - Stephen F. Austin,2,
+D. Cameron - Stephen F. Austin,2,0
 D. Coleman - Syracuse,2,
 D. Coleman - Temple,5,
 D. Collier - Colorado,8,
@@ -140,7 +140,7 @@ D. Durham - CSU Bakersfield,8,
 D. Edwards - Providence,2,2
 D. Ethridge - Chattanooga,14,
 D. Eubanks - Oregon State,13,
-D. Floyd - Stephen F. Austin,9,
+D. Floyd - Stephen F. Austin,9,3
 D. Geyen - CSU Bakersfield,0,
 D. Gordon - Seton Hall,10,
 D. Graham - Kansas,0,13
@@ -153,7 +153,7 @@ D. Hogg - Texas A&M,9,
 D. Holland - Texas,7,
 D. House - Texas A&M,20,
 D. Ingram - UNC Wilmington,17,
-D. Jackson - Notre Dame,11,
+D. Jackson - Notre Dame,11,6
 D. Kadiri - Buffalo,2,
 D. Mahoney - Florida Gulf Coast,0,
 D. Mathias - Purdue,12,
@@ -161,12 +161,12 @@ D. Miles Jr. - West Virginia,2,
 D. Morant - Florida Gulf Coast,1,
 D. Mountain - Holy Cross,2,
 D. Much - Iona,9,
-D. Ochefu - Villanova,17,
+D. Ochefu - Villanova,17,6
 D. Oldham - Chattanooga,10,
 D. Parks - South Dakota State,22,
 D. Pierre - Dayton,6,
 D. Reed - Miami,10,10
-D. Reynolds - Villanova,2,
+D. Reynolds - Villanova,2,5
 D. Ristic - Arizona,2,
 D. Robinson - Michigan,9,
 D. Rodriguez - Seton Hall,8,
@@ -182,7 +182,7 @@ D. Thornton - Duke,5,2
 D. Thrower - Stony Brook,8,
 D. Triano - Gonzaga,2,0
 D. Tucker - Utah,3,8
-D. Uhl - Iowa,7,
+D. Uhl - Iowa,7,3
 D. Valentine - Michigan State,13,
 D. Walker - Oklahoma,0,
 D. Walton Jr. - Michigan,10,
@@ -263,7 +263,7 @@ J. Bond - Temple,14,
 J. Brantley - Maryland,1,
 J. Brown - California,4,
 J. Brown - Temple,16,
-J. Brunson - Villanova,10,
+J. Brunson - Villanova,10,12
 J. Burgess - VCU,3,
 J. Cannon - UNC Asheville,2,
 J. Carter - West Virginia,4,
@@ -281,7 +281,7 @@ J. Fouse - Green Bay,9,
 J. Gathers - Butler,3,0
 J. Gray - Texas Tech,10,
 J. Hagins - Arkansas-Little Rock,31,8
-J. Hart - Villanova,9,
+J. Hart - Villanova,9,19
 J. Hill - Purdue,4,
 J. Hill - Wisconsin,0,
 J. Hollins - CSU Bakersfield,0,
@@ -291,7 +291,7 @@ J. Jackson - Arkansas-Little Rock,3,2
 J. Jackson - North Carolina,12,15
 J. Jacobs - USC,8,
 J. James - North Carolina,0,2
-J. Johnson - Stephen F. Austin,6,
+J. Johnson - Stephen F. Austin,6,0
 J. Jones - Texas A&M,11,
 J. Jones - Virginia,0,
 J. Layman - Maryland,27,
@@ -339,7 +339,7 @@ J. Taylor - Fresno State,1,
 J. Tillman - VCU,4,
 J. Traylor - Kansas,0,0
 J. Tuoyo - Chattanooga,12,
-J. Uthoff - Iowa,23,
+J. Uthoff - Iowa,23,16
 J. Warney - Stony Brook,23,
 J. Washington - Iona,26,
 J. White - Chattanooga,0,
@@ -371,7 +371,7 @@ K. Ghani - Yale,0,0
 K. Goins - Michigan State,0,
 K. Hill - Weber State,5,
 K. Iverson - Wisconsin,0,
-K. Jenkins - Villanova,12,
+K. Jenkins - Villanova,12,15
 K. Johnson - Cincinnati,2,
 K. Jones - Austin Peay,6,
 K. Kanter - Green Bay,5,
@@ -421,7 +421,7 @@ M. Alexander - Holy Cross,10,
 M. Bielfeldt - Indiana,10,5
 M. Bleecher - Florida Gulf Coast,0,
 M. Bohannon - Northern Iowa,10,
-M. Bridges - Villanova,12,
+M. Bridges - Villanova,12,6
 M. Brogdon - Virginia,11,22
 M. Bryan - UNC Wilmington,0,
 M. Cannon - Weber State,10,
@@ -432,9 +432,9 @@ M. Davis - Xavier,6,
 M. Donnal - Michigan,9,
 M. Dowdy Jr. - Seton Hall,0,
 M. Duvivier - Oregon State,3,
-M. Farrell - Notre Dame,5,
+M. Farrell - Notre Dame,5,4
 M. Gbinije - Syracuse,10,
-M. Gesell - Iowa,4,
+M. Gesell - Iowa,4,6
 M. Harris - Fresno State,24,
 M. Heller - Oregon,0,
 M. Hill - Arkansas-Little Rock,7,2
@@ -457,7 +457,7 @@ M. Paige - North Carolina,10,12
 M. Perkins - Holy Cross,4,
 M. Plumlee - Duke,23,2
 M. Richardson - Syracuse,21,
-M. Ryan - Notre Dame,3,
+M. Ryan - Notre Dame,3,0
 M. Shayok - Virginia,10,12
 M. Smith - CSU Bakersfield,4,
 M. Temple - Texas Tech,2,
@@ -472,7 +472,7 @@ M. Williams - Temple,5,
 M. Young - Pittsburgh,6,
 M. Zignorski - Holy Cross,0,
 N. Adrian - West Virginia,0,
-N. Baer - Iowa,2,
+N. Baer - Iowa,2,15
 N. Britt - North Carolina,5,2
 N. Hayes - Wisconsin,12,
 N. Jovanovic - USC,14,
@@ -487,13 +487,13 @@ O. Ellis - Cincinnati,4,
 O. Enechionyia - Temple,4,
 O. Schaftenaar - Oregon State,2,
 P. Benzan - Holy Cross,1,
-P. Booth - Villanova,7,
+P. Booth - Villanova,7,8
 P. Buford - Middle Tennessee,15,
 P. Ellis - Kansas,21,21
 P. Farrell - Villanova,3,
 P. Ibeh - Texas,1,
 P. Jesperson - Northern Iowa,14,
-P. Jok - Iowa,16,
+P. Jok - Iowa,16,11
 P. Ndao - Saint Joseph's,0,
 P. Nolan - Connecticut,0,0
 P. Oliva - Saint Joseph's,5,
@@ -510,7 +510,7 @@ Q. Smith - Hawaii,19,
 R. Abell - Xavier,11,
 R. Anderson - Arizona,8,
 R. Anthony - Seton Hall,0,
-R. Arcidiacono - Villanova,14,
+R. Arcidiacono - Villanova,14,16
 R. Bakamus - Gonzaga,0,0
 R. Baker - Wichita St,13,11
 R. Bobbitt - Hawaii,17,
@@ -539,7 +539,7 @@ R. Moute a Bidias - California,3,
 R. Nurger - Wichita St,1,0
 R. Nyama - Stony Brook,0,
 R. Odomes - Oklahoma,0,
-R. Pflueger - Notre Dame,2,
+R. Pflueger - Notre Dame,2,0
 R. Purvis - Connecticut,19,17
 R. Reid - Florida Gulf Coast,0,
 R. Richardson - Weber State,0,
@@ -581,7 +581,7 @@ S. Smith - Dayton,12,
 S. Smith - Pittsburgh,0,
 S. Thompson Jr. - Oregon State,6,
 S. Tummala - Hawaii,5,
-S. Vasturia - Notre Dame,9,
+S. Vasturia - Notre Dame,9,5
 S. Westrop - Iona,0,
 S. White - North Carolina,1,0
 T. Akyazili - Colorado,0,
@@ -593,7 +593,7 @@ T. Bryant - Indiana,13,19
 T. Bryant - UNC Asheville,2,
 T. Carter II - Fresno State,0,
 T. Caupain - Cincinnati,6,
-T. Charles - Stephen F. Austin,0,
+T. Charles - Stephen F. Austin,0,5
 T. Cooney - Syracuse,13,
 T. Davis - Texas A&M,12,
 T. Dorsey - Oregon,9,
@@ -616,7 +616,7 @@ T. Miller - Texas A&M,4,
 T. Myers - West Virginia,2,
 T. Phillip - West Virginia,7,
 T. Phills - Yale,2,0
-T. Pinkney - Stephen F. Austin,1,
+T. Pinkney - Stephen F. Austin,1,3
 T. Pinson - North Carolina,5,2
 T. Prince - Baylor,28,
 T. Roberson - Syracuse,10,
@@ -624,15 +624,15 @@ T. Self - Kansas,0,
 T. Stainbrook - Xavier,0,
 T. Sturdivant - Stony Brook,2,
 T. Ulis - Kentucky,10,27
-T. Walkup - Stephen F. Austin,33,
+T. Walkup - Stephen F. Austin,33,8
 T. Wideman - Butler,14,5
 T. Williams - Indiana,12,13
-T.J. Holyfield - Stephen F. Austin,4,
+T.J. Holyfield - Stephen F. Austin,4,6
 V. Brown - Wisconsin,11,
 V. Edwards - Purdue,24,
 V. Ram - Maryland,0,
 V. Singh - Seton Hall,0,
-V.J. Beachem - Notre Dame,18,
+V.J. Beachem - Notre Dame,18,8
 W. Conner - Buffalo,3,
 W. Gordon - Colorado,9,
 W. Lohaus - Northern Iowa,2,
@@ -643,7 +643,7 @@ X. Habersham - Middle Tennessee,0,
 X. Talton - Colorado,7,
 X. Williams - Dayton,0,
 Y. Ferrell - Indiana,20,18
-Z. Auguste - Notre Dame,10,
+Z. Auguste - Notre Dame,10,6
 Z. Braxton - Weber State,7,
 Z. Brown - Wichita St,2,3
 Z. Glotta - Austin Peay,0,

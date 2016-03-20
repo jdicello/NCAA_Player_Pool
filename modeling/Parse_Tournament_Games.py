@@ -65,7 +65,7 @@ def parseBoxScore(rnd, game_id):
     return pd.concat([away, home], ignore_index=True)
         
 def parseTeamBoxScore(soup_box, rnd, game_id, team_id, team_name, home_away_indictor, opp_id, opp_name):
-    header = 'round,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
+    header = 'rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
     stats_df = pd.DataFrame(columns=header.split(','))
     i=0
     
@@ -102,7 +102,7 @@ def parseTeamBoxScore(soup_box, rnd, game_id, team_id, team_name, home_away_indi
         
     return stats_df
 
-header = 'round,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
+header = 'rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
 s_df = pd.DataFrame(columns=header.split(','))
 
 for rnd, game_id in findTournamentGames():
@@ -111,21 +111,21 @@ for rnd, game_id in findTournamentGames():
 
 
 
-s_df = pd.concat([s_df.player + ' - ' + s_df.team_name, s_df], axis=1)
-new_header = 'player-team,round,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
-s_df.columns = new_header.split(',')
+new_s_df = pd.concat([s_df.player + ' - ' + s_df.team_name, s_df], axis=1)
+new_header = 'player-team,rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
+new_s_df.columns = new_header.split(',')
 
-output = s_df[s_df.round=='1'][['player-team','PTS']]
+output = new_s_df[new_s_df.rnd=='1'][['player-team','PTS']]
 output.columns = ['player-team', 'R1']
-r2 = s_df[s_df.round=='2'][['player-team','PTS']]
+r2 = new_s_df[new_s_df.rnd=='2'][['player-team','PTS']]
 r2.columns = ['player-team', 'R2']
-r3 = s_df[s_df.round=='3'][['player-team','PTS']]
+r3 = new_s_df[new_s_df.rnd=='3'][['player-team','PTS']]
 r3.columns = ['player-team', 'R3']
-r4 = s_df[s_df.round=='4'][['player-team','PTS']]
+r4 = new_s_df[new_s_df.rnd=='4'][['player-team','PTS']]
 r4.columns = ['player-team', 'R4']
-r5 = s_df[s_df.round=='5'][['player-team','PTS']]
+r5 = new_s_df[new_s_df.rnd=='5'][['player-team','PTS']]
 r5.columns = ['player-team', 'R5']
-r6 = s_df[s_df.round=='6'][['player-team','PTS']]
+r6 = new_s_df[new_s_df.rnd=='6'][['player-team','PTS']]
 r6.columns = ['player-team', 'R6']
 
 output.set_index('player-team', inplace=True)
@@ -150,5 +150,5 @@ if r5.size > 0 :
 if r6.size > 0 :
     output = pd.merge(output,r6,how='left', left_index=True, right_index=True, suffixes=('_R5', '_R6'))
  
-output.to_csv("C:\Users\jdicello\Documents\GitHub\NCAA\output/tournament_stats.csv")
+output.to_csv("../output/tournament_stats.csv")
 
