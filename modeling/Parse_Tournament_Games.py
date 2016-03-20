@@ -2,10 +2,6 @@ from bs4 import BeautifulSoup
 
 import urllib2
 import pandas as pd
-import numpy as np
-import csv
-import time
-
 
 def findTournamentGames():
     url_bracket = 'http://espn.go.com/mens-college-basketball/tournament/bracket'
@@ -120,16 +116,16 @@ new_header = 'player-team,round,game_id,team_id,team_name,home_away_indictor,opp
 s_df.columns = new_header.split(',')
 s_df.set_index('player-team', inplace=True)
 
-output = s_df[s_df.round=='1'].PTS
-r2 = s_df[s_df.round=='2'].PTS
-r3 = s_df[s_df.round=='3'].PTS
-r4 = s_df[s_df.round=='4'].PTS
-r5 = s_df[s_df.round=='5'].PTS
-r6 = s_df[s_df.round=='6'].PTS
+output = s_df[s_df.round=='1']
+r2 = s_df[s_df.round=='2']
+r3 = s_df[s_df.round=='3']
+r4 = s_df[s_df.round=='4']
+r5 = s_df[s_df.round=='5']
+r6 = s_df[s_df.round=='6']
 
 if r2.size > 0 :
-    output = pd.merge(output,r2,how='left', left_index=True, right_index=True, suffixes=('_R1', '_R2'))
-
+    output = pd.merge(output,r2,how='left', left_index=True, right_index=True, suffixes=('_R1', '_R2'))[['PTS_R1','PTS_R2']]
+    
 if r3.size > 0 :
     output = pd.merge(output,r3,how='left', left_index=True, right_index=True, suffixes=('_R2', '_R3'))
 
