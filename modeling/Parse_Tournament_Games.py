@@ -115,9 +115,6 @@ s_df = pd.concat([s_df.player + ' - ' + s_df.team_name, s_df], axis=1)
 new_header = 'player-team,round,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
 s_df.columns = new_header.split(',')
 
-
-s_df.set_index('player-team', inplace=True)
-
 output = s_df[s_df.round=='1'][['player-team','PTS']]
 output.columns = ['player-team', 'R1']
 r2 = s_df[s_df.round=='2'][['player-team','PTS']]
