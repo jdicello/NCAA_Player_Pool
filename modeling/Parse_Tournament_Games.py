@@ -6,7 +6,7 @@ import pandas as pd
 def findTournamentGames():
     url_bracket = 'http://espn.go.com/mens-college-basketball/tournament/bracket'
     page_bracket = urllib2.urlopen(url_bracket)
-    soup_bracket = BeautifulSoup(page_bracket.read())
+    soup_bracket = BeautifulSoup(page_bracket.read(), "html.parser")
     
     id_bracket = soup_bracket.find("div", {"id": "bracket"})
     
@@ -114,17 +114,32 @@ for rnd, game_id in findTournamentGames():
 s_df = pd.concat([s_df.player + ' - ' + s_df.team_name, s_df], axis=1)
 new_header = 'player-team,round,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
 s_df.columns = new_header.split(',')
+
+
 s_df.set_index('player-team', inplace=True)
 
-output = s_df[s_df.round=='1']
-r2 = s_df[s_df.round=='2']
-r3 = s_df[s_df.round=='3']
-r4 = s_df[s_df.round=='4']
-r5 = s_df[s_df.round=='5']
-r6 = s_df[s_df.round=='6']
+output = s_df[s_df.round=='1'][['player-team','PTS']]
+output.columns = ['player-team', 'R1']
+r2 = s_df[s_df.round=='2'][['player-team','PTS']]
+r2.columns = ['player-team', 'R2']
+r3 = s_df[s_df.round=='3'][['player-team','PTS']]
+r3.columns = ['player-team', 'R3']
+r4 = s_df[s_df.round=='4'][['player-team','PTS']]
+r4.columns = ['player-team', 'R4']
+r5 = s_df[s_df.round=='5'][['player-team','PTS']]
+r5.columns = ['player-team', 'R5']
+r6 = s_df[s_df.round=='6'][['player-team','PTS']]
+r6.columns = ['player-team', 'R6']
+
+output.set_index('player-team', inplace=True)
+r2.set_index('player-team', inplace=True)
+r3.set_index('player-team', inplace=True)
+r4.set_index('player-team', inplace=True)
+r5.set_index('player-team', inplace=True)
+r6.set_index('player-team', inplace=True)
 
 if r2.size > 0 :
-    output = pd.merge(output,r2,how='left', left_index=True, right_index=True, suffixes=('_R1', '_R2'))[['PTS_R1','PTS_R2']]
+    output = pd.merge(output,r2,how='left', left_index=True, right_index=True, suffixes=('_R1', '_R2'))
     
 if r3.size > 0 :
     output = pd.merge(output,r3,how='left', left_index=True, right_index=True, suffixes=('_R2', '_R3'))
