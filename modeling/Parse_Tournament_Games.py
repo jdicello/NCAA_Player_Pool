@@ -6,7 +6,7 @@ import pandas as pd
 def findTournamentGames():
     url_bracket = 'http://espn.go.com/mens-college-basketball/tournament/bracket'
     page_bracket = urllib2.urlopen(url_bracket)
-    soup_bracket = BeautifulSoup(page_bracket.read(), "html.parser")
+    soup_bracket = BeautifulSoup(page_bracket.read(), "lxml")
     
     id_bracket = soup_bracket.find("div", {"id": "bracket"})
     
