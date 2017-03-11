@@ -37,14 +37,14 @@ def parseBoxScore(rnd, game_id):
         page_box = urllib2.urlopen(url_box)
         soup_box = BeautifulSoup(page_box.read())
     except:
-        print "Could not parse: " + url_box
+        print("Could not parse: " + url_box)
     
     try:
         away_team = str(soup_box.findAll("div", {"class":"team away"})[0].findAll("span", {"class":"long-name"})[0].string)
         away_href_str = str(soup_box.findAll("div", {"class":"team away"})[0].a['href'])
         away_id = away_href_str[away_href_str.rfind('/',0)+1:]
     except:
-        print "Error parsing GameID: " + str(game_id)
+        print("Error parsing GameID: " + str(game_id))
         if away_team == '':
             away_team = 'error'
         away_id = -1
@@ -54,7 +54,7 @@ def parseBoxScore(rnd, game_id):
         home_href_str = str(soup_box.findAll("div", {"class":"team home"})[0].a['href'])
         home_id = home_href_str[home_href_str.rfind('/',0)+1:]
     except:
-        print "Error parsing GameID: " + str(game_id)
+        print("Error parsing GameID: " + str(game_id))
         if home_team == '':
             home_team = 'error'
         home_id = -1
@@ -98,7 +98,7 @@ def parseTeamBoxScore(soup_box, rnd, game_id, team_id, team_name, home_away_indi
             except:
                 continue
     except:
-        print 'no box score'
+        print('no box score')
         
     return stats_df
 
@@ -106,7 +106,7 @@ header = 'rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,playe
 s_df = pd.DataFrame(columns=header.split(','))
 
 for rnd, game_id in findTournamentGames():
-    print 'parsing round: ' + str(rnd) + ', game_id: ' + game_id
+    print('parsing round: ' + str(rnd) + ', game_id: ' + game_id)
     s_df = pd.concat([s_df, parseBoxScore(rnd, game_id)], ignore_index=True)
 
 

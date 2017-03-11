@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
+from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-import urllib2
+#import urllib2
 import pandas as pd
 import numpy as np
 import csv
@@ -11,7 +12,7 @@ class PlayerStats():
     
     def __init__(self):
         
-        self.bracket = pd.DataFrame(columns=('team_name','seed','team_id'))
+        self.bracket = pd.DataFrame(columns=('team_name','seed','team_id'), dtype=int)
         #self.parsed_games = []
         self.bracket_df_row = 0
         self.team_schedule_df_row = 0
@@ -20,13 +21,13 @@ class PlayerStats():
         #self.header = 'game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,starters,MIN,FG,TREY,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
         # could create a 
         self.header = 'game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,FGM,FGA,TREY_M,TREY_A,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS'
-        self.player_stats_df = pd.DataFrame(columns=self.header.split(','))
-        self.team_schedule_df = pd.DataFrame(columns=('team_id','game_num','game_id','game_location','opp_id'))
+        self.player_stats_df = pd.DataFrame(columns=self.header.split(','), dtype=int)
+        self.team_schedule_df = pd.DataFrame(columns=('team_id','game_num','game_id','game_location','opp_id'), dtype=int)
         pre_header = 'team_id,game_num,game_id,game_location,opp_id'
-        pre_team_sch = pd.read_csv("../output/pre_tournament_schedule.csv",
-                                                header=0,
-                                                usecols=pre_header.split(',')
-                                                )
+#        pre_team_sch = pd.read_csv("../output/pre_tournament_schedule.csv",
+#                                                header=0,
+#                                                usecols=pre_header.split(',')
+#                                                )
         #self.populateData(self)
         
     def loadSavedData(self):
@@ -41,7 +42,7 @@ class PlayerStats():
                 for row in pg_reader:
                     self.parsed_games.append(row[0])
         except:
-            print "No previously parsed games"
+            print("No previously parsed games")
 
     def loadPlayerStats(self):
         # load player stats
@@ -52,7 +53,7 @@ class PlayerStats():
                                               )
             self.player_stats_df_row = len(self.player_stats_df)
         except:
-            print "No previous player stats"
+            print("No previous player stats")
 
     def saveData(self):
         #self.saveParsedGames()
@@ -70,33 +71,33 @@ class PlayerStats():
         
     def populateData(self):
         begin_time = time.time()
-        print 'Loading saved data...'
+        print('Loading saved data...')
         #load data from previous runs to save time
         self.loadSavedData()
         
-        print 'Loading bracket...'
+        print('Loading bracket...')
         # Create the bracket
         #self.populateBracket()
         self.populateRealBracket()
         
-        print 'Loading team schedules...'
+        print('Loading team schedules...')
         # Create the team schedules
         self.populateAllTeamSchedules()
 
-        print 'Loading parsing box scores...'
+        print('Loading parsing box scores...')
         # Load box scores
         self.parseAllBoxScores()
         
-        print 'Saving data...'
+        print('Saving data...')
         #save data
         self.saveData()
         
-        print time.time() - begin_time
+        print(time.time() - begin_time)
 
         # Loop through each team
 #        begin_time = time.time()
 #        for index, row in self.bracket.iterrows():
-#            print "Pulling data for team #" + str(i) + ": " + row.team_name + ' ' + str(row.seed) + ' ' + str(row.team_id)
+#            print("Pulling data for team #" + str(i) + ": " + row.team_name + ' ' + str(row.seed) + ' ' + str(row.team_id)
 #            start_time = time.time()
 #            
 #            # First find their schedule
@@ -107,13 +108,13 @@ class PlayerStats():
 #            #for game_id in self.team_schedule_df[self.team_schedule_df['team_id'] == row.team_id].game_id:
 #             #   self.parseBoxScore(game_id)
 #                
-#            print time.time() - start_time
+#            print(time.time() - start_time
 #            i += 1
 
     def populateRealBracket(self):
         url_bracket = 'http://espn.go.com/mens-college-basketball/tournament/bracket'
-        page_bracket = urllib2.urlopen(url_bracket)
-        soup_bracket = BeautifulSoup(page_bracket.read())
+        page_bracket = urlopen(url_bracket)
+        soup_bracket = BeautifulSoup(page_bracket.read(), "lxml")
         
         div_bracket = soup_bracket.find("div", {"id": "bracket"})
         
@@ -141,12 +142,15 @@ class PlayerStats():
                     self.bracket_df_row += 1
             except:
                 continue
+            
+            self.bracket.seed = self.bracket.seed.astype(int)
+            self.bracket.team_id = self.bracket.team_id.astype(int)
 
     def populateBracketology(self):
         
         url_bracket = 'http://espn.go.com/ncb/bracketology'
-        page_bracket = urllib2.urlopen(url_bracket)
-        soup_bracket = BeautifulSoup(page_bracket.read())
+        page_bracket = urlopen(url_bracket)
+        soup_bracket = BeautifulSoup(page_bracket.read(), "lxml")
     
         teams = soup_bracket.findAll("div", {"class": "team"})
             
@@ -159,20 +163,21 @@ class PlayerStats():
             self.bracket_df_row += 1
             #self.bracket.append([team_name, seed, team_id])
             
-        #self.bracket = self.bracket.convert_objects(convert_numeric=True)
+        self.bracket.seed = self.bracket.seed.astype(int)
+        self.bracket.team_id = self.bracket.team_id.astype(int)
     
     def populateAllTeamSchedules(self):
         # if the bracket is empty, find teams first
         if self.bracket.empty:
-            self.createBracket()
+            self.populateBracketology()
         # only populate if team_schedules are empty
         if self.team_schedule_df.empty:
             self.bracket.team_id.apply(lambda x: self.findTeamSchedule(int(x)))
         
     def findTeamSchedule(self, team_id):
         url_sch = 'http://espn.go.com/mens-college-basketball/team/schedule/_/id/' + str(team_id)
-        page_sch = urllib2.urlopen(url_sch)
-        soup_sch = BeautifulSoup(page_sch.read())
+        page_sch = urlopen(url_sch)
+        soup_sch = BeautifulSoup(page_sch.read(), "lxml")
         try:
             box = soup_sch.find("table", {"class":"tablehead"}).findAll("tr")
             game_num = 1
@@ -198,7 +203,7 @@ class PlayerStats():
                     
                 try:
                     # find team id, if exists
-                    opp_id = row.find("li", {"class":"team-name"}).a['href'].replace('http://espn.go.com/mens-college-basketball/team/_/id/','')
+                    opp_id = row.find("li", {"class":"team-name"}).a['href'].replace('http://www.espn.com/mens-college-basketball/team/_/id/','')
                     opp_id = opp_id[0:opp_id.find('/')]
                 except:
                     # opp not tracked by ESPN
@@ -207,20 +212,23 @@ class PlayerStats():
                 try:
                     # find game id
                     game_id = row.find("li", {"class":"score"}).a['href']
-                    game_id = game_id[game_id.rfind('=',0)+1:]
+                    game_id = game_id[game_id.rfind('/',0)+1:]
                 except:
                     # couldn't parse box score
-                    print "Could not find box score"
+                    print("Could not find box score")
                     continue
                 
-                #print team_id + ' ' + game_location + ' ' + opp_id + ' ' + game_id
+                #print(team_id + ' ' + game_location + ' ' + opp_id + ' ' + game_id
                 self.team_schedule_df.loc[self.team_schedule_df_row] = (int(team_id), int(game_num), int(game_id), str(game_location), int(opp_id))
                 self.team_schedule_df_row += 1
                 game_num += 1
             
-            self.team_schedule_df = self.team_schedule_df.convert_objects(convert_numeric=True)
-        except:
-            print "Schedule error for: " + url_sch
+            self.team_schedule_df.team_id = self.team_schedule_df.team_id.astype(int)
+            self.team_schedule_df.game_num = self.team_schedule_df.game_num.astype(int)
+            self.team_schedule_df.game_id = self.team_schedule_df.game_id.astype(int)
+            self.team_schedule_df.opp_id = self.team_schedule_df.opp_id.astype(int)
+        except BaseException as e:
+            print("Schedule error for: " + url_sch + "\n" + str(e))
             
     def parseAllBoxScores(self):
         ##########
@@ -259,7 +267,7 @@ class PlayerStats():
         
         for i in range(len(to_parse)):
             if i%25 == 0:
-                print 'Parsing box : ' + str(i)
+                print('Parsing box : ' + str(i))
             self.parseBoxScore(to_parse.loc[i].game_id.astype(int),to_parse.loc[i].team_id.astype(int),to_parse.loc[i].id.astype(int))
         
         
@@ -269,17 +277,17 @@ class PlayerStats():
         
         try:            
             url_box = 'http://espn.go.com/mens-college-basketball/boxscore?gameId=' + str(game_id)
-            page_box = urllib2.urlopen(url_box)
-            soup_box = BeautifulSoup(page_box.read())
+            page_box = urlopen(url_box)
+            soup_box = BeautifulSoup(page_box.read(), "lxml")
         except:
-            print "Could not parse: " + url_box
+            print("Could not parse: " + url_box)
         
         try:
             away_team = str(soup_box.findAll("div", {"class":"team away"})[0].findAll("span", {"class":"long-name"})[0].string)
             away_href_str = str(soup_box.findAll("div", {"class":"team away"})[0].a['href'])
             away_id = away_href_str[away_href_str.rfind('/',0)+1:]
         except:
-            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " opp_id: " + str(team_id2)
+            print("Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " opp_id: " + str(team_id2))
             if away_team == '':
                 away_team = 'error'
             away_id = -1
@@ -289,7 +297,7 @@ class PlayerStats():
             home_href_str = str(soup_box.findAll("div", {"class":"team home"})[0].a['href'])
             home_id = home_href_str[home_href_str.rfind('/',0)+1:]
         except:
-            print "Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " opp_id: " + str(team_id2)
+            print("Error parsing GameID: " + str(game_id) + " team_id: " + str(team_id1) + " opp_id: " + str(team_id2))
             if home_team == '':
                 home_team = 'error'
             home_id = -1
