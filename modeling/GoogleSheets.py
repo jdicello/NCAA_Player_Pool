@@ -101,7 +101,7 @@ def _build_service():
     Build and return an authenticated Google Sheets API v4 service object.
     """
     creds = _get_credentials()
-    return googleapiclient.discovery.build("sheets", "v4", credentials=creds)
+    return googleapiclient.discovery.build("sheets", "v4", credentials=creds, static_discovery=False)
 
 
 # ---------------------------------------------------------------------------
