@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Google credentials — never commit these
+modeling/*.json
+
+# Archived / unused files
+old_modeling/
+
+# Local scratch files
+demofile2.xml
+output1.html

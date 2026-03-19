@@ -1,0 +1,56 @@
+name: Tournament Scraper
+
+# GitHub Actions minimum cron interval is 5 minutes.
+# Work-around: schedule hourly and run the polling loop for 55 minutes per job.
+# That gives ~1-minute update frequency with a small gap at the top of each hour.
+on:
+  schedule:
+    # Every hour, 11am–midnight UTC (6am–7pm CT) on tournament days
+    - cron: "0 11-23 18-20 3 *"   # March 18–20 (First Four + Round 1 day 1)
+    - cron: "0 11-23 21-23 3 *"   # March 21–23 (Round 1 day 2 + Round 2 day 1)
+    - cron: "0 11-23 27-30 3 *"   # March 27–30 (Sweet 16 + Elite Eight)
+    - cron: "0 11-23 5 4 *"       # April 5 (Final Four)
+    - cron: "0 11-23 7 4 *"       # April 7 (Championship)
+  workflow_dispatch:               # allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    # Hard cap slightly above 55 min so GitHub cleans up if the loop hangs
+    timeout-minutes: 60
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Write Google credentials
+        # Store your service-account JSON as a GitHub secret named GOOGLE_CREDENTIALS_JSON
+        run: |
+          echo '${{ secrets.GOOGLE_CREDENTIALS_JSON }}' > modeling/NCAAPlayerPool-09b6773d89ec.json
+
+      - name: Configure git for mid-loop commits
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run scraper loop for 55 minutes
+        # The script polls every 60 s internally; timeout stops it cleanly before
+        # the next hourly job starts, avoiding overlap.
+        run: timeout 55m python modeling/Parse_Tournament_Games.py || true
+
+      - name: Commit final CSV state
+        run: |
+          git add output/raw_tournament_stats.csv output/tournament_stats.csv
+          git diff --cached --quiet || git commit -m "chore: update tournament stats [skip ci]"
+          git push

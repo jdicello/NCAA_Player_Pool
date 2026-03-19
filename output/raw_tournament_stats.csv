@@ -1,0 +1,77 @@
+rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,PTS,FGM,FGA,TREY_M,TREY_A,FTM,FTA,REB,AST,TO,STL,BLK,OREB,DREB,PF
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Jose Roberto Tanchyn,21,7,3,5,1,2,0,2,5,3,0,1,0,2,3,3
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Josh Odunowo,21,2,0,1,0,0,2,2,4,1,1,0,1,0,4,4
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Jah'Likai King,33,19,7,15,2,5,3,4,2,2,4,0,1,0,2,2
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,DJ Armstrong Jr.,36,17,5,11,3,8,4,5,6,0,0,1,0,0,6,3
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Ace Valentine,36,11,3,6,2,4,3,4,3,2,1,2,0,0,3,2
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Riley Jacobs,7,3,1,2,0,0,1,1,1,1,0,0,0,1,0,1
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Paul Greene,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Caden Diggs,31,15,6,11,0,2,3,5,8,1,3,2,0,3,5,3
+0,401856435,2378,UMBC Retrievers,0,-1,UNKNOWN,Cougar Downing,14,9,4,5,1,1,0,1,2,1,0,0,0,0,2,1
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Cedric Taylor III,31,16,3,10,1,5,9,10,6,1,3,0,0,2,4,5
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Cam Gillus,38,8,4,9,0,2,0,2,4,7,1,0,0,0,4,1
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Alex Cotton,36,8,2,6,2,5,2,2,4,0,0,2,1,1,3,3
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Ose Okojie,34,23,9,15,3,3,2,5,5,0,1,0,0,3,2,4
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Bryce Harris,36,19,6,12,3,4,4,4,14,5,1,1,0,4,10,3
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Travelle Bryson,10,11,5,7,1,2,0,0,3,1,0,0,0,1,2,3
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Calvin Robins Jr.,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Danas Kazakevicius,4,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+0,401856435,47,Howard Bison,1,2378,UMBC Retrievers,Isaiah Brown,6,1,0,1,0,0,1,2,1,0,1,0,0,0,1,0
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Antwone Woolfolk,19,3,1,5,0,3,1,2,4,2,1,0,0,1,3,1
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Brant Byers,36,19,5,11,4,9,5,7,4,1,0,0,1,3,1,2
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Peter Suder,36,7,2,9,0,4,3,5,7,6,0,0,0,2,5,4
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Luke Skaljac,30,17,7,12,3,5,0,0,3,4,1,3,0,0,3,2
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Eian Elmer,24,23,8,11,6,9,1,2,3,1,1,1,0,0,3,4
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Almar Atlason,24,12,4,10,2,7,2,2,5,3,1,0,1,3,2,1
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Justin Kirby,21,8,2,4,1,3,3,4,2,1,0,0,0,0,2,3
+0,401856436,193,Miami (OH) RedHawks,0,-1,UNKNOWN,Trey Perry,10,0,0,2,0,1,0,0,4,2,0,0,0,2,2,0
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Corey Washington,36,13,3,8,0,3,7,9,5,3,0,0,0,1,4,3
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Samet Yigitoglu,27,8,4,5,0,0,0,0,6,0,0,0,0,2,4,5
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Jaden Toombs,35,20,8,10,0,0,4,4,11,1,2,1,0,3,8,2
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Boopie Miller,39,15,6,17,3,6,0,1,1,5,1,0,0,1,0,2
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Jaron Pierre Jr.,39,18,8,16,1,7,1,1,4,4,1,3,0,0,4,2
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Jermaine O'Neal Jr.,4,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Mitchell Holmes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Chance Puryear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,Sam Walters,17,5,2,6,1,4,0,0,4,2,0,0,0,3,1,2
+0,401856436,2567,SMU Mustangs,1,193,Miami (OH) RedHawks,B.J. Davis-Ray,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Camden Heide,14,3,1,2,1,2,0,0,2,1,0,0,1,1,1,4
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Matas Vokietaitis,26,15,4,11,0,0,7,12,8,0,2,0,1,4,4,5
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Jordan Pope,37,5,2,8,1,5,0,0,1,2,2,1,0,0,1,1
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Dailyn Swain,38,13,2,9,1,3,8,9,8,4,5,2,1,2,6,2
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Tramon Mark,33,17,7,14,2,5,1,2,5,2,1,2,2,0,5,2
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Nic Codie,14,2,1,4,0,0,0,0,3,0,0,0,0,2,1,0
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Chendall Weaver,27,11,3,5,0,0,5,6,10,1,0,2,0,4,6,1
+0,401856434,251,Texas Longhorns,0,-1,UNKNOWN,Simeon Wilcher,11,2,1,4,0,2,0,0,1,0,2,0,0,0,1,1
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Darrion Williams,39,21,8,18,3,6,2,2,3,1,2,0,1,0,3,0
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Ven-Allen Lubin,23,6,2,6,0,0,2,2,5,1,0,0,0,1,4,5
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Tre Holloman,25,8,1,4,0,2,6,7,2,4,2,2,1,0,2,3
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Paul McNeil Jr.,32,11,4,11,3,8,0,0,1,0,0,0,0,0,1,1
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Quadir Copeland,35,16,7,16,0,0,2,3,8,3,3,4,0,0,8,2
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Musa Sagnia,10,0,0,0,0,0,0,0,2,0,0,0,2,0,2,5
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Scottie Ebube,4,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Matt Able,25,4,1,3,0,0,2,4,3,0,0,2,1,1,2,3
+0,401856434,152,NC State Wolfpack,1,251,Texas Longhorns,Terrance Arceneaux,7,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Cory Wells,40,19,6,14,1,4,6,6,11,0,2,3,3,0,11,3
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Corey Dunning,21,0,0,0,0,0,0,0,1,2,0,1,0,0,1,2
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Elijah Mitchell,31,0,0,2,0,0,0,0,1,2,0,1,0,0,1,2
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Dontae Horne,40,25,11,22,1,3,2,2,7,0,4,4,1,0,7,1
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Lance Williams,40,10,5,10,0,1,0,0,4,1,1,2,2,1,3,1
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Keeshawn Mason,2,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Hassane Diallo,17,8,3,4,0,0,2,4,8,0,0,1,3,5,3,1
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Jannoy Thomas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Joey Madimba,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+0,401856437,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Tai'Reon Joseph,8,5,2,4,1,1,0,0,1,0,2,0,0,0,1,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Hank Alvey,36,23,8,13,0,0,7,11,15,3,6,0,0,7,8,3
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Edouard Benoit,36,8,3,10,2,5,0,0,5,2,1,0,0,1,4,4
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Jalen Vazquez,25,2,1,2,0,1,0,0,5,2,2,3,0,0,5,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Joshua Ingram,39,7,3,8,1,4,0,0,7,2,2,0,1,4,3,2
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Nasir Whitlock,36,5,2,15,1,7,0,1,3,2,3,2,0,0,3,2
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Alfredo Addesa,4,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Jake Pike,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Tommy Conniff,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Henri Adiassa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Caleb Thomas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Andrew Urosevic,19,8,3,9,2,7,0,0,1,0,0,0,0,0,1,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Peter Kramer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,401856437,2329,Lehigh Mountain Hawks,1,2504,Prairie View A&M Panthers,Brendan Reed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

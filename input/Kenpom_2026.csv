@@ -1,0 +1,366 @@
+kenpom_name,adj_em
+Duke,38.9
+Arizona,37.66
+Michigan,37.59
+Florida,33.79
+Houston,33.43
+Iowa St.,32.42
+Illinois,32.1
+Purdue,31.2
+Michigan St.,28.31
+Gonzaga,28.1
+Connecticut,27.87
+Vanderbilt,27.51
+Virginia,26.71
+Nebraska,26.16
+Arkansas,26.05
+Tennessee,26.02
+St. John's,25.91
+Alabama,25.72
+Louisville,25.42
+Texas Tech,25.22
+Kansas,24.44
+Wisconsin,23.39
+BYU,23.25
+Saint Mary's,23.07
+Iowa,22.44
+Ohio St.,22.24
+UCLA,21.67
+Kentucky,21.48
+North Carolina,20.84
+Utah St.,20.76
+Miami FL,20.68
+Georgia,20.48
+Villanova,19.97
+N.C. State,19.6
+Santa Clara,19.4
+Clemson,19.24
+Texas,19.03
+Auburn,19.02
+Texas A&M,18.67
+Oklahoma,18.37
+Saint Louis,18.32
+SMU,18.09
+TCU,17.59
+Cincinnati,17.49
+VCU,17.21
+Indiana,17.18
+South Florida,16.39
+San Diego St.,16.39
+Baylor,16.0
+New Mexico,15.81
+Seton Hall,15.71
+Missouri,15.39
+Washington,15.12
+UCF,15.04
+Virginia Tech,13.69
+Florida St.,13.48
+Northwestern,13.41
+Stanford,13.37
+West Virginia,13.27
+LSU,13.23
+Grand Canyon,13.19
+Boise St.,13.18
+Tulsa,12.97
+Akron,12.8
+Mississippi,12.62
+Oklahoma St.,12.58
+Arizona St.,12.52
+McNeese,12.48
+Belmont,12.26
+Colorado,12.11
+Providence,11.81
+Northern Iowa,11.81
+California,11.43
+Wake Forest,11.39
+Nevada,11.3
+Creighton,11.01
+Minnesota,10.91
+Dayton,10.91
+Georgetown,10.89
+USC,10.81
+Yale,10.65
+Wichita St.,9.78
+Syracuse,9.74
+Marquette,9.66
+George Washington,9.64
+Butler,9.49
+Hofstra,9.49
+Colorado St.,9.49
+Notre Dame,8.88
+Utah Valley,8.82
+Stephen F. Austin,8.43
+High Point,8.4
+Miami OH,8.26
+Pittsburgh,7.6
+South Carolina,7.54
+George Mason,7.5
+Xavier,7.47
+Wyoming,7.4
+Oregon,7.03
+Mississippi St.,7.0
+Kansas St.,6.98
+DePaul,6.83
+Illinois St.,6.66
+UC Irvine,6.21
+Illinois Chicago,6.16
+Cal Baptist,5.99
+UNLV,5.97
+Hawaii,5.97
+St. Thomas,5.88
+UNC Wilmington,5.79
+Sam Houston St.,5.56
+Pacific,5.42
+North Dakota St.,5.13
+Davidson,4.94
+UT Rio Grande Valley,4.57
+Saint Joseph's,4.56
+Southern Illinois,4.55
+UC San Diego,4.53
+Seattle,4.49
+Maryland,4.25
+San Francisco,4.2
+Murray St.,4.12
+Bradley,3.96
+Rutgers,3.95
+Liberty,3.9
+Utah,3.65
+UAB,3.46
+Duquesne,3.45
+Florida Atlantic,3.31
+UC Santa Barbara,3.17
+Toledo,3.15
+Fresno St.,3.09
+Montana St.,3.0
+Memphis,2.52
+Rhode Island,2.47
+North Texas,2.46
+Washington St.,2.32
+Penn St.,2.18
+St. Bonaventure,2.17
+Wright St.,2.04
+Northern Colorado,1.87
+Navy,1.84
+Troy,1.72
+Robert Morris,1.69
+Idaho,1.53
+Portland St.,1.52
+Bowling Green,1.51
+Kent St.,1.5
+William & Mary,1.49
+Penn,1.47
+Arkansas St.,1.39
+Harvard,1.26
+Central Arkansas,1.25
+UT Arlington,1.13
+Winthrop,1.13
+Boston College,1.07
+Towson,0.99
+Valparaiso,0.97
+UC Davis,0.89
+Richmond,0.81
+Loyola Marymount,0.68
+Georgia Tech,0.58
+Kennesaw St.,0.57
+Cornell,0.51
+Temple,0.5
+Fordham,0.47
+East Tennessee St.,0.44
+Cal St. Fullerton,0.38
+Oakland,0.21
+Western Kentucky,0.02
+Eastern Washington,0.0
+Charleston,-0.19
+Austin Peay,-0.28
+Texas A&M Corpus Chris,-0.29
+CSUN,-0.37
+Northern Kentucky,-0.59
+Oregon St.,-0.66
+Middle Tennessee,-0.67
+Merrimack,-0.83
+Monmouth,-0.89
+Queens,-1.44
+Campbell,-1.47
+Charlotte,-1.48
+New Mexico St.,-1.61
+UMBC,-1.67
+Montana,-1.72
+Tennessee St.,-1.83
+Utah Tech,-1.88
+Columbia,-1.96
+Mercer,-1.97
+Furman,-1.98
+Siena,-2.1
+New Orleans,-2.2
+FIU,-2.23
+Appalachian St.,-2.33
+Massachusetts,-2.6
+Drake,-2.64
+Weber St.,-2.64
+Buffalo,-2.8
+Lipscomb,-2.84
+Indiana St.,-2.87
+Portland,-2.89
+Louisiana Tech,-2.9
+Marist,-3.07
+South Alabama,-3.14
+Missouri St.,-3.15
+Howard,-3.19
+Marshall,-3.19
+Jacksonville St.,-3.38
+Green Bay,-3.5
+Tulane,-3.63
+Cal Poly,-3.64
+James Madison,-3.91
+Youngstown St.,-3.92
+Samford,-3.93
+LIU,-3.95
+Detroit Mercy,-4.15
+Southern Miss,-4.17
+Quinnipiac,-4.25
+South Dakota St.,-4.31
+Tarleton St.,-4.38
+Drexel,-4.71
+Tennessee Martin,-4.81
+San Diego,-4.99
+San Jose St.,-5.01
+Rice,-5.23
+Stony Brook,-5.52
+Ohio,-5.57
+Western Carolina,-5.59
+Elon,-5.73
+Long Beach St.,-5.77
+Southeast Missouri,-5.84
+La Salle,-5.88
+Denver,-6.0
+Georgia Southern,-6.05
+Nicholls,-6.24
+Lamar,-6.3
+American,-6.31
+Eastern Michigan,-6.39
+Vermont,-6.45
+Charleston Southern,-6.48
+Abilene Christian,-6.56
+Bethune Cookman,-6.6
+Florida Gulf Coast,-6.61
+Texas St.,-6.65
+UNC Asheville,-6.75
+Coastal Carolina,-6.86
+Old Dominion,-7.0
+Colgate,-7.02
+Idaho St.,-7.08
+Southern Utah,-7.14
+Princeton,-7.15
+Wofford,-7.35
+East Carolina,-7.43
+Saint Peter's,-7.51
+SIUE,-7.59
+Radford,-7.67
+UC Riverside,-7.69
+Iona,-7.72
+Purdue Fort Wayne,-7.83
+Boston University,-8.0
+Nebraska Omaha,-8.01
+Fairfield,-8.1
+Pepperdine,-8.15
+Sacramento St.,-8.3
+Incarnate Word,-8.49
+Lindenwood,-8.51
+Milwaukee,-8.85
+Central Michigan,-9.04
+Presbyterian,-9.07
+Longwood,-9.12
+Hampton,-9.19
+Western Michigan,-9.23
+Dartmouth,-9.36
+North Dakota,-9.51
+UTEP,-9.58
+Mount St. Mary's,-9.61
+Bellarmine,-9.66
+Southern,-9.75
+Loyola Chicago,-10.17
+Northwestern St.,-10.21
+South Dakota,-10.27
+Morehead St.,-10.35
+Lehigh,-10.37
+Southeastern Louisiana,-10.58
+Northeastern,-10.6
+Mercyhurst,-10.67
+Prairie View A&M,-10.69
+East Texas A&M,-10.83
+Brown,-10.85
+North Carolina A&T,-10.98
+Houston Christian,-11.14
+Delaware,-11.27
+Ball St.,-11.31
+Jacksonville,-11.47
+Sacred Heart,-11.56
+Eastern Kentucky,-11.66
+Grambling St.,-11.78
+Le Moyne,-11.81
+UNC Greensboro,-12.22
+Chattanooga,-12.27
+USC Upstate,-12.4
+Stetson,-12.55
+West Georgia,-12.55
+Wagner,-12.68
+Central Connecticut,-12.71
+Alabama A&M,-12.73
+Evansville,-12.85
+Oral Roberts,-12.9
+Georgia St.,-12.94
+Little Rock,-12.96
+Florida A&M,-13.01
+Louisiana,-13.28
+Arkansas Pine Bluff,-13.31
+Tennessee Tech,-13.33
+Texas Southern,-13.35
+IU Indy,-13.89
+Alabama St.,-14.43
+Northern Arizona,-14.48
+Cleveland St.,-14.62
+UMass Lowell,-14.62
+Loyola MD,-14.81
+Eastern Illinois,-14.86
+Albany,-14.94
+Lafayette,-15.18
+Cal St. Bakersfield,-15.28
+Norfolk St.,-15.38
+New Haven,-16.09
+Holy Cross,-16.42
+Manhattan,-16.46
+Bucknell,-16.62
+NJIT,-16.85
+Northern Illinois,-17.23
+Stonehill,-17.32
+North Florida,-17.47
+Fairleigh Dickinson,-17.63
+Army,-18.39
+Niagara,-18.48
+Southern Indiana,-18.61
+UTSA,-18.65
+Jackson St.,-18.86
+Canisius,-19.22
+North Alabama,-19.27
+Chicago St.,-19.58
+Air Force,-19.95
+Alcorn St.,-20.17
+The Citadel,-20.29
+Maine,-20.33
+New Hampshire,-20.71
+Maryland Eastern Shore,-20.85
+Louisiana Monroe,-21.05
+North Carolina Central,-21.14
+Morgan St.,-21.78
+Saint Francis,-22.26
+Bryant,-23.01
+South Carolina St.,-23.55
+Rider,-24.43
+Kansas City,-25.1
+Binghamton,-25.5
+VMI,-26.28
+Gardner Webb,-26.42
+Delaware St.,-27.27
+Coppin St.,-27.57
+Western Illinois,-28.47
+Mississippi Valley St.,-31.33
