@@ -2,15 +2,10 @@
 """
 Google Sheets integration for NCAA Player Pool.
 
-Authentication uses OAuth2 with a client_secret.json file stored alongside
-this script.  On the first run the browser will open for authorization; the
-resulting token is cached at TOKEN_PATH and refreshed automatically on
-subsequent runs.
-
-Note: This module replaces the legacy oauth2client/httplib2 stack with the
-modern google-auth / google-auth-oauthlib libraries.  If you previously
-authorized via the old stack, delete the old token file at
-~/.credentials/sheets.googleapis.com-python-quickstart.json and re-authorize.
+Authentication strategy (tried in order):
+1. Service account JSON at SERVICE_ACCOUNT_FILE — used by GitHub Actions (headless).
+2. Cached OAuth2 token at TOKEN_PATH — used for interactive local runs.
+3. OAuth2 browser flow — first-time local auth; requires client_secret.json.
 """
 
 import logging
@@ -20,6 +15,7 @@ import googleapiclient.discovery
 import googleapiclient.errors
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
+from google.oauth2 import service_account
 from google_auth_oauthlib.flow import InstalledAppFlow
 
 logger = logging.getLogger(__name__)
@@ -30,10 +26,15 @@ logger = logging.getLogger(__name__)
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
-# client_secret.json lives in the same directory as this script
-CLIENT_SECRET_FILE = os.path.join(os.path.dirname(__file__), "client_secret.json")
+_HERE = os.path.dirname(__file__)
 
-# Cached OAuth2 token (created automatically on first auth)
+# Service account JSON written by GitHub Actions (or placed manually for headless use)
+SERVICE_ACCOUNT_FILE = os.path.join(_HERE, "NCAAPlayerPool-09b6773d89ec.json")
+
+# client_secret.json for interactive OAuth (local use only)
+CLIENT_SECRET_FILE = os.path.join(_HERE, "client_secret.json")
+
+# Cached OAuth2 token (created automatically on first interactive auth)
 TOKEN_PATH = os.path.join(
     os.path.expanduser("~"), ".credentials", "ncaa_pool_token.json"
 )
@@ -43,30 +44,36 @@ TOKEN_PATH = os.path.join(
 # Private helpers
 # ---------------------------------------------------------------------------
 
-def _get_credentials() -> Credentials:
+def _get_credentials():
     """
-    Load cached OAuth2 credentials, refreshing or re-authorizing as needed.
+    Return valid Google credentials using the best available method.
 
-    The token is stored at TOKEN_PATH.  If it does not exist or cannot be
-    refreshed, the OAuth2 browser flow is launched to obtain a new token.
-
-    Returns
-    -------
-    google.oauth2.credentials.Credentials
+    Priority:
+      1. Service account JSON (headless / GitHub Actions)
+      2. Cached OAuth2 user token (interactive local run, already authorized)
+      3. OAuth2 browser flow (first-time local auth)
     """
+    # 1. Service account — preferred for headless environments
+    if os.path.exists(SERVICE_ACCOUNT_FILE):
+        logger.debug("Using service account credentials from %s", SERVICE_ACCOUNT_FILE)
+        return service_account.Credentials.from_service_account_file(
+            SERVICE_ACCOUNT_FILE, scopes=SCOPES
+        )
+
+    # 2 & 3. OAuth2 flow for interactive local use
     creds = None
 
     if os.path.exists(TOKEN_PATH):
         try:
             creds = Credentials.from_authorized_user_file(TOKEN_PATH, SCOPES)
-            logger.debug("Loaded credentials from %s", TOKEN_PATH)
+            logger.debug("Loaded OAuth2 token from %s", TOKEN_PATH)
         except Exception as exc:
             logger.warning("Could not load token from %s: %s", TOKEN_PATH, exc)
 
     if creds and creds.expired and creds.refresh_token:
         try:
             creds.refresh(Request())
-            logger.debug("Refreshed credentials successfully")
+            logger.debug("Refreshed OAuth2 credentials successfully")
         except Exception as exc:
             logger.warning("Token refresh failed, re-authorizing: %s", exc)
             creds = None
@@ -84,7 +91,7 @@ def _get_credentials() -> Credentials:
     os.makedirs(os.path.dirname(TOKEN_PATH), exist_ok=True)
     with open(TOKEN_PATH, "w") as token_file:
         token_file.write(creds.to_json())
-    logger.debug("Saved credentials to %s", TOKEN_PATH)
+    logger.debug("Saved OAuth2 credentials to %s", TOKEN_PATH)
 
     return creds
 
