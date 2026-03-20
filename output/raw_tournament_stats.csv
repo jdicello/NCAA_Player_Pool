@@ -220,3 +220,171 @@ rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,PTS,
 1,401856483,127,Michigan State Spartans,1,2449,North Dakota State Bison,Kur Teng,18,3,1,5,1,3,0,0,1,2,1,0,0,0,1,3
 1,401856483,127,Michigan State Spartans,1,2449,North Dakota State Bison,Trey Fort,12,7,2,5,1,3,2,2,2,2,1,1,1,0,2,0
 1,401856483,127,Michigan State Spartans,1,2449,North Dakota State Bison,Denham Wojcik,8,4,2,2,0,0,0,0,1,1,0,0,0,0,1,0
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Cedric Taylor III,34,19,7,12,4,7,1,1,6,2,1,0,0,1,5,4
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Cam Gillus,39,21,6,9,5,6,4,6,4,5,2,1,0,2,2,1
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Alex Cotton,28,3,1,5,1,4,0,0,3,2,0,1,0,0,3,3
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Ose Okojie,35,7,2,9,0,4,3,4,4,2,2,1,0,2,2,4
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Bryce Harris,39,21,7,19,3,7,4,6,2,2,1,0,0,1,1,2
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Travelle Bryson,19,7,3,7,1,1,0,0,1,1,0,0,0,0,1,0
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Julian Johnson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Calvin Robins Jr.,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Danas Kazakevicius,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Jeremiah Johnson,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,BJ Powell,1,2,1,2,0,0,0,0,0,0,0,0,0,0,0,1
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Isaiah Brown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856486,47,Howard Bison,0,-1,UNKNOWN,Ed Holland III,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Yaxel Lendeborg,27,9,2,5,1,3,4,4,4,4,0,0,0,1,3,2
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Morez Johnson Jr.,26,21,8,8,1,1,4,5,10,0,1,1,1,0,10,0
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Aday Mara,21,19,8,10,0,0,3,4,7,6,1,0,3,1,6,0
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Elliot Cadeau,26,5,1,5,1,5,2,2,2,9,1,1,0,0,2,1
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Nimari Burnett,26,15,5,6,3,4,2,3,4,2,2,0,0,0,4,1
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Oscar Goodman,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Will Tschetter,20,6,2,5,2,4,0,0,1,2,2,1,1,1,0,1
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Malick Kordel,1,2,1,1,0,0,0,0,0,0,0,0,2,0,0,1
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Howard Eisley Jr.,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Charlie May,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Roddy Gayle Jr.,23,14,6,7,2,3,0,0,1,2,1,1,1,0,1,5
+1,401856486,130,Michigan Wolverines,1,47,Howard Bison,Trey McKenney,25,10,4,7,1,4,1,2,4,1,1,0,0,1,3,2
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Camden Heide,20,5,2,4,1,2,0,0,2,0,1,2,0,1,1,2
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Matas Vokietaitis,33,23,10,17,0,0,3,11,16,1,1,0,1,9,7,2
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Jordan Pope,32,11,4,11,3,9,0,0,2,2,2,0,0,0,2,3
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Dailyn Swain,37,14,6,12,1,3,1,1,5,6,1,1,0,2,3,3
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Tramon Mark,35,19,6,13,3,6,4,4,4,2,1,2,4,1,3,2
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Nic Codie,13,0,0,2,0,0,0,0,2,1,0,0,0,0,2,3
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Chendall Weaver,20,5,2,4,0,1,1,2,3,2,1,0,0,1,2,2
+1,401856484,251,Texas Longhorns,0,-1,UNKNOWN,Simeon Wilcher,10,2,1,3,0,1,0,0,2,0,1,1,0,0,2,2
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,AJ Dybantsa,40,35,11,25,1,7,12,12,10,1,5,0,0,1,9,1
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Keba Keita,24,5,1,1,0,0,3,3,4,0,0,1,3,2,2,5
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Kennard Davis Jr.,39,9,3,5,1,3,2,3,2,2,0,0,1,0,2,2
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Aleksej Kostic,21,8,2,7,2,7,2,3,1,0,0,1,0,0,1,1
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Robert Wright III,37,14,7,17,0,4,0,1,2,3,2,2,0,0,2,2
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Dominique Diomande,9,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Khadim Mboup,18,0,0,0,0,0,0,2,5,0,0,2,0,2,3,3
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Mihailo Boškovic,3,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2
+1,401856484,252,BYU Cougars,1,251,Texas Longhorns,Abdullah Ahmed,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Robbie Avila,28,12,4,6,1,2,3,4,5,5,3,1,2,1,4,1
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Amari McCottry,27,13,6,10,0,0,1,2,9,3,3,3,0,2,7,1
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Quentin Jones,26,9,4,10,1,4,0,0,4,5,1,1,1,1,3,3
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Dion Brown,22,18,9,10,0,1,0,0,4,4,0,1,0,1,3,2
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Trey Green,25,7,3,7,1,5,0,0,6,5,2,1,0,2,4,2
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Jax Kerr,3,0,0,0,0,0,0,0,2,0,0,0,0,0,2,1
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Ishan Sharma,22,12,5,10,2,6,0,0,5,0,0,1,1,0,5,3
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Paul Otieno,11,9,2,2,0,0,5,5,4,0,0,0,2,2,2,0
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Brady Dunlap,17,11,4,7,3,6,0,0,2,4,3,0,0,0,2,2
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Cam Hutson,3,0,0,2,0,2,0,0,0,0,1,0,0,0,0,1
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Isaac Holmes,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Jaden Schertz,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856487,139,Saint Louis Billikens,0,-1,UNKNOWN,Kellen Thames,14,11,5,7,1,1,0,0,3,1,0,0,0,1,2,3
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Kanon Catchings,18,0,0,11,0,5,0,0,4,0,3,1,1,3,1,2
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Kareem Stagg,19,5,2,5,0,2,1,2,4,1,0,0,0,2,2,2
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Somtochukwu Cyril,12,0,0,1,0,0,0,0,1,0,1,1,0,0,1,1
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Marcus Millender,30,13,5,15,2,8,1,2,3,6,2,2,0,1,2,2
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Blue Cain,23,6,2,7,0,4,2,2,4,0,1,1,0,0,4,2
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Justin Abson,13,2,1,1,0,0,0,0,4,0,0,0,2,1,3,1
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Jake Wilkins,9,5,1,3,0,2,3,4,3,0,1,1,1,2,1,0
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Dylan James,17,5,2,2,0,0,1,2,3,0,0,0,0,2,1,0
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Jeremiah Wilkinson,29,30,9,21,7,15,5,5,2,1,1,0,0,0,2,2
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Justin Bailey,11,4,1,2,1,2,1,3,0,1,0,2,0,0,0,2
+1,401856487,61,Georgia Bulldogs,1,139,Saint Louis Billikens,Jordan Ross,19,7,2,4,0,1,3,6,2,0,2,1,0,0,2,0
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,Trey Simpson,28,2,0,3,0,1,2,4,6,1,0,3,1,1,5,0
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,Amir Taylor,24,15,7,13,0,2,1,1,7,1,1,0,0,1,6,2
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,Braedan Lue,34,5,2,11,0,3,1,4,2,1,3,1,0,0,2,4
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,Frankquon Sherman,32,13,4,8,1,3,4,4,10,0,3,0,0,5,5,2
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,RJ Johnson,35,15,4,12,0,3,7,9,2,4,2,2,1,1,1,4
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,Perry Smith Jr.,8,0,0,1,0,0,0,0,2,0,1,0,0,2,0,3
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,Kaden Rickard,22,14,4,7,2,3,4,4,2,0,1,3,1,1,1,2
+1,401856485,338,Kennesaw State Owls,0,-1,UNKNOWN,Jaden Harris,17,0,0,3,0,2,0,0,1,0,0,0,1,0,1,1
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Emmanuel Innocenti,34,7,2,5,1,3,2,2,4,3,0,2,0,1,3,3
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Graham Ike,36,19,6,13,0,1,7,8,8,0,4,0,1,4,4,4
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Mario Saint-Supery,36,7,2,11,1,7,2,2,4,8,3,1,0,0,4,5
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Jalen Warley,29,12,5,9,0,0,2,2,12,5,1,3,0,5,7,4
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Adam Miller,15,2,1,3,0,1,0,0,1,0,0,0,0,1,0,1
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Ismaila Diagne,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Davis Fogle,25,17,6,13,1,4,4,5,5,0,1,0,1,2,3,0
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Braeden Smith,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856485,2250,Gonzaga Bulldogs,1,338,Kennesaw State Owls,Tyon Grant-Foster,21,9,3,9,0,2,3,4,5,1,1,1,2,2,3,2
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Lazar Djokovic,38,15,5,11,2,5,3,4,5,2,0,0,2,1,4,4
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Barry Evans,23,2,1,3,0,2,0,0,2,1,0,0,0,0,2,1
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Nyk Lewis,31,16,5,8,0,2,6,7,7,1,1,3,0,1,6,2
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Brandon Jennings,34,7,3,8,1,1,0,0,6,0,0,1,2,0,6,2
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Jadrian Tracey,15,0,0,4,0,4,0,0,1,2,2,0,0,1,0,3
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Michael Belle,31,8,3,5,1,1,1,3,7,1,3,0,1,2,5,4
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Terrence Hill Jr.,40,34,13,23,7,10,1,2,5,5,3,0,0,0,5,0
+1,401856490,2670,VCU Rams,0,-1,UNKNOWN,Tyrell Ward,13,0,0,4,0,1,0,0,2,0,0,1,0,1,1,1
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Jarin Stevenson,31,11,4,9,1,3,2,3,5,0,0,0,1,1,4,4
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Henri Veesaar,42,26,9,18,3,6,5,9,10,4,3,1,0,2,8,2
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Luka Bogavac,32,8,4,11,0,4,0,0,3,2,1,1,0,1,2,2
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Derek Dixon,41,11,4,12,3,7,0,0,5,6,2,0,0,1,4,2
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Seth Trimble,43,15,5,11,1,4,4,7,8,6,1,5,0,1,7,4
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Zayden High,7,4,2,3,0,0,0,0,4,0,0,0,0,1,3,0
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Jonathan Powell,20,3,1,6,0,5,1,1,4,0,0,0,0,0,4,2
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Kyan Evans,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,401856490,153,North Carolina Tar Heels,1,2670,VCU Rams,Jaydon Young,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Augustus Gerhart,16,2,1,2,0,1,0,0,2,0,1,0,1,2,0,4
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Michael Zanoni,30,20,9,18,2,6,0,0,1,1,0,0,0,0,1,2
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,TJ Power,30,6,2,8,2,5,0,0,1,2,1,1,0,0,1,2
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,AJ Levine,19,5,2,10,1,7,0,0,3,4,2,0,0,1,2,3
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Cam Thrower,24,14,6,10,1,2,1,2,4,2,1,0,0,1,3,2
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,William Kruse,4,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Lucas Lueth,20,7,3,6,1,3,0,0,1,0,0,1,1,0,1,2
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Niklas Polonowski,15,5,2,4,1,3,0,0,3,0,1,0,0,2,1,1
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Johnnie Walter,5,3,1,2,1,2,0,0,0,0,0,0,0,0,0,1
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Dalton Scantlebury,14,4,2,2,0,0,0,0,3,0,1,0,0,1,2,3
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Michelangelo Oberti,8,0,0,1,0,0,0,0,2,0,0,0,0,0,2,1
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Jay Jones,11,2,1,3,0,1,0,0,0,2,0,0,0,0,0,0
+1,401856491,219,Pennsylvania Quakers,0,-1,UNKNOWN,Alex Massung,4,2,1,1,0,0,0,0,0,2,0,0,0,0,0,0
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,David Mirkovic,28,29,11,17,4,7,3,4,17,3,1,0,0,8,9,1
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Jake Davis,17,0,0,2,0,2,0,0,1,0,0,1,0,1,0,2
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Tomislav Ivisic,21,12,4,7,1,4,3,3,7,1,0,0,0,3,4,2
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Keaton Wagler,31,18,7,14,4,7,0,0,7,7,1,1,1,3,4,2
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Kylan Boswell,27,13,5,9,1,3,2,3,3,1,0,0,0,0,3,0
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Ben Humrichous,20,12,4,9,4,8,0,0,2,1,0,0,0,1,1,0
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Zvonimir Ivisic,22,6,1,5,0,3,4,6,4,0,0,0,1,1,3,0
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Mihailo Petrovic,4,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Blake Fagbemi,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Brandon Lee,4,4,1,1,0,0,2,2,0,0,0,0,0,0,0,1
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,Andrej Stojakovic,20,9,3,8,1,2,2,3,3,1,0,0,0,0,3,2
+1,401856491,356,Illinois Fighting Illini,1,219,Pennsylvania Quakers,AJ Redd,3,2,1,1,0,0,0,0,1,0,0,0,0,1,0,0
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Rashaun Agee,31,22,7,11,3,5,5,6,9,3,1,1,0,3,6,1
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Rubén Dominguez,25,11,4,8,3,7,0,0,1,1,1,1,0,0,1,0
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Marcus Hill,19,4,1,4,0,0,2,2,3,1,1,0,0,0,3,0
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Pop Isaacs,23,3,1,4,1,2,0,0,0,3,1,2,0,0,0,3
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Rylan Griffen,24,4,2,7,0,3,0,1,2,0,2,1,0,1,1,3
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Jamie Vinson,9,5,2,2,0,0,1,2,1,0,0,0,0,1,0,0
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Zach Clemence,21,3,1,3,1,3,0,0,5,3,2,2,1,0,5,4
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Josh Holloway,12,0,0,1,0,0,0,0,1,2,1,1,0,0,1,1
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Jacari Lane,12,2,1,3,0,1,0,0,0,1,0,1,0,0,0,2
+1,401856492,245,Texas A&M Aggies,0,-1,UNKNOWN,Ali Dibba,24,9,4,9,0,2,1,2,7,1,0,3,0,3,4,2
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Harry Wessels,10,0,0,1,0,0,0,0,1,0,0,1,0,0,1,3
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Dillan Shaw,35,8,3,7,2,5,0,1,6,0,3,2,0,3,3,1
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Mantas Juzenas,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Mikey Lewis,22,5,2,8,1,5,0,0,0,0,1,0,1,0,0,0
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Joshua Dent,36,18,7,14,4,9,0,0,4,4,5,1,0,1,3,1
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Oliver Faubert,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Paulius Murauskas,23,4,1,6,0,1,2,2,3,0,2,0,1,2,1,1
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Andrew McKeever,29,0,0,3,0,0,0,4,8,4,2,1,1,2,6,2
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Tony Duckett,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Rory Hawke,7,0,0,0,0,0,0,0,2,0,1,0,0,0,2,0
+1,401856492,2608,Saint Mary's Gaels,1,245,Texas A&M Aggies,Liam Campbell,28,15,5,7,3,3,2,4,5,0,2,0,0,1,4,2
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Jackson Rasmussen,32,5,2,8,0,3,1,3,4,1,0,0,1,2,2,1
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Brody Rowbury,29,3,1,3,0,1,1,2,4,1,0,1,0,0,4,3
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Biko Johnson,29,8,3,11,2,8,0,1,6,2,1,1,0,0,6,3
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Kolton Mitchell,30,14,4,7,3,6,3,4,3,1,1,2,2,1,2,2
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Isaiah Brickner,28,4,1,9,0,3,2,3,3,2,3,1,1,0,3,0
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Ewan Steele,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Seth Joba,11,0,0,4,0,3,0,0,1,1,0,0,1,0,1,1
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Miles Klapper,7,2,1,2,0,1,0,0,3,0,0,0,0,1,2,0
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Jack Payne,9,3,1,4,1,4,0,0,0,0,0,0,0,0,0,0
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Trevon Blassingame,21,8,3,6,0,1,2,2,3,0,3,0,0,1,2,3
+1,401856493,70,Idaho Vandals,0,-1,UNKNOWN,Aidan Sevilla,3,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Chris Cenac Jr.,25,7,2,4,1,2,2,2,18,0,0,1,0,1,17,2
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Joseph Tugler,25,13,5,13,0,0,3,4,4,0,0,1,1,1,3,1
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Kingston Flemings,27,18,8,12,0,0,2,2,6,4,2,2,0,0,6,2
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Milos Uzan,33,12,5,13,2,6,0,0,3,3,1,0,0,0,3,1
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Emanuel Sharp,22,16,6,7,3,3,1,1,4,2,1,1,0,0,4,3
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Kalifa Sakho,12,0,0,0,0,0,0,1,3,0,0,0,0,3,0,1
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Chase McCarty,15,2,1,2,0,1,0,0,3,0,0,0,0,0,3,2
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Cedric Lath,3,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Isiah Harwell,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Mercy Miller,24,10,4,9,2,3,0,1,1,0,1,1,0,0,1,2
+1,401856493,248,Houston Cougars,1,70,Idaho Vandals,Ramon Walker Jr.,11,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0
