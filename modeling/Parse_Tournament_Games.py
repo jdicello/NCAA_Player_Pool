@@ -50,7 +50,8 @@ SPREADSHEET_IDS = [
     "1suhOcmk4JwC6UoqeYF1I7Ybha3lup-se9oiga21BU74",  # Sean's sheet
     "1BDjKvWt7iU-41tGPDlvuPAzW4EfYvUCF0WToqjBFAc8",  # Chas
 ]
-ALL_STATS_TAB     = "All Stats!A2"
+ALL_STATS_TAB        = "All Stats!A2"
+LIVE_PROJ_TAB        = "UpdatedProjections!A1"
 RAW_OUTPUT_PATH   = os.path.join(_HERE, "..", "output", "raw_tournament_stats.csv")
 FINAL_OUTPUT_PATH = os.path.join(_HERE, "..", "output", "tournament_stats.csv")
 
@@ -481,6 +482,28 @@ def main() -> None:
 
     pivot.to_csv(FINAL_OUTPUT_PATH, index=False)
     logger.info("Saved tournament stats to %s", FINAL_OUTPUT_PATH)
+
+    # Recompute live projections after each update and upload to Google Sheets
+    try:
+        from live_projections import compute_live_projections
+        _output_dir = os.path.normpath(os.path.join(_HERE, "..", "output"))
+        _input_dir  = os.path.normpath(os.path.join(_HERE, "..", "input"))
+        live_df = compute_live_projections(YEAR, _output_dir, _input_dir)
+        if live_df is not None:
+            _live_path = os.path.join(_output_dir, f"{YEAR}_live_projections.csv")
+            live_df.to_csv(_live_path, index=False)
+            logger.info("Saved live projections to %s", _live_path)
+
+            # Upload: header row + data rows
+            live_rows = [live_df.columns.tolist()] + live_df.values.tolist()
+            for sid in SPREADSHEET_IDS:
+                try:
+                    gs.writeGoogleSheet(live_rows, sid, LIVE_PROJ_TAB)
+                    logger.info("Live projections uploaded to %s", sid)
+                except Exception as exc:
+                    logger.error("Live projections upload failed for %s: %s", sid, exc)
+    except Exception as exc:
+        logger.warning("Live projection update skipped: %s", exc)
 
     data = pivot.values.tolist()
     for sid in SPREADSHEET_IDS:

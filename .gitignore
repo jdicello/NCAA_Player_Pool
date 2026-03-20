@@ -4,13 +4,18 @@ __pycache__/
 *.pyo
 .venv/
 *.egg-info/
+*.log
 
 # Google credentials — never commit these
 modeling/*.json
 
 # Archived / unused files
 old_modeling/
+input/archive/*
+output/archive/*
 
 # Local scratch files
 demofile2.xml
 output1.html
+
+.claude/

@@ -315,6 +315,75 @@ with tab_players:
 # ============================================================
 with tab_proj:
     st.header(f"{year} Tournament Projections")
+
+    # ── Live projections (updated after each game during the tournament) ─────
+    live_proj_path = os.path.join(OUTPUT_DIR, f"{year}_live_projections.csv")
+    df_live = read_csv(live_proj_path)
+
+    if df_live is not None:
+        st.subheader("Live Projections")
+        st.caption(
+            "**Actual pts scored** + **PPG (recent) × expected remaining games**.  "
+            "Eliminated teams show 0 remaining games. "
+            "Remaining games are calculated from the live bracket using KenPom AdjEM win probabilities."
+        )
+
+        col_lteam, col_lppg = st.columns([3, 1])
+        with col_lteam:
+            all_teams_l = sorted(df_live["team_name"].dropna().unique().tolist())
+            sel_teams_l = st.multiselect(
+                "Filter by team", options=all_teams_l, key="live_team_filter"
+            )
+        with col_lppg:
+            min_ppg_l = st.slider(
+                "Min PPG", min_value=0.0, max_value=30.0, value=0.0, step=0.5,
+                key="live_min_ppg",
+            )
+
+        fl = df_live.copy()
+        fl["weighted_ppg"] = pd.to_numeric(fl["weighted_ppg"], errors="coerce")
+        if sel_teams_l:
+            fl = fl[fl["team_name"].isin(sel_teams_l)]
+        fl = fl[fl["weighted_ppg"] >= min_ppg_l]
+
+        st.metric("Players shown", len(fl))
+
+        if not fl.empty:
+            st.subheader("Top 25 live scorers")
+            top25l = fl.head(25)
+            st.bar_chart(
+                top25l.set_index("team_player")[["live_proj"]],
+                horizontal=True,
+                height=max(300, len(top25l) * 22),
+            )
+
+        live_disp = ["team_name", "player"]
+        if "seed" in fl.columns:
+            live_disp.append("seed")
+        live_disp += ["actual_pts", "weighted_ppg", "live_exp_remaining", "live_proj"]
+
+        st.dataframe(
+            fl[live_disp],
+            width="stretch",
+            hide_index=True,
+            column_config={
+                "team_name":          st.column_config.TextColumn("Team"),
+                "player":             st.column_config.TextColumn("Player"),
+                "seed":               st.column_config.NumberColumn("Seed",             format="%d"),
+                "actual_pts":         st.column_config.NumberColumn("Actual Pts",       format="%.0f",
+                                          help="Points scored so far in the tournament"),
+                "weighted_ppg":       st.column_config.NumberColumn("PPG (recent)",     format="%.1f"),
+                "live_exp_remaining": st.column_config.NumberColumn("Exp Games Left",   format="%.2f",
+                                          help="Expected remaining games based on bracket position and AdjEM win probabilities"),
+                "live_proj":          st.column_config.NumberColumn("Live Proj",        format="%.1f",
+                                          help="Actual pts + PPG (recent) × expected remaining games"),
+            },
+        )
+        st.markdown("---")
+
+    # ── Pre-tournament projections ───────────────────────────────────────────
+    if df_live is not None:
+        st.subheader("Pre-Tournament Projections")
     st.caption(
         "proj_pts = PPG × exp_games.  "
         "exp_games is the historical average number of tournament games played by that seed."
