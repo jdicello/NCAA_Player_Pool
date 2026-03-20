@@ -1,77 +1,275 @@
 player_team,0,1,2,3,4,5,6
-Howard Bison - Alex Cotton,8,,,,,,
-Howard Bison - Bryce Harris,19,,,,,,
-Howard Bison - Calvin Robins Jr.,0,,,,,,
-Howard Bison - Cam Gillus,8,,,,,,
-Howard Bison - Cedric Taylor III,16,,,,,,
-Howard Bison - Danas Kazakevicius,0,,,,,,
-Howard Bison - Isaiah Brown,1,,,,,,
-Howard Bison - Ose Okojie,23,,,,,,
-Howard Bison - Travelle Bryson,11,,,,,,
-Lehigh Mountain Hawks - Alfredo Addesa,2,done,done,done,done,done,done
-Lehigh Mountain Hawks - Andrew Urosevic,8,done,done,done,done,done,done
-Lehigh Mountain Hawks - Brendan Reed,0,done,done,done,done,done,done
-Lehigh Mountain Hawks - Caleb Thomas,0,done,done,done,done,done,done
-Lehigh Mountain Hawks - Edouard Benoit,8,done,done,done,done,done,done
-Lehigh Mountain Hawks - Hank Alvey,23,done,done,done,done,done,done
-Lehigh Mountain Hawks - Henri Adiassa,0,done,done,done,done,done,done
-Lehigh Mountain Hawks - Jake Pike,0,done,done,done,done,done,done
-Lehigh Mountain Hawks - Jalen Vazquez,2,done,done,done,done,done,done
-Lehigh Mountain Hawks - Joshua Ingram,7,done,done,done,done,done,done
-Lehigh Mountain Hawks - Nasir Whitlock,5,done,done,done,done,done,done
-Lehigh Mountain Hawks - Peter Kramer,0,done,done,done,done,done,done
-Lehigh Mountain Hawks - Tommy Conniff,0,done,done,done,done,done,done
-Miami (OH) RedHawks - Almar Atlason,12,,,,,,
-Miami (OH) RedHawks - Antwone Woolfolk,3,,,,,,
-Miami (OH) RedHawks - Brant Byers,19,,,,,,
-Miami (OH) RedHawks - Eian Elmer,23,,,,,,
-Miami (OH) RedHawks - Justin Kirby,8,,,,,,
-Miami (OH) RedHawks - Luke Skaljac,17,,,,,,
-Miami (OH) RedHawks - Peter Suder,7,,,,,,
-Miami (OH) RedHawks - Trey Perry,0,,,,,,
-NC State Wolfpack - Darrion Williams,21,done,done,done,done,done,done
-NC State Wolfpack - Matt Able,4,done,done,done,done,done,done
-NC State Wolfpack - Musa Sagnia,0,done,done,done,done,done,done
-NC State Wolfpack - Paul McNeil Jr.,11,done,done,done,done,done,done
-NC State Wolfpack - Quadir Copeland,16,done,done,done,done,done,done
-NC State Wolfpack - Scottie Ebube,0,done,done,done,done,done,done
-NC State Wolfpack - Terrance Arceneaux,0,done,done,done,done,done,done
-NC State Wolfpack - Tre Holloman,8,done,done,done,done,done,done
-NC State Wolfpack - Ven-Allen Lubin,6,done,done,done,done,done,done
-Prairie View A&M Panthers - Corey Dunning,0,,,,,,
-Prairie View A&M Panthers - Cory Wells,19,,,,,,
-Prairie View A&M Panthers - Dontae Horne,25,,,,,,
-Prairie View A&M Panthers - Elijah Mitchell,0,,,,,,
-Prairie View A&M Panthers - Hassane Diallo,8,,,,,,
-Prairie View A&M Panthers - Jannoy Thomas,0,,,,,,
-Prairie View A&M Panthers - Joey Madimba,0,,,,,,
-Prairie View A&M Panthers - Keeshawn Mason,0,,,,,,
-Prairie View A&M Panthers - Lance Williams,10,,,,,,
-Prairie View A&M Panthers - Tai'Reon Joseph,5,,,,,,
-SMU Mustangs - B.J. Davis-Ray,0,done,done,done,done,done,done
-SMU Mustangs - Boopie Miller,15,done,done,done,done,done,done
-SMU Mustangs - Chance Puryear,0,done,done,done,done,done,done
-SMU Mustangs - Corey Washington,13,done,done,done,done,done,done
-SMU Mustangs - Jaden Toombs,20,done,done,done,done,done,done
-SMU Mustangs - Jaron Pierre Jr.,18,done,done,done,done,done,done
-SMU Mustangs - Jermaine O'Neal Jr.,0,done,done,done,done,done,done
-SMU Mustangs - Mitchell Holmes,0,done,done,done,done,done,done
-SMU Mustangs - Sam Walters,5,done,done,done,done,done,done
-SMU Mustangs - Samet Yigitoglu,8,done,done,done,done,done,done
-Texas Longhorns - Camden Heide,3,,,,,,
-Texas Longhorns - Chendall Weaver,11,,,,,,
-Texas Longhorns - Dailyn Swain,13,,,,,,
-Texas Longhorns - Jordan Pope,5,,,,,,
-Texas Longhorns - Matas Vokietaitis,15,,,,,,
-Texas Longhorns - Nic Codie,2,,,,,,
-Texas Longhorns - Simeon Wilcher,2,,,,,,
-Texas Longhorns - Tramon Mark,17,,,,,,
-UMBC Retrievers - Ace Valentine,11,done,done,done,done,done,done
-UMBC Retrievers - Caden Diggs,15,done,done,done,done,done,done
-UMBC Retrievers - Cougar Downing,9,done,done,done,done,done,done
-UMBC Retrievers - DJ Armstrong Jr.,17,done,done,done,done,done,done
-UMBC Retrievers - Jah'Likai King,19,done,done,done,done,done,done
-UMBC Retrievers - Jose Roberto Tanchyn,7,done,done,done,done,done,done
-UMBC Retrievers - Josh Odunowo,2,done,done,done,done,done,done
-UMBC Retrievers - Paul Greene,0,done,done,done,done,done,done
-UMBC Retrievers - Riley Jacobs,3,done,done,done,done,done,done
+Arkansas Razorbacks - Billy Richmond III,,10.0,,,,,
+Arkansas Razorbacks - D.J. Wagner,,7.0,,,,,
+Arkansas Razorbacks - Darius Acuff Jr.,,24.0,,,,,
+Arkansas Razorbacks - Isaiah Sealy,,0.0,,,,,
+Arkansas Razorbacks - Malique Ewin,,16.0,,,,,
+Arkansas Razorbacks - Meleek Thomas,,21.0,,,,,
+Arkansas Razorbacks - Trevon Brazile,,19.0,,,,,
+BYU Cougars - AJ Dybantsa,,20.0,,,,,
+BYU Cougars - Abdullah Ahmed,,0.0,,,,,
+BYU Cougars - Aleksej Kostic,,0.0,,,,,
+BYU Cougars - Dominique Diomande,,0.0,,,,,
+BYU Cougars - Keba Keita,,0.0,,,,,
+BYU Cougars - Kennard Davis Jr.,,9.0,,,,,
+BYU Cougars - Khadim Mboup,,0.0,,,,,
+BYU Cougars - Mihailo Boškovic,,0.0,,,,,
+BYU Cougars - Robert Wright III,,8.0,,,,,
+Duke Blue Devils - Cameron Boozer,,22.0,,,,,
+Duke Blue Devils - Cayden Boozer,,19.0,,,,,
+Duke Blue Devils - Dame Sarr,,5.0,,,,,
+Duke Blue Devils - Darren Harris,,0.0,,,,,
+Duke Blue Devils - Isaiah Evans,,16.0,,,,,
+Duke Blue Devils - Maliq Brown,,6.0,,,,,
+Duke Blue Devils - Nikolas Khamenia,,3.0,,,,,
+Hawai'i Rainbow Warriors - AJ Economou,,0.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Dre Bullock,,21.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Gytis Nemeiksa,,5.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Harry Rouhliadeff,,9.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Hunter Carter,,0.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Hunter Erickson,,5.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Isaac Finlinson,,12.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Isaac Johnson,,15.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Isaiah Kerr,,11.0,done,done,done,done,done
+Hawai'i Rainbow Warriors - Yacine Toumi,,0.0,done,done,done,done,done
+High Point Panthers - Braden Hausen,,6.0,,,,,
+High Point Panthers - Cam'Ron Fletcher,,14.0,,,,,
+High Point Panthers - Chase Johnston,,14.0,,,,,
+High Point Panthers - Conrad Martinez,,0.0,,,,,
+High Point Panthers - Owen Aquino,,11.0,,,,,
+High Point Panthers - Rob Martin,,23.0,,,,,
+High Point Panthers - Scotty Washington,,0.0,,,,,
+High Point Panthers - Terry Anderson,,15.0,,,,,
+High Point Panthers - Youssouf Singare,,0.0,,,,,
+Howard Bison - Alex Cotton,8.0,0.0,,,,,
+Howard Bison - Bryce Harris,19.0,12.0,,,,,
+Howard Bison - Calvin Robins Jr.,0.0,,,,,,
+Howard Bison - Cam Gillus,8.0,13.0,,,,,
+Howard Bison - Cedric Taylor III,16.0,14.0,,,,,
+Howard Bison - Danas Kazakevicius,0.0,0.0,,,,,
+Howard Bison - Isaiah Brown,1.0,,,,,,
+Howard Bison - Ose Okojie,23.0,0.0,,,,,
+Howard Bison - Travelle Bryson,11.0,7.0,,,,,
+Lehigh Mountain Hawks - Alfredo Addesa,2.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Andrew Urosevic,8.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Brendan Reed,0.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Caleb Thomas,0.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Edouard Benoit,8.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Hank Alvey,23.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Henri Adiassa,0.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Jake Pike,0.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Jalen Vazquez,2.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Joshua Ingram,7.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Nasir Whitlock,5.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Peter Kramer,0.0,done,done,done,done,done,done
+Lehigh Mountain Hawks - Tommy Conniff,0.0,done,done,done,done,done,done
+Louisville Cardinals - Adrian Wooley,,4.0,,,,,
+Louisville Cardinals - Aly Khalifa,,3.0,,,,,
+Louisville Cardinals - Isaac McKneely,,23.0,,,,,
+Louisville Cardinals - J'Vonne Hadley,,10.0,,,,,
+Louisville Cardinals - Khani Rooths,,5.0,,,,,
+Louisville Cardinals - Kobe Rodgers,,4.0,,,,,
+Louisville Cardinals - Ryan Conwell,,18.0,,,,,
+Louisville Cardinals - Sananda Fru,,10.0,,,,,
+Louisville Cardinals - Vangelis Zougris,,6.0,,,,,
+McNeese Cowboys - Carl Cherenfant,,0.0,done,done,done,done,done
+McNeese Cowboys - DJ Richards Jr.,,9.0,done,done,done,done,done
+McNeese Cowboys - Garwey Dual,,16.0,done,done,done,done,done
+McNeese Cowboys - Jacolb Fredson-Cole,,5.0,done,done,done,done,done
+McNeese Cowboys - Javohn Garcia,,10.0,done,done,done,done,done
+McNeese Cowboys - Jerrell Colbert,,0.0,done,done,done,done,done
+McNeese Cowboys - Larry Johnson,,15.0,done,done,done,done,done
+McNeese Cowboys - Peitok Machar,,0.0,done,done,done,done,done
+McNeese Cowboys - Tyshawn Archie,,13.0,done,done,done,done,done
+McNeese Cowboys - Yanis Ndjonga,,0.0,done,done,done,done,done
+Miami (OH) RedHawks - Almar Atlason,12.0,,,,,,
+Miami (OH) RedHawks - Antwone Woolfolk,3.0,,,,,,
+Miami (OH) RedHawks - Brant Byers,19.0,,,,,,
+Miami (OH) RedHawks - Eian Elmer,23.0,,,,,,
+Miami (OH) RedHawks - Justin Kirby,8.0,,,,,,
+Miami (OH) RedHawks - Luke Skaljac,17.0,,,,,,
+Miami (OH) RedHawks - Peter Suder,7.0,,,,,,
+Miami (OH) RedHawks - Trey Perry,0.0,,,,,,
+Michigan State Spartans - Brennan Walton,,0.0,,,,,
+Michigan State Spartans - Cam Ward,,13.0,,,,,
+Michigan State Spartans - Carson Cooper,,20.0,,,,,
+Michigan State Spartans - Coen Carr,,17.0,,,,,
+Michigan State Spartans - Colin Walton,,0.0,,,,,
+Michigan State Spartans - Denham Wojcik,,4.0,,,,,
+Michigan State Spartans - Jaxon Kohler,,12.0,,,,,
+Michigan State Spartans - Jeremy Fears Jr.,,7.0,,,,,
+Michigan State Spartans - Jesse McCulloch,,3.0,,,,,
+Michigan State Spartans - Jordan Scott,,6.0,,,,,
+Michigan State Spartans - Kur Teng,,3.0,,,,,
+Michigan State Spartans - Nick Sanders,,0.0,,,,,
+Michigan State Spartans - Trey Fort,,7.0,,,,,
+Michigan Wolverines - Aday Mara,,7.0,,,,,
+Michigan Wolverines - Elliot Cadeau,,2.0,,,,,
+Michigan Wolverines - Morez Johnson Jr.,,4.0,,,,,
+Michigan Wolverines - Nimari Burnett,,10.0,,,,,
+Michigan Wolverines - Roddy Gayle Jr.,,9.0,,,,,
+Michigan Wolverines - Trey McKenney,,7.0,,,,,
+Michigan Wolverines - Will Tschetter,,6.0,,,,,
+Michigan Wolverines - Yaxel Lendeborg,,5.0,,,,,
+NC State Wolfpack - Darrion Williams,21.0,done,done,done,done,done,done
+NC State Wolfpack - Matt Able,4.0,done,done,done,done,done,done
+NC State Wolfpack - Musa Sagnia,0.0,done,done,done,done,done,done
+NC State Wolfpack - Paul McNeil Jr.,11.0,done,done,done,done,done,done
+NC State Wolfpack - Quadir Copeland,16.0,done,done,done,done,done,done
+NC State Wolfpack - Scottie Ebube,0.0,done,done,done,done,done,done
+NC State Wolfpack - Terrance Arceneaux,0.0,done,done,done,done,done,done
+NC State Wolfpack - Tre Holloman,8.0,done,done,done,done,done,done
+NC State Wolfpack - Ven-Allen Lubin,6.0,done,done,done,done,done,done
+Nebraska Cornhuskers - Berke Buyuktuncel,,9.0,,,,,
+Nebraska Cornhuskers - Braden Frager,,13.0,,,,,
+Nebraska Cornhuskers - Cale Jacobsen,,3.0,,,,,
+Nebraska Cornhuskers - Jamarques Lawrence,,13.0,,,,,
+Nebraska Cornhuskers - Jared Garcia,,0.0,,,,,
+Nebraska Cornhuskers - Justin Bolis,,0.0,,,,,
+Nebraska Cornhuskers - Kendall Blue,,0.0,,,,,
+Nebraska Cornhuskers - Leo Curtis,,0.0,,,,,
+Nebraska Cornhuskers - Pryce Sandfort,,23.0,,,,,
+Nebraska Cornhuskers - Rienk Mast,,11.0,,,,,
+Nebraska Cornhuskers - Sam Hoiberg,,4.0,,,,,
+North Carolina Tar Heels - Derek Dixon,,9.0,,,,,
+North Carolina Tar Heels - Henri Veesaar,,23.0,,,,,
+North Carolina Tar Heels - Jarin Stevenson,,8.0,,,,,
+North Carolina Tar Heels - Jaydon Young,,0.0,,,,,
+North Carolina Tar Heels - Jonathan Powell,,3.0,,,,,
+North Carolina Tar Heels - Kyan Evans,,0.0,,,,,
+North Carolina Tar Heels - Luka Bogavac,,8.0,,,,,
+North Carolina Tar Heels - Seth Trimble,,12.0,,,,,
+North Carolina Tar Heels - Zayden High,,4.0,,,,,
+North Dakota State Bison - Andy Stefonowicz,,6.0,done,done,done,done,done
+North Dakota State Bison - Caleb Schoenrock,,0.0,done,done,done,done,done
+North Dakota State Bison - Carson Smith,,0.0,done,done,done,done,done
+North Dakota State Bison - Damari Wheeler-Thomas,,16.0,done,done,done,done,done
+North Dakota State Bison - Emil Skytta,,5.0,done,done,done,done,done
+North Dakota State Bison - Markhi Strickland,,6.0,done,done,done,done,done
+North Dakota State Bison - Max Majerle,,0.0,done,done,done,done,done
+North Dakota State Bison - Noah Feddersen,,7.0,done,done,done,done,done
+North Dakota State Bison - Riley Massey,,0.0,done,done,done,done,done
+North Dakota State Bison - Riley Saunders,,0.0,done,done,done,done,done
+North Dakota State Bison - Tay Smith,,6.0,done,done,done,done,done
+North Dakota State Bison - Trevian Carson,,11.0,done,done,done,done,done
+North Dakota State Bison - Treyson Anderson,,10.0,done,done,done,done,done
+Ohio State Buckeyes - Amare Bynum,,12.0,done,done,done,done,done
+Ohio State Buckeyes - Brandon Noel,,0.0,done,done,done,done,done
+Ohio State Buckeyes - Bruce Thornton,,10.0,done,done,done,done,done
+Ohio State Buckeyes - Christoph Tilly,,8.0,done,done,done,done,done
+Ohio State Buckeyes - Devin Royal,,14.0,done,done,done,done,done
+Ohio State Buckeyes - Gabe Cupps,,3.0,done,done,done,done,done
+Ohio State Buckeyes - Ivan Njegovan,,0.0,done,done,done,done,done
+Ohio State Buckeyes - John Mobley Jr.,,15.0,done,done,done,done,done
+Ohio State Buckeyes - Taison Chatman,,0.0,done,done,done,done,done
+Prairie View A&M Panthers - Corey Dunning,0.0,,,,,,
+Prairie View A&M Panthers - Cory Wells,19.0,,,,,,
+Prairie View A&M Panthers - Dontae Horne,25.0,,,,,,
+Prairie View A&M Panthers - Elijah Mitchell,0.0,,,,,,
+Prairie View A&M Panthers - Hassane Diallo,8.0,,,,,,
+Prairie View A&M Panthers - Jannoy Thomas,0.0,,,,,,
+Prairie View A&M Panthers - Joey Madimba,0.0,,,,,,
+Prairie View A&M Panthers - Keeshawn Mason,0.0,,,,,,
+Prairie View A&M Panthers - Lance Williams,10.0,,,,,,
+Prairie View A&M Panthers - Tai'Reon Joseph,5.0,,,,,,
+SMU Mustangs - B.J. Davis-Ray,0.0,done,done,done,done,done,done
+SMU Mustangs - Boopie Miller,15.0,done,done,done,done,done,done
+SMU Mustangs - Chance Puryear,0.0,done,done,done,done,done,done
+SMU Mustangs - Corey Washington,13.0,done,done,done,done,done,done
+SMU Mustangs - Jaden Toombs,20.0,done,done,done,done,done,done
+SMU Mustangs - Jaron Pierre Jr.,18.0,done,done,done,done,done,done
+SMU Mustangs - Jermaine O'Neal Jr.,0.0,done,done,done,done,done,done
+SMU Mustangs - Mitchell Holmes,0.0,done,done,done,done,done,done
+SMU Mustangs - Sam Walters,5.0,done,done,done,done,done,done
+SMU Mustangs - Samet Yigitoglu,8.0,done,done,done,done,done,done
+Saint Mary's Gaels - Andrew McKeever,,0.0,,,,,
+Saint Mary's Gaels - Dillan Shaw,,3.0,,,,,
+Saint Mary's Gaels - Harry Wessels,,0.0,,,,,
+Saint Mary's Gaels - Joshua Dent,,10.0,,,,,
+Saint Mary's Gaels - Liam Campbell,,8.0,,,,,
+Saint Mary's Gaels - Mantas Juzenas,,0.0,,,,,
+Saint Mary's Gaels - Mikey Lewis,,3.0,,,,,
+Saint Mary's Gaels - Paulius Murauskas,,2.0,,,,,
+Saint Mary's Gaels - Rory Hawke,,0.0,,,,,
+Siena Saints - Brendan Coyle,,12.0,done,done,done,done,done
+Siena Saints - Francis Folefac,,18.0,done,done,done,done,done
+Siena Saints - Gavin Doty,,21.0,done,done,done,done,done
+Siena Saints - Justice Shoats,,8.0,done,done,done,done,done
+Siena Saints - Riley Mulvey,,6.0,done,done,done,done,done
+South Florida Bulls - CJ Brown,,4.0,done,done,done,done,done
+South Florida Bulls - Daimion Collins,,0.0,done,done,done,done,done
+South Florida Bulls - Gavin Hightower,,12.0,done,done,done,done,done
+South Florida Bulls - Isaiah Jones,,4.0,done,done,done,done,done
+South Florida Bulls - Izaiyah Nelson,,22.0,done,done,done,done,done
+South Florida Bulls - Joseph Pinion,,27.0,done,done,done,done,done
+South Florida Bulls - Josh Omojafo,,6.0,done,done,done,done,done
+South Florida Bulls - Wes Enis,,4.0,done,done,done,done,done
+TCU Horned Frogs - Brock Harding,,8.0,,,,,
+TCU Horned Frogs - David Punch,,16.0,,,,,
+TCU Horned Frogs - Jayden Pierre,,4.0,,,,,
+TCU Horned Frogs - Liutauras Lelevicius,,4.0,,,,,
+TCU Horned Frogs - Micah Robinson,,18.0,,,,,
+TCU Horned Frogs - Tanner Toolson,,0.0,,,,,
+TCU Horned Frogs - Vianney Salatchoum,,0.0,,,,,
+TCU Horned Frogs - Xavier Edmonds,,16.0,,,,,
+Texas A&M Aggies - Ali Dibba,,4.0,,,,,
+Texas A&M Aggies - Jacari Lane,,0.0,,,,,
+Texas A&M Aggies - Jamie Vinson,,2.0,,,,,
+Texas A&M Aggies - Josh Holloway,,0.0,,,,,
+Texas A&M Aggies - Marcus Hill,,4.0,,,,,
+Texas A&M Aggies - Pop Isaacs,,0.0,,,,,
+Texas A&M Aggies - Rashaun Agee,,11.0,,,,,
+Texas A&M Aggies - Rubén Dominguez,,11.0,,,,,
+Texas A&M Aggies - Rylan Griffen,,2.0,,,,,
+Texas A&M Aggies - Zach Clemence,,3.0,,,,,
+Texas Longhorns - Camden Heide,3.0,5.0,,,,,
+Texas Longhorns - Chendall Weaver,11.0,3.0,,,,,
+Texas Longhorns - Dailyn Swain,13.0,7.0,,,,,
+Texas Longhorns - Jordan Pope,5.0,8.0,,,,,
+Texas Longhorns - Matas Vokietaitis,15.0,15.0,,,,,
+Texas Longhorns - Nic Codie,2.0,0.0,,,,,
+Texas Longhorns - Simeon Wilcher,2.0,0.0,,,,,
+Texas Longhorns - Tramon Mark,17.0,8.0,,,,,
+Troy Trojans - Austin Cross,,2.0,done,done,done,done,done
+Troy Trojans - Cobi Campbell,,9.0,done,done,done,done,done
+Troy Trojans - Cooper Campbell,,6.0,done,done,done,done,done
+Troy Trojans - Corbin Green,,0.0,done,done,done,done,done
+Troy Trojans - Emmanuel Clarton,,0.0,done,done,done,done,done
+Troy Trojans - Evan Griffin,,0.0,done,done,done,done,done
+Troy Trojans - Javen Colbert,,0.0,done,done,done,done,done
+Troy Trojans - Jerrell Bellamy,,0.0,done,done,done,done,done
+Troy Trojans - Kerrington Kiel,,3.0,done,done,done,done,done
+Troy Trojans - Theo Seng,,9.0,done,done,done,done,done
+Troy Trojans - Thomas Dowd,,4.0,done,done,done,done,done
+Troy Trojans - Victor Valdes,,14.0,done,done,done,done,done
+UMBC Retrievers - Ace Valentine,11.0,done,done,done,done,done,done
+UMBC Retrievers - Caden Diggs,15.0,done,done,done,done,done,done
+UMBC Retrievers - Cougar Downing,9.0,done,done,done,done,done,done
+UMBC Retrievers - DJ Armstrong Jr.,17.0,done,done,done,done,done,done
+UMBC Retrievers - Jah'Likai King,19.0,done,done,done,done,done,done
+UMBC Retrievers - Jose Roberto Tanchyn,7.0,done,done,done,done,done,done
+UMBC Retrievers - Josh Odunowo,2.0,done,done,done,done,done,done
+UMBC Retrievers - Paul Greene,0.0,done,done,done,done,done,done
+UMBC Retrievers - Riley Jacobs,3.0,done,done,done,done,done,done
+VCU Rams - Barry Evans,,2.0,,,,,
+VCU Rams - Brandon Jennings,,7.0,,,,,
+VCU Rams - Jadrian Tracey,,0.0,,,,,
+VCU Rams - Lazar Djokovic,,15.0,,,,,
+VCU Rams - Michael Belle,,5.0,,,,,
+VCU Rams - Nyk Lewis,,8.0,,,,,
+VCU Rams - Terrence Hill Jr.,,19.0,,,,,
+VCU Rams - Tyrell Ward,,0.0,,,,,
+Vanderbilt Commodores - AK Okereke,,7.0,,,,,
+Vanderbilt Commodores - Chandler Bing,,4.0,,,,,
+Vanderbilt Commodores - Devin McGlockton,,12.0,,,,,
+Vanderbilt Commodores - Duke Miles,,13.0,,,,,
+Vanderbilt Commodores - Jalen Washington,,4.0,,,,,
+Vanderbilt Commodores - Tyler Nickel,,12.0,,,,,
+Vanderbilt Commodores - Tyler Tanner,,26.0,,,,,
+Wisconsin Badgers - Aleksas Bieliauskas,,2.0,done,done,done,done,done
+Wisconsin Badgers - Andrew Rohde,,6.0,done,done,done,done,done
+Wisconsin Badgers - Austin Rapp,,12.0,done,done,done,done,done
+Wisconsin Badgers - Braeden Carrington,,5.0,done,done,done,done,done
+Wisconsin Badgers - John Blackwell,,22.0,done,done,done,done,done
+Wisconsin Badgers - Nick Boyd,,27.0,done,done,done,done,done
+Wisconsin Badgers - Nolan Winter,,8.0,done,done,done,done,done
