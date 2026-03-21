@@ -546,3 +546,152 @@ rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,PTS,
 1,401856527,2633,Tennessee Volunteers,1,193,Miami (OH) RedHawks,Ethan Burg,23,7,2,3,2,3,1,2,1,1,0,0,0,0,1,2
 1,401856527,2633,Tennessee Volunteers,1,193,Miami (OH) RedHawks,Clarence Massamba,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 1,401856527,2633,Tennessee Volunteers,1,193,Miami (OH) RedHawks,Amari Evans,26,6,3,7,0,2,0,0,5,2,0,0,0,1,4,1
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Cam Manyawu,23,1,0,0,0,0,1,4,10,1,1,0,1,4,6,2
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Cooper Koch,38,8,1,3,1,3,5,5,4,1,1,0,0,1,3,3
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Bennett Stirtz,40,16,4,17,3,10,5,6,5,2,1,2,0,3,2,0
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Tavion Banks,25,6,2,6,0,2,2,2,4,0,1,0,0,1,3,5
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Kael Combs,30,15,5,7,2,3,3,3,4,0,3,0,0,1,3,2
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Alvaro Folgueiras,20,14,3,8,1,5,7,7,4,1,0,1,0,2,2,1
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Tate Sage,13,7,3,5,0,1,1,4,1,0,0,0,0,0,1,1
+1,401856522,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Isaia Howard,10,0,0,1,0,1,0,0,4,0,0,0,0,1,3,0
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,RJ Godfrey,28,15,6,10,0,1,3,5,7,3,1,0,0,2,5,3
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Nick Davidson,30,8,2,7,0,2,4,5,1,1,0,0,1,0,1,4
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Butta Johnson,31,11,4,9,3,7,0,0,2,2,0,1,0,0,2,3
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Jestin Porter,25,9,3,6,3,6,0,0,1,2,1,1,0,1,0,1
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Dillon Hunter,31,8,3,6,2,3,0,0,2,3,1,2,0,2,0,4
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Chase Thompson,15,2,1,2,0,0,0,0,2,0,0,0,0,0,2,1
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Jake Wahlin,16,0,0,4,0,2,0,0,4,0,0,0,1,1,3,1
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Dallas Thomas,5,3,1,2,1,2,0,0,0,0,0,0,0,0,0,1
+1,401856522,228,Clemson Tigers,1,2294,Iowa Hawkeyes,Ace Buckner,20,5,2,8,0,3,1,2,5,1,0,0,0,2,3,3
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Tristan Smith,30,9,4,11,0,0,1,2,6,3,1,1,1,1,5,4
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Will Hornseth,25,10,4,8,0,0,2,5,4,2,1,0,1,1,3,2
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Leon Bond III,34,12,6,13,0,1,0,0,1,1,0,0,0,0,1,4
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Max Weisbrod,30,6,2,7,2,7,0,0,3,0,1,0,0,0,3,4
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Trey Campbell,37,14,5,13,1,4,3,5,3,1,2,3,0,0,3,2
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Ismael Diouf,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Ben Schwieger,30,2,1,4,0,1,0,0,8,1,1,1,0,2,6,1
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,Geon Hutchins,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856494,2460,Northern Iowa Panthers,0,-1,UNKNOWN,RJ Taylor,8,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Dillon Mitchell,32,7,3,4,0,1,1,1,9,1,2,1,2,1,8,2
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Zuby Ejiofor,28,14,4,10,1,3,5,6,11,2,2,1,4,4,7,2
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Bryce Hopkins,34,13,5,9,2,3,1,2,6,0,1,0,0,1,5,0
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Dylan Darling,33,6,3,10,0,6,0,2,5,5,0,1,0,0,5,3
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Oziyah Sellers,25,11,4,11,3,9,0,0,3,0,2,0,0,1,2,2
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Ruben Prey,12,8,2,3,0,0,4,7,4,0,0,0,0,2,2,1
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Lefteris Liotopoulos,7,5,1,1,1,1,2,2,0,1,0,0,0,0,0,1
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Joson Sanon,18,6,2,4,2,4,0,0,2,2,0,0,0,1,1,0
+1,401856494,2599,St. John's Red Storm,1,2460,Northern Iowa Panthers,Ian Jackson,9,9,3,5,1,2,2,2,2,2,1,0,0,1,1,1
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Carson Schwieger,24,8,3,7,2,6,0,0,1,2,0,0,0,1,0,1
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Avantae Parker,18,6,3,9,0,1,0,0,3,3,2,2,1,1,2,4
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Yoav Berman,28,5,2,9,1,4,0,0,2,1,1,1,0,1,1,2
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Nasir Mann,27,10,5,10,0,3,0,0,2,5,0,2,0,1,1,1
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Chris Ashby,33,8,3,6,2,5,0,0,1,2,0,1,0,0,1,0
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Kam Clark,3,4,1,2,0,1,2,2,0,0,0,1,0,0,0,0
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Maban Jabriel,21,9,4,9,1,4,0,0,5,0,0,2,2,1,4,2
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Gus Larson,12,6,3,4,0,0,0,0,3,1,1,0,0,3,0,0
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Reid Celestin,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Isaiah Henry,4,5,2,2,1,1,0,0,0,0,0,0,0,0,0,0
+1,401856519,2511,Queens University Royals,0,-1,UNKNOWN,Jordan Watford,25,10,4,7,0,0,2,3,0,6,4,0,0,0,0,2
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Trey Kaufman-Renn,25,25,12,18,0,0,1,3,9,3,0,0,0,3,6,1
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Oscar Cluff,22,9,3,6,0,0,3,4,11,5,3,1,4,3,8,1
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,C.J. Cox,25,11,3,4,3,4,2,3,4,1,1,1,0,2,2,1
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Braden Smith,32,26,10,15,4,6,2,2,3,8,2,0,0,0,3,2
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Fletcher Loyer,25,14,5,9,4,8,0,0,2,1,1,1,0,0,2,1
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Liam Murphy,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,2
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Daniel Jacobsen,10,4,2,2,0,0,0,0,4,0,2,0,2,3,1,2
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Omer Mayer,17,9,4,6,1,1,0,0,1,3,1,1,0,0,1,0
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Jack Benter,20,3,1,2,1,2,0,0,2,2,0,1,0,1,1,1
+1,401856519,2509,Purdue Boilermakers,1,2511,Queens University Royals,Gicarri Harris,19,0,0,2,0,2,0,0,1,1,2,0,0,1,0,2
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Jamichael Stillwell,28,10,3,8,0,1,4,9,13,0,3,0,0,7,6,1
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Jordan Burks,32,22,8,15,6,11,0,0,6,2,1,0,1,2,4,3
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,John Bol,20,2,1,3,0,0,0,5,6,0,1,0,1,2,4,2
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Riley Kugel,28,13,5,15,2,7,1,2,5,2,2,1,0,3,2,3
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Themus Fulks,34,10,5,13,0,2,0,0,3,8,6,1,0,2,1,4
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Devan Cambridge,14,6,2,5,2,3,0,0,5,1,1,1,0,3,2,1
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Elijah Hulsewe,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Carmelo Pacheco,17,3,1,4,1,3,0,0,2,0,0,0,0,0,2,1
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,Chris Johnson,14,0,0,3,0,1,0,0,1,1,0,0,0,0,1,0
+1,401856496,2116,UCF Knights,0,-1,UNKNOWN,George Beale Jr.,10,5,2,6,1,4,0,0,2,1,1,0,0,0,2,0
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Xavier Booker,26,15,6,12,2,4,1,1,8,0,0,0,4,3,5,1
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Donovan Dent,40,10,4,17,0,3,2,2,5,5,0,6,1,1,4,0
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Skyy Clark,20,8,3,5,1,3,1,3,1,2,3,2,0,0,1,3
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Trent Perry,37,15,4,12,0,4,7,10,5,0,1,0,1,1,4,0
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Eric Dailey Jr.,32,20,8,17,2,6,2,2,5,2,0,2,2,1,4,4
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Steven Jamerson II,12,2,1,1,0,0,0,0,4,0,0,2,0,2,2,4
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Jamar Brown,8,3,1,1,1,1,0,0,1,1,0,0,0,0,1,0
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Brandon Williams,10,0,0,1,0,0,0,0,4,0,0,0,1,2,2,3
+1,401856496,26,UCLA Bruins,1,2116,UCF Knights,Eric Freeny,15,0,0,2,0,0,0,0,2,1,0,1,0,1,1,0
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Hassane Diallo,28,4,1,9,0,0,2,2,8,1,1,1,2,5,3,3
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Cory Wells,31,9,3,14,2,9,1,2,2,0,0,1,0,0,2,3
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Corey Dunning,19,4,2,6,0,2,0,0,0,0,0,0,0,0,0,4
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Dontae Horne,38,12,3,17,2,5,4,4,2,1,3,1,1,0,2,1
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Lance Williams,38,8,2,5,0,1,4,4,2,2,1,0,0,0,2,1
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Keeshawn Mason,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Elijah Mitchell,8,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Jannoy Thomas,2,0,0,0,0,0,0,0,2,1,0,0,0,1,1,0
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Joey Madimba,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1,401856523,2504,Prairie View A&M Panthers,0,-1,UNKNOWN,Tai'Reon Joseph,30,16,5,9,2,5,4,5,1,1,2,0,0,0,1,2
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Alex Condon,25,13,5,6,0,0,3,3,3,5,1,1,3,1,2,0
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Thomas Haugh,23,14,6,9,0,1,2,3,4,7,0,0,1,1,3,1
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Rueben Chinyelu,20,14,6,9,0,0,2,2,13,1,3,1,0,1,12,3
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Boogie Fland,25,16,6,6,2,2,2,2,1,4,1,2,1,0,1,2
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Xaivian Lee,23,10,3,8,3,8,1,2,1,5,0,0,0,1,0,2
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Viktor Mikic,7,2,0,4,0,2,2,2,1,1,0,0,1,0,1,0
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Olivier Rioux,2,2,1,3,0,0,0,0,2,1,0,0,0,2,0,0
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Micah Handlogten,18,10,5,7,0,0,0,0,9,3,2,0,0,4,5,3
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Urban Klavzar,17,11,4,6,2,4,1,2,3,2,0,0,0,0,3,1
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,CJ Ingram,7,8,3,3,1,1,1,2,3,0,0,0,1,1,2,2
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Alex Kovatchev,6,5,2,4,1,2,0,0,2,0,0,0,0,0,2,0
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Cooper Josefsberg,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Isaiah Brown,18,7,3,3,1,1,0,0,4,0,0,0,0,0,4,1
+1,401856523,57,Florida Gators,1,2504,Prairie View A&M Panthers,Alex Lloyd,7,2,1,2,0,1,0,0,1,0,0,0,0,0,1,0
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Bradey Henige,27,4,2,3,0,0,0,2,7,1,1,1,1,3,4,2
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Jonathan Griman,34,6,2,5,0,0,2,6,5,1,1,2,0,1,4,1
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Dominique Daniels Jr.,40,25,7,23,4,9,7,10,7,3,1,1,0,1,6,0
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Jayden Jackson,19,2,1,7,0,4,0,0,4,0,1,1,0,0,4,1
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Martel Williams,39,15,7,16,0,2,1,1,5,0,1,0,0,2,3,4
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Devon Malcolm,7,2,1,5,0,1,0,0,5,0,1,0,0,2,3,3
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Thomas Ndong,13,2,1,2,0,0,0,0,4,0,1,1,1,1,3,1
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Jordan Muller,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,401856495,2856,California Baptist Lancers,0,-1,UNKNOWN,Miles Daniels,18,4,2,3,0,1,0,0,1,0,1,0,0,0,1,0
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Flory Bidunga,30,6,2,6,0,0,2,4,7,0,1,1,1,1,6,4
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Bryson Tiller,24,6,2,7,0,1,2,2,10,0,3,1,1,4,6,2
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Melvin Council Jr.,31,4,2,9,0,2,0,0,6,4,1,0,1,1,5,4
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Tre White,32,12,3,10,0,4,6,6,7,1,1,0,0,2,5,0
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Darryn Peterson,37,28,11,24,4,11,2,2,1,1,1,2,0,1,0,3
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Paul Mbiya,16,8,4,5,0,0,0,0,3,0,0,0,1,1,2,0
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Jamari McDowell,13,0,0,1,0,1,0,0,2,1,0,1,0,0,2,0
+1,401856495,2305,Kansas Jayhawks,1,2856,California Baptist Lancers,Elmarko Jackson,17,4,2,3,0,0,0,0,1,1,1,0,0,0,1,1
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,Shawn Phillips Jr.,26,6,3,6,0,0,0,0,6,0,2,0,3,3,3,4
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,T.O. Barrett,15,0,0,7,0,2,0,0,3,1,2,0,0,1,2,3
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,Trent Pierce,26,7,2,9,1,6,2,2,3,3,0,1,0,0,3,2
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,Mark Mitchell,37,19,4,10,3,4,8,10,3,5,5,1,2,0,3,1
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,Jayden Stone,34,21,6,10,3,7,6,6,6,1,0,0,0,0,6,3
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,Trent Burns,11,2,1,3,0,0,0,0,1,1,0,0,0,0,1,1
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,Anthony Robinson II,29,11,4,6,3,4,0,0,4,5,0,3,0,1,3,5
+1,401856518,142,Missouri Tigers,0,-1,UNKNOWN,Jacob Crews,20,0,0,6,0,5,0,0,3,0,0,0,0,1,2,2
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Malik Reneau,37,24,7,16,2,4,8,11,6,3,1,1,2,4,2,1
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Shelton Henderson,37,15,7,15,0,2,1,5,6,4,2,1,0,1,5,1
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Ernest Udeh Jr.,36,3,1,2,0,0,1,2,10,1,1,1,0,5,5,5
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Dante Allen,26,9,3,7,2,4,1,2,5,2,1,0,0,0,5,1
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Tre Donaldson,34,17,6,11,5,7,0,1,8,6,3,4,0,1,7,3
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Timotej Malovec,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Noam Dovrat,4,3,1,3,1,3,0,0,0,0,1,0,0,0,0,1
+1,401856518,2390,Miami Hurricanes,1,142,Missouri Tigers,Tru Washington,24,9,1,6,1,4,6,8,6,3,0,0,0,2,4,3
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Charles Johnston,17,10,3,4,1,1,3,3,6,0,1,0,1,0,6,1
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Cooper Bowser,31,9,3,5,0,0,3,4,5,4,1,1,2,0,5,3
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Alex Wilkins,35,21,8,15,4,8,1,3,1,4,4,1,0,0,1,4
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Eddrin Bronson,19,0,0,3,0,2,0,0,1,0,3,0,0,1,0,2
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Tom House,36,21,5,13,4,9,7,9,3,0,0,0,0,0,3,0
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Ben Vander Wal,20,4,1,1,0,0,2,3,4,5,1,0,0,3,1,1
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Cole Bowser,17,6,1,1,0,0,4,4,1,0,0,0,0,0,1,3
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Abijah Franklin,6,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+1,401856497,231,Furman Paladins,0,-1,UNKNOWN,Asa Thomas,18,0,0,4,0,4,0,0,0,1,1,0,0,0,0,1
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Alex Karaban,38,22,9,16,4,9,0,0,3,3,2,2,0,2,1,2
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Tarris Reed Jr.,35,31,12,15,0,0,7,9,27,3,2,0,0,11,16,1
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Braylon Mullins,37,12,5,14,0,8,2,2,2,6,1,3,0,0,2,2
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Solo Ball,25,9,3,12,1,6,2,2,5,1,2,0,0,2,3,2
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Malachi Smith,32,4,1,4,0,1,2,4,1,7,1,1,1,0,1,3
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Jayden Ross,21,2,1,3,0,1,0,0,3,2,0,1,0,1,2,2
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Eric Reibe,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+1,401856497,41,UConn Huskies,1,231,Furman Paladins,Alec Millender,7,2,1,1,0,0,0,1,1,0,0,0,0,1,0,1
