@@ -695,3 +695,41 @@ rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,PTS,
 1,401856497,41,UConn Huskies,1,231,Furman Paladins,Jayden Ross,21,2,1,3,0,1,0,0,3,2,0,1,0,1,2,2
 1,401856497,41,UConn Huskies,1,231,Furman Paladins,Eric Reibe,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
 1,401856497,41,UConn Huskies,1,231,Furman Paladins,Alec Millender,7,2,1,1,0,0,0,1,1,0,0,0,0,1,0,1
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Robbie Avila,30,9,3,13,3,10,0,0,1,5,1,0,0,0,1,3
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Amari McCottry,26,14,7,11,0,0,0,0,5,3,3,0,0,0,5,3
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Quentin Jones,26,7,3,7,1,3,0,1,3,2,1,1,1,0,3,1
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Dion Brown,30,13,4,7,1,2,4,5,3,2,0,2,0,0,3,1
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Trey Green,20,3,1,6,1,6,0,0,2,1,0,0,0,1,1,2
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Ishan Sharma,22,8,3,8,1,6,1,1,2,0,0,2,0,0,2,0
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Paul Otieno,11,5,2,2,0,0,1,2,2,0,0,0,0,1,1,2
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Brady Dunlap,21,9,3,5,3,5,0,0,1,2,1,1,0,0,1,2
+6,401856532,139,Saint Louis Billikens,0,-1,UNKNOWN,Kellen Thames,14,4,1,2,0,0,2,6,5,1,1,1,0,1,4,3
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Yaxel Lendeborg,32,25,9,13,3,5,4,4,6,1,0,0,1,0,6,2
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Morez Johnson Jr.,27,15,5,9,0,2,5,6,8,2,3,0,1,3,5,3
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Aday Mara,26,16,7,12,0,0,2,4,5,5,1,1,4,2,3,1
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Elliot Cadeau,37,12,4,10,3,5,1,2,4,8,2,0,1,1,3,3
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Nimari Burnett,24,11,4,8,3,5,0,2,4,2,0,1,1,1,3,2
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Oscar Goodman,1,3,1,1,0,0,1,1,0,0,0,0,1,0,0,0
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Will Tschetter,7,2,1,2,0,1,0,0,1,0,0,0,0,0,1,1
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Malick Kordel,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Roddy Gayle Jr.,20,3,0,2,0,2,3,4,6,1,1,0,0,2,4,0
+6,401856532,130,Michigan Wolverines,1,139,Saint Louis Billikens,Trey McKenney,23,8,3,4,2,3,0,0,5,1,2,0,0,0,5,1
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Vangelis Zougris,14,8,4,5,0,0,0,0,2,0,0,1,1,1,1,1
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Adrian Wooley,26,17,7,10,3,6,0,0,4,3,1,0,0,1,3,1
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Ryan Conwell,33,21,7,15,5,11,2,4,4,4,2,0,0,0,4,2
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Isaac McKneely,35,9,3,9,3,7,0,0,4,2,1,1,0,0,4,3
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,J'Vonne Hadley,30,2,1,8,0,4,0,0,3,4,2,1,0,1,2,4
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Sananda Fru,18,2,1,3,0,0,0,0,6,1,2,0,1,5,1,5
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Khani Rooths,5,0,0,2,0,2,0,0,1,1,0,1,0,1,0,0
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Kasean Pryor,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Aly Khalifa,14,8,3,7,2,6,0,0,1,0,0,0,0,0,1,0
+6,401856531,97,Louisville Cardinals,0,-1,UNKNOWN,Kobe Rodgers,23,2,0,3,0,1,2,2,4,1,2,1,0,1,3,5
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Jordan Scott,20,4,2,4,0,1,0,0,2,1,3,0,2,1,1,3
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Jaxon Kohler,28,10,3,9,2,7,2,2,6,1,0,0,0,1,5,1
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Coen Carr,33,21,8,13,2,4,3,5,10,0,1,1,2,1,9,0
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Carson Cooper,30,9,4,6,1,1,0,0,5,1,3,1,1,3,2,1
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Jeremy Fears Jr.,37,12,3,13,1,4,5,7,3,16,5,1,0,1,2,3
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Cam Ward,18,2,1,1,0,0,0,0,2,1,1,0,0,0,2,1
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Kur Teng,13,7,2,4,2,4,1,2,1,1,1,0,0,0,1,1
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Trey Fort,19,12,3,5,3,5,3,3,5,1,0,1,0,1,4,1
+6,401856531,127,Michigan State Spartans,1,97,Louisville Cardinals,Denham Wojcik,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
