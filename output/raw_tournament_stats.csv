@@ -851,3 +851,36 @@ rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,PTS,
 2,401856536,8,Arkansas Razorbacks,1,2272,High Point Panthers,Meleek Thomas,35,19,8,16,3,5,0,0,1,1,1,2,0,0,1,3
 2,401856536,8,Arkansas Razorbacks,1,2272,High Point Panthers,Isaiah Sealy,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
 2,401856536,8,Arkansas Razorbacks,1,2272,High Point Panthers,D.J. Wagner,22,2,1,2,0,0,0,0,2,4,1,1,0,0,2,1
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Andrija Jelavic,14,2,1,2,0,1,0,0,5,1,2,0,1,0,5,1
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Malachi Moreno,18,4,0,0,0,0,4,6,6,3,1,0,0,1,5,2
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Collin Chandler,30,6,2,5,2,5,0,0,1,0,2,1,1,0,1,3
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Otega Oweh,36,18,8,15,1,5,1,2,8,0,4,2,0,1,7,4
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Denzel Aberdeen,37,20,6,14,4,9,4,5,1,1,4,0,0,0,1,3
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Mouhamed Dioubate,18,4,2,3,0,0,0,0,3,2,1,1,1,2,1,1
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Brandon Garrison,22,1,0,1,0,0,1,2,6,0,2,0,0,1,5,2
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Jasper Johnson,6,3,1,3,1,3,0,0,0,2,2,0,0,0,0,2
+2,401856561,96,Kentucky Wildcats,0,-1,UNKNOWN,Kam Williams,19,5,1,2,1,2,2,2,0,2,1,0,0,0,0,0
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Blake Buchanan,31,9,3,8,0,1,3,4,8,2,2,2,0,4,4,3
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Milan Momcilovic,36,20,6,12,4,9,4,5,5,1,0,2,0,1,4,1
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Killyan Toure,31,10,5,10,0,3,0,0,4,1,1,3,0,0,4,4
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Tamin Lipsey,37,26,8,15,3,6,7,8,3,10,3,5,0,2,1,1
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Nate Heise,36,12,5,8,1,4,1,3,2,3,1,0,0,1,1,3
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Dominykas Pleta,9,1,0,0,0,0,1,2,2,0,0,0,0,1,1,2
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Dominick Nelson,4,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+2,401856561,66,Iowa State Cyclones,1,96,Kentucky Wildcats,Jamarion Batemon,16,3,1,8,1,5,0,0,2,0,0,0,0,0,2,2
+2,401856564,2390,Miami Hurricanes,0,-1,UNKNOWN,Malik Reneau,36,16,6,15,0,3,4,4,5,3,7,4,1,4,1,3
+2,401856564,2390,Miami Hurricanes,0,-1,UNKNOWN,Shelton Henderson,40,18,9,11,0,1,0,0,8,4,2,2,0,3,5,2
+2,401856564,2390,Miami Hurricanes,0,-1,UNKNOWN,Ernest Udeh Jr.,33,3,1,2,0,0,1,2,7,0,1,1,1,3,4,3
+2,401856564,2390,Miami Hurricanes,0,-1,UNKNOWN,Dante Allen,24,8,3,7,2,4,0,0,1,3,1,1,0,0,1,2
+2,401856564,2390,Miami Hurricanes,0,-1,UNKNOWN,Tre Donaldson,36,13,4,15,2,6,3,4,4,3,0,0,0,0,4,3
+2,401856564,2390,Miami Hurricanes,0,-1,UNKNOWN,Timotej Malovec,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+2,401856564,2390,Miami Hurricanes,0,-1,UNKNOWN,Tru Washington,28,11,5,13,1,5,0,0,5,4,1,1,0,2,3,1
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Trey Kaufman-Renn,35,19,8,16,0,0,3,3,9,2,1,1,0,2,7,2
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Oscar Cluff,32,8,3,4,0,0,2,3,7,2,1,3,2,2,5,3
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,C.J. Cox,18,11,4,5,3,4,0,0,1,1,0,0,0,0,1,0
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Braden Smith,38,12,3,12,0,4,6,6,2,8,8,1,0,0,2,0
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Fletcher Loyer,35,24,6,7,4,4,8,8,1,2,2,1,0,0,1,1
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Daniel Jacobsen,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Omer Mayer,11,0,0,2,0,1,0,0,1,0,0,0,0,0,1,0
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Jack Benter,11,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2
+2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Gicarri Harris,18,5,1,1,1,1,2,2,1,1,0,2,1,0,1,1
