@@ -68,16 +68,21 @@ _TOURNEY_END   = datetime.date(YEAR, 4, 10)   # a few days after the latest poss
 # Map ESPN headline substrings → round number
 # Round 0 = First Four, 1 = First Round, 2 = Second Round,
 # 3 = Sweet 16, 4 = Elite Eight, 5 = Final Four, 6 = Championship
+# Order matters: more specific strings must come before substrings they contain.
+# e.g. "National Championship" before "Championship", "Final Four" before "Four".
 _ROUND_KEYWORDS: list[tuple[str, int]] = [
     ("First Four",             0),
     ("1st Round",              1),
     ("First Round",            1),
+    ("2nd Round",              2),
     ("Second Round",           2),
     ("Sweet 16",               3),
     ("Sweet Sixteen",          3),
     ("Elite Eight",            4),
+    ("Elite 8",                4),
     ("Final Four",             5),
     ("National Championship",  6),
+    ("Championship Game",      6),
     ("Championship",           6),
 ]
 
