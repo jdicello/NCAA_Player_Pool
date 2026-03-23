@@ -8,31 +8,31 @@ Akron Zips - Shammah Scott,,20.0,done,done,done,done,done
 Akron Zips - Sharron Young,,4.0,done,done,done,done,done
 Akron Zips - Tavari Johnson,,4.0,done,done,done,done,done
 Akron Zips - Zach Halligan,,0.0,done,done,done,done,done
-Alabama Crimson Tide - Aiden Sherrell,,15.0,,,,,
-Alabama Crimson Tide - Amari Allen,,11.0,,,,,
-Alabama Crimson Tide - Houston Mallette,,0.0,,,,,
-Alabama Crimson Tide - Jacob Martin,,0.0,,,,,
-Alabama Crimson Tide - Jalil Bethea,,0.0,,,,,
-Alabama Crimson Tide - Labaron Philon Jr.,,29.0,,,,,
-Alabama Crimson Tide - Latrell Wrightsell,,11.0,,,,,
-Alabama Crimson Tide - London Jemison,,6.0,,,,,
-Alabama Crimson Tide - Noah Williamson,,3.0,,,,,
-Alabama Crimson Tide - Preston Murphy Jr.,,0.0,,,,,
-Alabama Crimson Tide - Taylor Bol Bowen,,15.0,,,,,
+Alabama Crimson Tide - Aiden Sherrell,,15.0,10.0,,,,
+Alabama Crimson Tide - Amari Allen,,11.0,12.0,,,,
+Alabama Crimson Tide - Houston Mallette,,0.0,15.0,,,,
+Alabama Crimson Tide - Jacob Martin,,0.0,0.0,,,,
+Alabama Crimson Tide - Jalil Bethea,,0.0,0.0,,,,
+Alabama Crimson Tide - Labaron Philon Jr.,,29.0,9.0,,,,
+Alabama Crimson Tide - Latrell Wrightsell,,11.0,24.0,,,,
+Alabama Crimson Tide - London Jemison,,6.0,7.0,,,,
+Alabama Crimson Tide - Noah Williamson,,3.0,8.0,,,,
+Alabama Crimson Tide - Preston Murphy Jr.,,0.0,0.0,,,,
+Alabama Crimson Tide - Taylor Bol Bowen,,15.0,5.0,,,,
 Arizona Wildcats - Addison Arnold,,2.0,,,,,
-Arizona Wildcats - Anthony Dell'Orso,,8.0,,,,,
-Arizona Wildcats - Brayden Burries,,18.0,,,,,
-Arizona Wildcats - Dwayne Aristode,,4.0,,,,,
+Arizona Wildcats - Anthony Dell'Orso,,8.0,3.0,,,,
+Arizona Wildcats - Brayden Burries,,18.0,16.0,,,,
+Arizona Wildcats - Dwayne Aristode,,4.0,3.0,,,,
 Arizona Wildcats - Evan Nelson,,0.0,,,,,
-Arizona Wildcats - Ivan Kharchenkov,,14.0,,,,,
+Arizona Wildcats - Ivan Kharchenkov,,14.0,9.0,,,,
 Arizona Wildcats - Jackson Cook,,0.0,,,,,
 Arizona Wildcats - Jackson Francois,,0.0,,,,,
-Arizona Wildcats - Jaden Bradley,,7.0,,,,,
-Arizona Wildcats - Koa Peat,,15.0,,,,,
-Arizona Wildcats - Motiejus Krivas,,9.0,,,,,
+Arizona Wildcats - Jaden Bradley,,7.0,18.0,,,,
+Arizona Wildcats - Koa Peat,,15.0,14.0,,,,
+Arizona Wildcats - Motiejus Krivas,,9.0,11.0,,,,
 Arizona Wildcats - Sidi Gueye,,4.0,,,,,
 Arizona Wildcats - Sven Djopmo,,0.0,,,,,
-Arizona Wildcats - Tobe Awaka,,11.0,,,,,
+Arizona Wildcats - Tobe Awaka,,11.0,4.0,,,,
 Arkansas Razorbacks - Billy Richmond III,,10.0,15.0,,,,
 Arkansas Razorbacks - D.J. Wagner,,7.0,2.0,,,,
 Arkansas Razorbacks - Darius Acuff Jr.,,24.0,36.0,,,,
@@ -77,20 +77,20 @@ Duke Blue Devils - Jack Scott,,,0.0,,,,
 Duke Blue Devils - Maliq Brown,,6.0,12.0,,,,
 Duke Blue Devils - Nikolas Khamenia,,3.0,6.0,,,,
 Duke Blue Devils - Patrick Ngongba II,,,4.0,,,,
-Florida Gators - Alex Condon,,13.0,,,,,
-Florida Gators - Alex Kovatchev,,5.0,,,,,
-Florida Gators - Alex Lloyd,,2.0,,,,,
-Florida Gators - Boogie Fland,,16.0,,,,,
-Florida Gators - CJ Ingram,,8.0,,,,,
-Florida Gators - Cooper Josefsberg,,0.0,,,,,
-Florida Gators - Isaiah Brown,,7.0,,,,,
-Florida Gators - Micah Handlogten,,10.0,,,,,
-Florida Gators - Olivier Rioux,,2.0,,,,,
-Florida Gators - Rueben Chinyelu,,14.0,,,,,
-Florida Gators - Thomas Haugh,,14.0,,,,,
-Florida Gators - Urban Klavzar,,11.0,,,,,
-Florida Gators - Viktor Mikic,,2.0,,,,,
-Florida Gators - Xaivian Lee,,10.0,,,,,
+Florida Gators - Alex Condon,,13.0,21.0,done,done,done,done
+Florida Gators - Alex Kovatchev,,5.0,,done,done,done,done
+Florida Gators - Alex Lloyd,,2.0,,done,done,done,done
+Florida Gators - Boogie Fland,,16.0,7.0,done,done,done,done
+Florida Gators - CJ Ingram,,8.0,,done,done,done,done
+Florida Gators - Cooper Josefsberg,,0.0,,done,done,done,done
+Florida Gators - Isaiah Brown,,7.0,3.0,done,done,done,done
+Florida Gators - Micah Handlogten,,10.0,0.0,done,done,done,done
+Florida Gators - Olivier Rioux,,2.0,,done,done,done,done
+Florida Gators - Rueben Chinyelu,,14.0,0.0,done,done,done,done
+Florida Gators - Thomas Haugh,,14.0,19.0,done,done,done,done
+Florida Gators - Urban Klavzar,,11.0,5.0,done,done,done,done
+Florida Gators - Viktor Mikic,,2.0,,done,done,done,done
+Florida Gators - Xaivian Lee,,10.0,17.0,done,done,done,done
 Furman Paladins - Abijah Franklin,,0.0,done,done,done,done,done
 Furman Paladins - Alex Wilkins,,21.0,done,done,done,done,done
 Furman Paladins - Asa Thomas,,0.0,done,done,done,done,done
@@ -196,14 +196,15 @@ Illinois Fighting Illini - Kylan Boswell,,13.0,12.0,,,,
 Illinois Fighting Illini - Mihailo Petrovic,,0.0,0.0,,,,
 Illinois Fighting Illini - Tomislav Ivisic,,12.0,14.0,,,,
 Illinois Fighting Illini - Zvonimir Ivisic,,6.0,2.0,,,,
-Iowa Hawkeyes - Alvaro Folgueiras,,14.0,,,,,
-Iowa Hawkeyes - Bennett Stirtz,,16.0,,,,,
-Iowa Hawkeyes - Cam Manyawu,,1.0,,,,,
-Iowa Hawkeyes - Cooper Koch,,8.0,,,,,
-Iowa Hawkeyes - Isaia Howard,,0.0,,,,,
-Iowa Hawkeyes - Kael Combs,,15.0,,,,,
-Iowa Hawkeyes - Tate Sage,,7.0,,,,,
-Iowa Hawkeyes - Tavion Banks,,6.0,,,,,
+Iowa Hawkeyes - Alvaro Folgueiras,,14.0,14.0,,,,
+Iowa Hawkeyes - Bennett Stirtz,,16.0,13.0,,,,
+Iowa Hawkeyes - Cam Manyawu,,1.0,6.0,,,,
+Iowa Hawkeyes - Cooper Koch,,8.0,12.0,,,,
+Iowa Hawkeyes - Isaia Howard,,0.0,0.0,,,,
+Iowa Hawkeyes - Kael Combs,,15.0,6.0,,,,
+Iowa Hawkeyes - Tate Sage,,7.0,2.0,,,,
+Iowa Hawkeyes - Tavion Banks,,6.0,20.0,,,,
+Iowa Hawkeyes - Trevin Jirak,,,0.0,,,,
 Iowa State Cyclones - Anthony Rise,,0.0,,,,,
 Iowa State Cyclones - Blake Buchanan,,11.0,9.0,,,,
 Iowa State Cyclones - Cade Kelderman,,0.0,,,,,
@@ -216,14 +217,15 @@ Iowa State Cyclones - Killyan Toure,,25.0,10.0,,,,
 Iowa State Cyclones - Milan Momcilovic,,17.0,20.0,,,,
 Iowa State Cyclones - Nate Heise,,22.0,12.0,,,,
 Iowa State Cyclones - Tamin Lipsey,,3.0,26.0,,,,
-Kansas Jayhawks - Bryson Tiller,,6.0,0.0,,,,
-Kansas Jayhawks - Darryn Peterson,,28.0,9.0,,,,
-Kansas Jayhawks - Elmarko Jackson,,4.0,4.0,,,,
-Kansas Jayhawks - Flory Bidunga,,6.0,4.0,,,,
-Kansas Jayhawks - Jamari McDowell,,0.0,0.0,,,,
-Kansas Jayhawks - Melvin Council Jr.,,4.0,6.0,,,,
-Kansas Jayhawks - Paul Mbiya,,8.0,3.0,,,,
-Kansas Jayhawks - Tre White,,12.0,0.0,,,,
+Kansas Jayhawks - Bryson Tiller,,6.0,0.0,done,done,done,done
+Kansas Jayhawks - Darryn Peterson,,28.0,21.0,done,done,done,done
+Kansas Jayhawks - Elmarko Jackson,,4.0,4.0,done,done,done,done
+Kansas Jayhawks - Flory Bidunga,,6.0,12.0,done,done,done,done
+Kansas Jayhawks - Jamari McDowell,,0.0,0.0,done,done,done,done
+Kansas Jayhawks - Kohl Rosario,,,5.0,done,done,done,done
+Kansas Jayhawks - Melvin Council Jr.,,4.0,15.0,done,done,done,done
+Kansas Jayhawks - Paul Mbiya,,8.0,4.0,done,done,done,done
+Kansas Jayhawks - Tre White,,12.0,4.0,done,done,done,done
 Kennesaw State Owls - Amir Taylor,,15.0,done,done,done,done,done
 Kennesaw State Owls - Braedan Lue,,5.0,done,done,done,done,done
 Kennesaw State Owls - Frankquon Sherman,,13.0,done,done,done,done,done
@@ -496,16 +498,16 @@ South Florida Bulls - Izaiyah Nelson,,22.0,done,done,done,done,done
 South Florida Bulls - Joseph Pinion,,27.0,done,done,done,done,done
 South Florida Bulls - Josh Omojafo,,6.0,done,done,done,done,done
 South Florida Bulls - Wes Enis,,4.0,done,done,done,done,done
-St. John's Red Storm - Bryce Hopkins,,13.0,9.0,,,,
-St. John's Red Storm - Dillon Mitchell,,7.0,4.0,,,,
-St. John's Red Storm - Dylan Darling,,6.0,0.0,,,,
-St. John's Red Storm - Ian Jackson,,9.0,3.0,,,,
+St. John's Red Storm - Bryce Hopkins,,13.0,18.0,,,,
+St. John's Red Storm - Dillon Mitchell,,7.0,8.0,,,,
+St. John's Red Storm - Dylan Darling,,6.0,2.0,,,,
+St. John's Red Storm - Ian Jackson,,9.0,10.0,,,,
 St. John's Red Storm - Joson Sanon,,6.0,3.0,,,,
 St. John's Red Storm - Lefteris Liotopoulos,,5.0,0.0,,,,
 St. John's Red Storm - Oziyah Sellers,,11.0,3.0,,,,
-St. John's Red Storm - Ruben Prey,,8.0,3.0,,,,
+St. John's Red Storm - Ruben Prey,,8.0,5.0,,,,
 St. John's Red Storm - Sadiku Ibine Ayo,,,0.0,,,,
-St. John's Red Storm - Zuby Ejiofor,,14.0,9.0,,,,
+St. John's Red Storm - Zuby Ejiofor,,14.0,18.0,,,,
 TCU Horned Frogs - Ashton Simmons,,,0.0,done,done,done,done
 TCU Horned Frogs - Brock Harding,,8.0,8.0,done,done,done,done
 TCU Horned Frogs - David Punch,,16.0,4.0,done,done,done,done
@@ -529,16 +531,16 @@ Tennessee State Tigers - Jabrion Spikes,,2.0,done,done,done,done,done
 Tennessee State Tigers - Jalen Pitre,,3.0,done,done,done,done,done
 Tennessee State Tigers - Kavien Jones,,0.0,done,done,done,done,done
 Tennessee State Tigers - Travis Harper II,,13.0,done,done,done,done,done
-Tennessee Volunteers - Amari Evans,,6.0,,,,,
-Tennessee Volunteers - Bishop Boswell,,5.0,3.0,,,,
+Tennessee Volunteers - Amari Evans,,6.0,2.0,,,,
+Tennessee Volunteers - Bishop Boswell,,5.0,13.0,,,,
 Tennessee Volunteers - Clarence Massamba,,0.0,,,,,
-Tennessee Volunteers - DeWayne Brown II,,5.0,,,,,
-Tennessee Volunteers - Ethan Burg,,7.0,,,,,
-Tennessee Volunteers - Felix Okpara,,12.0,0.0,,,,
-Tennessee Volunteers - J.P. Estrella,,14.0,4.0,,,,
-Tennessee Volunteers - Ja'Kobi Gillespie,,29.0,2.0,,,,
-Tennessee Volunteers - Jaylen Carey,,0.0,,,,,
-Tennessee Volunteers - Nate Ament,,0.0,3.0,,,,
+Tennessee Volunteers - DeWayne Brown II,,5.0,0.0,,,,
+Tennessee Volunteers - Ethan Burg,,7.0,0.0,,,,
+Tennessee Volunteers - Felix Okpara,,12.0,7.0,,,,
+Tennessee Volunteers - J.P. Estrella,,14.0,10.0,,,,
+Tennessee Volunteers - Ja'Kobi Gillespie,,29.0,21.0,,,,
+Tennessee Volunteers - Jaylen Carey,,0.0,10.0,,,,
+Tennessee Volunteers - Nate Ament,,0.0,16.0,,,,
 Texas A&M Aggies - Ali Dibba,,9.0,6.0,done,done,done,done
 Texas A&M Aggies - Chris McDermott,,,2.0,done,done,done,done
 Texas A&M Aggies - Jacari Lane,,2.0,1.0,done,done,done,done
@@ -558,15 +560,18 @@ Texas Longhorns - Matas Vokietaitis,15.0,23.0,17.0,,,,
 Texas Longhorns - Nic Codie,2.0,0.0,12.0,,,,
 Texas Longhorns - Simeon Wilcher,2.0,2.0,0.0,,,,
 Texas Longhorns - Tramon Mark,17.0,19.0,6.0,,,,
-Texas Tech Red Raiders - Christian Anderson,,18.0,,,,,
-Texas Tech Red Raiders - Donovan Atwell,,15.0,,,,,
-Texas Tech Red Raiders - Jaylen Petty,,24.0,,,,,
-Texas Tech Red Raiders - Josiah Moseley,,16.0,,,,,
-Texas Tech Red Raiders - LeJuan Watts,,14.0,,,,,
-Texas Tech Red Raiders - Leon Horner,,2.0,,,,,
-Texas Tech Red Raiders - Luke Bamgboye,,2.0,,,,,
-Texas Tech Red Raiders - Nolan Groves,,0.0,,,,,
-Texas Tech Red Raiders - Tyeree Bryan,,0.0,,,,,
+Texas Tech Red Raiders - Christian Anderson,,18.0,7.0,done,done,done,done
+Texas Tech Red Raiders - Donovan Atwell,,15.0,12.0,done,done,done,done
+Texas Tech Red Raiders - Jack Francis,,,0.0,done,done,done,done
+Texas Tech Red Raiders - Jaylen Petty,,24.0,9.0,done,done,done,done
+Texas Tech Red Raiders - Jazz Henderson,,,2.0,done,done,done,done
+Texas Tech Red Raiders - Josiah Moseley,,16.0,6.0,done,done,done,done
+Texas Tech Red Raiders - LeJuan Watts,,14.0,16.0,done,done,done,done
+Texas Tech Red Raiders - Leon Horner,,2.0,10.0,done,done,done,done
+Texas Tech Red Raiders - Luke Bamgboye,,2.0,2.0,done,done,done,done
+Texas Tech Red Raiders - Marial Akuentok,,,0.0,done,done,done,done
+Texas Tech Red Raiders - Nolan Groves,,0.0,1.0,done,done,done,done
+Texas Tech Red Raiders - Tyeree Bryan,,0.0,0.0,done,done,done,done
 Troy Trojans - Austin Cross,,2.0,done,done,done,done,done
 Troy Trojans - Cobi Campbell,,9.0,done,done,done,done,done
 Troy Trojans - Cooper Campbell,,6.0,done,done,done,done,done
@@ -589,23 +594,25 @@ UCF Knights - John Bol,,2.0,done,done,done,done,done
 UCF Knights - Jordan Burks,,22.0,done,done,done,done,done
 UCF Knights - Riley Kugel,,13.0,done,done,done,done,done
 UCF Knights - Themus Fulks,,10.0,done,done,done,done,done
-UCLA Bruins - Brandon Williams,,0.0,,,,,
-UCLA Bruins - Donovan Dent,,10.0,,,,,
-UCLA Bruins - Eric Dailey Jr.,,20.0,,,,,
-UCLA Bruins - Eric Freeny,,0.0,,,,,
-UCLA Bruins - Jamar Brown,,3.0,,,,,
-UCLA Bruins - Skyy Clark,,8.0,,,,,
-UCLA Bruins - Steven Jamerson II,,2.0,,,,,
-UCLA Bruins - Trent Perry,,15.0,,,,,
-UCLA Bruins - Xavier Booker,,15.0,,,,,
+UCLA Bruins - Brandon Williams,,0.0,3.0,done,done,done,done
+UCLA Bruins - Donovan Dent,,10.0,11.0,done,done,done,done
+UCLA Bruins - Eric Dailey Jr.,,20.0,12.0,done,done,done,done
+UCLA Bruins - Eric Freeny,,0.0,0.0,done,done,done,done
+UCLA Bruins - Jamar Brown,,3.0,0.0,done,done,done,done
+UCLA Bruins - Skyy Clark,,8.0,11.0,done,done,done,done
+UCLA Bruins - Steven Jamerson II,,2.0,2.0,done,done,done,done
+UCLA Bruins - Trent Perry,,15.0,5.0,done,done,done,done
+UCLA Bruins - Xavier Booker,,15.0,13.0,done,done,done,done
 UConn Huskies - Alec Millender,,2.0,,,,,
-UConn Huskies - Alex Karaban,,22.0,,,,,
-UConn Huskies - Braylon Mullins,,12.0,,,,,
-UConn Huskies - Eric Reibe,,0.0,,,,,
-UConn Huskies - Jayden Ross,,2.0,,,,,
-UConn Huskies - Malachi Smith,,4.0,,,,,
-UConn Huskies - Solo Ball,,9.0,,,,,
-UConn Huskies - Tarris Reed Jr.,,31.0,,,,,
+UConn Huskies - Alex Karaban,,22.0,27.0,,,,
+UConn Huskies - Braylon Mullins,,12.0,17.0,,,,
+UConn Huskies - Eric Reibe,,0.0,4.0,,,,
+UConn Huskies - Jayden Ross,,2.0,11.0,,,,
+UConn Huskies - Malachi Smith,,4.0,2.0,,,,
+UConn Huskies - Silas Demary Jr.,,,2.0,,,,
+UConn Huskies - Solo Ball,,9.0,0.0,,,,
+UConn Huskies - Tarris Reed Jr.,,31.0,10.0,,,,
+UConn Huskies - Uroš Paunovic,,,0.0,,,,
 UMBC Retrievers - Ace Valentine,11.0,done,done,done,done,done,done
 UMBC Retrievers - Caden Diggs,15.0,done,done,done,done,done,done
 UMBC Retrievers - Cougar Downing,9.0,done,done,done,done,done,done
@@ -615,15 +622,15 @@ UMBC Retrievers - Jose Roberto Tanchyn,7.0,done,done,done,done,done,done
 UMBC Retrievers - Josh Odunowo,2.0,done,done,done,done,done,done
 UMBC Retrievers - Paul Greene,0.0,done,done,done,done,done,done
 UMBC Retrievers - Riley Jacobs,3.0,done,done,done,done,done,done
-Utah State Aggies - Adlan Elamin,,13.0,,,,,
-Utah State Aggies - Drake Allen,,11.0,,,,,
-Utah State Aggies - Elijah Perryman,,0.0,,,,,
-Utah State Aggies - Garry Clark,,7.0,,,,,
-Utah State Aggies - Karson Templin,,4.0,,,,,
-Utah State Aggies - Kolby King,,5.0,,,,,
-Utah State Aggies - MJ Collins Jr.,,20.0,,,,,
-Utah State Aggies - Mason Falslev,,22.0,,,,,
-Utah State Aggies - Zach Keller,,4.0,,,,,
+Utah State Aggies - Adlan Elamin,,13.0,6.0,done,done,done,done
+Utah State Aggies - Drake Allen,,11.0,11.0,done,done,done,done
+Utah State Aggies - Elijah Perryman,,0.0,4.0,done,done,done,done
+Utah State Aggies - Garry Clark,,7.0,13.0,done,done,done,done
+Utah State Aggies - Karson Templin,,4.0,5.0,done,done,done,done
+Utah State Aggies - Kolby King,,5.0,5.0,done,done,done,done
+Utah State Aggies - MJ Collins Jr.,,20.0,12.0,done,done,done,done
+Utah State Aggies - Mason Falslev,,22.0,8.0,done,done,done,done
+Utah State Aggies - Zach Keller,,4.0,2.0,done,done,done,done
 VCU Rams - Ahmad Nowell,,,0.0,done,done,done,done
 VCU Rams - Barry Evans,,2.0,11.0,done,done,done,done
 VCU Rams - Brandon Jennings,,7.0,5.0,done,done,done,done
@@ -651,15 +658,15 @@ Villanova Wildcats - Devin Askew,,3.0,done,done,done,done,done
 Villanova Wildcats - Duke Brennan,,15.0,done,done,done,done,done
 Villanova Wildcats - Malachi Palmer,,11.0,done,done,done,done,done
 Villanova Wildcats - Tyler Perkins,,15.0,done,done,done,done,done
-Virginia Cavaliers - Chance Mallory,,2.0,0.0,,,,
-Virginia Cavaliers - Dallin Hall,,8.0,0.0,,,,
-Virginia Cavaliers - Devin Tillis,,3.0,,,,,
-Virginia Cavaliers - Jacari White,,26.0,2.0,,,,
-Virginia Cavaliers - Johann Grunloh,,8.0,0.0,,,,
-Virginia Cavaliers - Malik Thomas,,11.0,1.0,,,,
-Virginia Cavaliers - Sam Lewis,,12.0,0.0,,,,
-Virginia Cavaliers - Thijs De Ridder,,10.0,5.0,,,,
-Virginia Cavaliers - Ugonna Onyenso,,2.0,0.0,,,,
+Virginia Cavaliers - Chance Mallory,,2.0,10.0,done,done,done,done
+Virginia Cavaliers - Dallin Hall,,8.0,7.0,done,done,done,done
+Virginia Cavaliers - Devin Tillis,,3.0,0.0,done,done,done,done
+Virginia Cavaliers - Jacari White,,26.0,10.0,done,done,done,done
+Virginia Cavaliers - Johann Grunloh,,8.0,2.0,done,done,done,done
+Virginia Cavaliers - Malik Thomas,,11.0,12.0,done,done,done,done
+Virginia Cavaliers - Sam Lewis,,12.0,5.0,done,done,done,done
+Virginia Cavaliers - Thijs De Ridder,,10.0,22.0,done,done,done,done
+Virginia Cavaliers - Ugonna Onyenso,,2.0,2.0,done,done,done,done
 Wisconsin Badgers - Aleksas Bieliauskas,,2.0,done,done,done,done,done
 Wisconsin Badgers - Andrew Rohde,,6.0,done,done,done,done,done
 Wisconsin Badgers - Austin Rapp,,12.0,done,done,done,done,done

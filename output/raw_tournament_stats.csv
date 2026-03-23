@@ -884,3 +884,115 @@ rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,PTS,
 2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Omer Mayer,11,0,0,2,0,1,0,0,1,0,0,0,0,0,1,0
 2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Jack Benter,11,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2
 2,401856564,2509,Purdue Boilermakers,1,2390,Miami Hurricanes,Gicarri Harris,18,5,1,1,1,1,2,2,1,1,0,2,1,0,1,1
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Dillon Mitchell,35,8,4,8,0,1,0,2,9,0,2,1,1,2,7,3
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Zuby Ejiofor,34,18,6,14,0,4,6,8,9,4,2,1,1,4,5,2
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Bryce Hopkins,34,18,6,13,6,9,0,0,7,1,2,2,0,1,6,3
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Dylan Darling,18,2,1,5,0,4,0,0,1,4,0,2,0,0,1,0
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Oziyah Sellers,21,3,1,3,1,1,0,0,0,0,0,0,0,0,0,4
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Ruben Prey,13,5,2,2,1,1,0,1,4,1,0,0,0,1,3,1
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Sadiku Ibine Ayo,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Lefteris Liotopoulos,4,0,0,4,0,3,0,0,1,0,0,0,0,0,1,1
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Joson Sanon,17,3,1,8,1,5,0,0,0,1,0,1,0,0,0,3
+2,401856558,2599,St. John's Red Storm,0,-1,UNKNOWN,Ian Jackson,20,10,4,12,2,7,0,0,2,1,1,0,1,1,1,0
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Flory Bidunga,31,12,6,9,0,0,0,0,5,1,2,1,3,3,2,4
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Bryson Tiller,27,0,0,2,0,0,0,0,5,1,0,0,0,0,5,0
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Melvin Council Jr.,39,15,6,15,1,3,2,2,9,4,5,1,1,2,7,1
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Tre White,28,4,2,6,0,2,0,0,5,3,3,0,0,0,5,3
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Darryn Peterson,36,21,5,15,3,8,8,10,4,0,3,0,4,0,4,0
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Paul Mbiya,13,4,1,1,0,0,2,5,6,0,0,0,1,2,4,4
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Kohl Rosario,10,5,2,2,1,1,0,0,2,0,1,0,0,1,1,2
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Jamari McDowell,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,401856558,2305,Kansas Jayhawks,1,2599,St. John's Red Storm,Elmarko Jackson,11,4,2,4,0,0,0,0,3,0,2,1,0,0,3,0
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,Nate Ament,29,16,4,11,1,3,7,8,4,0,2,1,1,0,4,2
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,Felix Okpara,34,7,3,7,0,0,1,2,8,1,1,0,4,2,6,2
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,J.P. Estrella,20,10,4,4,0,0,2,2,5,1,1,1,0,2,3,3
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,Ja'Kobi Gillespie,38,21,6,14,3,5,6,6,3,6,3,1,0,0,3,1
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,Bishop Boswell,35,13,4,10,4,9,1,2,3,9,0,0,0,0,3,1
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,DeWayne Brown II,6,0,0,0,0,0,0,0,1,1,0,0,1,0,1,2
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,Jaylen Carey,16,10,4,5,0,0,2,5,2,1,1,0,0,1,1,2
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,Ethan Burg,6,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+2,401856562,2633,Tennessee Volunteers,0,-1,UNKNOWN,Amari Evans,14,2,1,3,0,1,0,0,4,1,2,1,0,2,2,1
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Thijs De Ridder,31,22,8,14,4,6,2,4,5,2,1,1,0,2,3,4
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Johann Grunloh,21,2,1,4,0,0,0,0,5,0,2,0,2,2,3,4
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Sam Lewis,22,5,2,9,1,5,0,0,2,0,0,1,1,1,1,2
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Dallin Hall,30,7,3,10,1,4,0,0,7,7,1,1,0,5,2,3
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Malik Thomas,15,12,4,10,3,7,1,2,1,1,0,0,0,0,1,0
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Devin Tillis,9,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Ugonna Onyenso,10,2,1,1,0,0,0,0,2,0,0,0,2,0,2,0
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Chance Mallory,25,10,4,7,1,3,1,3,6,0,2,2,0,1,5,4
+2,401856562,258,Virginia Cavaliers,1,2633,Tennessee Volunteers,Jacari White,28,10,3,12,2,9,2,2,2,1,0,0,0,0,2,1
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Cam Manyawu,21,6,3,5,0,0,0,1,4,0,1,1,0,4,0,4
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Cooper Koch,28,12,4,7,4,6,0,0,3,1,0,0,0,0,3,3
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Bennett Stirtz,40,13,5,16,0,9,3,4,5,5,0,1,0,0,5,0
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Tavion Banks,30,20,7,10,1,2,5,10,6,1,3,1,0,4,2,4
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Kael Combs,33,6,3,5,0,1,0,0,1,6,1,0,0,0,1,2
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Alvaro Folgueiras,18,14,3,5,2,4,6,6,5,1,3,1,0,0,5,4
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Trevin Jirak,3,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Tate Sage,13,2,1,2,0,1,0,0,0,0,0,0,0,0,0,1
+2,401856563,2294,Iowa Hawkeyes,0,-1,UNKNOWN,Isaia Howard,14,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Alex Condon,35,21,8,13,0,0,5,9,5,7,2,1,0,1,4,4
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Thomas Haugh,39,19,3,11,2,8,11,12,6,2,3,2,0,1,5,2
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Rueben Chinyelu,19,0,0,1,0,0,0,0,1,0,0,1,0,0,1,4
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Boogie Fland,36,7,3,6,0,3,1,2,2,4,3,1,1,1,1,2
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Xaivian Lee,29,17,7,11,3,6,0,0,3,3,2,1,0,1,2,2
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Micah Handlogten,10,0,0,1,0,0,0,0,2,0,0,1,0,1,1,2
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Urban Klavzar,19,5,1,2,1,2,2,2,1,2,0,0,0,0,1,0
+2,401856563,57,Florida Gators,1,2294,Iowa Hawkeyes,Isaiah Brown,13,3,1,1,0,0,1,2,2,0,1,0,0,0,2,2
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Adlan Elamin,25,6,1,4,0,2,4,4,2,1,1,0,3,0,2,1
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Zach Keller,9,2,1,4,0,1,0,0,0,0,0,0,0,0,0,2
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Mason Falslev,33,8,3,12,2,8,0,0,3,3,0,3,0,1,2,4
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Drake Allen,28,11,4,6,2,4,1,2,2,3,0,1,0,1,1,4
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,MJ Collins Jr.,37,12,4,14,2,7,2,2,3,3,0,0,0,1,2,4
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Karson Templin,24,5,2,9,1,6,0,0,4,1,1,0,2,0,4,3
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Garry Clark,18,13,6,8,0,1,1,1,6,0,0,1,0,3,3,4
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Elijah Perryman,12,4,2,4,0,1,0,0,1,1,1,2,0,0,1,3
+2,401856565,328,Utah State Aggies,0,-1,UNKNOWN,Kolby King,12,5,2,3,1,2,0,2,2,2,1,2,0,1,1,0
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Ivan Kharchenkov,36,9,3,11,1,4,2,2,5,2,2,0,0,2,3,0
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Koa Peat,32,14,4,7,0,0,6,9,10,1,1,0,1,3,7,4
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Motiejus Krivas,32,11,2,7,0,1,7,8,14,2,1,0,3,9,5,1
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Brayden Burries,26,16,5,7,3,3,3,5,9,2,3,0,1,0,9,3
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Jaden Bradley,38,18,6,16,1,4,5,7,1,0,1,0,0,0,1,2
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Dwayne Aristode,3,3,1,1,1,1,0,0,1,0,0,0,0,0,1,0
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Tobe Awaka,13,4,0,2,0,0,4,8,4,1,0,0,0,2,2,1
+2,401856565,12,Arizona Wildcats,1,328,Utah State Aggies,Anthony Dell'Orso,19,3,1,5,1,4,0,0,1,0,2,0,0,0,1,3
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Xavier Booker,33,13,4,7,2,3,3,6,5,1,0,0,1,0,5,1
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Donovan Dent,37,11,2,9,1,3,6,6,2,9,2,1,0,0,2,1
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Skyy Clark,34,11,5,8,1,3,0,0,3,0,3,2,0,1,2,3
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Trent Perry,32,5,2,8,0,2,1,2,3,2,2,1,0,0,3,3
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Eric Dailey Jr.,26,12,5,12,1,2,1,3,5,1,2,0,0,3,2,3
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Steven Jamerson II,7,2,1,1,0,0,0,0,1,0,1,0,0,1,0,1
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Jamar Brown,7,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Brandon Williams,10,3,0,1,0,0,3,4,2,0,1,0,0,1,1,1
+2,401856559,26,UCLA Bruins,0,-1,UNKNOWN,Eric Freeny,12,0,0,1,0,0,0,0,1,1,0,0,0,1,0,2
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Alex Karaban,36,27,9,16,4,8,5,5,5,1,2,0,1,3,2,2
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Tarris Reed Jr.,29,10,3,8,0,0,4,5,13,2,3,1,3,4,9,2
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Braylon Mullins,32,17,5,9,2,6,5,5,4,1,5,0,0,0,4,4
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Solo Ball,13,0,0,5,0,5,0,0,2,1,1,1,0,0,2,3
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Malachi Smith,33,2,1,2,0,0,0,0,2,6,2,1,0,1,1,2
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Jayden Ross,22,11,3,4,2,3,3,4,3,1,0,2,1,1,2,5
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Eric Reibe,11,4,2,3,0,0,0,0,1,0,2,0,0,1,0,1
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Uroš Paunovic,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+2,401856559,41,UConn Huskies,1,26,UCLA Bruins,Silas Demary Jr.,22,2,0,2,0,2,2,2,3,4,0,2,0,0,3,1
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,LeJuan Watts,25,16,5,14,1,4,5,6,7,1,5,1,1,1,6,3
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Luke Bamgboye,20,2,1,3,0,1,0,0,3,0,0,0,2,1,2,2
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Jaylen Petty,38,9,3,12,0,5,3,4,5,3,0,0,0,1,4,1
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Donovan Atwell,31,12,3,6,2,5,4,4,2,0,0,2,0,2,0,3
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Christian Anderson,37,7,2,11,1,7,2,2,1,3,2,4,0,0,1,2
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Marial Akuentok,2,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Josiah Moseley,15,6,3,5,0,1,0,0,3,0,2,0,1,1,2,2
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Nolan Groves,3,1,0,0,0,0,1,2,2,0,0,0,0,2,0,0
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Leon Horner,21,10,3,7,0,1,4,5,3,1,1,2,0,1,2,1
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Jazz Henderson,5,2,1,3,0,1,0,0,1,0,0,0,0,0,1,0
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Jack Francis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,401856560,2641,Texas Tech Red Raiders,0,-1,UNKNOWN,Tyeree Bryan,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,London Jemison,21,7,2,7,2,4,1,2,5,2,2,0,0,1,4,1
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Amari Allen,26,12,5,13,0,4,2,3,4,4,1,1,2,2,2,4
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Aiden Sherrell,17,10,4,4,1,1,1,1,2,1,1,2,1,1,1,4
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Labaron Philon Jr.,35,9,2,12,2,8,3,4,6,12,4,0,0,1,5,1
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Latrell Wrightsell,27,24,7,10,6,9,4,5,4,1,1,2,0,1,3,4
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Jacob Martin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Taylor Bol Bowen,25,5,2,5,1,4,0,0,5,2,0,2,2,2,3,1
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Noah Williamson,13,8,3,3,2,2,0,0,2,2,2,1,0,1,1,4
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Jalil Bethea,7,0,0,4,0,2,0,0,4,0,2,0,0,2,2,2
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Houston Mallette,25,15,5,8,5,7,0,0,8,1,0,0,0,5,3,0
+2,401856560,333,Alabama Crimson Tide,1,2641,Texas Tech Red Raiders,Preston Murphy Jr.,3,0,0,2,0,1,0,0,2,0,0,0,0,1,1,0
