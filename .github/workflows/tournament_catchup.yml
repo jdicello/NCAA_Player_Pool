@@ -1,0 +1,45 @@
+name: Tournament Catch-Up (Manual)
+
+# Run on-demand only — use this when games ran long and the scheduled
+# scraper stopped before all results were captured.
+on:
+  workflow_dispatch:
+
+jobs:
+  catchup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: uv pip install -r requirements.txt
+
+      - name: Write Google credentials
+        run: |
+          echo '${{ secrets.GOOGLE_CREDENTIALS_JSON }}' > modeling/NCAAPlayerPool-09b6773d89ec.json
+
+      - name: Configure git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run parser once
+        env:
+          SPREADSHEET_IDS: ${{ secrets.SPREADSHEET_IDS }}
+        run: python modeling/Parse_Tournament_Games.py --once
+
+      - name: Commit updated stats
+        run: |
+          git add output/raw_tournament_stats.csv output/tournament_stats.csv output/2026_live_projections.csv
+          git diff --cached --quiet || git commit -m "chore: catch-up tournament stats [skip ci]"
+          git push

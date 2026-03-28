@@ -1,0 +1,930 @@
+team_player,team_name,player,seed,weighted_ppg,actual_pts,live_exp_remaining,live_proj
+Duke Blue Devils - Cameron Boozer,Duke Blue Devils,Cameron Boozer,1,22.07,63.0,2.351,114.9
+Duke Blue Devils - Isaiah Evans,Duke Blue Devils,Isaiah Evans,1,15.64,58.0,2.351,94.8
+Michigan Wolverines - Yaxel Lendeborg,Michigan Wolverines,Yaxel Lendeborg,1,14.69,57.0,2.48,93.4
+Arizona Wildcats - Brayden Burries,Arizona Wildcats,Brayden Burries,1,16.39,57.0,2.091,91.3
+Arkansas Razorbacks - Darius Acuff Jr.,Arkansas Razorbacks,Darius Acuff Jr.,4,22.67,88.0,0.0,88.0
+Tennessee Volunteers - Ja'Kobi Gillespie,Tennessee Volunteers,Ja'Kobi Gillespie,6,18.05,66.0,1.198,87.6
+Purdue Boilermakers - Trey Kaufman-Renn,Purdue Boilermakers,Trey Kaufman-Renn,2,14.25,64.0,1.362,83.4
+Illinois Fighting Illini - Keaton Wagler,Illinois Fighting Illini,Keaton Wagler,3,17.5,45.0,2.108,81.9
+Illinois Fighting Illini - David Mirkovic,Illinois Fighting Illini,David Mirkovic,3,14.96,50.0,2.108,81.5
+UConn Huskies - Alex Karaban,UConn Huskies,Alex Karaban,2,11.75,66.0,1.196,80.1
+Arizona Wildcats - Koa Peat,Arizona Wildcats,Koa Peat,1,14.11,50.0,2.091,79.5
+UConn Huskies - Tarris Reed Jr.,UConn Huskies,Tarris Reed Jr.,2,13.54,61.0,1.196,77.2
+Purdue Boilermakers - Fletcher Loyer,Purdue Boilermakers,Fletcher Loyer,2,15.05,56.0,1.362,76.5
+Michigan Wolverines - Morez Johnson Jr.,Michigan Wolverines,Morez Johnson Jr.,1,13.25,43.0,2.48,75.9
+Michigan Wolverines - Aday Mara,Michigan Wolverines,Aday Mara,1,12.51,43.0,2.48,74.0
+Iowa Hawkeyes - Bennett Stirtz,Iowa Hawkeyes,Bennett Stirtz,9,20.12,49.0,1.214,73.4
+Alabama Crimson Tide - Labaron Philon Jr.,Alabama Crimson Tide,Labaron Philon Jr.,4,21.85,73.0,0.0,73.0
+Purdue Boilermakers - Braden Smith,Purdue Boilermakers,Braden Smith,2,12.9,54.0,1.362,71.6
+Illinois Fighting Illini - Andrej Stojakovic,Illinois Fighting Illini,Andrej Stojakovic,3,13.39,43.0,2.108,71.2
+Arizona Wildcats - Jaden Bradley,Arizona Wildcats,Jaden Bradley,1,12.61,39.0,2.091,65.4
+Nebraska Cornhuskers - Pryce Sandfort,Nebraska Cornhuskers,Pryce Sandfort,4,17.41,63.0,0.0,63.0
+Arizona Wildcats - Ivan Kharchenkov,Arizona Wildcats,Ivan Kharchenkov,1,11.13,38.0,2.091,61.3
+Michigan Wolverines - Trey McKenney,Michigan Wolverines,Trey McKenney,1,10.38,35.0,2.48,60.7
+Michigan Wolverines - Elliot Cadeau,Michigan Wolverines,Elliot Cadeau,1,9.91,34.0,2.48,58.6
+Arkansas Razorbacks - Meleek Thomas,Arkansas Razorbacks,Meleek Thomas,4,15.46,57.0,0.0,57.0
+Illinois Fighting Illini - Tomislav Ivisic,Illinois Fighting Illini,Tomislav Ivisic,3,10.34,35.0,2.108,56.8
+Illinois Fighting Illini - Kylan Boswell,Illinois Fighting Illini,Kylan Boswell,3,11.47,31.0,2.108,55.2
+Arizona Wildcats - Motiejus Krivas,Arizona Wildcats,Motiejus Krivas,1,10.07,34.0,2.091,55.1
+Tennessee Volunteers - Nate Ament,Tennessee Volunteers,Nate Ament,6,17.18,34.0,1.198,54.6
+Duke Blue Devils - Cayden Boozer,Duke Blue Devils,Cayden Boozer,1,8.17,35.0,2.351,54.2
+Texas Longhorns - Tramon Mark,Texas Longhorns,Tramon Mark,11,12.48,54.0,0.0,54.0
+High Point Panthers - Rob Martin,High Point Panthers,Rob Martin,12,16.94,53.0,0.0,53.0
+Vanderbilt Commodores - Tyler Tanner,Vanderbilt Commodores,Tyler Tanner,5,17.81,53.0,0.0,53.0
+Kentucky Wildcats - Otega Oweh,Kentucky Wildcats,Otega Oweh,7,16.93,53.0,0.0,53.0
+Iowa Hawkeyes - Alvaro Folgueiras,Iowa Hawkeyes,Alvaro Folgueiras,9,7.19,44.0,1.214,52.7
+Iowa State Cyclones - Nate Heise,Iowa State Cyclones,Nate Heise,2,4.01,52.0,0.0,52.0
+UConn Huskies - Braylon Mullins,UConn Huskies,Braylon Mullins,2,12.09,37.0,1.196,51.5
+Michigan State Spartans - Coen Carr,Michigan State Spartans,Coen Carr,3,11.91,51.0,0.0,51.0
+VCU Rams - Terrence Hill Jr.,VCU Rams,Terrence Hill Jr.,11,14.68,51.0,0.0,51.0
+Houston Cougars - Emanuel Sharp,Houston Cougars,Emanuel Sharp,2,14.84,51.0,0.0,51.0
+Alabama Crimson Tide - Latrell Wrightsell,Alabama Crimson Tide,Latrell Wrightsell,4,11.92,50.0,0.0,50.0
+Michigan Wolverines - Nimari Burnett,Michigan Wolverines,Nimari Burnett,1,8.81,28.0,2.48,49.8
+Texas Longhorns - Matas Vokietaitis,Texas Longhorns,Matas Vokietaitis,11,15.73,49.0,0.0,49.0
+Kansas Jayhawks - Darryn Peterson,Kansas Jayhawks,Darryn Peterson,4,19.64,49.0,0.0,49.0
+St. John's Red Storm - Zuby Ejiofor,St. John's Red Storm,Zuby Ejiofor,5,16.71,49.0,0.0,49.0
+Michigan Wolverines - Roddy Gayle Jr.,Michigan Wolverines,Roddy Gayle Jr.,1,6.41,33.0,2.48,48.9
+Arizona Wildcats - Tobe Awaka,Arizona Wildcats,Tobe Awaka,1,9.15,29.0,2.091,48.1
+Iowa State Cyclones - Tamin Lipsey,Iowa State Cyclones,Tamin Lipsey,2,12.95,47.0,0.0,47.0
+St. John's Red Storm - Bryce Hopkins,St. John's Red Storm,Bryce Hopkins,5,12.97,46.0,0.0,46.0
+Iowa State Cyclones - Killyan Toure,Iowa State Cyclones,Killyan Toure,2,7.36,44.0,0.0,44.0
+Gonzaga Bulldogs - Graham Ike,Gonzaga Bulldogs,Graham Ike,3,19.48,44.0,0.0,44.0
+Nebraska Cornhuskers - Braden Frager,Nebraska Cornhuskers,Braden Frager,4,11.98,44.0,0.0,44.0
+Purdue Boilermakers - Oscar Cluff,Purdue Boilermakers,Oscar Cluff,2,11.2,28.0,1.362,43.3
+Purdue Boilermakers - C.J. Cox,Purdue Boilermakers,C.J. Cox,2,8.14,32.0,1.362,43.1
+Iowa State Cyclones - Milan Momcilovic,Iowa State Cyclones,Milan Momcilovic,2,17.39,43.0,0.0,43.0
+Michigan State Spartans - Carson Cooper,Michigan State Spartans,Carson Cooper,3,10.87,43.0,0.0,43.0
+Tennessee Volunteers - J.P. Estrella,Tennessee Volunteers,J.P. Estrella,6,10.38,30.0,1.198,42.4
+Iowa Hawkeyes - Cooper Koch,Iowa Hawkeyes,Cooper Koch,9,8.72,31.0,1.214,41.6
+Tennessee Volunteers - Felix Okpara,Tennessee Volunteers,Felix Okpara,6,8.3,31.0,1.198,40.9
+Texas Longhorns - Jordan Pope,Texas Longhorns,Jordan Pope,11,14.08,40.0,0.0,40.0
+Miami Hurricanes - Malik Reneau,Miami Hurricanes,Malik Reneau,7,18.01,40.0,0.0,40.0
+Texas Longhorns - Dailyn Swain,Texas Longhorns,Dailyn Swain,11,16.74,40.0,0.0,40.0
+Iowa Hawkeyes - Tavion Banks,Iowa Hawkeyes,Tavion Banks,9,9.85,28.0,1.214,40.0
+Louisville Cardinals - Ryan Conwell,Louisville Cardinals,Ryan Conwell,6,18.79,39.0,0.0,39.0
+High Point Panthers - Cam'Ron Fletcher,High Point Panthers,Cam'Ron Fletcher,12,11.14,39.0,0.0,39.0
+Arizona Wildcats - Anthony Dell'Orso,Arizona Wildcats,Anthony Dell'Orso,1,9.39,19.0,2.091,38.6
+Arkansas Razorbacks - Billy Richmond III,Arkansas Razorbacks,Billy Richmond III,4,10.49,38.0,0.0,38.0
+Arkansas Razorbacks - Malique Ewin,Arkansas Razorbacks,Malique Ewin,4,9.07,38.0,0.0,38.0
+Houston Cougars - Kingston Flemings,Houston Cougars,Kingston Flemings,2,15.26,38.0,0.0,38.0
+Duke Blue Devils - Dame Sarr,Duke Blue Devils,Dame Sarr,1,6.68,21.0,2.351,36.7
+Virginia Cavaliers - Jacari White,Virginia Cavaliers,Jacari White,3,8.56,36.0,0.0,36.0
+TCU Horned Frogs - Micah Robinson,TCU Horned Frogs,Micah Robinson,9,10.61,36.0,0.0,36.0
+Kentucky Wildcats - Denzel Aberdeen,Kentucky Wildcats,Denzel Aberdeen,7,13.16,36.0,0.0,36.0
+UConn Huskies - Solo Ball,UConn Huskies,Solo Ball,2,12.36,21.0,1.196,35.8
+BYU Cougars - AJ Dybantsa,BYU Cougars,AJ Dybantsa,6,26.26,35.0,0.0,35.0
+Alabama Crimson Tide - Aiden Sherrell,Alabama Crimson Tide,Aiden Sherrell,4,10.81,35.0,0.0,35.0
+Duke Blue Devils - Maliq Brown,Duke Blue Devils,Maliq Brown,1,4.64,24.0,2.351,34.9
+Iowa Hawkeyes - Kael Combs,Iowa Hawkeyes,Kael Combs,9,5.91,27.0,1.214,34.2
+Michigan State Spartans - Jaxon Kohler,Michigan State Spartans,Jaxon Kohler,3,12.79,34.0,0.0,34.0
+Arkansas Razorbacks - Trevon Brazile,Arkansas Razorbacks,Trevon Brazile,4,13.38,34.0,0.0,34.0
+Florida Gators - Alex Condon,Florida Gators,Alex Condon,1,15.61,34.0,0.0,34.0
+Iowa Hawkeyes - Tate Sage,Iowa Hawkeyes,Tate Sage,9,4.8,28.0,1.214,33.8
+Florida Gators - Thomas Haugh,Florida Gators,Thomas Haugh,1,16.41,33.0,0.0,33.0
+Texas Tech Red Raiders - Jaylen Petty,Texas Tech Red Raiders,Jaylen Petty,5,9.97,33.0,0.0,33.0
+Miami Hurricanes - Shelton Henderson,Miami Hurricanes,Shelton Henderson,7,12.71,33.0,0.0,33.0
+Houston Cougars - Milos Uzan,Houston Cougars,Milos Uzan,2,11.05,33.0,0.0,33.0
+Nebraska Cornhuskers - Rienk Mast,Nebraska Cornhuskers,Rienk Mast,4,14.41,33.0,0.0,33.0
+Michigan State Spartans - Jeremy Fears Jr.,Michigan State Spartans,Jeremy Fears Jr.,3,16.12,32.0,0.0,32.0
+Louisville Cardinals - Isaac McKneely,Louisville Cardinals,Isaac McKneely,6,10.2,32.0,0.0,32.0
+Utah State Aggies - MJ Collins Jr.,Utah State Aggies,MJ Collins Jr.,9,17.8,32.0,0.0,32.0
+Virginia Cavaliers - Thijs De Ridder,Virginia Cavaliers,Thijs De Ridder,3,14.97,32.0,0.0,32.0
+UCLA Bruins - Eric Dailey Jr.,UCLA Bruins,Eric Dailey Jr.,7,11.81,32.0,0.0,32.0
+Illinois Fighting Illini - Ben Humrichous,Illinois Fighting Illini,Ben Humrichous,3,6.5,18.0,2.108,31.7
+Duke Blue Devils - Patrick Ngongba II,Duke Blue Devils,Patrick Ngongba II,1,10.43,7.0,2.351,31.5
+Saint Louis Billikens - Dion Brown,Saint Louis Billikens,Dion Brown,9,10.85,31.0,0.0,31.0
+Nebraska Cornhuskers - Jamarques Lawrence,Nebraska Cornhuskers,Jamarques Lawrence,4,8.98,31.0,0.0,31.0
+Tennessee Volunteers - Jaylen Carey,Tennessee Volunteers,Jaylen Carey,6,7.82,21.0,1.198,30.4
+Miami Hurricanes - Tre Donaldson,Miami Hurricanes,Tre Donaldson,7,16.5,30.0,0.0,30.0
+Houston Cougars - Chris Cenac Jr.,Houston Cougars,Chris Cenac Jr.,2,9.22,30.0,0.0,30.0
+Utah State Aggies - Mason Falslev,Utah State Aggies,Mason Falslev,9,15.87,30.0,0.0,30.0
+High Point Panthers - Terry Anderson,High Point Panthers,Terry Anderson,12,17.06,30.0,0.0,30.0
+Georgia Bulldogs - Jeremiah Wilkinson,Georgia Bulldogs,Jeremiah Wilkinson,8,16.88,30.0,0.0,30.0
+Texas Tech Red Raiders - LeJuan Watts,Texas Tech Red Raiders,LeJuan Watts,5,10.14,30.0,0.0,30.0
+Duke Blue Devils - Caleb Foster,Duke Blue Devils,Caleb Foster,1,7.82,11.0,2.351,29.4
+Texas A&M Aggies - Rashaun Agee,Texas A&M Aggies,Rashaun Agee,10,13.87,29.0,0.0,29.0
+Tennessee Volunteers - Bishop Boswell,Tennessee Volunteers,Bishop Boswell,6,5.56,22.0,1.198,28.7
+Iowa State Cyclones - Blake Buchanan,Iowa State Cyclones,Blake Buchanan,2,8.63,28.0,0.0,28.0
+St. John's Red Storm - Dillon Mitchell,St. John's Red Storm,Dillon Mitchell,5,7.63,28.0,0.0,28.0
+TCU Horned Frogs - Xavier Edmonds,TCU Horned Frogs,Xavier Edmonds,9,13.2,28.0,0.0,28.0
+Vanderbilt Commodores - Tyler Nickel,Vanderbilt Commodores,Tyler Nickel,5,13.15,28.0,0.0,28.0
+UCLA Bruins - Xavier Booker,UCLA Bruins,Xavier Booker,7,6.41,28.0,0.0,28.0
+Duke Blue Devils - Nikolas Khamenia,Duke Blue Devils,Nikolas Khamenia,1,6.18,13.0,2.351,27.5
+Texas Tech Red Raiders - Donovan Atwell,Texas Tech Red Raiders,Donovan Atwell,5,14.8,27.0,0.0,27.0
+Miami (OH) RedHawks - Peter Suder,Miami (OH) RedHawks,Peter Suder,11,14.55,27.0,0.0,27.0
+Florida Gators - Xaivian Lee,Florida Gators,Xaivian Lee,1,12.14,27.0,0.0,27.0
+Wisconsin Badgers - Nick Boyd,Wisconsin Badgers,Nick Boyd,5,21.68,27.0,0.0,27.0
+Alabama Crimson Tide - Amari Allen,Alabama Crimson Tide,Amari Allen,4,10.54,27.0,0.0,27.0
+South Florida Bulls - Joseph Pinion,South Florida Bulls,Joseph Pinion,11,13.7,27.0,0.0,27.0
+Saint Louis Billikens - Amari McCottry,Saint Louis Billikens,Amari McCottry,9,9.88,27.0,0.0,27.0
+Akron Zips - Amani Lyles,Akron Zips,Amani Lyles,12,13.97,26.0,0.0,26.0
+North Carolina Tar Heels - Henri Veesaar,North Carolina Tar Heels,Henri Veesaar,6,16.87,26.0,0.0,26.0
+St. John's Red Storm - Ruben Prey,St. John's Red Storm,Ruben Prey,5,3.63,25.0,0.0,25.0
+Villanova Wildcats - Bryce Lindsay,Villanova Wildcats,Bryce Lindsay,8,11.87,25.0,0.0,25.0
+Houston Cougars - Joseph Tugler,Houston Cougars,Joseph Tugler,2,9.52,25.0,0.0,25.0
+California Baptist Lancers - Dominique Daniels Jr.,California Baptist Lancers,Dominique Daniels Jr.,13,23.06,25.0,0.0,25.0
+Texas Tech Red Raiders - Christian Anderson,Texas Tech Red Raiders,Christian Anderson,5,18.18,25.0,0.0,25.0
+Illinois Fighting Illini - Zvonimir Ivisic,Illinois Fighting Illini,Zvonimir Ivisic,3,6.86,10.0,2.108,24.5
+Hofstra Pride - Preston Edmead,Hofstra Pride,Preston Edmead,13,16.25,24.0,0.0,24.0
+St. John's Red Storm - Ian Jackson,St. John's Red Storm,Ian Jackson,5,8.39,24.0,0.0,24.0
+Michigan State Spartans - Trey Fort,Michigan State Spartans,Trey Fort,3,4.76,23.0,0.0,23.0
+Alabama Crimson Tide - Taylor Bol Bowen,Alabama Crimson Tide,Taylor Bol Bowen,4,6.95,23.0,0.0,23.0
+Nebraska Cornhuskers - Berke Buyuktuncel,Nebraska Cornhuskers,Berke Buyuktuncel,4,6.81,23.0,0.0,23.0
+Virginia Cavaliers - Malik Thomas,Virginia Cavaliers,Malik Thomas,3,12.63,23.0,0.0,23.0
+High Point Panthers - Chase Johnston,High Point Panthers,Chase Johnston,12,5.25,23.0,0.0,23.0
+Florida Gators - Boogie Fland,Florida Gators,Boogie Fland,1,11.51,23.0,0.0,23.0
+Gonzaga Bulldogs - Davis Fogle,Gonzaga Bulldogs,Davis Fogle,3,8.91,23.0,0.0,23.0
+Illinois Fighting Illini - Jake Davis,Illinois Fighting Illini,Jake Davis,3,6.9,8.0,2.108,22.5
+Texas Tech Red Raiders - Josiah Moseley,Texas Tech Red Raiders,Josiah Moseley,5,4.98,22.0,0.0,22.0
+Utah State Aggies - Drake Allen,Utah State Aggies,Drake Allen,9,8.61,22.0,0.0,22.0
+Gonzaga Bulldogs - Jalen Warley,Gonzaga Bulldogs,Jalen Warley,3,6.44,22.0,0.0,22.0
+Vanderbilt Commodores - Duke Miles,Vanderbilt Commodores,Duke Miles,5,17.65,22.0,0.0,22.0
+Wisconsin Badgers - John Blackwell,Wisconsin Badgers,John Blackwell,5,20.87,22.0,0.0,22.0
+South Florida Bulls - Izaiyah Nelson,South Florida Bulls,Izaiyah Nelson,11,14.58,22.0,0.0,22.0
+UCF Knights - Jordan Burks,UCF Knights,Jordan Burks,10,13.08,22.0,0.0,22.0
+Houston Cougars - Mercy Miller,Houston Cougars,Mercy Miller,2,5.17,22.0,0.0,22.0
+Michigan Wolverines - L.J. Cason,Michigan Wolverines,L.J. Cason,1,8.52,0.0,2.48,21.1
+Furman Paladins - Tom House,Furman Paladins,Tom House,15,7.49,21.0,0.0,21.0
+Missouri Tigers - Jayden Stone,Missouri Tigers,Jayden Stone,10,12.24,21.0,0.0,21.0
+Howard Bison - Cam Gillus,Howard Bison,Cam Gillus,16,10.9,21.0,0.0,21.0
+Tennessee State Tigers - Aaron Nkrumah,Tennessee State Tigers,Aaron Nkrumah,15,17.32,21.0,0.0,21.0
+Kentucky Wildcats - Mouhamed Dioubate,Kentucky Wildcats,Mouhamed Dioubate,7,10.07,21.0,0.0,21.0
+UCLA Bruins - Donovan Dent,UCLA Bruins,Donovan Dent,7,13.56,21.0,0.0,21.0
+Hawai'i Rainbow Warriors - Dre Bullock,Hawai'i Rainbow Warriors,Dre Bullock,13,14.18,21.0,0.0,21.0
+Siena Saints - Gavin Doty,Siena Saints,Gavin Doty,16,18.31,21.0,0.0,21.0
+Saint Louis Billikens - Robbie Avila,Saint Louis Billikens,Robbie Avila,9,13.12,21.0,0.0,21.0
+Louisville Cardinals - Adrian Wooley,Louisville Cardinals,Adrian Wooley,6,8.48,21.0,0.0,21.0
+Furman Paladins - Alex Wilkins,Furman Paladins,Alex Wilkins,15,18.05,21.0,0.0,21.0
+Howard Bison - Bryce Harris,Howard Bison,Bryce Harris,16,16.61,21.0,0.0,21.0
+Saint Louis Billikens - Brady Dunlap,Saint Louis Billikens,Brady Dunlap,9,5.9,20.0,0.0,20.0
+Tennessee State Tigers - Antoine Lorick III,Tennessee State Tigers,Antoine Lorick III,15,9.63,20.0,0.0,20.0
+Pennsylvania Quakers - Michael Zanoni,Pennsylvania Quakers,Michael Zanoni,14,11.09,20.0,0.0,20.0
+Alabama Crimson Tide - London Jemison,Alabama Crimson Tide,London Jemison,4,6.37,20.0,0.0,20.0
+UCLA Bruins - Trent Perry,UCLA Bruins,Trent Perry,7,13.6,20.0,0.0,20.0
+Utah State Aggies - Garry Clark,Utah State Aggies,Garry Clark,9,6.55,20.0,0.0,20.0
+Saint Louis Billikens - Ishan Sharma,Saint Louis Billikens,Ishan Sharma,9,9.04,20.0,0.0,20.0
+Miami Hurricanes - Tru Washington,Miami Hurricanes,Tru Washington,7,12.28,20.0,0.0,20.0
+TCU Horned Frogs - David Punch,TCU Horned Frogs,David Punch,9,14.94,20.0,0.0,20.0
+Akron Zips - Shammah Scott,Akron Zips,Shammah Scott,12,12.95,20.0,0.0,20.0
+Santa Clara Broncos - Elijah Mahi,Santa Clara Broncos,Elijah Mahi,10,13.44,20.0,0.0,20.0
+UConn Huskies - Jayden Ross,UConn Huskies,Jayden Ross,2,4.83,14.0,1.196,19.8
+Wright State Raiders - Michael Imariagbe,Wright State Raiders,Michael Imariagbe,14,11.31,19.0,0.0,19.0
+Utah State Aggies - Adlan Elamin,Utah State Aggies,Adlan Elamin,9,6.1,19.0,0.0,19.0
+Howard Bison - Cedric Taylor III,Howard Bison,Cedric Taylor III,16,17.27,19.0,0.0,19.0
+UCLA Bruins - Skyy Clark,UCLA Bruins,Skyy Clark,7,10.99,19.0,0.0,19.0
+Kansas Jayhawks - Melvin Council Jr.,Kansas Jayhawks,Melvin Council Jr.,4,12.02,19.0,0.0,19.0
+Missouri Tigers - Mark Mitchell,Missouri Tigers,Mark Mitchell,10,18.51,19.0,0.0,19.0
+St. John's Red Storm - Oziyah Sellers,St. John's Red Storm,Oziyah Sellers,5,10.44,19.0,0.0,19.0
+Purdue Boilermakers - Omer Mayer,Purdue Boilermakers,Omer Mayer,2,5.33,11.0,1.362,18.3
+Nebraska Cornhuskers - Sam Hoiberg,Nebraska Cornhuskers,Sam Hoiberg,4,8.82,18.0,0.0,18.0
+Wright State Raiders - Solomon Callaghan,Wright State Raiders,Solomon Callaghan,14,8.91,18.0,0.0,18.0
+Siena Saints - Francis Folefac,Siena Saints,Francis Folefac,16,10.92,18.0,0.0,18.0
+Saint Mary's Gaels - Joshua Dent,Saint Mary's Gaels,Joshua Dent,7,12.03,18.0,0.0,18.0
+Alabama Crimson Tide - Houston Mallette,Alabama Crimson Tide,Houston Mallette,4,6.96,18.0,0.0,18.0
+Kansas Jayhawks - Flory Bidunga,Kansas Jayhawks,Flory Bidunga,4,12.72,18.0,0.0,18.0
+Michigan State Spartans - Cam Ward,Michigan State Spartans,Cam Ward,3,5.37,17.0,0.0,17.0
+Texas Longhorns - Nic Codie,Texas Longhorns,Nic Codie,11,4.41,17.0,0.0,17.0
+Michigan Wolverines - Will Tschetter,Michigan Wolverines,Will Tschetter,1,3.62,8.0,2.48,17.0
+VCU Rams - Lazar Djokovic,VCU Rams,Lazar Djokovic,11,13.11,17.0,0.0,17.0
+Santa Clara Broncos - Allen Graves,Santa Clara Broncos,Allen Graves,10,12.84,17.0,0.0,17.0
+Houston Cougars - Chase McCarty,Houston Cougars,Chase McCarty,2,4.55,17.0,0.0,17.0
+UConn Huskies - Silas Demary Jr.,UConn Huskies,Silas Demary Jr.,2,10.89,4.0,1.196,17.0
+Miami Hurricanes - Dante Allen,Miami Hurricanes,Dante Allen,7,6.25,17.0,0.0,17.0
+Texas Longhorns - Chendall Weaver,Texas Longhorns,Chendall Weaver,11,5.91,17.0,0.0,17.0
+Virginia Cavaliers - Sam Lewis,Virginia Cavaliers,Sam Lewis,3,11.37,17.0,0.0,17.0
+McNeese Cowboys - Garwey Dual,McNeese Cowboys,Garwey Dual,12,7.59,16.0,0.0,16.0
+Saint Louis Billikens - Quentin Jones,Saint Louis Billikens,Quentin Jones,9,8.13,16.0,0.0,16.0
+Kansas Jayhawks - Tre White,Kansas Jayhawks,Tre White,4,13.28,16.0,0.0,16.0
+TCU Horned Frogs - Brock Harding,TCU Horned Frogs,Brock Harding,9,7.81,16.0,0.0,16.0
+Gonzaga Bulldogs - Mario Saint-Supery,Gonzaga Bulldogs,Mario Saint-Supery,3,8.67,16.0,0.0,16.0
+Gonzaga Bulldogs - Emmanuel Innocenti,Gonzaga Bulldogs,Emmanuel Innocenti,3,6.49,16.0,0.0,16.0
+St. John's Red Storm - Dylan Darling,St. John's Red Storm,Dylan Darling,5,6.93,16.0,0.0,16.0
+Texas A&M Aggies - Rubén Dominguez,Texas A&M Aggies,Rubén Dominguez,10,10.87,16.0,0.0,16.0
+Prairie View A&M Panthers - Tai'Reon Joseph,Prairie View A&M Panthers,Tai'Reon Joseph,16,15.32,16.0,0.0,16.0
+Santa Clara Broncos - Sash Gavalyugov,Santa Clara Broncos,Sash Gavalyugov,10,9.39,16.0,0.0,16.0
+North Dakota State Bison - Damari Wheeler-Thomas,North Dakota State Bison,Damari Wheeler-Thomas,14,16.01,16.0,0.0,16.0
+VCU Rams - Nyk Lewis,VCU Rams,Nyk Lewis,11,8.99,16.0,0.0,16.0
+Gonzaga Bulldogs - Tyon Grant-Foster,Gonzaga Bulldogs,Tyon Grant-Foster,3,11.4,16.0,0.0,16.0
+Arkansas Razorbacks - D.J. Wagner,Arkansas Razorbacks,D.J. Wagner,4,8.24,16.0,0.0,16.0
+Vanderbilt Commodores - AK Okereke,Vanderbilt Commodores,AK Okereke,5,8.99,16.0,0.0,16.0
+Florida Gators - Urban Klavzar,Florida Gators,Urban Klavzar,1,9.02,16.0,0.0,16.0
+Tennessee Volunteers - Amari Evans,Tennessee Volunteers,Amari Evans,6,4.07,11.0,1.198,15.9
+Iowa Hawkeyes - Cam Manyawu,Iowa Hawkeyes,Cam Manyawu,9,7.21,7.0,1.214,15.8
+Saint Mary's Gaels - Liam Campbell,Saint Mary's Gaels,Liam Campbell,7,4.13,15.0,0.0,15.0
+Texas A&M Aggies - Ali Dibba,Texas A&M Aggies,Ali Dibba,10,5.23,15.0,0.0,15.0
+Clemson Tigers - RJ Godfrey,Clemson Tigers,RJ Godfrey,8,12.15,15.0,0.0,15.0
+Vanderbilt Commodores - Devin McGlockton,Vanderbilt Commodores,Devin McGlockton,5,9.29,15.0,0.0,15.0
+Kennesaw State Owls - Amir Taylor,Kennesaw State Owls,Amir Taylor,14,8.74,15.0,0.0,15.0
+McNeese Cowboys - Larry Johnson,McNeese Cowboys,Larry Johnson,12,18.38,15.0,0.0,15.0
+Kennesaw State Owls - RJ Johnson,Kennesaw State Owls,RJ Johnson,14,13.72,15.0,0.0,15.0
+Wright State Raiders - TJ Burch,Wright State Raiders,TJ Burch,14,12.49,15.0,0.0,15.0
+California Baptist Lancers - Martel Williams,California Baptist Lancers,Martel Williams,13,12.94,15.0,0.0,15.0
+Saint Louis Billikens - Kellen Thames,Saint Louis Billikens,Kellen Thames,9,9.33,15.0,0.0,15.0
+Virginia Cavaliers - Dallin Hall,Virginia Cavaliers,Dallin Hall,3,5.67,15.0,0.0,15.0
+Ohio State Buckeyes - John Mobley Jr.,Ohio State Buckeyes,John Mobley Jr.,8,16.14,15.0,0.0,15.0
+Hawai'i Rainbow Warriors - Isaac Johnson,Hawai'i Rainbow Warriors,Isaac Johnson,13,14.95,15.0,0.0,15.0
+North Carolina Tar Heels - Seth Trimble,North Carolina Tar Heels,Seth Trimble,6,13.81,15.0,0.0,15.0
+Villanova Wildcats - Tyler Perkins,Villanova Wildcats,Tyler Perkins,8,13.68,15.0,0.0,15.0
+Long Island University Sharks - Mason Porter-Brown,Long Island University Sharks,Mason Porter-Brown,16,8.05,15.0,0.0,15.0
+Michigan State Spartans - Jordan Scott,Michigan State Spartans,Jordan Scott,3,5.94,15.0,0.0,15.0
+Villanova Wildcats - Duke Brennan,Villanova Wildcats,Duke Brennan,8,12.58,15.0,0.0,15.0
+Tennessee Volunteers - DeWayne Brown II,Tennessee Volunteers,DeWayne Brown II,6,4.75,9.0,1.198,14.7
+Northern Iowa Panthers - Trey Campbell,Northern Iowa Panthers,Trey Campbell,12,13.69,14.0,0.0,14.0
+Troy Trojans - Victor Valdes,Troy Trojans,Victor Valdes,13,14.94,14.0,0.0,14.0
+Pennsylvania Quakers - Cam Thrower,Pennsylvania Quakers,Cam Thrower,14,5.77,14.0,0.0,14.0
+Ohio State Buckeyes - Devin Royal,Ohio State Buckeyes,Devin Royal,8,13.43,14.0,0.0,14.0
+Louisville Cardinals - Vangelis Zougris,Louisville Cardinals,Vangelis Zougris,6,2.49,14.0,0.0,14.0
+Idaho Vandals - Kolton Mitchell,Idaho Vandals,Kolton Mitchell,15,13.91,14.0,0.0,14.0
+BYU Cougars - Robert Wright III,BYU Cougars,Robert Wright III,6,18.69,14.0,0.0,14.0
+Saint Louis Billikens - Paul Otieno,Saint Louis Billikens,Paul Otieno,9,4.24,14.0,0.0,14.0
+Kennesaw State Owls - Kaden Rickard,Kennesaw State Owls,Kaden Rickard,14,5.85,14.0,0.0,14.0
+Hofstra Pride - Cruz Davis,Hofstra Pride,Cruz Davis,13,19.96,14.0,0.0,14.0
+Florida Gators - Rueben Chinyelu,Florida Gators,Rueben Chinyelu,1,10.81,14.0,0.0,14.0
+Santa Clara Broncos - Jake Ensminger,Santa Clara Broncos,Jake Ensminger,10,5.97,14.0,0.0,14.0
+Arizona Wildcats - Dwayne Aristode,Arizona Wildcats,Dwayne Aristode,1,3.14,7.0,2.091,13.6
+High Point Panthers - Owen Aquino,High Point Panthers,Owen Aquino,12,9.84,13.0,0.0,13.0
+McNeese Cowboys - Tyshawn Archie,McNeese Cowboys,Tyshawn Archie,12,14.23,13.0,0.0,13.0
+Iowa State Cyclones - Jamarion Batemon,Iowa State Cyclones,Jamarion Batemon,2,6.97,13.0,0.0,13.0
+Kennesaw State Owls - Frankquon Sherman,Kennesaw State Owls,Frankquon Sherman,14,10.84,13.0,0.0,13.0
+VCU Rams - Barry Evans,VCU Rams,Barry Evans,11,6.78,13.0,0.0,13.0
+Georgia Bulldogs - Marcus Millender,Georgia Bulldogs,Marcus Millender,8,11.29,13.0,0.0,13.0
+Wright State Raiders - Michael Cooper,Wright State Raiders,Michael Cooper,14,14.95,13.0,0.0,13.0
+Tennessee State Tigers - Travis Harper II,Tennessee State Tigers,Travis Harper II,15,16.11,13.0,0.0,13.0
+UCF Knights - Riley Kugel,UCF Knights,Riley Kugel,10,14.2,13.0,0.0,13.0
+Tennessee Volunteers - Ethan Burg,Tennessee Volunteers,Ethan Burg,6,3.06,9.0,1.198,12.7
+UConn Huskies - Malachi Smith,UConn Huskies,Malachi Smith,2,2.83,9.0,1.196,12.4
+Purdue Boilermakers - Gicarri Harris,Purdue Boilermakers,Gicarri Harris,2,3.87,7.0,1.362,12.3
+Louisville Cardinals - J'Vonne Hadley,Louisville Cardinals,J'Vonne Hadley,6,12.84,12.0,0.0,12.0
+Texas Tech Red Raiders - Leon Horner,Texas Tech Red Raiders,Leon Horner,5,2.0,12.0,0.0,12.0
+Northern Iowa Panthers - Leon Bond III,Northern Iowa Panthers,Leon Bond III,12,11.92,12.0,0.0,12.0
+South Florida Bulls - Gavin Hightower,South Florida Bulls,Gavin Hightower,11,4.1,12.0,0.0,12.0
+VCU Rams - Brandon Jennings,VCU Rams,Brandon Jennings,11,8.33,12.0,0.0,12.0
+Siena Saints - Brendan Coyle,Siena Saints,Brendan Coyle,16,9.2,12.0,0.0,12.0
+Kansas Jayhawks - Paul Mbiya,Kansas Jayhawks,Paul Mbiya,4,0.79,12.0,0.0,12.0
+Hawai'i Rainbow Warriors - Isaac Finlinson,Hawai'i Rainbow Warriors,Isaac Finlinson,13,9.14,12.0,0.0,12.0
+Wisconsin Badgers - Austin Rapp,Wisconsin Badgers,Austin Rapp,5,10.36,12.0,0.0,12.0
+Virginia Cavaliers - Chance Mallory,Virginia Cavaliers,Chance Mallory,3,8.5,12.0,0.0,12.0
+Hofstra Pride - German Plotnikov,Hofstra Pride,German Plotnikov,13,9.73,12.0,0.0,12.0
+Louisville Cardinals - Sananda Fru,Louisville Cardinals,Sananda Fru,6,8.0,12.0,0.0,12.0
+Prairie View A&M Panthers - Dontae Horne,Prairie View A&M Panthers,Dontae Horne,16,21.82,12.0,0.0,12.0
+Texas A&M Aggies - Josh Holloway,Texas A&M Aggies,Josh Holloway,10,5.91,12.0,0.0,12.0
+Long Island University Sharks - Greg Gordon,Long Island University Sharks,Greg Gordon,16,14.52,12.0,0.0,12.0
+Ohio State Buckeyes - Amare Bynum,Ohio State Buckeyes,Amare Bynum,8,9.96,12.0,0.0,12.0
+UConn Huskies - Eric Reibe,UConn Huskies,Eric Reibe,2,6.33,4.0,1.196,11.6
+North Carolina Tar Heels - Jarin Stevenson,North Carolina Tar Heels,Jarin Stevenson,6,8.8,11.0,0.0,11.0
+Texas A&M Aggies - Pop Isaacs,Texas A&M Aggies,Pop Isaacs,10,10.21,11.0,0.0,11.0
+Hofstra Pride - Biggie Patterson,Hofstra Pride,Biggie Patterson,13,8.8,11.0,0.0,11.0
+Clemson Tigers - Butta Johnson,Clemson Tigers,Butta Johnson,8,7.37,11.0,0.0,11.0
+Missouri Tigers - Anthony Robinson II,Missouri Tigers,Anthony Robinson II,10,9.19,11.0,0.0,11.0
+North Carolina Tar Heels - Derek Dixon,North Carolina Tar Heels,Derek Dixon,6,7.39,11.0,0.0,11.0
+Kentucky Wildcats - Collin Chandler,Kentucky Wildcats,Collin Chandler,7,9.69,11.0,0.0,11.0
+Alabama Crimson Tide - Noah Williamson,Alabama Crimson Tide,Noah Williamson,4,1.2,11.0,0.0,11.0
+VCU Rams - Tyrell Ward,VCU Rams,Tyrell Ward,11,5.28,11.0,0.0,11.0
+Iowa State Cyclones - Dominykas Pleta,Iowa State Cyclones,Dominykas Pleta,2,4.73,11.0,0.0,11.0
+Long Island University Sharks - Jamal Fuller,Long Island University Sharks,Jamal Fuller,16,16.73,11.0,0.0,11.0
+Texas Longhorns - Camden Heide,Texas Longhorns,Camden Heide,11,6.31,11.0,0.0,11.0
+North Dakota State Bison - Trevian Carson,North Dakota State Bison,Trevian Carson,14,12.07,11.0,0.0,11.0
+Tennessee State Tigers - Dante Harris,Tennessee State Tigers,Dante Harris,15,12.01,11.0,0.0,11.0
+Louisville Cardinals - Aly Khalifa,Louisville Cardinals,Aly Khalifa,6,3.1,11.0,0.0,11.0
+Kentucky Wildcats - Brandon Garrison,Kentucky Wildcats,Brandon Garrison,7,5.12,11.0,0.0,11.0
+Villanova Wildcats - Malachi Palmer,Villanova Wildcats,Malachi Palmer,8,4.41,11.0,0.0,11.0
+Hawai'i Rainbow Warriors - Isaiah Kerr,Hawai'i Rainbow Warriors,Isaiah Kerr,13,6.48,11.0,0.0,11.0
+Purdue Boilermakers - Daniel Jacobsen,Purdue Boilermakers,Daniel Jacobsen,2,4.69,4.0,1.362,10.4
+Virginia Cavaliers - Johann Grunloh,Virginia Cavaliers,Johann Grunloh,3,6.28,10.0,0.0,10.0
+UCF Knights - Jamichael Stillwell,UCF Knights,Jamichael Stillwell,10,11.18,10.0,0.0,10.0
+Michigan State Spartans - Kur Teng,Michigan State Spartans,Kur Teng,3,8.63,10.0,0.0,10.0
+Saint Louis Billikens - Trey Green,Saint Louis Billikens,Trey Green,9,11.05,10.0,0.0,10.0
+Florida Gators - Micah Handlogten,Florida Gators,Micah Handlogten,1,4.44,10.0,0.0,10.0
+Vanderbilt Commodores - Jalen Washington,Vanderbilt Commodores,Jalen Washington,5,10.23,10.0,0.0,10.0
+Northern Iowa Panthers - Will Hornseth,Northern Iowa Panthers,Will Hornseth,12,12.39,10.0,0.0,10.0
+McNeese Cowboys - Javohn Garcia,McNeese Cowboys,Javohn Garcia,12,11.35,10.0,0.0,10.0
+Texas A&M Aggies - Rylan Griffen,Texas A&M Aggies,Rylan Griffen,10,11.74,10.0,0.0,10.0
+Queens University Royals - Nasir Mann,Queens University Royals,Nasir Mann,15,14.99,10.0,0.0,10.0
+UCF Knights - Themus Fulks,UCF Knights,Themus Fulks,10,14.45,10.0,0.0,10.0
+Furman Paladins - Charles Johnston,Furman Paladins,Charles Johnston,15,8.97,10.0,0.0,10.0
+North Dakota State Bison - Treyson Anderson,North Dakota State Bison,Treyson Anderson,14,9.82,10.0,0.0,10.0
+Queens University Royals - Jordan Watford,Queens University Royals,Jordan Watford,15,11.28,10.0,0.0,10.0
+Utah State Aggies - Kolby King,Utah State Aggies,Kolby King,9,7.39,10.0,0.0,10.0
+Iowa State Cyclones - Dominick Nelson,Iowa State Cyclones,Dominick Nelson,2,3.15,10.0,0.0,10.0
+Ohio State Buckeyes - Bruce Thornton,Ohio State Buckeyes,Bruce Thornton,8,19.44,10.0,0.0,10.0
+Florida Gators - Isaiah Brown,Florida Gators,Isaiah Brown,1,5.0,10.0,0.0,10.0
+Purdue Boilermakers - Jack Benter,Purdue Boilermakers,Jack Benter,2,5.06,3.0,1.362,9.9
+Iowa Hawkeyes - Isaia Howard,Iowa Hawkeyes,Isaia Howard,9,5.39,3.0,1.214,9.5
+Northern Iowa Panthers - Tristan Smith,Northern Iowa Panthers,Tristan Smith,12,8.72,9.0,0.0,9.0
+Texas A&M Aggies - Zach Clemence,Texas A&M Aggies,Zach Clemence,10,6.77,9.0,0.0,9.0
+High Point Panthers - Braden Hausen,High Point Panthers,Braden Hausen,12,5.99,9.0,0.0,9.0
+Troy Trojans - Cobi Campbell,Troy Trojans,Cobi Campbell,13,8.46,9.0,0.0,9.0
+McNeese Cowboys - DJ Richards Jr.,McNeese Cowboys,DJ Richards Jr.,12,7.73,9.0,0.0,9.0
+Texas A&M Aggies - Jamie Vinson,Texas A&M Aggies,Jamie Vinson,10,4.36,9.0,0.0,9.0
+BYU Cougars - Kennard Davis Jr.,BYU Cougars,Kennard Davis Jr.,6,9.13,9.0,0.0,9.0
+Santa Clara Broncos - Christian Hammond,Santa Clara Broncos,Christian Hammond,10,15.44,9.0,0.0,9.0
+Utah State Aggies - Karson Templin,Utah State Aggies,Karson Templin,9,8.74,9.0,0.0,9.0
+Queens University Royals - Maban Jabriel,Queens University Royals,Maban Jabriel,15,8.01,9.0,0.0,9.0
+Miami (OH) RedHawks - Brant Byers,Miami (OH) RedHawks,Brant Byers,11,13.7,9.0,0.0,9.0
+Hawai'i Rainbow Warriors - Harry Rouhliadeff,Hawai'i Rainbow Warriors,Harry Rouhliadeff,13,11.08,9.0,0.0,9.0
+Troy Trojans - Theo Seng,Troy Trojans,Theo Seng,13,13.04,9.0,0.0,9.0
+Prairie View A&M Panthers - Cory Wells,Prairie View A&M Panthers,Cory Wells,16,13.3,9.0,0.0,9.0
+Clemson Tigers - Jestin Porter,Clemson Tigers,Jestin Porter,8,9.63,9.0,0.0,9.0
+Furman Paladins - Cooper Bowser,Furman Paladins,Cooper Bowser,15,14.17,9.0,0.0,9.0
+St. John's Red Storm - Joson Sanon,St. John's Red Storm,Joson Sanon,5,8.78,9.0,0.0,9.0
+Duke Blue Devils - Darren Harris,Duke Blue Devils,Darren Harris,1,3.53,0.0,2.351,8.3
+UConn Huskies - Jaylin Stewart,UConn Huskies,Jaylin Stewart,2,3.61,4.0,1.196,8.3
+Prairie View A&M Panthers - Lance Williams,Prairie View A&M Panthers,Lance Williams,16,10.81,8.0,0.0,8.0
+Queens University Royals - Carson Schwieger,Queens University Royals,Carson Schwieger,15,9.97,8.0,0.0,8.0
+Akron Zips - Evan Mahaffey,Akron Zips,Evan Mahaffey,12,9.85,8.0,0.0,8.0
+Clemson Tigers - Nick Davidson,Clemson Tigers,Nick Davidson,8,8.88,8.0,0.0,8.0
+Siena Saints - Justice Shoats,Siena Saints,Justice Shoats,16,12.36,8.0,0.0,8.0
+Saint Mary's Gaels - Dillan Shaw,Saint Mary's Gaels,Dillan Shaw,7,6.76,8.0,0.0,8.0
+North Carolina Tar Heels - Luka Bogavac,North Carolina Tar Heels,Luka Bogavac,6,9.73,8.0,0.0,8.0
+Idaho Vandals - Trevon Blassingame,Idaho Vandals,Trevon Blassingame,15,4.14,8.0,0.0,8.0
+Wisconsin Badgers - Nolan Winter,Wisconsin Badgers,Nolan Winter,5,12.26,8.0,0.0,8.0
+Clemson Tigers - Dillon Hunter,Clemson Tigers,Dillon Hunter,8,7.39,8.0,0.0,8.0
+Florida Gators - CJ Ingram,Florida Gators,CJ Ingram,1,2.01,8.0,0.0,8.0
+Ohio State Buckeyes - Christoph Tilly,Ohio State Buckeyes,Christoph Tilly,8,10.56,8.0,0.0,8.0
+Kentucky Wildcats - Kam Williams,Kentucky Wildcats,Kam Williams,7,5.57,8.0,0.0,8.0
+Akron Zips - Eric Mahaffey,Akron Zips,Eric Mahaffey,12,7.74,8.0,0.0,8.0
+Queens University Royals - Chris Ashby,Queens University Royals,Chris Ashby,15,11.96,8.0,0.0,8.0
+Kansas Jayhawks - Elmarko Jackson,Kansas Jayhawks,Elmarko Jackson,4,6.08,8.0,0.0,8.0
+TCU Horned Frogs - Jayden Pierre,TCU Horned Frogs,Jayden Pierre,9,10.59,8.0,0.0,8.0
+BYU Cougars - Aleksej Kostic,BYU Cougars,Aleksej Kostic,6,7.52,8.0,0.0,8.0
+Idaho Vandals - Biko Johnson,Idaho Vandals,Biko Johnson,15,11.83,8.0,0.0,8.0
+VCU Rams - Michael Belle,VCU Rams,Michael Belle,11,7.67,8.0,0.0,8.0
+Illinois Fighting Illini - Brandon Lee,Illinois Fighting Illini,Brandon Lee,3,1.65,4.0,2.108,7.5
+Michigan Wolverines - Winters Grady,Michigan Wolverines,Winters Grady,1,2.93,0.0,2.48,7.3
+Missouri Tigers - Trent Pierce,Missouri Tigers,Trent Pierce,10,10.82,7.0,0.0,7.0
+Pennsylvania Quakers - Lucas Lueth,Pennsylvania Quakers,Lucas Lueth,14,3.13,7.0,0.0,7.0
+VCU Rams - Jadrian Tracey,VCU Rams,Jadrian Tracey,11,10.15,7.0,0.0,7.0
+Nebraska Cornhuskers - Cale Jacobsen,Nebraska Cornhuskers,Cale Jacobsen,4,5.28,7.0,0.0,7.0
+Long Island University Sharks - Caleb Johnson,Long Island University Sharks,Caleb Johnson,16,2.03,7.0,0.0,7.0
+Kentucky Wildcats - Malachi Moreno,Kentucky Wildcats,Malachi Moreno,7,7.98,7.0,0.0,7.0
+Howard Bison - Travelle Bryson,Howard Bison,Travelle Bryson,16,8.28,7.0,0.0,7.0
+North Dakota State Bison - Noah Feddersen,North Dakota State Bison,Noah Feddersen,14,8.68,7.0,0.0,7.0
+Howard Bison - Ose Okojie,Howard Bison,Ose Okojie,16,10.8,7.0,0.0,7.0
+Georgia Bulldogs - Jordan Ross,Georgia Bulldogs,Jordan Ross,8,6.97,7.0,0.0,7.0
+Villanova Wildcats - Acaden Lewis,Villanova Wildcats,Acaden Lewis,8,11.71,7.0,0.0,7.0
+Purdue Boilermakers - Liam Murphy,Purdue Boilermakers,Liam Murphy,2,2.56,3.0,1.362,6.5
+Michigan Wolverines - Oscar Goodman,Michigan Wolverines,Oscar Goodman,1,1.39,3.0,2.48,6.4
+Arizona Wildcats - Sidi Gueye,Arizona Wildcats,Sidi Gueye,1,1.09,4.0,2.091,6.3
+California Baptist Lancers - Jonathan Griman,California Baptist Lancers,Jonathan Griman,13,6.6,6.0,0.0,6.0
+UCF Knights - Devan Cambridge,UCF Knights,Devan Cambridge,10,4.72,6.0,0.0,6.0
+North Dakota State Bison - Tay Smith,North Dakota State Bison,Tay Smith,14,6.6,6.0,0.0,6.0
+Georgia Bulldogs - Blue Cain,Georgia Bulldogs,Blue Cain,8,13.6,6.0,0.0,6.0
+Pennsylvania Quakers - TJ Power,Pennsylvania Quakers,TJ Power,14,18.51,6.0,0.0,6.0
+North Dakota State Bison - Andy Stefonowicz,North Dakota State Bison,Andy Stefonowicz,14,9.4,6.0,0.0,6.0
+Santa Clara Broncos - Bukky Oboye,Santa Clara Broncos,Bukky Oboye,10,7.23,6.0,0.0,6.0
+Wisconsin Badgers - Andrew Rohde,Wisconsin Badgers,Andrew Rohde,5,5.05,6.0,0.0,6.0
+Queens University Royals - Avantae Parker,Queens University Royals,Avantae Parker,15,10.71,6.0,0.0,6.0
+Kansas Jayhawks - Bryson Tiller,Kansas Jayhawks,Bryson Tiller,4,7.44,6.0,0.0,6.0
+Louisville Cardinals - Kobe Rodgers,Louisville Cardinals,Kobe Rodgers,6,2.64,6.0,0.0,6.0
+Utah State Aggies - Zach Keller,Utah State Aggies,Zach Keller,9,3.54,6.0,0.0,6.0
+Arkansas Razorbacks - Nick Pringle,Arkansas Razorbacks,Nick Pringle,4,4.33,6.0,0.0,6.0
+Missouri Tigers - Shawn Phillips Jr.,Missouri Tigers,Shawn Phillips Jr.,10,8.16,6.0,0.0,6.0
+North Dakota State Bison - Markhi Strickland,North Dakota State Bison,Markhi Strickland,14,10.57,6.0,0.0,6.0
+Queens University Royals - Gus Larson,Queens University Royals,Gus Larson,15,3.38,6.0,0.0,6.0
+South Florida Bulls - Josh Omojafo,South Florida Bulls,Josh Omojafo,11,10.05,6.0,0.0,6.0
+Miami Hurricanes - Ernest Udeh Jr.,Miami Hurricanes,Ernest Udeh Jr.,7,6.52,6.0,0.0,6.0
+Siena Saints - Riley Mulvey,Siena Saints,Riley Mulvey,16,4.37,6.0,0.0,6.0
+Troy Trojans - Cooper Campbell,Troy Trojans,Cooper Campbell,13,14.32,6.0,0.0,6.0
+Furman Paladins - Cole Bowser,Furman Paladins,Cole Bowser,15,4.79,6.0,0.0,6.0
+Vanderbilt Commodores - Chandler Bing,Vanderbilt Commodores,Chandler Bing,5,3.41,6.0,0.0,6.0
+Northern Iowa Panthers - Max Weisbrod,Northern Iowa Panthers,Max Weisbrod,12,6.48,6.0,0.0,6.0
+Michigan Wolverines - Malick Kordel,Michigan Wolverines,Malick Kordel,1,1.41,2.0,2.48,5.5
+Illinois Fighting Illini - AJ Redd,Illinois Fighting Illini,AJ Redd,3,1.54,2.0,2.108,5.2
+Tennessee Volunteers - Amaree Abram,Tennessee Volunteers,Amaree Abram,6,4.22,0.0,1.198,5.1
+Pennsylvania Quakers - Niklas Polonowski,Pennsylvania Quakers,Niklas Polonowski,14,1.21,5.0,0.0,5.0
+Clemson Tigers - Ace Buckner,Clemson Tigers,Ace Buckner,8,8.87,5.0,0.0,5.0
+Florida Gators - Alex Kovatchev,Florida Gators,Alex Kovatchev,1,0.25,5.0,0.0,5.0
+North Dakota State Bison - Emil Skytta,North Dakota State Bison,Emil Skytta,14,3.26,5.0,0.0,5.0
+Saint Mary's Gaels - Mikey Lewis,Saint Mary's Gaels,Mikey Lewis,7,16.26,5.0,0.0,5.0
+Wisconsin Badgers - Braeden Carrington,Wisconsin Badgers,Braeden Carrington,5,8.31,5.0,0.0,5.0
+Queens University Royals - Isaiah Henry,Queens University Royals,Isaiah Henry,15,3.67,5.0,0.0,5.0
+BYU Cougars - Keba Keita,BYU Cougars,Keba Keita,6,6.08,5.0,0.0,5.0
+TCU Horned Frogs - Tanner Toolson,TCU Horned Frogs,Tanner Toolson,9,8.17,5.0,0.0,5.0
+TCU Horned Frogs - Liutauras Lelevicius,TCU Horned Frogs,Liutauras Lelevicius,9,8.97,5.0,0.0,5.0
+Idaho Vandals - Jackson Rasmussen,Idaho Vandals,Jackson Rasmussen,15,12.71,5.0,0.0,5.0
+Kansas Jayhawks - Kohl Rosario,Kansas Jayhawks,Kohl Rosario,4,3.1,5.0,0.0,5.0
+Georgia Bulldogs - Kareem Stagg,Georgia Bulldogs,Kareem Stagg,8,5.73,5.0,0.0,5.0
+Georgia Bulldogs - Jake Wilkins,Georgia Bulldogs,Jake Wilkins,8,5.91,5.0,0.0,5.0
+St. John's Red Storm - Lefteris Liotopoulos,St. John's Red Storm,Lefteris Liotopoulos,5,2.66,5.0,0.0,5.0
+Georgia Bulldogs - Dylan James,Georgia Bulldogs,Dylan James,8,4.74,5.0,0.0,5.0
+Queens University Royals - Yoav Berman,Queens University Royals,Yoav Berman,15,11.03,5.0,0.0,5.0
+Louisville Cardinals - Khani Rooths,Louisville Cardinals,Khani Rooths,6,4.82,5.0,0.0,5.0
+Kennesaw State Owls - Braedan Lue,Kennesaw State Owls,Braedan Lue,14,10.76,5.0,0.0,5.0
+UCF Knights - George Beale Jr.,UCF Knights,George Beale Jr.,10,3.69,5.0,0.0,5.0
+Hawai'i Rainbow Warriors - Hunter Erickson,Hawai'i Rainbow Warriors,Hunter Erickson,13,8.09,5.0,0.0,5.0
+Hawai'i Rainbow Warriors - Gytis Nemeiksa,Hawai'i Rainbow Warriors,Gytis Nemeiksa,13,8.4,5.0,0.0,5.0
+Wright State Raiders - Dominic Pangonis,Wright State Raiders,Dominic Pangonis,14,8.44,5.0,0.0,5.0
+Pennsylvania Quakers - AJ Levine,Pennsylvania Quakers,AJ Levine,14,9.42,5.0,0.0,5.0
+McNeese Cowboys - Jacolb Fredson-Cole,McNeese Cowboys,Jacolb Fredson-Cole,12,5.22,5.0,0.0,5.0
+Tennessee Volunteers - Cade Phillips,Tennessee Volunteers,Cade Phillips,6,3.81,0.0,1.198,4.6
+Illinois Fighting Illini - Mihailo Petrovic,Illinois Fighting Illini,Mihailo Petrovic,3,2.12,0.0,2.108,4.5
+Miami (OH) RedHawks - Luke Skaljac,Miami (OH) RedHawks,Luke Skaljac,11,9.4,4.0,0.0,4.0
+Prairie View A&M Panthers - Hassane Diallo,Prairie View A&M Panthers,Hassane Diallo,16,2.42,4.0,0.0,4.0
+Utah State Aggies - Elijah Perryman,Utah State Aggies,Elijah Perryman,9,3.7,4.0,0.0,4.0
+Iowa Hawkeyes - Brendan Hausen,Iowa Hawkeyes,Brendan Hausen,9,3.26,0.0,1.214,4.0
+Idaho Vandals - Isaiah Brickner,Idaho Vandals,Isaiah Brickner,15,11.81,4.0,0.0,4.0
+Miami (OH) RedHawks - Trey Perry,Miami (OH) RedHawks,Trey Perry,11,5.28,4.0,0.0,4.0
+Long Island University Sharks - Shadrak Lasu,Long Island University Sharks,Shadrak Lasu,16,5.51,4.0,0.0,4.0
+Queens University Royals - Kam Clark,Queens University Royals,Kam Clark,15,1.67,4.0,0.0,4.0
+Prairie View A&M Panthers - Corey Dunning,Prairie View A&M Panthers,Corey Dunning,16,1.59,4.0,0.0,4.0
+North Carolina Tar Heels - Zayden High,North Carolina Tar Heels,Zayden High,6,4.41,4.0,0.0,4.0
+Michigan State Spartans - Denham Wojcik,Michigan State Spartans,Denham Wojcik,3,0.23,4.0,0.0,4.0
+Virginia Cavaliers - Ugonna Onyenso,Virginia Cavaliers,Ugonna Onyenso,3,7.04,4.0,0.0,4.0
+Troy Trojans - Thomas Dowd,Troy Trojans,Thomas Dowd,13,15.25,4.0,0.0,4.0
+Akron Zips - Tavari Johnson,Akron Zips,Tavari Johnson,12,20.57,4.0,0.0,4.0
+South Florida Bulls - Wes Enis,South Florida Bulls,Wes Enis,11,17.9,4.0,0.0,4.0
+Georgia Bulldogs - Justin Bailey,Georgia Bulldogs,Justin Bailey,8,5.08,4.0,0.0,4.0
+South Florida Bulls - CJ Brown,South Florida Bulls,CJ Brown,11,9.96,4.0,0.0,4.0
+California Baptist Lancers - Miles Daniels,California Baptist Lancers,Miles Daniels,13,2.55,4.0,0.0,4.0
+UCLA Bruins - Steven Jamerson II,UCLA Bruins,Steven Jamerson II,7,1.55,4.0,0.0,4.0
+TCU Horned Frogs - Jace Posey,TCU Horned Frogs,Jace Posey,9,3.23,4.0,0.0,4.0
+Pennsylvania Quakers - Dalton Scantlebury,Pennsylvania Quakers,Dalton Scantlebury,14,4.66,4.0,0.0,4.0
+California Baptist Lancers - Bradey Henige,California Baptist Lancers,Bradey Henige,13,4.86,4.0,0.0,4.0
+Texas A&M Aggies - Marcus Hill,Texas A&M Aggies,Marcus Hill,10,11.4,4.0,0.0,4.0
+Hofstra Pride - Victory Onuetu,Hofstra Pride,Victory Onuetu,13,4.78,4.0,0.0,4.0
+Miami (OH) RedHawks - Eian Elmer,Miami (OH) RedHawks,Eian Elmer,11,11.93,4.0,0.0,4.0
+Akron Zips - Sharron Young,Akron Zips,Sharron Young,12,7.03,4.0,0.0,4.0
+Saint Mary's Gaels - Paulius Murauskas,Saint Mary's Gaels,Paulius Murauskas,7,19.45,4.0,0.0,4.0
+Long Island University Sharks - Jomo Goings,Long Island University Sharks,Jomo Goings,16,9.87,4.0,0.0,4.0
+Gonzaga Bulldogs - Adam Miller,Gonzaga Bulldogs,Adam Miller,3,7.49,4.0,0.0,4.0
+Furman Paladins - Ben Vander Wal,Furman Paladins,Ben Vander Wal,15,6.26,4.0,0.0,4.0
+Houston Cougars - Kalifa Sakho,Houston Cougars,Kalifa Sakho,2,2.89,4.0,0.0,4.0
+Texas Tech Red Raiders - Luke Bamgboye,Texas Tech Red Raiders,Luke Bamgboye,5,4.68,4.0,0.0,4.0
+South Florida Bulls - Isaiah Jones,South Florida Bulls,Isaiah Jones,11,4.69,4.0,0.0,4.0
+Iowa Hawkeyes - Trevin Jirak,Iowa Hawkeyes,Trevin Jirak,9,3.23,0.0,1.214,3.9
+North Carolina Tar Heels - Jonathan Powell,North Carolina Tar Heels,Jonathan Powell,6,4.77,3.0,0.0,3.0
+Idaho Vandals - Brody Rowbury,Idaho Vandals,Brody Rowbury,15,8.34,3.0,0.0,3.0
+Clemson Tigers - Dallas Thomas,Clemson Tigers,Dallas Thomas,8,2.16,3.0,0.0,3.0
+Texas A&M Aggies - Jacari Lane,Texas A&M Aggies,Jacari Lane,10,5.78,3.0,0.0,3.0
+Miami Hurricanes - Noam Dovrat,Miami Hurricanes,Noam Dovrat,7,4.33,3.0,0.0,3.0
+Ohio State Buckeyes - Gabe Cupps,Ohio State Buckeyes,Gabe Cupps,8,1.91,3.0,0.0,3.0
+Pennsylvania Quakers - Johnnie Walter,Pennsylvania Quakers,Johnnie Walter,14,0.55,3.0,0.0,3.0
+UCLA Bruins - Jamar Brown,UCLA Bruins,Jamar Brown,7,2.51,3.0,0.0,3.0
+Villanova Wildcats - Devin Askew,Villanova Wildcats,Devin Askew,8,10.9,3.0,0.0,3.0
+Troy Trojans - Kerrington Kiel,Troy Trojans,Kerrington Kiel,13,3.66,3.0,0.0,3.0
+Howard Bison - Alex Cotton,Howard Bison,Alex Cotton,16,8.55,3.0,0.0,3.0
+Long Island University Sharks - Eddie Munyak,Long Island University Sharks,Eddie Munyak,16,0.0,3.0,0.0,3.0
+UCLA Bruins - Brandon Williams,UCLA Bruins,Brandon Williams,7,2.98,3.0,0.0,3.0
+UCF Knights - Carmelo Pacheco,UCF Knights,Carmelo Pacheco,10,4.0,3.0,0.0,3.0
+Tennessee State Tigers - Jalen Pitre,Tennessee State Tigers,Jalen Pitre,15,5.73,3.0,0.0,3.0
+Hofstra Pride - Joshua Aaron Reaves,Hofstra Pride,Joshua Aaron Reaves,13,1.81,3.0,0.0,3.0
+Miami (OH) RedHawks - Antwone Woolfolk,Miami (OH) RedHawks,Antwone Woolfolk,11,10.29,3.0,0.0,3.0
+Miami (OH) RedHawks - Almar Atlason,Miami (OH) RedHawks,Almar Atlason,11,9.96,3.0,0.0,3.0
+Kentucky Wildcats - Jasper Johnson,Kentucky Wildcats,Jasper Johnson,7,5.95,3.0,0.0,3.0
+Virginia Cavaliers - Devin Tillis,Virginia Cavaliers,Devin Tillis,3,3.44,3.0,0.0,3.0
+Idaho Vandals - Jack Payne,Idaho Vandals,Jack Payne,15,7.12,3.0,0.0,3.0
+Tennessee State Tigers - Damon Howard Jr.,Tennessee State Tigers,Damon Howard Jr.,15,1.49,3.0,0.0,3.0
+Michigan State Spartans - Jesse McCulloch,Michigan State Spartans,Jesse McCulloch,3,2.55,3.0,0.0,3.0
+Illinois Fighting Illini - Jason Jakstys,Illinois Fighting Illini,Jason Jakstys,3,1.32,0.0,2.108,2.8
+Michigan Wolverines - Charlie May,Michigan Wolverines,Charlie May,1,1.05,0.0,2.48,2.6
+Arizona Wildcats - Addison Arnold,Arizona Wildcats,Addison Arnold,1,0.23,2.0,2.091,2.5
+UConn Huskies - Alec Millender,UConn Huskies,Alec Millender,2,0.38,2.0,1.196,2.5
+Tennessee Volunteers - Troy Henderson,Tennessee Volunteers,Troy Henderson,6,1.96,0.0,1.198,2.3
+Pennsylvania Quakers - Alex Massung,Pennsylvania Quakers,Alex Massung,14,1.16,2.0,0.0,2.0
+Howard Bison - BJ Powell,Howard Bison,BJ Powell,16,1.22,2.0,0.0,2.0
+Texas Tech Red Raiders - Jazz Henderson,Texas Tech Red Raiders,Jazz Henderson,5,0.86,2.0,0.0,2.0
+Tennessee State Tigers - Jabrion Spikes,Tennessee State Tigers,Jabrion Spikes,15,2.39,2.0,0.0,2.0
+Iowa State Cyclones - Eric Mulder,Iowa State Cyclones,Eric Mulder,2,0.8,2.0,0.0,2.0
+Idaho Vandals - Miles Klapper,Idaho Vandals,Miles Klapper,15,2.73,2.0,0.0,2.0
+Prairie View A&M Panthers - Elijah Mitchell,Prairie View A&M Panthers,Elijah Mitchell,16,3.2,2.0,0.0,2.0
+Texas A&M Aggies - Chris McDermott,Texas A&M Aggies,Chris McDermott,10,0.84,2.0,0.0,2.0
+TCU Horned Frogs - Vianney Salatchoum,TCU Horned Frogs,Vianney Salatchoum,9,1.05,2.0,0.0,2.0
+Florida Gators - Olivier Rioux,Florida Gators,Olivier Rioux,1,0.5,2.0,0.0,2.0
+California Baptist Lancers - Jayden Jackson,California Baptist Lancers,Jayden Jackson,13,9.63,2.0,0.0,2.0
+Santa Clara Broncos - Brenton Knapper,Santa Clara Broncos,Brenton Knapper,10,7.34,2.0,0.0,2.0
+Missouri Tigers - Trent Burns,Missouri Tigers,Trent Burns,10,2.21,2.0,0.0,2.0
+Troy Trojans - Austin Cross,Troy Trojans,Austin Cross,13,3.29,2.0,0.0,2.0
+Florida Gators - Viktor Mikic,Florida Gators,Viktor Mikic,1,1.28,2.0,0.0,2.0
+High Point Panthers - Conrad Martinez,High Point Panthers,Conrad Martinez,12,7.78,2.0,0.0,2.0
+UCF Knights - John Bol,UCF Knights,John Bol,10,6.37,2.0,0.0,2.0
+Texas Longhorns - Simeon Wilcher,Texas Longhorns,Simeon Wilcher,11,7.16,2.0,0.0,2.0
+Nebraska Cornhuskers - Leo Curtis,Nebraska Cornhuskers,Leo Curtis,4,1.73,2.0,0.0,2.0
+Pennsylvania Quakers - Jay Jones,Pennsylvania Quakers,Jay Jones,14,4.36,2.0,0.0,2.0
+Clemson Tigers - Chase Thompson,Clemson Tigers,Chase Thompson,8,2.78,2.0,0.0,2.0
+Pennsylvania Quakers - Augustus Gerhart,Pennsylvania Quakers,Augustus Gerhart,14,4.52,2.0,0.0,2.0
+Long Island University Sharks - Malachi Davis,Long Island University Sharks,Malachi Davis,16,14.25,2.0,0.0,2.0
+High Point Panthers - Vincent Brady II,High Point Panthers,Vincent Brady II,12,4.61,2.0,0.0,2.0
+Florida Gators - Alex Lloyd,Florida Gators,Alex Lloyd,1,1.41,2.0,0.0,2.0
+Georgia Bulldogs - Justin Abson,Georgia Bulldogs,Justin Abson,8,3.26,2.0,0.0,2.0
+Arkansas Razorbacks - Isaiah Sealy,Arkansas Razorbacks,Isaiah Sealy,4,3.8,2.0,0.0,2.0
+Miami (OH) RedHawks - Justin Kirby,Miami (OH) RedHawks,Justin Kirby,11,6.19,2.0,0.0,2.0
+VCU Rams - Jordan Tillery,VCU Rams,Jordan Tillery,11,4.0,2.0,0.0,2.0
+Kentucky Wildcats - Andrija Jelavic,Kentucky Wildcats,Andrija Jelavic,7,5.54,2.0,0.0,2.0
+Wright State Raiders - Kellen Pickett,Wright State Raiders,Kellen Pickett,14,9.29,2.0,0.0,2.0
+Kennesaw State Owls - Trey Simpson,Kennesaw State Owls,Trey Simpson,14,8.06,2.0,0.0,2.0
+Northern Iowa Panthers - Ben Schwieger,Northern Iowa Panthers,Ben Schwieger,12,10.28,2.0,0.0,2.0
+California Baptist Lancers - Thomas Ndong,California Baptist Lancers,Thomas Ndong,13,5.46,2.0,0.0,2.0
+California Baptist Lancers - Devon Malcolm,California Baptist Lancers,Devon Malcolm,13,6.49,2.0,0.0,2.0
+Iowa State Cyclones - Joshua Jefferson,Iowa State Cyclones,Joshua Jefferson,2,16.88,2.0,0.0,2.0
+Wisconsin Badgers - Aleksas Bieliauskas,Wisconsin Badgers,Aleksas Bieliauskas,5,5.15,2.0,0.0,2.0
+Hofstra Pride - Joshua DeCady,Hofstra Pride,Joshua DeCady,13,6.17,2.0,0.0,2.0
+Duke Blue Devils - Ifeanyi Ufochukwu,Duke Blue Devils,Ifeanyi Ufochukwu,1,0.72,0.0,2.351,1.7
+Iowa Hawkeyes - Joey Matteoni,Iowa Hawkeyes,Joey Matteoni,9,1.37,0.0,1.214,1.7
+Arizona Wildcats - Evan Nelson,Arizona Wildcats,Evan Nelson,1,0.75,0.0,2.091,1.6
+Purdue Boilermakers - Aaron Fine,Purdue Boilermakers,Aaron Fine,2,1.2,0.0,1.362,1.6
+UConn Huskies - Dwayne Koroma,UConn Huskies,Dwayne Koroma,2,1.26,0.0,1.196,1.5
+Michigan Wolverines - Howard Eisley Jr.,Michigan Wolverines,Howard Eisley Jr.,1,0.52,0.0,2.48,1.3
+Arizona Wildcats - Sven Djopmo,Arizona Wildcats,Sven Djopmo,1,0.55,0.0,2.091,1.2
+Duke Blue Devils - Cameron Sheffield,Duke Blue Devils,Cameron Sheffield,1,0.51,0.0,2.351,1.2
+Duke Blue Devils - Jack Scott,Duke Blue Devils,Jack Scott,1,0.47,0.0,2.351,1.1
+Arizona Wildcats - Jackson Francois,Arizona Wildcats,Jackson Francois,1,0.53,0.0,2.091,1.1
+Wright State Raiders - Andrea Holden,Wright State Raiders,Andrea Holden,14,5.85,1.0,0.0,1.0
+Texas Tech Red Raiders - Nolan Groves,Texas Tech Red Raiders,Nolan Groves,5,0.77,1.0,0.0,1.0
+Houston Cougars - Ramon Walker Jr.,Houston Cougars,Ramon Walker Jr.,2,2.27,1.0,0.0,1.0
+Tennessee State Tigers - JC Brooks,Tennessee State Tigers,JC Brooks,15,1.26,1.0,0.0,1.0
+Illinois Fighting Illini - Blake Fagbemi,Illinois Fighting Illini,Blake Fagbemi,3,0.29,0.0,2.108,0.6
+Tennessee Volunteers - Clarence Massamba,Tennessee Volunteers,Clarence Massamba,6,0.38,0.0,1.198,0.5
+UConn Huskies - Jacob Furphy,UConn Huskies,Jacob Furphy,2,0.33,0.0,1.196,0.4
+Iowa Hawkeyes - Jacob Koch,Iowa Hawkeyes,Jacob Koch,9,0.35,0.0,1.214,0.4
+UConn Huskies - Uroš Paunovic,UConn Huskies,Uroš Paunovic,2,0.14,0.0,1.196,0.2
+NC State Wolfpack - Paul McNeil Jr.,NC State Wolfpack,Paul McNeil Jr.,11,14.52,0.0,0.0,0.0
+Santa Clara Broncos - Francis Chukwudebelu,Santa Clara Broncos,Francis Chukwudebelu,10,1.01,0.0,0.0,0.0
+Nebraska Cornhuskers - Kendall Blue,Nebraska Cornhuskers,Kendall Blue,4,0.56,0.0,0.0,0.0
+Lehigh Mountain Hawks - Alfredo Addesa,Lehigh Mountain Hawks,Alfredo Addesa,16,1.5,0.0,0.0,0.0
+Arkansas Razorbacks - Elmir Džafić,Arkansas Razorbacks,Elmir Džafić,4,0.55,0.0,0.0,0.0
+Michigan State Spartans - Nick Sanders,Michigan State Spartans,Nick Sanders,3,0.5,0.0,0.0,0.0
+SMU Mustangs - B.J. Davis-Ray,SMU Mustangs,B.J. Davis-Ray,11,1.09,0.0,0.0,0.0
+Pennsylvania Quakers - Michelangelo Oberti,Pennsylvania Quakers,Michelangelo Oberti,14,1.42,0.0,0.0,0.0
+High Point Panthers - Caden Miller,High Point Panthers,Caden Miller,12,1.61,0.0,0.0,0.0
+Georgia Bulldogs - Brandon Klatsky,Georgia Bulldogs,Brandon Klatsky,8,1.15,0.0,0.0,0.0
+Louisville Cardinals - Spencer Legg,Louisville Cardinals,Spencer Legg,6,0.83,0.0,0.0,0.0
+Vanderbilt Commodores - Jayden Leverett,Vanderbilt Commodores,Jayden Leverett,5,0.74,0.0,0.0,0.0
+Miami (OH) RedHawks - Tyler Robbins,Miami (OH) RedHawks,Tyler Robbins,11,1.82,0.0,0.0,0.0
+UCF Knights - Kris Parker,UCF Knights,Kris Parker,10,1.31,0.0,0.0,0.0
+Howard Bison - Ed Holland III,Howard Bison,Ed Holland III,16,1.81,0.0,0.0,0.0
+Ohio State Buckeyes - Mathieu Grujicic,Ohio State Buckeyes,Mathieu Grujicic,8,1.01,0.0,0.0,0.0
+Furman Paladins - Owen Ritger,Furman Paladins,Owen Ritger,15,1.01,0.0,0.0,0.0
+Howard Bison - Julian Johnson,Howard Bison,Julian Johnson,16,1.06,0.0,0.0,0.0
+Virginia Cavaliers - Martin Carrere,Virginia Cavaliers,Martin Carrere,3,0.69,0.0,0.0,0.0
+High Point Panthers - Babacar Diallo,High Point Panthers,Babacar Diallo,12,1.12,0.0,0.0,0.0
+North Dakota State Bison - Riley Massey,North Dakota State Bison,Riley Massey,14,1.21,0.0,0.0,0.0
+Lehigh Mountain Hawks - Jake Pike,Lehigh Mountain Hawks,Jake Pike,16,1.33,0.0,0.0,0.0
+North Dakota State Bison - Riley Saunders,North Dakota State Bison,Riley Saunders,14,1.2,0.0,0.0,0.0
+Siena Saints - Tajae Jones,Siena Saints,Tajae Jones,16,1.29,0.0,0.0,0.0
+SMU Mustangs - Mitchell Holmes,SMU Mustangs,Mitchell Holmes,11,0.97,0.0,0.0,0.0
+VCU Rams - Jordann Dumont,VCU Rams,Jordann Dumont,11,0.89,0.0,0.0,0.0
+Long Island University Sharks - A.J. Neal Jr.,Long Island University Sharks,A.J. Neal Jr.,16,1.69,0.0,0.0,0.0
+Texas A&M Aggies - Noah Shelby,Texas A&M Aggies,Noah Shelby,10,1.13,0.0,0.0,0.0
+Clemson Tigers - Trent Steinour,Clemson Tigers,Trent Steinour,8,1.09,0.0,0.0,0.0
+Texas A&M Aggies - Jeremiah Green,Texas A&M Aggies,Jeremiah Green,10,0.94,0.0,0.0,0.0
+Troy Trojans - Evan Griffin,Troy Trojans,Evan Griffin,13,1.26,0.0,0.0,0.0
+Arkansas Razorbacks - Jaden Karuletwa,Arkansas Razorbacks,Jaden Karuletwa,4,0.59,0.0,0.0,0.0
+UMBC Retrievers - Tim Eze,UMBC Retrievers,Tim Eze,16,1.6,0.0,0.0,0.0
+NC State Wolfpack - Scottie Ebube,NC State Wolfpack,Scottie Ebube,11,1.06,0.0,0.0,0.0
+Ohio State Buckeyes - Colin White,Ohio State Buckeyes,Colin White,8,1.01,0.0,0.0,0.0
+Howard Bison - Calvin Robins Jr.,Howard Bison,Calvin Robins Jr.,16,1.39,0.0,0.0,0.0
+Hawai'i Rainbow Warriors - AJ Economou,Hawai'i Rainbow Warriors,AJ Economou,13,1.25,0.0,0.0,0.0
+Georgia Bulldogs - Kanon Catchings,Georgia Bulldogs,Kanon Catchings,8,11.36,0.0,0.0,0.0
+SMU Mustangs - Jaron Pierre Jr.,SMU Mustangs,Jaron Pierre Jr.,11,17.64,0.0,0.0,0.0
+Nebraska Cornhuskers - Ugnius Jarusevicius,Nebraska Cornhuskers,Ugnius Jarusevicius,4,7.0,0.0,0.0,0.0
+Houston Cougars - Cedric Lath,Houston Cougars,Cedric Lath,2,0.46,0.0,0.0,0.0
+Saint Mary's Gaels - Cade Bennett,Saint Mary's Gaels,Cade Bennett,7,1.2,0.0,0.0,0.0
+McNeese Cowboys - Yanis Ndjonga,McNeese Cowboys,Yanis Ndjonga,12,1.82,0.0,0.0,0.0
+Wisconsin Badgers - Will Garlock,Wisconsin Badgers,Will Garlock,5,0.94,0.0,0.0,0.0
+North Carolina Tar Heels - James Brown,North Carolina Tar Heels,James Brown,6,1.22,0.0,0.0,0.0
+Saint Louis Billikens - Cam Hutson,Saint Louis Billikens,Cam Hutson,9,1.47,0.0,0.0,0.0
+Miami Hurricanes - Salih Altuntas,Miami Hurricanes,Salih Altuntas,7,1.16,0.0,0.0,0.0
+Utah State Aggies - Luke Kearney,Utah State Aggies,Luke Kearney,9,1.6,0.0,0.0,0.0
+Akron Zips - Zach Halligan,Akron Zips,Zach Halligan,12,2.04,0.0,0.0,0.0
+North Carolina Tar Heels - Evan Smith,North Carolina Tar Heels,Evan Smith,6,1.44,0.0,0.0,0.0
+California Baptist Lancers - Nate Garcia,California Baptist Lancers,Nate Garcia,13,2.25,0.0,0.0,0.0
+Iowa State Cyclones - Cade Kelderman,Iowa State Cyclones,Cade Kelderman,2,0.72,0.0,0.0,0.0
+Long Island University Sharks - Tre'shawn Sheppard,Long Island University Sharks,Tre'shawn Sheppard,16,1.74,0.0,0.0,0.0
+Kansas Jayhawks - Nginyu Ngala,Kansas Jayhawks,Nginyu Ngala,4,1.02,0.0,0.0,0.0
+Miami Hurricanes - John Laboy II,Miami Hurricanes,John Laboy II,7,1.35,0.0,0.0,0.0
+Howard Bison - Isaiah Brown,Howard Bison,Isaiah Brown,16,2.53,0.0,0.0,0.0
+Hawai'i Rainbow Warriors - Jalen Myers,Hawai'i Rainbow Warriors,Jalen Myers,13,2.29,0.0,0.0,0.0
+Wisconsin Badgers - Zach Kinziger,Wisconsin Badgers,Zach Kinziger,5,1.04,0.0,0.0,0.0
+Alabama Crimson Tide - Collins Onyejiaka,Alabama Crimson Tide,Collins Onyejiaka,4,0.97,0.0,0.0,0.0
+Hofstra Pride - A.J. Wills,Hofstra Pride,A.J. Wills,13,2.07,0.0,0.0,0.0
+NC State Wolfpack - Musa Sagnia,NC State Wolfpack,Musa Sagnia,11,1.88,0.0,0.0,0.0
+Santa Clara Broncos - Brendan Yarusso,Santa Clara Broncos,Brendan Yarusso,10,1.91,0.0,0.0,0.0
+California Baptist Lancers - Rene D'Amelio,California Baptist Lancers,Rene D'Amelio,13,2.53,0.0,0.0,0.0
+North Dakota State Bison - Carson Smith,North Dakota State Bison,Carson Smith,14,2.66,0.0,0.0,0.0
+Gonzaga Bulldogs - Ismaila Diagne,Gonzaga Bulldogs,Ismaila Diagne,3,0.83,0.0,0.0,0.0
+Arkansas Razorbacks - Ayden Kelley,Arkansas Razorbacks,Ayden Kelley,4,0.66,0.0,0.0,0.0
+TCU Horned Frogs - Ashton Simmons,TCU Horned Frogs,Ashton Simmons,9,1.23,0.0,0.0,0.0
+St. John's Red Storm - Handje Tamba,St. John's Red Storm,Handje Tamba,5,0.72,0.0,0.0,0.0
+Miami (OH) RedHawks - Ethan Wright,Miami (OH) RedHawks,Ethan Wright,11,1.03,0.0,0.0,0.0
+Wisconsin Badgers - Jack Robison,Wisconsin Badgers,Jack Robison,5,0.92,0.0,0.0,0.0
+Wright State Raiders - Sam Alamutu,Wright State Raiders,Sam Alamutu,14,2.0,0.0,0.0,0.0
+Pennsylvania Quakers - Dylan Williams,Pennsylvania Quakers,Dylan Williams,14,2.05,0.0,0.0,0.0
+Villanova Wildcats - Zion Stanford,Villanova Wildcats,Zion Stanford,8,1.34,0.0,0.0,0.0
+Prairie View A&M Panthers - Jannoy Thomas,Prairie View A&M Panthers,Jannoy Thomas,16,2.1,0.0,0.0,0.0
+Akron Zips - Marvin Musiime-Kamali,Akron Zips,Marvin Musiime-Kamali,12,1.62,0.0,0.0,0.0
+NC State Wolfpack - Quadir Copeland,NC State Wolfpack,Quadir Copeland,11,14.38,0.0,0.0,0.0
+California Baptist Lancers - Monty Bowser,California Baptist Lancers,Monty Bowser,13,1.96,0.0,0.0,0.0
+Arkansas Razorbacks - Karter Knox,Arkansas Razorbacks,Karter Knox,4,8.83,0.0,0.0,0.0
+BYU Cougars - Abdullah Ahmed,BYU Cougars,Abdullah Ahmed,6,1.05,0.0,0.0,0.0
+California Baptist Lancers - Jalen Dollar,California Baptist Lancers,Jalen Dollar,13,1.78,0.0,0.0,0.0
+Wisconsin Badgers - Isaac Gard,Wisconsin Badgers,Isaac Gard,5,0.83,0.0,0.0,0.0
+Texas Longhorns - Declan Duru Jr.,Texas Longhorns,Declan Duru Jr.,11,1.52,0.0,0.0,0.0
+UCF Knights - Elijah Hulsewe,UCF Knights,Elijah Hulsewe,10,1.34,0.0,0.0,0.0
+Villanova Wildcats - Braden Pierce,Villanova Wildcats,Braden Pierce,8,1.53,0.0,0.0,0.0
+Gonzaga Bulldogs - Joaquim ArauzMoore,Gonzaga Bulldogs,Joaquim ArauzMoore,3,0.78,0.0,0.0,0.0
+Akron Zips - Ognjen Stankovic,Akron Zips,Ognjen Stankovic,12,1.84,0.0,0.0,0.0
+Villanova Wildcats - Wade Chiddick,Villanova Wildcats,Wade Chiddick,8,1.48,0.0,0.0,0.0
+UMBC Retrievers - Paul Greene,UMBC Retrievers,Paul Greene,16,2.27,0.0,0.0,0.0
+Idaho Vandals - Kristian Gonzalez,Idaho Vandals,Kristian Gonzalez,15,18.0,0.0,0.0,0.0
+Arkansas Razorbacks - Amere Brown,Arkansas Razorbacks,Amere Brown,4,0.16,0.0,0.0,0.0
+Northern Iowa Panthers - Hunter Jacobson,Northern Iowa Panthers,Hunter Jacobson,12,0.35,0.0,0.0,0.0
+Nebraska Cornhuskers - Justin Bolis,Nebraska Cornhuskers,Justin Bolis,4,0.16,0.0,0.0,0.0
+Howard Bison - River Smith,Howard Bison,River Smith,16,0.41,0.0,0.0,0.0
+Vanderbilt Commodores - Coleson Messer,Vanderbilt Commodores,Coleson Messer,5,0.0,0.0,0.0,0.0
+UCF Knights - Poohpha Warakulnukroh,UCF Knights,Poohpha Warakulnukroh,10,0.48,0.0,0.0,0.0
+St. John's Red Storm - Casper Pohto,St. John's Red Storm,Casper Pohto,5,0.28,0.0,0.0,0.0
+Long Island University Sharks - Xinyi Li,Long Island University Sharks,Xinyi Li,16,0.68,0.0,0.0,0.0
+Hofstra Pride - Alex Tsynkevich,Hofstra Pride,Alex Tsynkevich,13,0.57,0.0,0.0,0.0
+Michigan State Spartans - Colin Walton,Michigan State Spartans,Colin Walton,3,0.22,0.0,0.0,0.0
+Lehigh Mountain Hawks - Nasir Whitlock,Lehigh Mountain Hawks,Nasir Whitlock,16,21.51,0.0,0.0,0.0
+Virginia Cavaliers - Carter Lang,Virginia Cavaliers,Carter Lang,3,0.4,0.0,0.0,0.0
+Vanderbilt Commodores - Frankie Collins,Vanderbilt Commodores,Frankie Collins,5,7.74,0.0,0.0,0.0
+NC State Wolfpack - Ven-Allen Lubin,NC State Wolfpack,Ven-Allen Lubin,11,14.76,0.0,0.0,0.0
+Saint Louis Billikens - Isaac Holmes,Saint Louis Billikens,Isaac Holmes,9,0.43,0.0,0.0,0.0
+Miami (OH) RedHawks - Jackson Kotecki,Miami (OH) RedHawks,Jackson Kotecki,11,0.62,0.0,0.0,0.0
+UCLA Bruins - Anthony Peoples Jr.,UCLA Bruins,Anthony Peoples Jr.,7,0.32,0.0,0.0,0.0
+Utah State Aggies - Jordy Barnes,Utah State Aggies,Jordy Barnes,9,0.39,0.0,0.0,0.0
+UMBC Retrievers - Jake Stout,UMBC Retrievers,Jake Stout,16,0.64,0.0,0.0,0.0
+Miami Hurricanes - Jordyn Kee,Miami Hurricanes,Jordyn Kee,7,0.31,0.0,0.0,0.0
+Kentucky Wildcats - Walker Horn,Kentucky Wildcats,Walker Horn,7,0.49,0.0,0.0,0.0
+Troy Trojans - Javen Colbert,Troy Trojans,Javen Colbert,13,0.81,0.0,0.0,0.0
+Long Island University Sharks - Max Ndlovu-Fraser,Long Island University Sharks,Max Ndlovu-Fraser,16,0.87,0.0,0.0,0.0
+Virginia Cavaliers - Owen Odom,Virginia Cavaliers,Owen Odom,3,0.31,0.0,0.0,0.0
+Kennesaw State Owls - Simeon Cottle,Kennesaw State Owls,Simeon Cottle,14,20.13,0.0,0.0,0.0
+Ohio State Buckeyes - Braylen Nash,Ohio State Buckeyes,Braylen Nash,8,0.0,0.0,0.0,0.0
+Purdue Boilermakers - Jace Rayl,Purdue Boilermakers,Jace Rayl,2,0.0,0.0,1.362,0.0
+Purdue Boilermakers - Jack Lusk,Purdue Boilermakers,Jack Lusk,2,0.0,0.0,1.362,0.0
+Northern Iowa Panthers - Chase Courbat,Northern Iowa Panthers,Chase Courbat,12,0.22,0.0,0.0,0.0
+Georgia Bulldogs - Jaden Newell,Georgia Bulldogs,Jaden Newell,8,0.17,0.0,0.0,0.0
+Queens University Royals - Reid Celestin,Queens University Royals,Reid Celestin,15,0.21,0.0,0.0,0.0
+Troy Trojans - Hikaru Awata,Troy Trojans,Hikaru Awata,13,0.19,0.0,0.0,0.0
+Howard Bison - Shane Frazier,Howard Bison,Shane Frazier,16,0.19,0.0,0.0,0.0
+Lehigh Mountain Hawks - Henri Adiassa,Lehigh Mountain Hawks,Henri Adiassa,16,0.18,0.0,0.0,0.0
+Troy Trojans - Emmanuel Clarton,Troy Trojans,Emmanuel Clarton,13,0.17,0.0,0.0,0.0
+High Point Panthers - Birgir Irving,High Point Panthers,Birgir Irving,12,0.14,0.0,0.0,0.0
+SMU Mustangs - Chance Puryear,SMU Mustangs,Chance Puryear,11,0.33,0.0,0.0,0.0
+Prairie View A&M Panthers - Isaiah Foster,Prairie View A&M Panthers,Isaiah Foster,16,0.0,0.0,0.0,0.0
+Arkansas Razorbacks - Elmir Džafic,Arkansas Razorbacks,Elmir Džafic,4,0.0,0.0,0.0,0.0
+Tennessee Volunteers - Grant Hurst,Tennessee Volunteers,Grant Hurst,6,0.0,0.0,1.198,0.0
+Akron Zips - Rich Brisco,Akron Zips,Rich Brisco,12,0.0,0.0,0.0,0.0
+UCLA Bruins - Jack Seidler,UCLA Bruins,Jack Seidler,7,0.28,0.0,0.0,0.0
+Prairie View A&M Panthers - Ryan Bolton Jr.,Prairie View A&M Panthers,Ryan Bolton Jr.,16,0.55,0.0,0.0,0.0
+Saint Louis Billikens - Jaden Schertz,Saint Louis Billikens,Jaden Schertz,9,0.36,0.0,0.0,0.0
+Siena Saints - Marcus Jackson,Siena Saints,Marcus Jackson,16,0.52,0.0,0.0,0.0
+Tennessee State Tigers - Alex Garcia,Tennessee State Tigers,Alex Garcia,15,0.51,0.0,0.0,0.0
+Louisville Cardinals - Will Hanke,Louisville Cardinals,Will Hanke,6,0.22,0.0,0.0,0.0
+Howard Bison - Stefan Isailovic,Howard Bison,Stefan Isailovic,16,0.47,0.0,0.0,0.0
+McNeese Cowboys - JJ Rembert,McNeese Cowboys,JJ Rembert,12,0.37,0.0,0.0,0.0
+Lehigh Mountain Hawks - Tommy Conniff,Lehigh Mountain Hawks,Tommy Conniff,16,0.15,0.0,0.0,0.0
+Texas Longhorns - Anthon McDermott,Texas Longhorns,Anthon McDermott,11,0.98,0.0,0.0,0.0
+Kentucky Wildcats - Zach Tow,Kentucky Wildcats,Zach Tow,7,0.69,0.0,0.0,0.0
+TCU Horned Frogs - Drew McElroy,TCU Horned Frogs,Drew McElroy,9,0.0,0.0,0.0,0.0
+South Florida Bulls - Onyx Nnani,South Florida Bulls,Onyx Nnani,11,0.0,0.0,0.0,0.0
+Houston Cougars - Jacob McFarland,Houston Cougars,Jacob McFarland,2,0.0,0.0,0.0,0.0
+Hofstra Pride - Amir Williams,Hofstra Pride,Amir Williams,13,0.0,0.0,0.0,0.0
+Kansas Jayhawks - Justin Cross,Kansas Jayhawks,Justin Cross,4,0.0,0.0,0.0,0.0
+High Point Panthers - David Fonville,High Point Panthers,David Fonville,12,0.0,0.0,0.0,0.0
+Saint Mary's Gaels - Oliver Faubert,Saint Mary's Gaels,Oliver Faubert,7,0.0,0.0,0.0,0.0
+Kansas Jayhawks - Will Thengvall,Kansas Jayhawks,Will Thengvall,4,0.0,0.0,0.0,0.0
+Kentucky Wildcats - Jayden Quaintance,Kentucky Wildcats,Jayden Quaintance,7,5.05,0.0,0.0,0.0
+Howard Bison - Jeremiah Johnson,Howard Bison,Jeremiah Johnson,16,0.85,0.0,0.0,0.0
+Louisville Cardinals - Mikel Brown Jr.,Louisville Cardinals,Mikel Brown Jr.,6,18.46,0.0,0.0,0.0
+Kennesaw State Owls - Jaden Harris,Kennesaw State Owls,Jaden Harris,14,8.41,0.0,0.0,0.0
+UConn Huskies - Rrezon Elezaj,UConn Huskies,Rrezon Elezaj,2,0.0,0.0,1.196,0.0
+Tennessee State Tigers - Jayden Jones,Tennessee State Tigers,Jayden Jones,15,0.0,0.0,0.0,0.0
+Tennessee Volunteers - Gavin Paull,Tennessee Volunteers,Gavin Paull,6,0.0,0.0,1.198,0.0
+Tennessee Volunteers - Campbell Duncan,Tennessee Volunteers,Campbell Duncan,6,0.0,0.0,1.198,0.0
+Hawai'i Rainbow Warriors - Hunter Carter,Hawai'i Rainbow Warriors,Hunter Carter,13,1.08,0.0,0.0,0.0
+Vanderbilt Commodores - Miles Keeffe,Vanderbilt Commodores,Miles Keeffe,5,0.46,0.0,0.0,0.0
+Missouri Tigers - Nicholas Randall,Missouri Tigers,Nicholas Randall,10,0.78,0.0,0.0,0.0
+Howard Bison - Danas Kazakevicius,Howard Bison,Danas Kazakevicius,16,2.91,0.0,0.0,0.0
+Troy Trojans - Corbin Green,Troy Trojans,Corbin Green,13,1.02,0.0,0.0,0.0
+Alabama Crimson Tide - Jacob Martin,Alabama Crimson Tide,Jacob Martin,4,0.43,0.0,0.0,0.0
+Alabama Crimson Tide - Aden Holloway,Alabama Crimson Tide,Aden Holloway,4,17.23,0.0,0.0,0.0
+NC State Wolfpack - Jordan Snell,NC State Wolfpack,Jordan Snell,11,0.65,0.0,0.0,0.0
+Kansas Jayhawks - Samis Calderon,Kansas Jayhawks,Samis Calderon,4,0.33,0.0,0.0,0.0
+Alabama Crimson Tide - Preston Murphy Jr.,Alabama Crimson Tide,Preston Murphy Jr.,4,0.32,0.0,0.0,0.0
+TCU Horned Frogs - Adam Stewart,TCU Horned Frogs,Adam Stewart,9,0.55,0.0,0.0,0.0
+Iowa State Cyclones - Anthony Rise,Iowa State Cyclones,Anthony Rise,2,0.22,0.0,0.0,0.0
+UMBC Retrievers - Saahil Thakkar,UMBC Retrievers,Saahil Thakkar,16,0.77,0.0,0.0,0.0
+Texas Longhorns - Cole Bott,Texas Longhorns,Cole Bott,11,0.59,0.0,0.0,0.0
+Miami (OH) RedHawks - Brady Ganley,Miami (OH) RedHawks,Brady Ganley,11,0.71,0.0,0.0,0.0
+High Point Panthers - Youssouf Singare,High Point Panthers,Youssouf Singare,12,0.62,0.0,0.0,0.0
+Akron Zips - Conner Groce,Akron Zips,Conner Groce,12,0.58,0.0,0.0,0.0
+Kennesaw State Owls - Eric Holland,Kennesaw State Owls,Eric Holland,14,0.68,0.0,0.0,0.0
+VCU Rams - Christian Fermin,VCU Rams,Christian Fermin,11,0.83,0.0,0.0,0.0
+Northern Iowa Panthers - Geon Hutchins,Northern Iowa Panthers,Geon Hutchins,12,0.81,0.0,0.0,0.0
+Michigan State Spartans - Brennan Walton,Michigan State Spartans,Brennan Walton,3,0.34,0.0,0.0,0.0
+North Carolina Tar Heels - Ivan Matlekovic,North Carolina Tar Heels,Ivan Matlekovic,6,0.55,0.0,0.0,0.0
+Tennessee State Tigers - Jean Yvens Lafleur,Tennessee State Tigers,Jean Yvens Lafleur,15,0.97,0.0,0.0,0.0
+St. John's Red Storm - Fotis Konstantinidis,St. John's Red Storm,Fotis Konstantinidis,5,0.4,0.0,0.0,0.0
+Prairie View A&M Panthers - Seryee Lewis,Prairie View A&M Panthers,Seryee Lewis,16,0.97,0.0,0.0,0.0
+BYU Cougars - Xavion Staton,BYU Cougars,Xavion Staton,6,0.49,0.0,0.0,0.0
+Miami (OH) RedHawks - Kyle Waltz,Miami (OH) RedHawks,Kyle Waltz,11,0.91,0.0,0.0,0.0
+Idaho Vandals - Aidan Sevilla,Idaho Vandals,Aidan Sevilla,15,0.9,0.0,0.0,0.0
+North Carolina Tar Heels - Elijah Davis,North Carolina Tar Heels,Elijah Davis,6,0.51,0.0,0.0,0.0
+Gonzaga Bulldogs - Cade Orness,Gonzaga Bulldogs,Cade Orness,3,0.3,0.0,0.0,0.0
+Texas Longhorns - Brandon Taylor,Texas Longhorns,Brandon Taylor,11,0.72,0.0,0.0,0.0
+Vanderbilt Commodores - Mason Nicholson,Vanderbilt Commodores,Mason Nicholson,5,0.4,0.0,0.0,0.0
+Siena Saints - Tasman Goodrick,Siena Saints,Tasman Goodrick,16,9.91,0.0,0.0,0.0
+Lehigh Mountain Hawks - Edouard Benoit,Lehigh Mountain Hawks,Edouard Benoit,16,9.98,0.0,0.0,0.0
+Missouri Tigers - Jevon Porter,Missouri Tigers,Jevon Porter,10,5.92,0.0,0.0,0.0
+Ohio State Buckeyes - Taison Chatman,Ohio State Buckeyes,Taison Chatman,8,4.81,0.0,0.0,0.0
+Kennesaw State Owls - Ramone Seals,Kennesaw State Owls,Ramone Seals,14,8.06,0.0,0.0,0.0
+UMBC Retrievers - Jose Roberto Tanchyn,UMBC Retrievers,Jose Roberto Tanchyn,16,5.87,0.0,0.0,0.0
+South Florida Bulls - Daimion Collins,South Florida Bulls,Daimion Collins,11,4.27,0.0,0.0,0.0
+Lehigh Mountain Hawks - Andrew Urosevic,Lehigh Mountain Hawks,Andrew Urosevic,16,5.84,0.0,0.0,0.0
+Ohio State Buckeyes - Brandon Noel,Ohio State Buckeyes,Brandon Noel,8,7.44,0.0,0.0,0.0
+Kentucky Wildcats - Jaland Lowe,Kentucky Wildcats,Jaland Lowe,7,7.43,0.0,0.0,0.0
+UMBC Retrievers - Ace Valentine,UMBC Retrievers,Ace Valentine,16,12.41,0.0,0.0,0.0
+North Carolina Tar Heels - Jaydon Young,North Carolina Tar Heels,Jaydon Young,6,1.6,0.0,0.0,0.0
+SMU Mustangs - Jermaine O'Neal Jr.,SMU Mustangs,Jermaine O'Neal Jr.,11,4.26,0.0,0.0,0.0
+UCLA Bruins - Eric Freeny,UCLA Bruins,Eric Freeny,7,2.79,0.0,0.0,0.0
+Wright State Raiders - Logan Woods,Wright State Raiders,Logan Woods,14,5.23,0.0,0.0,0.0
+VCU Rams - Ahmad Nowell,VCU Rams,Ahmad Nowell,11,3.7,0.0,0.0,0.0
+BYU Cougars - Mihailo Bošković,BYU Cougars,Mihailo Bošković,6,3.21,0.0,0.0,0.0
+Furman Paladins - Eddrin Bronson,Furman Paladins,Eddrin Bronson,15,6.01,0.0,0.0,0.0
+California Baptist Lancers - Jordan Muller,California Baptist Lancers,Jordan Muller,13,5.34,0.0,0.0,0.0
+Prairie View A&M Panthers - Doug Young,Prairie View A&M Panthers,Doug Young,16,11.03,0.0,0.0,0.0
+Clemson Tigers - Zac Foster,Clemson Tigers,Zac Foster,8,7.1,0.0,0.0,0.0
+NC State Wolfpack - Tre Holloman,NC State Wolfpack,Tre Holloman,11,8.32,0.0,0.0,0.0
+Missouri Tigers - Sebastian Mack,Missouri Tigers,Sebastian Mack,10,8.03,0.0,0.0,0.0
+NC State Wolfpack - Matt Able,NC State Wolfpack,Matt Able,11,9.05,0.0,0.0,0.0
+Alabama Crimson Tide - Jalil Bethea,Alabama Crimson Tide,Jalil Bethea,4,5.43,0.0,0.0,0.0
+TCU Horned Frogs - Kayden Edwards,TCU Horned Frogs,Kayden Edwards,9,3.34,0.0,0.0,0.0
+Utah State Aggies - Tucker Anderson,Utah State Aggies,Tucker Anderson,9,3.42,0.0,0.0,0.0
+UMBC Retrievers - Daylon Dickerson,UMBC Retrievers,Daylon Dickerson,16,5.54,0.0,0.0,0.0
+Saint Mary's Gaels - Rory Hawke,Saint Mary's Gaels,Rory Hawke,7,2.93,0.0,0.0,0.0
+NC State Wolfpack - Terrance Arceneaux,NC State Wolfpack,Terrance Arceneaux,11,4.23,0.0,0.0,0.0
+Kennesaw State Owls - Darius Washington III,Kennesaw State Owls,Darius Washington III,14,5.26,0.0,0.0,0.0
+Florida Gators - Cooper Josefsberg,Florida Gators,Cooper Josefsberg,1,1.45,0.0,0.0,0.0
+Tennessee State Tigers - Carlous Williams,Tennessee State Tigers,Carlous Williams,15,5.28,0.0,0.0,0.0
+Villanova Wildcats - Chris Jeffrey,Villanova Wildcats,Chris Jeffrey,8,3.38,0.0,0.0,0.0
+Hawai'i Rainbow Warriors - Aaron Hunkin-Claytor,Hawai'i Rainbow Warriors,Aaron Hunkin-Claytor,13,4.79,0.0,0.0,0.0
+North Carolina Tar Heels - Kyan Evans,North Carolina Tar Heels,Kyan Evans,6,2.92,0.0,0.0,0.0
+UMBC Retrievers - Caden Diggs,UMBC Retrievers,Caden Diggs,16,9.99,0.0,0.0,0.0
+Tennessee State Tigers - Khalil London,Tennessee State Tigers,Khalil London,15,5.11,0.0,0.0,0.0
+Texas Longhorns - Lassina Traore,Texas Longhorns,Lassina Traore,11,4.04,0.0,0.0,0.0
+Furman Paladins - Asa Thomas,Furman Paladins,Asa Thomas,15,11.31,0.0,0.0,0.0
+Missouri Tigers - Luke Northweather,Missouri Tigers,Luke Northweather,10,4.1,0.0,0.0,0.0
+Prairie View A&M Panthers - Marcel Bryant,Prairie View A&M Panthers,Marcel Bryant,16,5.94,0.0,0.0,0.0
+Saint Mary's Gaels - Harry Wessels,Saint Mary's Gaels,Harry Wessels,7,3.91,0.0,0.0,0.0
+UCF Knights - Chris Johnson,UCF Knights,Chris Johnson,10,6.69,0.0,0.0,0.0
+Miami Hurricanes - Marcus Allen,Miami Hurricanes,Marcus Allen,7,5.13,0.0,0.0,0.0
+Santa Clara Broncos - Thierry Darlan,Santa Clara Broncos,Thierry Darlan,10,6.09,0.0,0.0,0.0
+North Carolina Tar Heels - Caleb Wilson,North Carolina Tar Heels,Caleb Wilson,6,19.9,0.0,0.0,0.0
+BYU Cougars - Richie Saunders,BYU Cougars,Richie Saunders,6,17.99,0.0,0.0,0.0
+UCLA Bruins - Tyler Bilodeau,UCLA Bruins,Tyler Bilodeau,7,17.05,0.0,0.0,0.0
+Missouri Tigers - Annor Boateng,Missouri Tigers,Annor Boateng,10,3.59,0.0,0.0,0.0
+TCU Horned Frogs - Trey Stuart,TCU Horned Frogs,Trey Stuart,9,0.0,0.0,0.0,0.0
+TCU Horned Frogs - Malick Diallo,TCU Horned Frogs,Malick Diallo,9,0.0,0.0,0.0,0.0
+UCF Knights - Zach Johnson,UCF Knights,Zach Johnson,10,0.0,0.0,0.0,0.0
+NC State Wolfpack - Colt Langdon,NC State Wolfpack,Colt Langdon,11,0.3,0.0,0.0,0.0
+Arizona Wildcats - Jackson Cook,Arizona Wildcats,Jackson Cook,1,0.0,0.0,2.091,0.0
+Idaho Vandals - Ewan Steele,Idaho Vandals,Ewan Steele,15,0.34,0.0,0.0,0.0
+North Carolina Tar Heels - John Holbrook,North Carolina Tar Heels,John Holbrook,6,0.19,0.0,0.0,0.0
+North Dakota State Bison - Caleb Schoenrock,North Dakota State Bison,Caleb Schoenrock,14,0.3,0.0,0.0,0.0
+Siena Saints - Chris Torres,Siena Saints,Chris Torres,16,0.3,0.0,0.0,0.0
+Texas Tech Red Raiders - Jack Francis,Texas Tech Red Raiders,Jack Francis,5,0.0,0.0,0.0,0.0
+Kennesaw State Owls - Davin Cosby Jr.,Kennesaw State Owls,Davin Cosby Jr.,14,0.0,0.0,0.0,0.0
+Lehigh Mountain Hawks - Joshua Ingram,Lehigh Mountain Hawks,Joshua Ingram,16,11.36,0.0,0.0,0.0
+UCLA Bruins - Christian Horry,UCLA Bruins,Christian Horry,7,0.0,0.0,0.0,0.0
+Wisconsin Badgers - Riccardo Greppi,Wisconsin Badgers,Riccardo Greppi,5,0.0,0.0,0.0,0.0
+Alabama Crimson Tide - Jack Fagan,Alabama Crimson Tide,Jack Fagan,4,0.0,0.0,0.0,0.0
+Kennesaw State Owls - Charles Stone,Kennesaw State Owls,Charles Stone,14,0.0,0.0,0.0,0.0
+Alabama Crimson Tide - Klark James,Alabama Crimson Tide,Klark James,4,0.0,0.0,0.0,0.0
+Miami (OH) RedHawks - Eli Yofan,Miami (OH) RedHawks,Eli Yofan,11,0.0,0.0,0.0,0.0
+North Dakota State Bison - Max Majerle,North Dakota State Bison,Max Majerle,14,0.53,0.0,0.0,0.0
+Furman Paladins - Thomas Tillman,Furman Paladins,Thomas Tillman,15,0.0,0.0,0.0,0.0
+Wright State Raiders - Ayden Davis,Wright State Raiders,Ayden Davis,14,0.0,0.0,0.0,0.0
+Virginia Cavaliers - Desmond Roberts,Virginia Cavaliers,Desmond Roberts,3,0.0,0.0,0.0,0.0
+Troy Trojans - Kameryn Mitchell,Troy Trojans,Kameryn Mitchell,13,0.0,0.0,0.0,0.0
+Queens University Royals - Tyler Crider,Queens University Royals,Tyler Crider,15,0.0,0.0,0.0,0.0
+Kennesaw State Owls - Dozie Onyirimba,Kennesaw State Owls,Dozie Onyirimba,14,0.0,0.0,0.0,0.0
+Gonzaga Bulldogs - Steele Venters,Gonzaga Bulldogs,Steele Venters,3,3.89,0.0,0.0,0.0
+Missouri Tigers - T.O. Barrett,Missouri Tigers,T.O. Barrett,10,8.09,0.0,0.0,0.0
+Hofstra Pride - Silas Sunday,Hofstra Pride,Silas Sunday,13,5.79,0.0,0.0,0.0
+Texas Tech Red Raiders - Tyeree Bryan,Texas Tech Red Raiders,Tyeree Bryan,5,2.89,0.0,0.0,0.0
+McNeese Cowboys - Jerrell Colbert,McNeese Cowboys,Jerrell Colbert,12,5.48,0.0,0.0,0.0
+Gonzaga Bulldogs - Noah Haaland,Gonzaga Bulldogs,Noah Haaland,3,2.14,0.0,0.0,0.0
+Kentucky Wildcats - Trent Noah,Kentucky Wildcats,Trent Noah,7,3.67,0.0,0.0,0.0
+SMU Mustangs - Jaden Toombs,SMU Mustangs,Jaden Toombs,11,8.0,0.0,0.0,0.0
+High Point Panthers - Scotty Washington,High Point Panthers,Scotty Washington,12,8.74,0.0,0.0,0.0
+Akron Zips - Bowen Hardman,Akron Zips,Bowen Hardman,12,8.19,0.0,0.0,0.0
+Houston Cougars - Isiah Harwell,Houston Cougars,Isiah Harwell,2,2.91,0.0,0.0,0.0
+BYU Cougars - Jared McGregor,BYU Cougars,Jared McGregor,6,0.0,0.0,0.0,0.0
+NC State Wolfpack - Alyn Breed,NC State Wolfpack,Alyn Breed,11,4.87,0.0,0.0,0.0
+Gonzaga Bulldogs - Braden Huff,Gonzaga Bulldogs,Braden Huff,3,17.36,0.0,0.0,0.0
+Texas Tech Red Raiders - JT Toppin,Texas Tech Red Raiders,JT Toppin,5,22.48,0.0,0.0,0.0
+Santa Clara Broncos - KJ Cochran,Santa Clara Broncos,KJ Cochran,10,4.85,0.0,0.0,0.0
+Siena Saints - Antonio Chandler,Siena Saints,Antonio Chandler,16,7.45,0.0,0.0,0.0
+Clemson Tigers - Jake Wahlin,Clemson Tigers,Jake Wahlin,8,4.74,0.0,0.0,0.0
+Siena Saints - Cooper Nadler,Siena Saints,Cooper Nadler,16,0.0,0.0,0.0,0.0
+Pennsylvania Quakers - William Kruse,Pennsylvania Quakers,William Kruse,14,0.0,0.0,0.0,0.0
+Pennsylvania Quakers - Payton Kamin,Pennsylvania Quakers,Payton Kamin,14,0.0,0.0,0.0,0.0
+Georgia Bulldogs - Markel Jennings,Georgia Bulldogs,Markel Jennings,8,0.0,0.0,0.0,0.0
+SMU Mustangs - Trey Utter,SMU Mustangs,Trey Utter,11,0.0,0.0,0.0,0.0
+SMU Mustangs - Nigel Walls,SMU Mustangs,Nigel Walls,11,0.0,0.0,0.0,0.0
+Miami Hurricanes - Timotej Malovec,Miami Hurricanes,Timotej Malovec,7,3.38,0.0,0.0,0.0
+Prairie View A&M Panthers - Joey Madimba,Prairie View A&M Panthers,Joey Madimba,16,8.27,0.0,0.0,0.0
+UMBC Retrievers - Josh Odunowo,UMBC Retrievers,Josh Odunowo,16,8.26,0.0,0.0,0.0
+Kansas Jayhawks - Jamari McDowell,Kansas Jayhawks,Jamari McDowell,4,3.22,0.0,0.0,0.0
+Alabama Crimson Tide - Keitenn Bristow,Alabama Crimson Tide,Keitenn Bristow,4,3.69,0.0,0.0,0.0
+Troy Trojans - Jerrell Bellamy,Troy Trojans,Jerrell Bellamy,13,8.55,0.0,0.0,0.0
+Alabama Crimson Tide - Davion Hannah,Alabama Crimson Tide,Davion Hannah,4,3.63,0.0,0.0,0.0
+Nebraska Cornhuskers - Jared Garcia,Nebraska Cornhuskers,Jared Garcia,4,3.35,0.0,0.0,0.0
+NC State Wolfpack - Jerry Deng,NC State Wolfpack,Jerry Deng,11,6.09,0.0,0.0,0.0
+Lehigh Mountain Hawks - Brendan Reed,Lehigh Mountain Hawks,Brendan Reed,16,0.0,0.0,0.0,0.0
+Siena Saints - Danny Murray,Siena Saints,Danny Murray,16,0.0,0.0,0.0,0.0
+Siena Saints - Mosi Clayton,Siena Saints,Mosi Clayton,16,0.0,0.0,0.0,0.0
+Lehigh Mountain Hawks - Caleb Thomas,Lehigh Mountain Hawks,Caleb Thomas,16,4.87,0.0,0.0,0.0
+Northern Iowa Panthers - Ismael Diouf,Northern Iowa Panthers,Ismael Diouf,12,2.72,0.0,0.0,0.0
+Vanderbilt Commodores - Mike James,Vanderbilt Commodores,Mike James,5,1.33,0.0,0.0,0.0
+SMU Mustangs - Boopie Miller,SMU Mustangs,Boopie Miller,11,19.04,0.0,0.0,0.0
+Alabama Crimson Tide - Charles Bediako,Alabama Crimson Tide,Charles Bediako,4,9.86,0.0,0.0,0.0
+Georgia Bulldogs - Somtochukwu Cyril,Georgia Bulldogs,Somtochukwu Cyril,8,9.5,0.0,0.0,0.0
+BYU Cougars - Tyler Mrus,BYU Cougars,Tyler Mrus,6,1.74,0.0,0.0,0.0
+Long Island University Sharks - Faheim Meran,Long Island University Sharks,Faheim Meran,16,3.35,0.0,0.0,0.0
+UMBC Retrievers - Cougar Downing,UMBC Retrievers,Cougar Downing,16,3.35,0.0,0.0,0.0
+South Florida Bulls - Devin Haid,South Florida Bulls,Devin Haid,11,2.42,0.0,0.0,0.0
+Saint Louis Billikens - Jax Kerr,Saint Louis Billikens,Jax Kerr,9,2.2,0.0,0.0,0.0
+Wisconsin Badgers - Hayden Jones,Wisconsin Badgers,Hayden Jones,5,1.39,0.0,0.0,0.0
+SMU Mustangs - Sam Walters,SMU Mustangs,Sam Walters,11,2.45,0.0,0.0,0.0
+SMU Mustangs - Niccolo Kalischer-Stork,SMU Mustangs,Niccolo Kalischer-Stork,11,0.0,0.0,0.0,0.0
+Villanova Wildcats - Malcolm Flaggs,Villanova Wildcats,Malcolm Flaggs,8,0.0,0.0,0.0,0.0
+Kansas Jayhawks - Wilder Evers,Kansas Jayhawks,Wilder Evers,4,1.16,0.0,0.0,0.0
+Wright State Raiders - Alex Bruskotter,Wright State Raiders,Alex Bruskotter,14,2.68,0.0,0.0,0.0
+Kennesaw State Owls - Perry Smith Jr.,Kennesaw State Owls,Perry Smith Jr.,14,2.74,0.0,0.0,0.0
+Texas Tech Red Raiders - Marial Akuentok,Texas Tech Red Raiders,Marial Akuentok,5,1.16,0.0,0.0,0.0
+Vanderbilt Commodores - Jaylon Dean-Vines,Vanderbilt Commodores,Jaylon Dean-Vines,5,1.05,0.0,0.0,0.0
+South Florida Bulls - Tristan Beckford,South Florida Bulls,Tristan Beckford,11,1.98,0.0,0.0,0.0
+Louisville Cardinals - Cole Sherman,Louisville Cardinals,Cole Sherman,6,1.18,0.0,0.0,0.0
+Siena Saints - Owen Schlager,Siena Saints,Owen Schlager,16,2.69,0.0,0.0,0.0
+High Point Panthers - Josh Ibukunoluwa,High Point Panthers,Josh Ibukunoluwa,12,2.22,0.0,0.0,0.0
+Iowa State Cyclones - Xzavion Mitchell,Iowa State Cyclones,Xzavion Mitchell,2,0.91,0.0,0.0,0.0
+St. John's Red Storm - Kelvin Odih,St. John's Red Storm,Kelvin Odih,5,1.42,0.0,0.0,0.0
+Wright State Raiders - Bryan Etumnu,Wright State Raiders,Bryan Etumnu,14,2.98,0.0,0.0,0.0
+Saint Mary's Gaels - Kevin Gad,Saint Mary's Gaels,Kevin Gad,7,1.71,0.0,0.0,0.0
+Saint Mary's Gaels - Andrew McKeever,Saint Mary's Gaels,Andrew McKeever,7,8.99,0.0,0.0,0.0
+NC State Wolfpack - Darrion Williams,NC State Wolfpack,Darrion Williams,11,12.81,0.0,0.0,0.0
+Lehigh Mountain Hawks - Hank Alvey,Lehigh Mountain Hawks,Hank Alvey,16,16.44,0.0,0.0,0.0
+Texas A&M Aggies - Mackenzie Mgbako,Texas A&M Aggies,Mackenzie Mgbako,10,10.7,0.0,0.0,0.0
+Vanderbilt Commodores - Tyler Harris,Vanderbilt Commodores,Tyler Harris,5,6.87,0.0,0.0,0.0
+North Carolina Tar Heels - Isaiah Denis,North Carolina Tar Heels,Isaiah Denis,6,1.69,0.0,0.0,0.0
+Siena Saints - Isaiah Henderson,Siena Saints,Isaiah Henderson,16,3.03,0.0,0.0,0.0
+Tennessee State Tigers - Kavien Jones,Tennessee State Tigers,Kavien Jones,15,3.0,0.0,0.0,0.0
+Hofstra Pride - Jaeden Roberts,Hofstra Pride,Jaeden Roberts,13,3.03,0.0,0.0,0.0
+South Florida Bulls - Xavier Brown,South Florida Bulls,Xavier Brown,11,2.58,0.0,0.0,0.0
+McNeese Cowboys - Peitok Machar,McNeese Cowboys,Peitok Machar,12,2.61,0.0,0.0,0.0
+Akron Zips - Chabi Barre,Akron Zips,Chabi Barre,12,3.19,0.0,0.0,0.0
+UMBC Retrievers - Riley Jacobs,UMBC Retrievers,Riley Jacobs,16,4.05,0.0,0.0,0.0
+Prairie View A&M Panthers - Keeshawn Mason,Prairie View A&M Panthers,Keeshawn Mason,16,4.79,0.0,0.0,0.0
+Kansas Jayhawks - Jayden Dawson,Kansas Jayhawks,Jayden Dawson,4,1.91,0.0,0.0,0.0
+Houston Cougars - Kordel Jefferson,Houston Cougars,Kordel Jefferson,2,1.33,0.0,0.0,0.0
+Villanova Wildcats - Tafara Gapare,Villanova Wildcats,Tafara Gapare,8,2.92,0.0,0.0,0.0
+Virginia Cavaliers - Elijah Gertrude,Virginia Cavaliers,Elijah Gertrude,3,1.62,0.0,0.0,0.0
+Louisville Cardinals - Kasean Pryor,Louisville Cardinals,Kasean Pryor,6,1.94,0.0,0.0,0.0
+St. John's Red Storm - Sadiku Ibine Ayo,St. John's Red Storm,Sadiku Ibine Ayo,5,1.8,0.0,0.0,0.0
+Hawai'i Rainbow Warriors - Yacine Toumi,Hawai'i Rainbow Warriors,Yacine Toumi,13,3.93,0.0,0.0,0.0
+Ohio State Buckeyes - Ivan Njegovan,Ohio State Buckeyes,Ivan Njegovan,8,2.44,0.0,0.0,0.0
+McNeese Cowboys - Carl Cherenfant,McNeese Cowboys,Carl Cherenfant,12,3.25,0.0,0.0,0.0
+South Florida Bulls - Adriel Nyorha,South Florida Bulls,Adriel Nyorha,11,3.73,0.0,0.0,0.0
+Villanova Wildcats - Matt Hodge,Villanova Wildcats,Matt Hodge,8,9.07,0.0,0.0,0.0
+Missouri Tigers - Jacob Crews,Missouri Tigers,Jacob Crews,10,9.74,0.0,0.0,0.0
+UMBC Retrievers - DJ Armstrong Jr.,UMBC Retrievers,DJ Armstrong Jr.,16,14.07,0.0,0.0,0.0
+SMU Mustangs - Samet Yigitoglu,SMU Mustangs,Samet Yigitoglu,11,10.55,0.0,0.0,0.0
+UMBC Retrievers - Jah'Likai King,UMBC Retrievers,Jah'Likai King,16,13.82,0.0,0.0,0.0
+Michigan State Spartans - Divine Ugochukwu,Michigan State Spartans,Divine Ugochukwu,3,4.64,0.0,0.0,0.0
+BYU Cougars - Dawson Baker,BYU Cougars,Dawson Baker,6,7.56,0.0,0.0,0.0
+SMU Mustangs - Corey Washington,SMU Mustangs,Corey Washington,11,10.97,0.0,0.0,0.0
+Nebraska Cornhuskers - Connor Essegian,Nebraska Cornhuskers,Connor Essegian,4,5.41,0.0,0.0,0.0
+Wisconsin Badgers - Jack Janicki,Wisconsin Badgers,Jack Janicki,5,2.13,0.0,0.0,0.0
+Saint Mary's Gaels - Tony Duckett,Saint Mary's Gaels,Tony Duckett,7,2.66,0.0,0.0,0.0
+Idaho Vandals - Seth Joba,Idaho Vandals,Seth Joba,15,4.98,0.0,0.0,0.0
+Texas A&M Aggies - Federiko Federiko,Texas A&M Aggies,Federiko Federiko,10,2.61,0.0,0.0,0.0
+BYU Cougars - Dominique Diomande,BYU Cougars,Dominique Diomande,6,1.98,0.0,0.0,0.0
+SMU Mustangs - B.J. Edwards,SMU Mustangs,B.J. Edwards,11,11.84,0.0,0.0,0.0
+Clemson Tigers - Carter Welling,Clemson Tigers,Carter Welling,8,10.22,0.0,0.0,0.0
+Miami (OH) RedHawks - Evan Ipsaro,Miami (OH) RedHawks,Evan Ipsaro,11,14.9,0.0,0.0,0.0
+Gonzaga Bulldogs - Braeden Smith,Gonzaga Bulldogs,Braeden Smith,3,5.0,0.0,0.0,0.0
+Pennsylvania Quakers - Ethan Roberts,Pennsylvania Quakers,Ethan Roberts,14,14.81,0.0,0.0,0.0
+UCF Knights - Jeremy Foumena,UCF Knights,Jeremy Foumena,10,2.67,0.0,0.0,0.0
+Long Island University Sharks - Isaiah Miranda,Long Island University Sharks,Isaiah Miranda,16,3.81,0.0,0.0,0.0
+Northern Iowa Panthers - RJ Taylor,Northern Iowa Panthers,RJ Taylor,12,3.02,0.0,0.0,0.0
+Furman Paladins - Mason Smith,Furman Paladins,Mason Smith,15,3.65,0.0,0.0,0.0
+Furman Paladins - Abijah Franklin,Furman Paladins,Abijah Franklin,15,3.6,0.0,0.0,0.0
+TCU Horned Frogs - RJ Jones,TCU Horned Frogs,RJ Jones,9,2.81,0.0,0.0,0.0
+Lehigh Mountain Hawks - Peter Kramer,Lehigh Mountain Hawks,Peter Kramer,16,3.62,0.0,0.0,0.0
+BYU Cougars - Aleksej Kostić,BYU Cougars,Aleksej Kostić,6,2.19,0.0,0.0,0.0
+BYU Cougars - Mihailo Boškovic,BYU Cougars,Mihailo Boškovic,6,2.16,0.0,0.0,0.0
+UMBC Retrievers - Devin Ceaser,UMBC Retrievers,Devin Ceaser,16,4.17,0.0,0.0,0.0
+VCU Rams - Keyshawn Mitchell,VCU Rams,Keyshawn Mitchell,11,2.74,0.0,0.0,0.0
+Saint Mary's Gaels - Mantas Juzenas,Saint Mary's Gaels,Mantas Juzenas,7,2.21,0.0,0.0,0.0
+Lehigh Mountain Hawks - Jalen Vazquez,Lehigh Mountain Hawks,Jalen Vazquez,16,4.14,0.0,0.0,0.0
+South Florida Bulls - Caleb Sanders,South Florida Bulls,Caleb Sanders,11,3.01,0.0,0.0,0.0
+Furman Paladins - Collin O'Neal,Furman Paladins,Collin O'Neal,15,3.94,0.0,0.0,0.0
+Ohio State Buckeyes - Puff Johnson,Ohio State Buckeyes,Puff Johnson,8,2.3,0.0,0.0,0.0
+BYU Cougars - Khadim Mboup,BYU Cougars,Khadim Mboup,6,2.09,0.0,0.0,0.0
+Northern Iowa Panthers - Kyle Pock,Northern Iowa Panthers,Kyle Pock,12,3.23,0.0,0.0,0.0
+Siena Saints - Christian Jones,Siena Saints,Christian Jones,16,3.58,0.0,0.0,0.0

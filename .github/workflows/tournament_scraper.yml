@@ -1,0 +1,64 @@
+name: Tournament Scraper
+
+# Two overlapping 6-hour jobs per day cover 11am–11pm CDT (16:00–04:00 UTC).
+# Job 1 starts at 16:00 UTC (11am CDT), runs ~359 min, ends ~22:00 UTC (5pm CDT).
+# Job 2 starts at 22:00 UTC (5pm CDT), runs ~359 min, ends ~04:00 UTC (11pm CDT).
+# A brief overlap is fine — the script's resume logic skips already-saved games.
+on:
+  schedule:
+    # Job 1: 11am CDT start (16:00 UTC) on tournament days
+    - cron: "0 16 18-20 3 *"   # March 18–20 (First Four + Round 1 day 1)
+    - cron: "0 16 21-23 3 *"   # March 21–23 (Round 1 day 2 + Round 2 day 1)
+    - cron: "0 16 27-30 3 *"   # March 27–30 (Sweet 16 + Elite Eight)
+    - cron: "0 16 5 4 *"       # April 5 (Final Four)
+    - cron: "0 16 7 4 *"       # April 7 (Championship)
+    # Job 2: 5pm CDT start (22:00 UTC) on tournament days
+    - cron: "0 22 18-20 3 *"
+    - cron: "0 22 21-23 3 *"
+    - cron: "0 22 27-30 3 *"
+    - cron: "0 22 5 4 *"
+    - cron: "0 22 7 4 *"
+  workflow_dispatch:               # allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    # Hard cap slightly above 359 min so GitHub cleans up if the loop hangs
+    timeout-minutes: 370
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: uv pip install -r requirements.txt
+
+      - name: Write Google credentials
+        # Store your service-account JSON as a GitHub secret named GOOGLE_CREDENTIALS_JSON
+        run: |
+          echo '${{ secrets.GOOGLE_CREDENTIALS_JSON }}' > modeling/NCAAPlayerPool-09b6773d89ec.json
+
+      - name: Configure git for mid-loop commits
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run scraper loop for 6 hours
+        env:
+          SPREADSHEET_IDS: ${{ secrets.SPREADSHEET_IDS }}
+        # The script polls every 60 s internally; timeout stops it cleanly before
+        # the next job starts, avoiding overlap.
+        run: timeout 359m python modeling/Parse_Tournament_Games.py || true
+
+      - name: Commit final CSV state
+        run: |
+          git add output/raw_tournament_stats.csv output/tournament_stats.csv
+          git diff --cached --quiet || git commit -m "chore: update tournament stats [skip ci]"
+          git push

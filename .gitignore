@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+*.log
+
+# Google credentials — never commit these
+modeling/*.json
+
+# Archived / unused files
+old_modeling/
+input/archive/*
+output/archive/*
+
+# Local environment variables (contains secret IDs)
+.env
+
+# Local scratch files
+demofile2.xml
+output1.html
+
+.claude/
+.vscode/
