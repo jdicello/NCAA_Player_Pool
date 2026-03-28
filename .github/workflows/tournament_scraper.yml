@@ -20,6 +20,9 @@ on:
     - cron: "0 22 7 4 *"
   workflow_dispatch:               # allow manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest

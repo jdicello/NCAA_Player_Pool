@@ -5,6 +5,9 @@ name: Tournament Catch-Up (Manual)
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   catchup:
     runs-on: ubuntu-latest
