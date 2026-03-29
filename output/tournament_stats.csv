@@ -68,17 +68,17 @@ Clemson Tigers - Jake Wahlin,,0.0,done,done,done,done,done
 Clemson Tigers - Jestin Porter,,9.0,done,done,done,done,done
 Clemson Tigers - Nick Davidson,,8.0,done,done,done,done,done
 Clemson Tigers - RJ Godfrey,,15.0,done,done,done,done,done
-Duke Blue Devils - Caleb Foster,,,,11.0,,,
-Duke Blue Devils - Cameron Boozer,,22.0,19.0,22.0,,,
+Duke Blue Devils - Caleb Foster,,,,11.0,0.0,,
+Duke Blue Devils - Cameron Boozer,,22.0,19.0,22.0,19.0,,
 Duke Blue Devils - Cameron Sheffield,,,0.0,,,,
-Duke Blue Devils - Cayden Boozer,,19.0,9.0,7.0,,,
-Duke Blue Devils - Dame Sarr,,5.0,14.0,2.0,,,
-Duke Blue Devils - Darren Harris,,0.0,0.0,0.0,,,
-Duke Blue Devils - Isaiah Evans,,16.0,17.0,25.0,,,
+Duke Blue Devils - Cayden Boozer,,19.0,9.0,7.0,15.0,,
+Duke Blue Devils - Dame Sarr,,5.0,14.0,2.0,10.0,,
+Duke Blue Devils - Darren Harris,,0.0,0.0,0.0,0.0,,
+Duke Blue Devils - Isaiah Evans,,16.0,17.0,25.0,5.0,,
 Duke Blue Devils - Jack Scott,,,0.0,,,,
-Duke Blue Devils - Maliq Brown,,6.0,12.0,6.0,,,
-Duke Blue Devils - Nikolas Khamenia,,3.0,6.0,4.0,,,
-Duke Blue Devils - Patrick Ngongba II,,,4.0,3.0,,,
+Duke Blue Devils - Maliq Brown,,6.0,12.0,6.0,0.0,,
+Duke Blue Devils - Nikolas Khamenia,,3.0,6.0,4.0,2.0,,
+Duke Blue Devils - Patrick Ngongba II,,,4.0,3.0,5.0,,
 Florida Gators - Alex Condon,,13.0,21.0,done,done,done,done
 Florida Gators - Alex Kovatchev,,5.0,,done,done,done,done
 Florida Gators - Alex Lloyd,,2.0,,done,done,done,done
@@ -320,18 +320,18 @@ Michigan State Spartans - Jordan Scott,,6.0,4.0,5.0,done,done,done
 Michigan State Spartans - Kur Teng,,3.0,7.0,0.0,done,done,done
 Michigan State Spartans - Nick Sanders,,0.0,,,done,done,done
 Michigan State Spartans - Trey Fort,,7.0,12.0,4.0,done,done,done
-Michigan Wolverines - Aday Mara,,19.0,16.0,8.0,,,
-Michigan Wolverines - Charlie May,,0.0,,,,,
-Michigan Wolverines - Elliot Cadeau,,5.0,12.0,17.0,,,
-Michigan Wolverines - Howard Eisley Jr.,,0.0,,,,,
+Michigan Wolverines - Aday Mara,,19.0,16.0,8.0,11.0,,
+Michigan Wolverines - Charlie May,,0.0,,,3.0,,
+Michigan Wolverines - Elliot Cadeau,,5.0,12.0,17.0,8.0,,
+Michigan Wolverines - Howard Eisley Jr.,,0.0,,,0.0,,
 Michigan Wolverines - Malick Kordel,,2.0,0.0,,,,
-Michigan Wolverines - Morez Johnson Jr.,,21.0,15.0,7.0,,,
-Michigan Wolverines - Nimari Burnett,,15.0,11.0,2.0,,,
-Michigan Wolverines - Oscar Goodman,,0.0,3.0,,,,
-Michigan Wolverines - Roddy Gayle Jr.,,14.0,3.0,16.0,,,
-Michigan Wolverines - Trey McKenney,,10.0,8.0,17.0,,,
-Michigan Wolverines - Will Tschetter,,6.0,2.0,0.0,,,
-Michigan Wolverines - Yaxel Lendeborg,,9.0,25.0,23.0,,,
+Michigan Wolverines - Morez Johnson Jr.,,21.0,15.0,7.0,12.0,,
+Michigan Wolverines - Nimari Burnett,,15.0,11.0,2.0,10.0,,
+Michigan Wolverines - Oscar Goodman,,0.0,3.0,,2.0,,
+Michigan Wolverines - Roddy Gayle Jr.,,14.0,3.0,16.0,8.0,,
+Michigan Wolverines - Trey McKenney,,10.0,8.0,17.0,12.0,,
+Michigan Wolverines - Will Tschetter,,6.0,2.0,0.0,2.0,,
+Michigan Wolverines - Yaxel Lendeborg,,9.0,25.0,23.0,27.0,,
 Missouri Tigers - Anthony Robinson II,,11.0,done,done,done,done,done
 Missouri Tigers - Jacob Crews,,0.0,done,done,done,done,done
 Missouri Tigers - Jayden Stone,,21.0,done,done,done,done,done
@@ -533,16 +533,18 @@ Tennessee State Tigers - Jabrion Spikes,,2.0,done,done,done,done,done
 Tennessee State Tigers - Jalen Pitre,,3.0,done,done,done,done,done
 Tennessee State Tigers - Kavien Jones,,0.0,done,done,done,done,done
 Tennessee State Tigers - Travis Harper II,,13.0,done,done,done,done,done
-Tennessee Volunteers - Amari Evans,,6.0,2.0,3.0,,,
-Tennessee Volunteers - Bishop Boswell,,5.0,13.0,4.0,,,
-Tennessee Volunteers - Clarence Massamba,,0.0,,,,,
-Tennessee Volunteers - DeWayne Brown II,,5.0,0.0,4.0,,,
-Tennessee Volunteers - Ethan Burg,,7.0,0.0,2.0,,,
-Tennessee Volunteers - Felix Okpara,,12.0,7.0,12.0,,,
-Tennessee Volunteers - J.P. Estrella,,14.0,10.0,6.0,,,
-Tennessee Volunteers - Ja'Kobi Gillespie,,29.0,21.0,16.0,,,
-Tennessee Volunteers - Jaylen Carey,,0.0,10.0,11.0,,,
-Tennessee Volunteers - Nate Ament,,0.0,16.0,18.0,,,
+Tennessee Volunteers - Amaree Abram,,,,,0.0,done,done
+Tennessee Volunteers - Amari Evans,,6.0,2.0,3.0,0.0,done,done
+Tennessee Volunteers - Bishop Boswell,,5.0,13.0,4.0,3.0,done,done
+Tennessee Volunteers - Clarence Massamba,,0.0,,,0.0,done,done
+Tennessee Volunteers - DeWayne Brown II,,5.0,0.0,4.0,6.0,done,done
+Tennessee Volunteers - Ethan Burg,,7.0,0.0,2.0,0.0,done,done
+Tennessee Volunteers - Felix Okpara,,12.0,7.0,12.0,10.0,done,done
+Tennessee Volunteers - J.P. Estrella,,14.0,10.0,6.0,7.0,done,done
+Tennessee Volunteers - Ja'Kobi Gillespie,,29.0,21.0,16.0,21.0,done,done
+Tennessee Volunteers - Jaylen Carey,,0.0,10.0,11.0,8.0,done,done
+Tennessee Volunteers - Nate Ament,,0.0,16.0,18.0,7.0,done,done
+Tennessee Volunteers - Troy Henderson,,,,,0.0,done,done
 Texas A&M Aggies - Ali Dibba,,9.0,6.0,done,done,done,done
 Texas A&M Aggies - Chris McDermott,,,2.0,done,done,done,done
 Texas A&M Aggies - Jacari Lane,,2.0,1.0,done,done,done,done
@@ -606,15 +608,15 @@ UCLA Bruins - Steven Jamerson II,,2.0,2.0,done,done,done,done
 UCLA Bruins - Trent Perry,,15.0,5.0,done,done,done,done
 UCLA Bruins - Xavier Booker,,15.0,13.0,done,done,done,done
 UConn Huskies - Alec Millender,,2.0,,,,,
-UConn Huskies - Alex Karaban,,22.0,27.0,17.0,,,
-UConn Huskies - Braylon Mullins,,12.0,17.0,8.0,,,
-UConn Huskies - Eric Reibe,,0.0,4.0,0.0,,,
-UConn Huskies - Jayden Ross,,2.0,11.0,1.0,,,
-UConn Huskies - Jaylin Stewart,,,,4.0,,,
-UConn Huskies - Malachi Smith,,4.0,2.0,3.0,,,
-UConn Huskies - Silas Demary Jr.,,,2.0,2.0,,,
-UConn Huskies - Solo Ball,,9.0,0.0,12.0,,,
-UConn Huskies - Tarris Reed Jr.,,31.0,10.0,20.0,,,
+UConn Huskies - Alex Karaban,,22.0,27.0,17.0,0.0,,
+UConn Huskies - Braylon Mullins,,12.0,17.0,8.0,7.0,,
+UConn Huskies - Eric Reibe,,0.0,4.0,0.0,2.0,,
+UConn Huskies - Jayden Ross,,2.0,11.0,1.0,0.0,,
+UConn Huskies - Jaylin Stewart,,,,4.0,0.0,,
+UConn Huskies - Malachi Smith,,4.0,2.0,3.0,7.0,,
+UConn Huskies - Silas Demary Jr.,,,2.0,2.0,4.0,,
+UConn Huskies - Solo Ball,,9.0,0.0,12.0,4.0,,
+UConn Huskies - Tarris Reed Jr.,,31.0,10.0,20.0,21.0,,
 UConn Huskies - Uroš Paunovic,,,0.0,,,,
 UMBC Retrievers - Ace Valentine,11.0,done,done,done,done,done,done
 UMBC Retrievers - Caden Diggs,15.0,done,done,done,done,done,done
@@ -907,12 +909,10 @@ TCU Horned Frogs - Adam Stewart,,,,done,done,done,done
 TCU Horned Frogs - Drew McElroy,,,,done,done,done,done
 TCU Horned Frogs - Malick Diallo,,,,done,done,done,done
 TCU Horned Frogs - Trey Stuart,,,,done,done,done,done
-Tennessee Volunteers - Amaree Abram,,,,,,,
-Tennessee Volunteers - Cade Phillips,,,,,,,
-Tennessee Volunteers - Campbell Duncan,,,,,,,
-Tennessee Volunteers - Gavin Paull,,,,,,,
-Tennessee Volunteers - Grant Hurst,,,,,,,
-Tennessee Volunteers - Troy Henderson,,,,,,,
+Tennessee Volunteers - Cade Phillips,,,,,,done,done
+Tennessee Volunteers - Campbell Duncan,,,,,,done,done
+Tennessee Volunteers - Gavin Paull,,,,,,done,done
+Tennessee Volunteers - Grant Hurst,,,,,,done,done
 Tennessee State Tigers - Jayden Jones,,,done,done,done,done,done
 Tennessee State Tigers - Jean Yvens Lafleur,,,done,done,done,done,done
 Tennessee State Tigers - Khalil London,,,done,done,done,done,done
