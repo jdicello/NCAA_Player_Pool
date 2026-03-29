@@ -20,19 +20,19 @@ Alabama Crimson Tide - Noah Williamson,,3.0,8.0,0.0,done,done,done
 Alabama Crimson Tide - Preston Murphy Jr.,,0.0,0.0,,done,done,done
 Alabama Crimson Tide - Taylor Bol Bowen,,15.0,5.0,3.0,done,done,done
 Arizona Wildcats - Addison Arnold,,2.0,,,,,
-Arizona Wildcats - Anthony Dell'Orso,,8.0,3.0,8.0,,,
-Arizona Wildcats - Brayden Burries,,18.0,16.0,23.0,,,
-Arizona Wildcats - Dwayne Aristode,,4.0,3.0,0.0,,,
+Arizona Wildcats - Anthony Dell'Orso,,8.0,3.0,8.0,3.0,,
+Arizona Wildcats - Brayden Burries,,18.0,16.0,23.0,14.0,,
+Arizona Wildcats - Dwayne Aristode,,4.0,3.0,0.0,0.0,,
 Arizona Wildcats - Evan Nelson,,0.0,,0.0,,,
-Arizona Wildcats - Ivan Kharchenkov,,14.0,9.0,15.0,,,
+Arizona Wildcats - Ivan Kharchenkov,,14.0,9.0,15.0,18.0,,
 Arizona Wildcats - Jackson Cook,,0.0,,,,,
 Arizona Wildcats - Jackson Francois,,0.0,,,,,
-Arizona Wildcats - Jaden Bradley,,7.0,18.0,14.0,,,
-Arizona Wildcats - Koa Peat,,15.0,14.0,21.0,,,
-Arizona Wildcats - Motiejus Krivas,,9.0,11.0,14.0,,,
+Arizona Wildcats - Jaden Bradley,,7.0,18.0,14.0,14.0,,
+Arizona Wildcats - Koa Peat,,15.0,14.0,21.0,20.0,,
+Arizona Wildcats - Motiejus Krivas,,9.0,11.0,14.0,6.0,,
 Arizona Wildcats - Sidi Gueye,,4.0,,0.0,,,
 Arizona Wildcats - Sven Djopmo,,0.0,,,,,
-Arizona Wildcats - Tobe Awaka,,11.0,4.0,14.0,,,
+Arizona Wildcats - Tobe Awaka,,11.0,4.0,14.0,4.0,,
 Arkansas Razorbacks - Billy Richmond III,,10.0,15.0,13.0,done,done,done
 Arkansas Razorbacks - D.J. Wagner,,7.0,2.0,7.0,done,done,done
 Arkansas Razorbacks - Darius Acuff Jr.,,24.0,36.0,28.0,done,done,done
@@ -187,26 +187,26 @@ Idaho Vandals - Miles Klapper,,2.0,done,done,done,done,done
 Idaho Vandals - Seth Joba,,0.0,done,done,done,done,done
 Idaho Vandals - Trevon Blassingame,,8.0,done,done,done,done,done
 Illinois Fighting Illini - AJ Redd,,2.0,0.0,,,,
-Illinois Fighting Illini - Andrej Stojakovic,,9.0,21.0,13.0,6.0,,
+Illinois Fighting Illini - Andrej Stojakovic,,9.0,21.0,13.0,17.0,,
 Illinois Fighting Illini - Ben Humrichous,,12.0,3.0,3.0,0.0,,
 Illinois Fighting Illini - Blake Fagbemi,,0.0,0.0,,,,
 Illinois Fighting Illini - Brandon Lee,,4.0,0.0,,,,
-Illinois Fighting Illini - David Mirkovic,,29.0,7.0,14.0,2.0,,
+Illinois Fighting Illini - David Mirkovic,,29.0,7.0,14.0,9.0,,
 Illinois Fighting Illini - Jake Davis,,0.0,3.0,5.0,1.0,,
-Illinois Fighting Illini - Keaton Wagler,,18.0,14.0,13.0,7.0,,
-Illinois Fighting Illini - Kylan Boswell,,13.0,12.0,6.0,0.0,,
+Illinois Fighting Illini - Keaton Wagler,,18.0,14.0,13.0,25.0,,
+Illinois Fighting Illini - Kylan Boswell,,13.0,12.0,6.0,2.0,,
 Illinois Fighting Illini - Mihailo Petrovic,,0.0,0.0,,,,
-Illinois Fighting Illini - Tomislav Ivisic,,12.0,14.0,9.0,2.0,,
-Illinois Fighting Illini - Zvonimir Ivisic,,6.0,2.0,2.0,2.0,,
-Iowa Hawkeyes - Alvaro Folgueiras,,14.0,14.0,16.0,0.0,,
-Iowa Hawkeyes - Bennett Stirtz,,16.0,13.0,20.0,10.0,,
-Iowa Hawkeyes - Cam Manyawu,,1.0,6.0,0.0,2.0,,
-Iowa Hawkeyes - Cooper Koch,,8.0,12.0,11.0,0.0,,
-Iowa Hawkeyes - Isaia Howard,,0.0,0.0,3.0,0.0,,
-Iowa Hawkeyes - Kael Combs,,15.0,6.0,6.0,5.0,,
-Iowa Hawkeyes - Tate Sage,,7.0,2.0,19.0,3.0,,
-Iowa Hawkeyes - Tavion Banks,,6.0,20.0,2.0,2.0,,
-Iowa Hawkeyes - Trevin Jirak,,,0.0,,,,
+Illinois Fighting Illini - Tomislav Ivisic,,12.0,14.0,9.0,13.0,,
+Illinois Fighting Illini - Zvonimir Ivisic,,6.0,2.0,2.0,4.0,,
+Iowa Hawkeyes - Alvaro Folgueiras,,14.0,14.0,16.0,0.0,done,done
+Iowa Hawkeyes - Bennett Stirtz,,16.0,13.0,20.0,24.0,done,done
+Iowa Hawkeyes - Cam Manyawu,,1.0,6.0,0.0,4.0,done,done
+Iowa Hawkeyes - Cooper Koch,,8.0,12.0,11.0,6.0,done,done
+Iowa Hawkeyes - Isaia Howard,,0.0,0.0,3.0,5.0,done,done
+Iowa Hawkeyes - Kael Combs,,15.0,6.0,6.0,5.0,done,done
+Iowa Hawkeyes - Tate Sage,,7.0,2.0,19.0,10.0,done,done
+Iowa Hawkeyes - Tavion Banks,,6.0,20.0,2.0,5.0,done,done
+Iowa Hawkeyes - Trevin Jirak,,,0.0,,,done,done
 Iowa State Cyclones - Anthony Rise,,0.0,,,done,done,done
 Iowa State Cyclones - Blake Buchanan,,11.0,9.0,8.0,done,done,done
 Iowa State Cyclones - Cade Kelderman,,0.0,,,done,done,done
@@ -423,16 +423,16 @@ Prairie View A&M Panthers - Joey Madimba,0.0,0.0,done,done,done,done,done
 Prairie View A&M Panthers - Keeshawn Mason,0.0,0.0,done,done,done,done,done
 Prairie View A&M Panthers - Lance Williams,10.0,8.0,done,done,done,done,done
 Prairie View A&M Panthers - Tai'Reon Joseph,5.0,16.0,done,done,done,done,done
-Purdue Boilermakers - Braden Smith,,26.0,12.0,16.0,,,
-Purdue Boilermakers - C.J. Cox,,11.0,11.0,10.0,,,
-Purdue Boilermakers - Daniel Jacobsen,,4.0,0.0,0.0,,,
-Purdue Boilermakers - Fletcher Loyer,,14.0,24.0,18.0,,,
-Purdue Boilermakers - Gicarri Harris,,0.0,5.0,2.0,,,
-Purdue Boilermakers - Jack Benter,,3.0,0.0,0.0,,,
-Purdue Boilermakers - Liam Murphy,,3.0,,,,,
-Purdue Boilermakers - Omer Mayer,,9.0,0.0,2.0,,,
-Purdue Boilermakers - Oscar Cluff,,9.0,8.0,11.0,,,
-Purdue Boilermakers - Trey Kaufman-Renn,,25.0,19.0,20.0,,,
+Purdue Boilermakers - Braden Smith,,26.0,12.0,16.0,13.0,done,done
+Purdue Boilermakers - C.J. Cox,,11.0,11.0,10.0,7.0,done,done
+Purdue Boilermakers - Daniel Jacobsen,,4.0,0.0,0.0,0.0,done,done
+Purdue Boilermakers - Fletcher Loyer,,14.0,24.0,18.0,8.0,done,done
+Purdue Boilermakers - Gicarri Harris,,0.0,5.0,2.0,8.0,done,done
+Purdue Boilermakers - Jack Benter,,3.0,0.0,0.0,0.0,done,done
+Purdue Boilermakers - Liam Murphy,,3.0,,,,done,done
+Purdue Boilermakers - Omer Mayer,,9.0,0.0,2.0,4.0,done,done
+Purdue Boilermakers - Oscar Cluff,,9.0,8.0,11.0,14.0,done,done
+Purdue Boilermakers - Trey Kaufman-Renn,,25.0,19.0,20.0,10.0,done,done
 Queens University Royals - Avantae Parker,,6.0,done,done,done,done,done
 Queens University Royals - Carson Schwieger,,8.0,done,done,done,done,done
 Queens University Royals - Chris Ashby,,8.0,done,done,done,done,done
@@ -849,9 +849,9 @@ Hofstra Pride - A.J. Wills,,,done,done,done,done,done
 Hofstra Pride - Alex Tsynkevich,,,done,done,done,done,done
 Hofstra Pride - Amir Williams,,,done,done,done,done,done
 Hofstra Pride - Jaeden Roberts,,,done,done,done,done,done
-Iowa Hawkeyes - Brendan Hausen,,,,,,,
-Iowa Hawkeyes - Jacob Koch,,,,,,,
-Iowa Hawkeyes - Joey Matteoni,,,,,,,
+Iowa Hawkeyes - Brendan Hausen,,,,,,done,done
+Iowa Hawkeyes - Jacob Koch,,,,,,done,done
+Iowa Hawkeyes - Joey Matteoni,,,,,,done,done
 Kansas Jayhawks - Jayden Dawson,,,,done,done,done,done
 Kansas Jayhawks - Justin Cross,,,,done,done,done,done
 Kansas Jayhawks - Nginyu Ngala,,,,done,done,done,done
@@ -876,9 +876,9 @@ Prairie View A&M Panthers - Isaiah Foster,,,done,done,done,done,done
 Prairie View A&M Panthers - Marcel Bryant,,,done,done,done,done,done
 Prairie View A&M Panthers - Ryan Bolton Jr.,,,done,done,done,done,done
 Prairie View A&M Panthers - Seryee Lewis,,,done,done,done,done,done
-Purdue Boilermakers - Aaron Fine,,,,,,,
-Purdue Boilermakers - Jace Rayl,,,,,,,
-Purdue Boilermakers - Jack Lusk,,,,,,,
+Purdue Boilermakers - Aaron Fine,,,,,,done,done
+Purdue Boilermakers - Jace Rayl,,,,,,done,done
+Purdue Boilermakers - Jack Lusk,,,,,,done,done
 Queens University Royals - Tyler Crider,,,done,done,done,done,done
 Santa Clara Broncos - Brendan Yarusso,,,done,done,done,done,done
 Santa Clara Broncos - Francis Chukwudebelu,,,done,done,done,done,done
