@@ -68,17 +68,17 @@ Clemson Tigers - Jake Wahlin,,0.0,done,done,done,done,done
 Clemson Tigers - Jestin Porter,,9.0,done,done,done,done,done
 Clemson Tigers - Nick Davidson,,8.0,done,done,done,done,done
 Clemson Tigers - RJ Godfrey,,15.0,done,done,done,done,done
-Duke Blue Devils - Caleb Foster,,,,11.0,0.0,,
-Duke Blue Devils - Cameron Boozer,,22.0,19.0,22.0,19.0,,
-Duke Blue Devils - Cameron Sheffield,,,0.0,,,,
-Duke Blue Devils - Cayden Boozer,,19.0,9.0,7.0,15.0,,
-Duke Blue Devils - Dame Sarr,,5.0,14.0,2.0,10.0,,
-Duke Blue Devils - Darren Harris,,0.0,0.0,0.0,0.0,,
-Duke Blue Devils - Isaiah Evans,,16.0,17.0,25.0,5.0,,
-Duke Blue Devils - Jack Scott,,,0.0,,,,
-Duke Blue Devils - Maliq Brown,,6.0,12.0,6.0,0.0,,
-Duke Blue Devils - Nikolas Khamenia,,3.0,6.0,4.0,2.0,,
-Duke Blue Devils - Patrick Ngongba II,,,4.0,3.0,5.0,,
+Duke Blue Devils - Caleb Foster,,,,11.0,0.0,done,done
+Duke Blue Devils - Cameron Boozer,,22.0,19.0,22.0,27.0,done,done
+Duke Blue Devils - Cameron Sheffield,,,0.0,,,done,done
+Duke Blue Devils - Cayden Boozer,,19.0,9.0,7.0,15.0,done,done
+Duke Blue Devils - Dame Sarr,,5.0,14.0,2.0,10.0,done,done
+Duke Blue Devils - Darren Harris,,0.0,0.0,0.0,0.0,done,done
+Duke Blue Devils - Isaiah Evans,,16.0,17.0,25.0,7.0,done,done
+Duke Blue Devils - Jack Scott,,,0.0,,,done,done
+Duke Blue Devils - Maliq Brown,,6.0,12.0,6.0,0.0,done,done
+Duke Blue Devils - Nikolas Khamenia,,3.0,6.0,4.0,7.0,done,done
+Duke Blue Devils - Patrick Ngongba II,,,4.0,3.0,6.0,done,done
 Florida Gators - Alex Condon,,13.0,21.0,done,done,done,done
 Florida Gators - Alex Kovatchev,,5.0,,done,done,done,done
 Florida Gators - Alex Lloyd,,2.0,,done,done,done,done
@@ -608,15 +608,15 @@ UCLA Bruins - Steven Jamerson II,,2.0,2.0,done,done,done,done
 UCLA Bruins - Trent Perry,,15.0,5.0,done,done,done,done
 UCLA Bruins - Xavier Booker,,15.0,13.0,done,done,done,done
 UConn Huskies - Alec Millender,,2.0,,,,,
-UConn Huskies - Alex Karaban,,22.0,27.0,17.0,0.0,,
-UConn Huskies - Braylon Mullins,,12.0,17.0,8.0,7.0,,
+UConn Huskies - Alex Karaban,,22.0,27.0,17.0,5.0,,
+UConn Huskies - Braylon Mullins,,12.0,17.0,8.0,10.0,,
 UConn Huskies - Eric Reibe,,0.0,4.0,0.0,2.0,,
 UConn Huskies - Jayden Ross,,2.0,11.0,1.0,0.0,,
 UConn Huskies - Jaylin Stewart,,,,4.0,0.0,,
-UConn Huskies - Malachi Smith,,4.0,2.0,3.0,7.0,,
-UConn Huskies - Silas Demary Jr.,,,2.0,2.0,4.0,,
-UConn Huskies - Solo Ball,,9.0,0.0,12.0,4.0,,
-UConn Huskies - Tarris Reed Jr.,,31.0,10.0,20.0,21.0,,
+UConn Huskies - Malachi Smith,,4.0,2.0,3.0,9.0,,
+UConn Huskies - Silas Demary Jr.,,,2.0,2.0,11.0,,
+UConn Huskies - Solo Ball,,9.0,0.0,12.0,10.0,,
+UConn Huskies - Tarris Reed Jr.,,31.0,10.0,20.0,26.0,,
 UConn Huskies - Uroš Paunovic,,,0.0,,,,
 UMBC Retrievers - Ace Valentine,11.0,done,done,done,done,done,done
 UMBC Retrievers - Caden Diggs,15.0,done,done,done,done,done,done
@@ -734,7 +734,7 @@ Missouri Tigers - Jevon Porter,,,done,done,done,done,done
 Missouri Tigers - Luke Northweather,,,done,done,done,done,done
 Missouri Tigers - Nicholas Randall,,,done,done,done,done,done
 Missouri Tigers - Sebastian Mack,,,done,done,done,done,done
-Duke Blue Devils - Ifeanyi Ufochukwu,,,,,,,
+Duke Blue Devils - Ifeanyi Ufochukwu,,,,,,done,done
 NC State Wolfpack - Alyn Breed,,done,done,done,done,done,done
 NC State Wolfpack - Colt Langdon,,done,done,done,done,done,done
 NC State Wolfpack - Jerry Deng,,done,done,done,done,done,done
