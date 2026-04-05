@@ -1206,3 +1206,42 @@ rnd,game_id,team_id,team_name,home_away_indictor,opp_id,opp_name,player,MIN,PTS,
 4,401856577,150,Duke Blue Devils,1,41,UConn Huskies,Nikolas Khamenia,22,7,3,5,1,1,0,0,2,1,0,0,1,1,1,1
 4,401856577,150,Duke Blue Devils,1,41,UConn Huskies,Darren Harris,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 4,401856577,150,Duke Blue Devils,1,41,UConn Huskies,Caleb Foster,14,0,0,1,0,0,0,0,1,2,3,1,0,0,1,1
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,David Mirkovic,28,6,2,7,1,3,1,2,5,0,2,0,3,0,5,3
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,Jake Davis,17,2,0,1,0,1,2,2,2,0,0,1,0,1,1,1
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,Tomislav Ivisic,33,16,4,11,2,7,6,6,7,0,2,1,1,1,6,4
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,Keaton Wagler,37,20,7,16,2,10,4,5,8,2,3,0,0,2,6,3
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,Kylan Boswell,24,6,1,6,0,1,4,4,6,0,0,0,0,3,3,2
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,Ben Humrichous,26,3,1,4,1,3,0,0,5,0,1,0,2,2,3,0
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,Zvonimir Ivisic,7,0,0,1,0,1,0,0,1,0,0,0,0,0,1,1
+5,401856598,356,Illinois Fighting Illini,0,-1,UNKNOWN,Andrej Stojakovic,29,9,4,10,0,0,1,4,8,1,0,0,0,2,6,3
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Alex Karaban,35,9,1,8,1,7,6,6,4,4,0,1,1,1,3,1
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Tarris Reed Jr.,35,17,6,12,0,0,5,5,11,0,0,0,0,4,7,3
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Braylon Mullins,30,15,5,14,4,7,1,1,3,0,0,2,0,2,1,3
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Silas Demary Jr.,31,7,2,8,1,6,2,3,9,7,1,2,0,2,7,4
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Solo Ball,28,13,5,11,3,7,0,0,0,2,1,0,0,0,0,1
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Jayden Ross,20,7,2,4,2,2,1,2,3,0,1,1,0,1,2,1
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Jaylin Stewart,7,3,1,4,1,4,0,0,1,0,0,0,0,0,1,1
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Eric Reibe,5,0,0,1,0,0,0,0,1,0,1,0,0,0,1,3
+5,401856598,41,UConn Huskies,1,356,Illinois Fighting Illini,Malachi Smith,9,0,0,0,0,0,0,0,1,1,0,0,0,0,1,4
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Yaxel Lendeborg,14,11,3,4,3,3,2,2,3,1,0,1,0,0,3,2
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Morez Johnson Jr.,25,10,3,7,0,2,4,4,7,4,1,0,0,4,3,3
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Aday Mara,30,26,11,16,0,1,4,4,9,3,2,0,2,3,6,3
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Elliot Cadeau,33,13,5,17,3,7,0,0,5,10,6,4,0,2,3,4
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Nimari Burnett,22,6,2,5,1,3,1,2,4,1,1,2,0,0,4,2
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Oscar Goodman,1,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Will Tschetter,16,0,0,2,0,2,0,0,3,1,0,0,0,0,3,1
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Charlie May,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Roddy Gayle Jr.,30,9,3,9,1,3,2,2,2,1,1,0,0,1,1,0
+5,401856599,130,Michigan Wolverines,0,-1,UNKNOWN,Trey McKenney,27,16,6,9,4,6,0,0,3,1,2,0,1,0,3,4
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Ivan Kharchenkov,29,6,2,8,1,2,1,3,4,1,3,2,0,2,2,1
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Koa Peat,31,16,6,18,1,1,3,3,11,0,0,1,1,5,6,0
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Motiejus Krivas,28,11,4,7,0,0,3,5,6,1,2,2,1,1,5,4
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Brayden Burries,38,13,4,16,2,10,3,4,6,1,1,2,0,1,5,4
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Jaden Bradley,25,13,4,6,0,0,5,6,1,1,3,1,0,0,1,4
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Dwayne Aristode,10,3,1,1,1,1,0,0,1,0,2,0,0,1,0,0
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Tobe Awaka,17,8,4,7,0,1,0,1,9,0,1,0,0,5,4,4
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Sven Djopmo,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Jackson Cook,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Anthony Dell'Orso,18,3,1,5,1,2,0,0,2,1,1,1,0,0,2,0
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Jackson Francois,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,401856599,12,Arizona Wildcats,1,130,Michigan Wolverines,Addison Arnold,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
